@@ -25,6 +25,16 @@ In this issue:
 
 ## <span translate="no">Loop Follow</span>&nbsp;for&nbsp;<span translate="no">iAPS</span>
 
+We're excited to share that the official&nbsp;<span translate="no">Loop Follow</span>&nbsp;app has now been upgraded to support users using&nbsp;<span translate="no">iAPS</span>&nbsp;(formerly known as&nbsp;<span translate="no">FreeAPS X</span>). A hearty acknowledgment goes to Auggie Fisher, whose pioneering work in a separate fork made this integration feasible.
+
+For our&nbsp;<span translate="no">iAPS</span>&nbsp;followers, some of the features were not previously available in the&nbsp;<span translate="no">FAX fork</span>, but are now at your disposal:
+• Browser build capability
+• Auto-signing
+• Automatic workspace selection
+• And other&nbsp;<span translate="no">LoopFollow</span>&nbsp;enhancements
+
+As always, we thrive on feedback and collaboration. Test the waters with the revamped&nbsp;<span translate="no">Loop Follow</span>&nbsp;and let the&nbsp;<span translate="no">iAPS</span>&nbsp;community know your take!
+
 ## <span translate="no">iOS 17</span>
 
 
