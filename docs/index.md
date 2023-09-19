@@ -12,7 +12,7 @@ In this issue:
 * [Upcoming Open Zoom Sessions](#upcoming-open-zoom-sessions)
 * [Questions and Answers from the Facebook Group](#questions-and-answers-from-the-facebook-group)
 * [Enhancements to Profiles Customization](#enhancements-to-profiles-customization)
-* [<span translate="no">Loop Follow</span>&nbsp;for&nbsp;<span translate="no">iAPS</span>](#loop-follow-for-iaps)
+* [<span translate="no">Loop Follow</span>&nbsp;for&nbsp;<span translate="no">iAPS</span>](#loop-followforiaps)
 * [<span translate="no">iOS 17</span>](#ios-17)
 
 ## Upcoming Open Zoom Sessions
