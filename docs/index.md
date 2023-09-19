@@ -3,7 +3,7 @@ hide:
     - navigation
 ---
 
-## Welcome to&nbsp;<span translate="no">Loop and Learn</span>&nbspNewsletter
+## Welcome to&nbsp;<span translate="no">Loop and Learn</span>&nbsp;Newsletter
 
 Published on 18 September 2023.
 
