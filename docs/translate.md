@@ -2,10 +2,10 @@
 
 Click on a language from the list below to turn on Google's automatic translation.
 
-* Every LoopDocs page gets automatically translated to the selected language as do links to other websites from LoopDocs
+* Every&nbsp;<span translate="no">Loop and Learn</span>&nbsp;Newsletter issue gets automatically translated to the selected language as do some of the hyperlinks from the pages.
 * The Google Translate Tool will appear at the top of each page
-    * LoopDocs how-to: [Google Translate Tool Instructions](#google-translate-tool-instructions)
-    * Google how-to: [Google Translate Help Link](https://support.google.com/translate/answer/2534559?hl=en&co=GENIE.Platform%3DDesktop)
+    * [Google Translate Tool Instructions](#google-translate-tool-instructions)
+    * [Google Translate Help Link](https://support.google.com/translate/answer/2534559?hl=en&co=GENIE.Platform%3DDesktop)
 
 !!! danger "Automatic Translation"
     These links connect this site to the Google Translation service.
@@ -14,59 +14,58 @@ Click on a language from the list below to turn on Google's automatic translatio
     * Please use the translation with care
     * Not available in all regions
     * Some links might not work as expected
-    * Any "code" not protected by blocks may not appear correctly - be sure to click on Original to make sure you a viewing code properly
 
 ## Language List
 
-[عربي](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=ar)
+[عربي](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=ar)
 
-[Български](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=bg)
+[Български](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=bg)
 
-[Čeština](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=cs)
+[Čeština](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=cs)
 
-[Deutsch](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=de)
+[Deutsch](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=de)
 
-[Dansk](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=da)
+[Dansk](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=da)
 
-[Ελληνικά](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=el)
+[Ελληνικά](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=el)
 
-[Español](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=es)
+[Español](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=es)
 
-[日本](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=ja)
+[日本](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=ja)
 
-[Suomi](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=fi)
+[Suomi](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=fi)
 
-[Français](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=fr)
+[Français](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=fr)
 
-[עברית](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=iw)
+[עברית](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=iw)
 
-[Hrvatski](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=hr)
+[Hrvatski](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=hr)
 
-[Italiano](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=it)
+[Italiano](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=it)
 
-[한국어](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=ko)
+[한국어](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=ko)
 
-[Norsk](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=no)
+[Norsk](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=no)
 
-[Nederlands](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=nl)
+[Nederlands](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=nl)
 
-[Polski](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=pl)
+[Polski](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=pl)
 
-[Português](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=pt)
+[Português](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=pt)
 
-[Română](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=ro)
+[Română](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=ro)
 
-[Русский](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=ru)
+[Русский](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=ru)
 
-[Slovenčina](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=sk)
+[Slovenčina](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=sk)
 
-[Svenska](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=sv)
+[Svenska](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=sv)
 
-[Turkish](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=tr)
+[Turkish](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=tr)
 
-中文（[简体](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=zh-CN))
+中文（[简体](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=zh-CN))
 
-中文（[繁體](https://loopkit-github-io.translate.goog/loopdocs/?_x_tr_sl=auto&_x_tr_tl=zh-TW))
+中文（[繁體](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=zh-TW))
 
 ## Google Translate Tool Instructions
 
@@ -86,9 +85,9 @@ The graphic below shows the Google Translate Tool when maximized (default) for a
 To modify the language choice for the whole site, copy the line below and paste it into the URL and then choose the desired language from the list
 
 ```
-https://loopkit.github.io/loopdocs/translate
+https://loopandlearn.github.io/Newsletter/translate
 ```
 
 OR
 
-Use the Google Translation three-dot menu and select `Go to Original URL` while on the Translation page.
+Use the Google Translation three-dot menu and select&nbsp;`Go to Original URL`&nbsp;while on the Translation page.
