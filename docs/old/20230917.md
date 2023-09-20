@@ -61,7 +61,7 @@ If you've already incorporated the Profiles customization, simply rebuild to acc
 
 #### Mac-Xcode Build
 
-Execute the [<span translate="no">Customization Select Script</span>](https://www.loopandlearn.org/custom-code#script) and an update option will be presented.
+Execute the [<span translate="no">Customization Select Script</span>](https://www.loopandlearn.org/custom-code#customization-select) and an update option will be presented.
 
 ## <span translate="no">Loop Follow</span>&nbsp;for&nbsp;<span translate="no">iAPS</span>
 
