@@ -45,17 +45,23 @@ settings as a separate profile.
 * **Profile Renaming**: Regret the initial name? Now you can change to a
 new one.
 
+This customization is compatible with both released (main branch) and development (dev branch) versions.
+
+### How to Customize
+
+If you don't already use customization, use this link for more information.
+
+* [<span translate="no">Customization Select Script</span>&nbsp;Overview](https://www.loopandlearn.org/custom-code/)
+
 ### How to Upgrade
 
-This customization is compatible with both released (main branch) and development (dev branch).
-
-#### Browser Build
+#### <span translate="no">GitHub Browser</span>&nbsp;Build
 
 If you've already incorporated the Profiles customization, simply rebuild to access the latest version.
 
 #### Mac-Xcode Build
 
-Execute the Build-Select Script, choose "Customization Select", and an update option will be presented.
+Execute the [<span translate="no">Customization Select Script</span>](https://www.loopandlearn.org/custom-code#script) and an update option will be presented.
 
 ## <span translate="no">Loop Follow</span>&nbsp;for&nbsp;<span translate="no">iAPS</span>
 
