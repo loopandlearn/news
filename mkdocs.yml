@@ -92,7 +92,7 @@ plugins:
 use_directory_urls: !ENV [CHECK_BROKEN_LINKS, True]
 
 nav:
-- Home: 'index.md'
-- Back Issues:
+- Current: 'index.md'
+- Older:
     - '2023 09 17': 'old/20230917.md'
 - Translation: 'translate.md'
