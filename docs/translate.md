@@ -52,7 +52,7 @@
 
 ## Google Translate Links
 
-Click on a language from the list below to turn on Google's automatic translation.
+Click on a language from the list above to turn on Google's automatic translation.
 
 * Every&nbsp;<span translate="no">Loop and Learn</span>&nbsp;Newsletter issue gets automatically translated to the selected language as do some of the hyperlinks from the pages.
 * The Google Translate Tool will appear at the top of each page
@@ -84,8 +84,8 @@ The graphic below shows the Google Translate Tool when maximized (default) for a
 
 To modify the language choice for the whole site, copy the line below and paste it into the URL and then choose the desired language from the list
 
-```
-https://loopandlearn.github.io/Newsletter/translate
+``` { .bash .copy title="Copy and Paste in Browser URL to return to original version" }
+https://loopandlearn.github.io/newsletter/translate
 ```
 
 OR
