@@ -14,8 +14,8 @@ theme:
         - search.highlight
         - content.code.annotate
         - content.tooltips
-    logo: lnl-icon.png
-    favicon: lnl-icon.png
+    logo: lnl-newsletter-logo.png
+    favicon: lnl-newsletter-logo.png
     palette:
         # Palette toggle for light mode
         - media: "(prefers-color-scheme: light)"
