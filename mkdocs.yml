@@ -94,5 +94,5 @@ use_directory_urls: !ENV [CHECK_BROKEN_LINKS, True]
 nav:
 - Home: 'index.md'
 - Back Issues:
-    - '2023 09 18': 'old/20230918.md'
+    - '2023 09 17': 'old/20230917.md'
 - Translation: 'translate.md'
