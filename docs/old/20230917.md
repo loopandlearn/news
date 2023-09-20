@@ -45,7 +45,7 @@ settings as a separate profile.
 * **Profile Renaming**: Regret the initial name? Now you can change to a
 new one.
 
-This customization is compatible with both released (main branch) and development (dev branch) versions.
+This customization is compatible with both released&nbsp;<span translate="no">(main branch)</span>&nbsp;and development&nbsp;<span translate="no">(dev branch)</span>&nbsp;versions.
 
 ### How to Customize
 
@@ -61,7 +61,7 @@ If you've already incorporated the Profiles customization, simply rebuild to acc
 
 #### Mac-Xcode Build
 
-Execute the [<span translate="no">Customization Select Script</span>](https://www.loopandlearn.org/custom-code#customization-select) and an update option will be presented.
+Execute the&nbsp;[<span translate="no">Customization Select Script</span>](https://www.loopandlearn.org/custom-code#customization-select)&nbsp;and an update option will be presented.
 
 ## <span translate="no">Loop Follow</span>&nbsp;for&nbsp;<span translate="no">iAPS</span>
 
