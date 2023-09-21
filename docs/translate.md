@@ -65,11 +65,11 @@ Click on a language from the list above to turn on Google's automatic translatio
     * No human has reviewed the translated information for accuracy
     * Please use the translation with care
     * Not available in all regions
-    * Some links might not work as expected
+    * Some links may not work as expected
 
 ## Google Translate Tool Instructions
 
-Once Google Translate has been turned on, clicking on a link above shows a "Google Translate: Can't translate this page error".
+Once Google Translate has been turned on, clicking on a language link above shows a "Google Translate: Can't translate this page error".
 
 * To modify the language for a single page, use the Google Translate tool
 * To modify the language for the entire site, see [Change Language](#change-language)
