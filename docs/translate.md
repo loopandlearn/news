@@ -1,60 +1,60 @@
 ## Language List
 
-[عربي](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=ar)
+[عربي](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=ar)
 
-[Български](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=bg)
+[Български](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=bg)
 
-[Čeština](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=cs)
+[Čeština](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=cs)
 
-[Deutsch](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=de)
+[Deutsch](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=de)
 
-[Dansk](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=da)
+[Dansk](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=da)
 
-[Ελληνικά](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=el)
+[Ελληνικά](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=el)
 
-[Español](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=es)
+[Español](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=es)
 
-[日本](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=ja)
+[日本](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=ja)
 
-[Suomi](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=fi)
+[Suomi](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=fi)
 
-[Français](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=fr)
+[Français](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=fr)
 
-[עברית](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=iw)
+[עברית](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=iw)
 
-[Hrvatski](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=hr)
+[Hrvatski](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=hr)
 
-[Italiano](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=it)
+[Italiano](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=it)
 
-[한국어](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=ko)
+[한국어](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=ko)
 
-[Norsk](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=no)
+[Norsk](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=no)
 
-[Nederlands](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=nl)
+[Nederlands](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=nl)
 
-[Polski](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=pl)
+[Polski](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=pl)
 
-[Português](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=pt)
+[Português](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=pt)
 
-[Română](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=ro)
+[Română](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=ro)
 
-[Русский](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=ru)
+[Русский](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=ru)
 
-[Slovenčina](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=sk)
+[Slovenčina](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=sk)
 
-[Svenska](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=sv)
+[Svenska](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=sv)
 
-[Turkish](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=tr)
+[Turkish](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=tr)
 
-中文（[简体](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=zh-CN))
+中文（[简体](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=zh-CN))
 
-中文（[繁體](https://loopandlearn-github-io.translate.goog/newsletter/?_x_tr_sl=auto&_x_tr_tl=zh-TW))
+中文（[繁體](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=zh-TW))
 
 ## Google Translate Links
 
 Click on a language from the list above to turn on Google's automatic translation.
 
-* Every News from &nbsp;<span translate="no">Loop and Learn</span>&nbsp;edition gets automatically translated to the selected language as do some of the hyperlinks from the pages.
+* Every edition of News from &nbsp;<span translate="no">Loop and Learn</span>&nbsp;gets automatically translated to the selected language as do some of the hyperlinks from the pages.
 * The Google Translate Tool will appear at the top of each page
     * [Google Translate Tool Instructions](#google-translate-tool-instructions)
     * [Google Translate Help Link](https://support.google.com/translate/answer/2534559?hl=en&co=GENIE.Platform%3DDesktop)
@@ -85,7 +85,7 @@ The graphic below shows the Google Translate Tool when maximized (default) for a
 To modify the language choice for the whole site, copy the line below and paste it into the URL and then choose the desired language from the list
 
 ``` { .bash .copy title="Copy and Paste in Browser URL to return to original version" }
-https://loopandlearn.github.io/newsletter/translate
+https://loopandlearn.github.io/news/translate
 ```
 
 OR
