@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
-site_name: LnL Newseltter
+site_name: News from Loop and Learn
 
 theme:
     name: material
@@ -94,5 +94,5 @@ use_directory_urls: !ENV [CHECK_BROKEN_LINKS, True]
 nav:
 - Current: 'index.md'
 - Older:
-    - '2023 09 17': 'old/20230917.md'
+    - '2023 09 11': 'old/20230911.md'
 - Translation: 'translate.md'

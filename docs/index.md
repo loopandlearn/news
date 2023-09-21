@@ -1,10 +1,10 @@
-## Welcome to&nbsp;<span translate="no">Loop and Learn</span>&nbsp;Newsletter
+## Welcome to News from&nbsp;<span translate="no">Loop and Learn</span>&nbsp;
 
 Published on 17 September 2023.
 
 In this issue:
 
-* [Upcoming Open Zoom Sessions](#upcoming-zoom-sessions)
+* [Upcoming Zoom Sessions](#upcoming-zoom-sessions)
 * [Questions and Answers from the Facebook Group](#questions-and-answers-from-the-facebook-group)
 * [Enhancements to Profiles Customization](#enhancements-to-profiles-customization)
 * [<span translate="no">Loop Follow</span>&nbsp;for&nbsp;<span translate="no">iAPS</span>](#loop-followforiaps)
@@ -12,14 +12,12 @@ In this issue:
 
 ## Upcoming Zoom Sessions
 
-* <span translate="no">Loop</span>&nbsp;Open Zoom Sessions
-    * [21 September 2023, 18:00 UTC: Topic Open](https://us06web.zoom.us/j/82642996947?pwd=Z3Y5NFVlbWlpb1ZCMXpXOTJWYklPZz09)
-    * 25 September 2023, to be announced: Topic iAPS
+* [21 September 2023, 18:00 UTC: Topic&nbsp;<span translate="no">Loop</span>:&nbsp;Open](https://us06web.zoom.us/j/82642996947?pwd=Z3Y5NFVlbWlpb1ZCMXpXOTJWYklPZz09)
+* Later in September 2023, to be announced: Topic&nbsp;<span translate="no">iAPS</span>
 
+### Video Replay
 
-## <span translate="no">Loop Caregiver</span>&nbsp;Video Replay
-
-* [Video Replay](https://www.youtube.com/watch?v=fnksaQ3PRfU)
+* 10 September 2023;&nbsp;[<span translate="no">Loop Caregiver</span>&nbsp;Video Replay](https://www.youtube.com/watch?v=fnksaQ3PRfU)
 
 ## Questions and Answers from the Facebook Group
 
