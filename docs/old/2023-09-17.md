@@ -24,7 +24,7 @@ In this edition:
 * Can there be more than one settings profile in Loop?
     * [Facebook Post](https://www.facebook.com/groups/LOOPandLEARN/posts/3514785315444614/)
 
-* When I eat carbs for a low, should those carbs be entered into Loop?
+* When I eat carbs to treat low glucose, should those carbs be entered into Loop?
     * [Facebook Post](https://www.facebook.com/groups/LOOPandLEARN/posts/3517072585215887/)
 
 ## Enhancements to Profiles Customization
@@ -53,11 +53,11 @@ If you don't already use customization, use this link for more information.
 
 ### How to Upgrade
 
-#### <span translate="no">GitHub Browser</span>&nbsp;Build
+#### Building the app in a Browser with&nbsp;<span translate="no">GitHub Actions</span>
 
-If you've already incorporated the Profiles customization, simply rebuild to access the latest version.
+If you've already incorporated the Profiles customization, simply repeat the&nbsp;<span translate="no">GitHub Build Action</span>&nbsp;and then install from&nbsp;<span translate="no">TestFlight</span>.
 
-#### Mac-Xcode Build
+#### Building the app with Mac-Xcode
 
 Execute the&nbsp;[<span translate="no">Customization Select Script</span>](https://www.loopandlearn.org/custom-code#customization-select)&nbsp;and an update option will be presented.
 
@@ -67,12 +67,12 @@ We're excited to share that the official&nbsp;<span translate="no">Loop Follow</
 
 For our&nbsp;<span translate="no">iAPS</span>&nbsp;followers, some of the features were not previously available in the&nbsp;<span translate="no">FAX fork</span>, but are now at your disposal:
 
-* Browser build capability
+* Building the app in a Browser with&nbsp;<span translate="no">GitHub Actions</span> 
 * Auto-signing
 * Automatic workspace selection
 * And other&nbsp;<span translate="no">LoopFollow</span>&nbsp;enhancements
 
-As always, we thrive on feedback and collaboration. Test the waters with the revamped&nbsp;<span translate="no">Loop Follow</span>&nbsp;and let the&nbsp;<span translate="no">iAPS</span>&nbsp;community know your take!
+As always, we thrive on feedback and collaboration. Test the waters with the revamped&nbsp;<span translate="no">Loop Follow</span>&nbsp;and let the&nbsp;<span translate="no">iAPS</span>&nbsp;community know your impressions.
 
 ## <span translate="no">iOS 17</span>
 
