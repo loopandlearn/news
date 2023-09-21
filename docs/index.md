@@ -9,7 +9,7 @@ In this edition:
 * [Questions and Answers from the Facebook Group](#questions-and-answers-from-the-facebook-group)
 * [Topic One](#topic-one)
 * [Topic Two](#topic-two)
-* [Keep Phone on Automatic Time](#)
+* [Keep Phone on Automatic Time](#keep-phone-on-automatic-time)
 
 ## Upcoming Zoom Sessions
 
