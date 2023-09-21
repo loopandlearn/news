@@ -54,7 +54,7 @@
 
 Click on a language from the list above to turn on Google's automatic translation.
 
-* Every&nbsp;<span translate="no">Loop and Learn</span>&nbsp;Newsletter issue gets automatically translated to the selected language as do some of the hyperlinks from the pages.
+* Every News from &nbsp;<span translate="no">Loop and Learn</span>&nbsp;edition gets automatically translated to the selected language as do some of the hyperlinks from the pages.
 * The Google Translate Tool will appear at the top of each page
     * [Google Translate Tool Instructions](#google-translate-tool-instructions)
     * [Google Translate Help Link](https://support.google.com/translate/answer/2534559?hl=en&co=GENIE.Platform%3DDesktop)

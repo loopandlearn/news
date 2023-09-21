@@ -2,7 +2,7 @@
 
 Published on 17 September 2023.
 
-In this issue:
+In this edition:
 
 * [Upcoming Zoom Sessions](#upcoming-zoom-sessions)
 * [Questions and Answers from the Facebook Group](#questions-and-answers-from-the-facebook-group)
