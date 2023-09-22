@@ -10,8 +10,8 @@ In this edition:
     * [Loop 3.2.3]()
     * [<span translate="no">iOS 17</span>](#ios-17)
 * [Questions and Answers from the Facebook Group](#questions-and-answers-from-the-facebook-group)
-* [Apple Watch Helpful Information](#apple-watch-helpful-information)
 * Suggestions
+    * [Use your Watch to Remember your Phone](#use-your-watch-to-remember-your-phone)
     * [Check IOB and COB at Night](#apple-watch-helpful-information)
     * [Keep Phone on Automatic Time](#keep-phone-on-automatic-time)
 
@@ -67,10 +67,12 @@ We still do not recommend updating your phone to iOS 17. But when you do the upd
 * What do you do during CGM sensor changes?
     * [Link to Facebook Post](https://www.facebook.com/groups/LOOPandLEARN/posts/3518929425030203/)
 
-* Can I set a zero basal rate with&nbsp;<span translate="no">Loop Caregiver</span>]?
+* Can I set a zero basal rate with&nbsp;<span translate="no">Loop Caregiver</span>?
     * [Link to Facebook Post](https://www.facebook.com/groups/LOOPandLEARN/posts/3519291648327314/)
 
-## Apple Watch Helpful Information
+## Suggestions
+
+### Use your Watch to Remember your Phone
 
 You can set up your Apple Watch to help make sure you don’t leave your iPhone behind. 
 
@@ -79,15 +81,13 @@ Open “Find Devices” on your watch:
 * Tap your phone
 * Select “Notify when left behind”
 
-## Suggestions
-
 ### Check IOB and COB at Night
 
 Check IOB and COB before going to sleep to see if you need to eat a snack to avoid low glucose overnight.
 
 ### Keep Phone on Automatic Time
 
-You have been warned before to keep your phone on [Automatic Time](https://loopkit.github.io/loopdocs/troubleshooting/time-change/#loop-phone-must-be-on-automatic-time).
+You have been warned before to keep your phone on [Automatic Time](https://loopkit.github.io/loopdocs/faqs/time-faqs/#loop-phone-must-be-on-automatic-time).
 
 New trick - turn on iOS Settings -> Screen Time -> and set a passcode. 
 
