@@ -2,7 +2,7 @@
 
 Published on 24 September 2023.
 
-In this edition:
+## In this edition:
 
 * [Text Version with Translations for News](#text-version-with-translations-for-news)
 * [Upcoming Zoom Sessions](#upcoming-zoom-sessions)
@@ -14,6 +14,8 @@ In this edition:
     * [Use your Watch to Remember your Phone](#use-your-watch-to-remember-your-phone)
     * [Check IOB and COB at Night](#apple-watch-helpful-information)
     * [Keep Phone on Automatic Time](#keep-phone-on-automatic-time)
+
+[Subscribe](https://www.loopandlearn.org/newsletter-signup/) to get this delivered to your email weekly.
 
 ## Text Version with Translations for News
 
