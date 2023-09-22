@@ -1,25 +1,52 @@
 ## Welcome to News from&nbsp;<span translate="no">Loop and Learn</span>&nbsp;
 
-Published on tbd September 2023.
+Published on 24 September 2023.
 
 In this edition:
 
+* [Text Version with Translations for News](#text-version-with-translations-for-news)
 * [Upcoming Zoom Sessions](#upcoming-zoom-sessions)
-* [<span translate="no">iOS 17</span>](#ios-17)
+* Updates
+    * [Loop 3.2.3]()
+    * [<span translate="no">iOS 17</span>](#ios-17)
 * [Questions and Answers from the Facebook Group](#questions-and-answers-from-the-facebook-group)
-* [Topic One](#topic-one)
-* [Topic Two](#topic-two)
-* [Keep Phone on Automatic Time](#keep-phone-on-automatic-time)
+* [Apple Watch Helpful Information](#apple-watch-helpful-information)
+* Suggestions
+    * [Check IOB and COB at Night](#apple-watch-helpful-information)
+    * [Keep Phone on Automatic Time](#keep-phone-on-automatic-time)
+
+## Text Version with Translations for News
+
+With this edition, we bring you a new, incredibly helpful feature. It was suggested by a team member and within minutes, others hopped on it and figured out how to make it a reality. Now, more loopers from around the world can read the News from&nbsp;<span translate="no">Loop and Learn</span>.
+
+We hope our community finds this useful. Choose your language on the Translation page.
+
 
 ## Upcoming Zoom Sessions
 
-* Later in September 2023, to be announced: Topic&nbsp;<span translate="no">iAPS</span>
+* Repeating sessions; each uses this [link:&nbsp;<span translate="no">Loop</span>](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09)&nbsp;Any Topic
+    * Time is 18:00 UTC
+    * Dates are: 5-October, 19-October, 2-November and 16-November
+
+* Tentative Date for Australian Friendly Session:
+    * Time is 10:00 UTC
+    * Tentative Date is 9-October
 
 ### Video Replay
 
-* 10 September 2023;&nbsp;[<span translate="no">Loop Caregiver</span>&nbsp;Video Replay](https://www.youtube.com/watch?v=fnksaQ3PRfU)
+* Some sessions are recorded and can be found at [LOOP and LEARN YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
-## <span translate="no">iOS 17</span>
+## Updates
+
+### Loop 3.2.3
+
+Loop 3.2.3 has been released.
+
+If you want to build Loop-main 3.2.3 or Loop-dev and your phone is at iOS 17, you can build using either Browser Build or Mac-Xcode Build (which requires Xcode 15).
+
+If you need to add xDrip4iOS and GlucoseDirect CGM interface to 3.2.3, here is the [link](https://www.loopandlearn.org/custom-code/#add-lnl-patches).
+
+### <span translate="no">iOS 17</span>
 
 We still do not recommend updating your phone to iOS 17. But when you do the update, this is what you can expect:
 
@@ -37,19 +64,31 @@ We still do not recommend updating your phone to iOS 17. But when you do the upd
 
 ## Questions and Answers from the Facebook Group
 
-* If we use this - this is the first question
-    * placeholder for FB link
+* What do you do during CGM sensor changes?
+    * [Link to Facebook Post](https://www.facebook.com/groups/LOOPandLEARN/posts/3518929425030203/)
 
-## Topic One
+* Can I set a zero basal rate with&nbsp;<span translate="no">Loop Caregiver</span>]?
+    * [Link to Facebook Post](https://www.facebook.com/groups/LOOPandLEARN/posts/3519291648327314/)
 
-Fill in text and information for topic one.
+## Apple Watch Helpful Information
 
-## Topic Two
+You can set up your Apple Watch to help make sure you don’t leave your iPhone behind. 
 
-Fill in text and information for topic two.
+Open “Find Devices” on your watch:
 
-## Keep Phone on Automatic Time
+* Tap your phone
+* Select “Notify when left behind”
+
+## Suggestions
+
+### Check IOB and COB at Night
+
+Check IOB and COB before going to sleep to see if you need to eat a snack to avoid low glucose overnight.
+
+### Keep Phone on Automatic Time
 
 You have been warned before to keep your phone on [Automatic Time](https://loopkit.github.io/loopdocs/troubleshooting/time-change/#loop-phone-must-be-on-automatic-time).
 
-New trick - turn on iOS Settings -> Screen Time -> and set a passcode. The phone can no longer be changed to anything other than automatic time.
+New trick - turn on iOS Settings -> Screen Time -> and set a passcode. 
+
+The phone can no longer be changed to anything other than automatic time.
