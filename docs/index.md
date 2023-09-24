@@ -9,6 +9,7 @@ Published on 24 September 2023.
 * Updates
     * [Loop 3.2.3]()
     * [<span translate="no">iOS 17</span>](#ios-17)
+    * [Customization](#customization)
 * [Questions and Answers from the Facebook Group](#questions-and-answers-from-the-facebook-group)
 * Suggestions
     * [Use your Watch to Remember your Phone](#use-your-watch-to-remember-your-phone)
@@ -50,7 +51,7 @@ If you need to add xDrip4iOS and GlucoseDirect CGM interface to 3.2.3, here is t
 
 ### <span translate="no">iOS 17</span>
 
-We still do not recommend updating your phone to iOS 17. But when you do the update, this is what you can expect:
+We still recommend waiting to update your phone to iOS 17.0.1. But when you do the update, this is what you can expect:
 
 * It may take some time for Apple Health to be available (this is common with major updates)
     * Plan ahead - stable glucose, no meals soon
@@ -63,6 +64,12 @@ We still do not recommend updating your phone to iOS 17. But when you do the upd
     * Wait 24 hours, it may start working
 * Widgets and Calendar entries are different and may not work
     * People are working on this
+
+### Customization
+
+The [Loop and Learn Customization Select Script](https://www.loopandlearn.org/custom-code/#custom) was recently updated. This only affects those using the development version of the Loop app. Several customizations are no longer needed for dev.
+
+For those who build the app in a Browser with GitHub Actions, please note the [Customization Template - dev](https://www.loopandlearn.org/custom-code/#template-dev) has been updated.
 
 ## Questions and Answers from the Facebook Group
 
