@@ -7,7 +7,7 @@ Published on 24 September 2023.
 * [Text Version with Translations for News](#text-version-with-translations-for-news)
 * [Upcoming Zoom Sessions](#upcoming-zoom-sessions)
 * Updates
-    * [Loop 3.2.3](#loop-323)
+    * [<span translate="no">Loop 3.2.3</span>](#loop-323)
     * [<span translate="no">iOS 17</span>](#ios-17)
     * [Customization](#customization)
 * [Questions and Answers from the Facebook Group](#questions-and-answers-from-the-facebook-group)
@@ -40,9 +40,9 @@ We hope our community finds this useful. Choose your language on the [Translatio
 
 ## Updates
 
-### Loop 3.2.3
+### <span translate="no">Loop 3.2.3</span>
 
-Loop 3.2.3 has been released.
+<span translate="no">Loop 3.2.3</span>&nbsp;has been released.
 
 If you want to build &nbsp;<span translate="no">Loop-main 3.2.3</span>&nbsp;or &nbsp;<span translate="no">Loop-dev</span>&nbsp;and your phone is at iOS 17, you can build using either &nbsp;<span translate="no">Browser Build</span>&nbsp; or &nbsp;<span translate="no">Mac-Xcode Build</span>&nbsp; (which requires Xcode 15).
 
@@ -68,7 +68,7 @@ We still recommend waiting to update your phone to iOS 17.0.1. But when you do t
 
 The&nbsp;[<span translate="no">Loop and Learn Customization Select Script</span>](https://www.loopandlearn.org/custom-code/#custom)&nbsp; was recently updated. This only affects those using the development version of the Loop app. Several customizations are no longer needed for dev.
 
-For those who build the app in a Browser with GitHub Actions, please note the [Customization Template - dev](https://www.loopandlearn.org/custom-code/#template-dev) has been updated.
+For those who build the app in a Browser with GitHub Actions, please note the&nbsp;[<span translate="no">Customization Template - dev</span>](https://www.loopandlearn.org/custom-code/#template-dev)&nbsp; has been updated.
 
 ## Questions and Answers from the Facebook Group
 
