@@ -52,9 +52,9 @@ If you need to add xDrip4iOS and GlucoseDirect CGM interface to 3.2.3, the instr
 
 We still recommend waiting to update your phone to iOS 17.0.1. But when you do the update, this is what you can expect:
 
-* It may take some time for&nbsp;[<span translate="no">Apple Health</span>&nbsp; to be available (this is common with major updates)
+* It may take some time for&nbsp;<span translate="no">Apple Health</span>&nbsp; to be available (this is common with major updates)
     * Plan ahead - stable glucose, no meals soon
-    * While&nbsp;[<span translate="no">Apple Health</span>&nbsp; is busy, the&nbsp;[<span translate="no">Loop</span>&nbsp;app may not open
+    * While&nbsp;<span translate="no">Apple Health</span>&nbsp; is busy, the&nbsp;<span translate="no">Loop</span>&nbsp;app may not open
     * Come back in 15 minutes and try again
     * Wait another 15 minutes (reboot might interrupt the processing)
     * If your app still won't open, reboot the phone
@@ -82,7 +82,7 @@ For those who build the app in a Browser with GitHub Actions, please note the [C
 
 ### Use your Watch to Remember your Phone
 
-You can set up your&nbsp<span translate="no">Apple Watch</span>&nbspto help make sure you don’t leave your iPhone behind. 
+You can set up your&nbsp;<span translate="no">Apple Watch</span>&nbsp;to help make sure you don’t leave your iPhone behind. 
 
 Open “Find Devices” on your watch:
 
