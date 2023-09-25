@@ -1,3 +1,9 @@
+## Text-Only or Translated
+
+[Click here to read the text-only version](index.md).
+
+Click on a language below to read a translated version.
+
 ## Language List
 
 [عربي](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=ar)
