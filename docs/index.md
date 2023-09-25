@@ -46,7 +46,7 @@ Loop 3.2.3 has been released.
 
 If you want to build &nbsp;<span translate="no">Loop-main 3.2.3</span>&nbsp;or &nbsp;<span translate="no">Loop-dev</span>&nbsp;and your phone is at iOS 17, you can build using either &nbsp;<span translate="no">Browser Build</span>&nbsp; or &nbsp;<span translate="no">Mac-Xcode Build</span>&nbsp; (which requires Xcode 15).
 
-If you need to add xDrip4iOS and GlucoseDirect CGM interface to 3.2.3, here is the [Web Browser Link](https://www.loopandlearn.org/custom-code/#add-lnl-patches).
+If you need to add xDrip4iOS and GlucoseDirect CGM interface to 3.2.3, the instructions are at this [Web Browser Link](https://www.loopandlearn.org/custom-code/#add-lnl-patches).
 
 ### <span translate="no">iOS 17</span>
 
