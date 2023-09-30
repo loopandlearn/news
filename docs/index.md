@@ -1,28 +1,18 @@
 ## Welcome to News from&nbsp;<span translate="no">Loop and Learn</span>&nbsp;
 
-Published on 24 September 2023.
+Published on 1 October 2023.
 
 ## In this edition:
 
-* [Text Version with Translations for News](#text-version-with-translations-for-news)
 * [Upcoming Zoom Sessions](#upcoming-zoom-sessions)
 * Updates
-    * [<span translate="no">Loop 3.2.3</span>](#loop-323)
-    * [<span translate="no">iOS 17</span>](#ios-17)
+    * [<span translate="no">xDrip4iOS or Glucose Direct with Loop 3.2.3</span>](#xdrip4ios-or-glucose-direct-with-loop-323)
     * [Customization](#customization)
 * [Questions and Answers from the Facebook Group](#questions-and-answers-from-the-facebook-group)
 * Suggestions
-    * [Use your Watch to Remember your Phone](#use-your-watch-to-remember-your-phone)
-    * [Avoid Low Glucose while Sleeping](#avoid-low-glucose-while-sleeping)
     * [Keep Phone on Automatic Time](#keep-phone-on-automatic-time)
 
-[Subscribe](https://www.loopandlearn.org/newsletter-signup/) to get this delivered to your email weekly.
-
-## Text Version with Translations for News
-
-With this edition, we bring you a new, incredibly helpful feature. It was suggested by a team member and within minutes, others hopped on it and figured out how to make it a reality. Now, more loopers from around the world can read the News from&nbsp;<span translate="no">Loop and Learn</span>.
-
-We hope our community finds this useful. Choose your language on the [Translation](translate.md) page.
+[Subscribe](https://www.loopandlearn.org/newsletter-signup/) to get this delivered to your email weekly or just check back on this site weekly for updates.
 
 ## Upcoming Zoom Sessions
 
@@ -34,64 +24,43 @@ We hope our community finds this useful. Choose your language on the [Translatio
     * Time is 10:00 UTC
     * Tentative Date is 9-October
 
+* Next Date for iAPS Session:
+    * Time is TBD UTC
+    * Date is TBD
+
 ### Video Replay
 
 * Some sessions are recorded and can be found at&nbsp;[<span translate="no">LOOP and LEARN</span>&nbsp;YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
 ## Updates
 
-### <span translate="no">Loop 3.2.3</span>
+### <span translate="no">xDrip4iOS or Glucose Direct with Loop 3.2.3</span>
 
-<span translate="no">Loop 3.2.3</span>&nbsp;has been released.
+<span translate="no">Loop 3.2.3</span>&nbsp;was released to support folks needing to build with Xcode 15; but the customizations that allowed people to continue using&nbsp;<span translate="no">xDrip4iOS or Glucose Direct</span>&nbsp;were not explained well. We tried to fix that.
 
-If you want to build &nbsp;<span translate="no">Loop-main 3.2.3</span>&nbsp;or &nbsp;<span translate="no">Loop-dev</span>&nbsp;and your phone is at iOS 17, you can build using either &nbsp;<span translate="no">Browser Build</span>&nbsp; or &nbsp;<span translate="no">Mac-Xcode Build</span>&nbsp; (which requires Xcode 15).
+There are some commands to use with Build with Browser or with Mac-Xcode that add an interface to these CGM inside&nbsp;<span translate="no">Loop</span>. This is valid only up through version 3.2.3.
 
-If you need to add xDrip4iOS and GlucoseDirect CGM interface to 3.2.3, the instructions are at this [Web Browser Link](https://www.loopandlearn.org/custom-code/#add-lnl-patches).
-
-### <span translate="no">iOS 17</span>
-
-We still recommend waiting to update your phone to iOS 17.0.1. But when you do the update, this is what you can expect:
-
-* It may take some time for&nbsp;<span translate="no">Apple Health</span>&nbsp; to be available (this is common with major updates)
-    * Plan ahead - stable glucose, no meals soon
-    * While&nbsp;<span translate="no">Apple Health</span>&nbsp; is busy, the&nbsp;<span translate="no">Loop</span>&nbsp;app may not open
-    * Come back in 15 minutes and try again
-    * Wait another 15 minutes (reboot might interrupt the processing)
-    * If your app still won't open, reboot the phone
-* Your watch may not work right away
-    * Try rebooting and / or reinstalling
-    * Wait 24 hours, it may start working
-* Widgets and Calendar entries are different and may not work
-    * People are working on this
+* [Add CGM Clients: Build with Browser](https://www.loopandlearn.org/custom-code/#add-lnl-patches)
+* [Add CGM Clients: Mac-Xcode](https://www.loopandlearn.org/custom-code/#add-cgm-323)
 
 ### Customization
 
-The&nbsp;[<span translate="no">Loop and Learn Customization Select Script</span>](https://www.loopandlearn.org/custom-code/#custom)&nbsp; was recently updated. This only affects those using the development version of the Loop app. Several customizations are no longer needed for dev.
+The&nbsp;[<span translate="no">Loop and Learn Customization Select Script</span>](https://www.loopandlearn.org/custom-code/#custom)&nbsp;was recently updated.
 
-For those who build the app in a Browser with GitHub Actions, please note the&nbsp;[<span translate="no">Customization Template - dev</span>](https://www.loopandlearn.org/custom-code/#template-dev)&nbsp; has been updated.
+The "now" mark that shows the current time on&nbsp;<span translate="no">Loop</span>&nbsp;main and bolus charts is now available as a stand-alone customization. Look for&nbsp;<span translate="no">"now_line"</span>&nbsp;to add this to your version of the app.
+
+For those who build the app using a Browser, please note the customization templates have been updated:
+
+* [<span translate="no">Customization Template</span>](https://www.loopandlearn.org/custom-code/#template)
+* [<span translate="no">Customization Template - dev</span>](https://www.loopandlearn.org/custom-code/#template-dev)
 
 ## Questions and Answers from the Facebook Group
 
-* What do you do during CGM sensor changes?
+* Placeholder?
+    * Link is from last week - update this
     * [Link to Facebook Post](https://www.facebook.com/groups/LOOPandLEARN/posts/3518929425030203/)
 
-* Can I set a zero basal rate with&nbsp;<span translate="no">Loop Caregiver</span>?
-    * [Link to Facebook Post](https://www.facebook.com/groups/LOOPandLEARN/posts/3519291648327314/)
-
 ## Suggestions
-
-### Use your Watch to Remember your Phone
-
-You can set up your&nbsp;<span translate="no">Apple Watch</span>&nbsp;to help make sure you don’t leave your iPhone behind. 
-
-Open “Find Devices” on your watch:
-
-* Tap your phone
-* Select “Notify when left behind”
-
-### Avoid Low Glucose while Sleeping
-
-Check IOB and COB before going to sleep to see if you need to eat a snack to avoid low glucose overnight.
 
 ### Keep Phone on Automatic Time
 
