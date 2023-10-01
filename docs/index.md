@@ -70,7 +70,7 @@ The phone can only be configured with automatic time.
 
 ...unless you’re invited to.
 
-If you need help, please post on the&nbsp;<span translate="no">Loop and Learn Facebook</span>&nbsp;page or [zulipchat](https://loop.zulipchat.com/).  This does several things:
+If you need help, please post on the&nbsp;[<span translate="no">Loop and Learn Facebook</span>](https://www.facebook.com/groups/LOOPandLEARN)&nbsp;page or [zulipchat](https://loop.zulipchat.com/).  This does several things:
 
 * You are likely to hear back sooner because your post gets noticed sooner than a private message request will
 * You are likely to get more information because more people may answer and provide more suggestions than a single mentor may think of
@@ -97,7 +97,7 @@ Same with customizations; you have to add them to your most recent download if y
 
 <span translate="no">Loop 3.2.3</span>&nbsp;was released to support folks needing to build with Xcode 15; but the customizations that allowed people to continue using&nbsp;<span translate="no">xDrip4iOS or Glucose Direct</span>&nbsp;were not explained well. We tried to fix that.
 
-There are some commands to use with Build with Browser or with Mac-Xcode that add an interface to these CGM inside&nbsp;<span translate="no">Loop</span>. This is valid only up through &nbsp;<span translate="no">Loop 3.2.3</span>; it does not work for&nbsp;<span translate="no">dev</span>.
+There are some commands to use with Build with Browser or with Mac-Xcode that add an interface to these CGM inside&nbsp;<span translate="no">Loop</span>. This is valid only up through&nbsp;<span translate="no">Loop 3.2.3</span>; it does not work for&nbsp;<span translate="no">dev</span>.
 
 * [Add CGM Clients: Build with Browser](https://www.loopandlearn.org/custom-code/#add-lnl-patches)
 * [Add CGM Clients: Mac-Xcode](https://www.loopandlearn.org/custom-code/#add-cgm-323)
