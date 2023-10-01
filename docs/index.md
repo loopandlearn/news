@@ -82,7 +82,7 @@ If you need help, please post on the&nbsp;[<span translate="no">Loop and Learn F
 
 ## Download, Then Customize
 
-Would you patch a hole in a pair of jeans, then go get a new pair of jeans and expect that patch to be on them? No! S
+Would you patch a hole in a pair of jeans, then go get a new pair of jeans and expect that patch to be on them? No!
 
 Same with customizations; you have to add them to your most recent download if you expect them to be available.
 
