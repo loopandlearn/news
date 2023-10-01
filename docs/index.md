@@ -49,6 +49,9 @@ The&nbsp;[<span translate="no">Loop and Learn Customization Select Script</span>
 
 The "now" mark that shows the current time on&nbsp;<span translate="no">Loop</span>&nbsp;main and bolus charts is now available as a stand-alone customization. Look for&nbsp;<span translate="no">"now_line"</span>&nbsp;to add this to your version of the app.
 
+* [List of all customizations available](https://www.loopandlearn.org/custom-code/#custom-list)
+* [Direct link to the new "now_line"](https://www.loopandlearn.org/custom-code/#now-line)
+
 For those who build the app using a Browser, please note the customization templates have been updated:
 
 * [<span translate="no">Customization Template</span>](https://www.loopandlearn.org/custom-code/#template)
