@@ -1,17 +1,18 @@
-## Welcome to News from&nbsp;<span translate="no">Loop and Learn</span>
+## Welcome to News from&nbsp;_<span translate="no">Loop and Learn</span>_
 
 Published on 8 October 2023.
 
 ## In this edition:
 
-* [Upcoming Zoom Sessions](#upcoming-zoom-sessions)
+* [Upcoming *Zoom* Sessions](#upcoming-zoom-sessions)
 * [Updates in&nbsp;_<span translate="no">LoopDocs</span>_](#updates-inloopdocs)
+* [*US Med* *Dexcom* Supplies](#us-med-dexcom-supplies)
+* [Great Ideas for New and Potential&nbsp;_<span translate="no">iAPS</span>_&nbsp;Users](#great-ideas-for-new-and-potentialiaps-users)
+* [Helpful Links](#helpful-links)
 
-[Subscribe](https://www.loopandlearn.org/newsletter-signup/) to get this delivered to your email weekly or just check back on this site weekly for updates.
+## Upcoming *Zoom* Sessions
 
-[Find a&nbsp;<span translate="no">Loop</span>-friendly Health Care Provider](https://www.loopandlearn.org/hcp-recommendations/)
-
-## Upcoming Zoom Sessions
+See table below for full list.
 
 Special Session, 13 October 2023: **<span translate="no">Little Loopers<span translate="no">&nbsp;to T1D Titans: Moving Our Kids Towards T1D Independence**
 
@@ -19,11 +20,11 @@ Special Session, 13 October 2023: **<span translate="no">Little Loopers<span tra
 * We’d love to hear your success stories and will have a question and answer session
 * This will be recorded, see table below for time
 
-Zoom Sessions use this link unless otherwise noted:
+*Zoom* Sessions use this link unless otherwise noted:
 
 * [https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09)
 
-* <span translate="no">iAPS</span>&nbsp;Sessions have special links (see the table)
+* _<span translate="no">iAPS</span>_&nbsp;Sessions have special links (see the table)
 
 | Topic | Recorded? | Time | Date | Link |
 | - | - | - | - | - |
@@ -54,4 +55,24 @@ Additionally, this section is fairly new and should be studied. This was added i
 * [How Do Delivery Limits Affect Automatic Bolusing](https://loopkit.github.io/loopdocs/faqs/algorithm-faqs/#how-do-delivery-limits-affect-automatic-dosing)
 
 If you are among the few who need to modify the relationship between "maximum Bolus" and "maximum IOB for Automatic Dosing", a customization was added to the [Code Customization](https://loopkit.github.io/loopdocs/build/code-customization/) page.
+
+## *US Med* *Dexcom* Supplies
+
+*US Med* (a supplier of medical supplies in the US) is automatically switching *Dexcom* users to *G7*. If you get *Dexcom* *G6* supplies through *US Med* and would like to keep receiving *G6*, you need to call and let them know.
+
+## Great Ideas for New and Potential&nbsp;_<span translate="no">iAPS</span>_&nbsp;Users
+
+* Read the&nbsp;_<span translate="no">iAPS</span>_&nbsp;[FAQs prepared by LnL](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:ad03d99d-a48e-4a15-912b-8e208d5beebc)
+* Read the&nbsp;_<span translate="no">iAPS</span>_&nbsp;page on [Transition from other closed loop solutions](https://iaps.readthedocs.io/en/main/Configuration/transition-qa.html)
+* Read posts in the&nbsp;[_<span translate="no">iAPS</span>_&nbsp;FaceBook](https://www.facebook.com/groups/1351938092206709) group
+* Don’t turn on all Auto settings up front- full setup takes a while and settings need to be dialed in first
+* Watch [LnL&nbsp;_<span translate="no">iAPS</span>_&nbsp;Open Topic *Zoom* replays](https://www.youtube.com/playlist?list=PLfnu6D6qjfHv4D7P6ki_6oTIFrBfdVWc1)
+* Be sure to join future&nbsp;_<span translate="no">iAPS</span>_&nbsp;[*Zoom* Sessions](#upcoming-zoom-sessions) with your questions
+
+
+## Helpful Links
+
+* [Subscribe](https://www.loopandlearn.org/newsletter-signup/) to get the Newsletter delivered to your email weekly.
+    * Some articles in the original Newsletter are not reproduced here
+* [Find a&nbsp;<span translate="no">Loop</span>-friendly Health Care Provider](https://www.loopandlearn.org/hcp-recommendations/)
 
