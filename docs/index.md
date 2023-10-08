@@ -7,7 +7,7 @@ Published on 8 October 2023.
 * [Upcoming *Zoom* Sessions](#upcoming-zoom-sessions)
 * [Updates in&nbsp;_<span translate="no">LoopDocs</span>_](#updates-inloopdocs)
 * [*US Med* *Dexcom* Supplies](#us-med-dexcom-supplies)
-* [Great Ideas for New and Potential&nbsp;_<span translate="no">iAPS</span>_&nbsp;Users](#great-ideas-for-new-and-potentialiaps-users)
+* [Great Ideas for New and Potential&nbsp;_<span translate="no">iAPS</span>_&nbsp;Users](#great-ideas-for-new-and-potentialiapsusers)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
