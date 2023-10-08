@@ -39,7 +39,7 @@ Special Session, 13 October 2023: **<span translate="no">Little Loopers<span tra
 
 ## Updates in&nbsp;_<span translate="no">LoopDocs</span>_
 
-The [Safety Tips](https://loopkit.github.io/loopdocs/faqs/safety-faqs/) page in&nbsp;_<span translate="no">LoopDocs</span>_has been updated. Here’s a list of topics:
+The [Safety Tips](https://loopkit.github.io/loopdocs/faqs/safety-faqs/) page in&nbsp;_<span translate="no">LoopDocs</span>_&nbsp;has been updated. Here’s a list of topics:
 
 * Know your settings
 * Understand the App Displays
