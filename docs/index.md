@@ -1,4 +1,4 @@
-## Welcome to News from *Loop and Learn*
+## Welcome to News from&nbsp;<span translate="no">Loop and Learn</span>
 
 Published on 1 October 2023.
 
@@ -11,7 +11,7 @@ Published on 1 October 2023.
 * [Reminder: Please Don't Send Mentors Private Messages ](#reminder-please-dont-send-mentors-private-messages)
 * [Download, Then Customize](#download-then-customize)
 * [Text-only Edition Extras](#text-only-edition-extras)
-    * [*xDrip4iOS or Glucose Direct with Loop 3.2.3*](#xdrip4ios-or-glucose-direct-with-loop-323)
+    * [<span translate="no">xDrip4iOS or Glucose Direct with Loop 3.2.3</span>](#xdrip4ios-or-glucose-direct-with-loop-323)
 
 [Subscribe](https://www.loopandlearn.org/newsletter-signup/) to get this delivered to your email weekly or just check back on this site weekly for updates.
 
@@ -23,38 +23,38 @@ All Zoom Sessions use the same zoom link unless otherwise noted:
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| *Loop* Any Topic | no | 18:00 UTC | 5 October,<br>19 October,<br>2 November<br>16 November |
-| Australian Friendly Session:<br>> *Loop* Any Topic | no | 09:00 UTC | 9 October |
-| *Little Loopers to T1D Titans:*<br>> Moving our Kids Towards T1D Independence | yes | 17:00 UTC | 13 October |
-| *iAPS* Session: *Logarithm vs Sigmoid Dynamic ISF* | yes | 17:00 UTC | 14 October |
+| <span translate="no">Loop</span>&nbsp;Any Topic | no | 18:00 UTC | 5 October,<br>19 October,<br>2 November<br>16 November |
+| Australian Friendly Session:<br>>&nbsp;<span translate="no">Loop</span>&nbsp;Any Topic | no | 09:00 UTC | 9 October |
+| <span translate="no">Little Loopers to T1D Titans:</span><br>> Moving our Kids Towards T1D Independence | yes | 17:00 UTC | 13 October |
+| <span translate="no">iAPS</span>&nbsp;Session:&nbsp;<span translate="no">Logarithm vs Sigmoid Dynamic ISF</span> | yes | 17:00 UTC | 14 October |
 
 ### Video Replay
 
-* Recorded sessions at [*LOOP and LEARN* YouTube Channel](https://www.youtube.com/c/loopandlearn)
+* Recorded sessions at&nbsp;[<span translate="no">LOOP and LEARN</span>&nbsp;YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
 ## The Now Line
 
-The “Now Line” is a very helpful tool, available by individual customization. It adds a vertical line to all your *Loop* charts on the main screen and to the glucose prediction on the bolus screen. This line represents the current time, aiming to make it simpler for you to interpret your data.
+The “Now Line” is a very helpful tool, available by individual customization. It adds a vertical line to all your&nbsp;<span translate="no">Loop</span>&nbsp;charts on the main screen and to the glucose prediction on the bolus screen. This line represents the current time, aiming to make it simpler for you to interpret your data.
 
 * [List of all customizations available](https://www.loopandlearn.org/custom-code/#custom-list)
 * [Direct link to the new "now_line"](https://www.loopandlearn.org/custom-code/#now-line)
 
 For those who build the app using a Browser, please note the customization templates have been updated:
 
-* [*Customization Template*](https://www.loopandlearn.org/custom-code/#template)
-* [*Customization Template - dev*](https://www.loopandlearn.org/custom-code/#template-dev)
+* [<span translate="no">Customization Template</span>](https://www.loopandlearn.org/custom-code/#template)
+* [<span translate="no">Customization Template - dev</span>](https://www.loopandlearn.org/custom-code/#template-dev)
 
 ## Preview for the Next Release
 
-This section of [*LoopDocs*](https://loopkit.github.io/loopdocs/version/development/#updates-in-dev)&nbsp;gives an early look at what has been added to the *dev branch of Loop*  since *Loop 3.2.x* was released and will be in the next release.
+This section of&nbsp;[<span translate="no">LoopDocs</span>](https://loopkit.github.io/loopdocs/version/development/#updates-in-dev)&nbsp;gives an early look at what has been added to the&nbsp;<span translate="no">dev branch of Loop</span>&nbsp; since&nbsp;<span translate="no">Loop 3.2.x</span>&nbsp;was released and will be in the next release.
 
-* Support for *Libre* CGM
+* Support for&nbsp;<span translate="no">Libre</span>&nbsp;CGM
 * Modified Simulator Interface
 * Algorithm Experiments
     * Glucose Based Partial Application Factor
     * Integral Retrospective Correction
 * Favorite Foods
-* *TestFlight* Expiration Warning
+* <span translate="no">TestFlight</span>&nbsp;Expiration Warning
 * Building with Browser Updates
 * Miscellaneous Code Fixes
 
@@ -70,7 +70,7 @@ The phone can only be configured with automatic time.
 
 ...unless you’re invited to.
 
-If you need help, please post on the [*Loop and Learn Facebook*](https://www.facebook.com/groups/LOOPandLEARN)&nbsp;page or [zulipchat](https://loop.zulipchat.com/).  This does several things:
+If you need help, please post on the&nbsp;[<span translate="no">Loop and Learn Facebook</span>](https://www.facebook.com/groups/LOOPandLEARN)&nbsp;page or [zulipchat](https://loop.zulipchat.com/).  This does several things:
 
 * You are likely to hear back sooner because your post gets noticed sooner than a private message request will
 * You are likely to get more information because more people may answer and provide more suggestions than a single mentor may think of
@@ -93,11 +93,11 @@ Same with customizations; you have to add them to your most recent download if y
 
 ## Text-only Edition Extras
 
-### *xDrip4iOS or Glucose Direct with Loop 3.2.3*
+### <span translate="no">xDrip4iOS or Glucose Direct with Loop 3.2.3</span>
 
-*Loop 3.2.3* was released to support folks needing to build with Xcode 15; but the customizations that allowed people to continue using *xDrip4iOS or Glucose Direct* were not explained well. We tried to fix that.
+<span translate="no">Loop 3.2.3</span>&nbsp;was released to support folks needing to build with Xcode 15; but the customizations that allowed people to continue using&nbsp;<span translate="no">xDrip4iOS or Glucose Direct</span>&nbsp;were not explained well. We tried to fix that.
 
-There are some commands to use with Build with Browser or with Mac-Xcode that add an interface to these CGM inside *Loop*. This is valid only up through *Loop 3.2.3*; it does not work for *dev*.
+There are some commands to use with Build with Browser or with Mac-Xcode that add an interface to these CGM inside&nbsp;<span translate="no">Loop</span>. This is valid only up through&nbsp;<span translate="no">Loop 3.2.3</span>; it does not work for&nbsp;<span translate="no">dev</span>.
 
 * [Add CGM Clients: Build with Browser](https://www.loopandlearn.org/custom-code/#add-lnl-patches)
 * [Add CGM Clients: Mac-Xcode](https://www.loopandlearn.org/custom-code/#add-cgm-323)
