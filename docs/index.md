@@ -30,7 +30,7 @@ Special Session, 13 October 2023: **<span translate="no">Little Loopers<span tra
 | - | - | - | - | - |
 | <span translate="no">Little Loopers to T1D Titans:</span><br>> Moving our Kids Towards T1D Independence | yes | 17:00 UTC | 13 October | [link](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09) |
 | <span translate="no">iAPS</span>&nbsp;Session:&nbsp;<span translate="no">Logarithm vs Sigmoid Dynamic ISF</span><br>Magnus & Theresa | yes | 17:00 UTC | 14 October | [special link](https://us02web.zoom.us/j/85228518290) |
-| <span translate="no">iAPS</span>&nbsp;Session: Deep Dive into &nbsp;<span translate="no">Logarithm vs Sigmoid Dynamic ISF</span> with graphs<br>Mike Plante | yes | 17:00 UTC | 28 October | TBD |
+| <span translate="no">iAPS</span>&nbsp;Session: Deep Dive into &nbsp;<span translate="no">Logarithm vs Sigmoid Dynamic ISF</span>&nbsp;with graphs<br>Mike Plante | yes | 17:00 UTC | 28 October | TBD |
 | <span translate="no">Loop</span>&nbsp;Any Topic | no | 18:00 UTC | 19 Oct,<br>02 Nov,<br>16 Nov,<br>30 Nov | [link](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09) |
 
 ### Video Replay
@@ -39,7 +39,7 @@ Special Session, 13 October 2023: **<span translate="no">Little Loopers<span tra
 
 ## Updates in&nbsp;_<span translate="no">LoopDocs</span>_
 
-The [Safety Tips](https://loopkit.github.io/loopdocs/faqs/safety-faqs/) page has been updated. Here’s a list of topics:
+The [Safety Tips](https://loopkit.github.io/loopdocs/faqs/safety-faqs/) page in&nbsp;_<span translate="no">LoopDocs</span>_has been updated. Here’s a list of topics:
 
 * Know your settings
 * Understand the App Displays
@@ -63,8 +63,8 @@ If you are among the few who need to modify the relationship between "maximum Bo
 ## Great Ideas for New and Potential&nbsp;_<span translate="no">iAPS</span>_&nbsp;Users
 
 * Read the&nbsp;_<span translate="no">iAPS</span>_&nbsp;[FAQs prepared by LnL](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:ad03d99d-a48e-4a15-912b-8e208d5beebc)
-* Read the&nbsp;_<span translate="no">iAPS</span>_&nbsp;page on [Transition from other closed loop solutions](https://iaps.readthedocs.io/en/main/Configuration/transition-qa.html)
-* Read posts in the&nbsp;[_<span translate="no">iAPS</span>_&nbsp;FaceBook](https://www.facebook.com/groups/1351938092206709) group
+* Read the&nbsp;_<span translate="no">iAPS</span>_&nbsp;page on [Transition from other closed&nbsp;<span translate="no">loop</span>&nbsp;solutions](https://iaps.readthedocs.io/en/main/Configuration/transition-qa.html)
+* Read posts in the&nbsp;[_<span translate="no">iAPS FaceBook</span>_](https://www.facebook.com/groups/1351938092206709)&nbsp;group
 * Don’t turn on all Auto settings up front- full setup takes a while and settings need to be dialed in first
 * Watch [LnL&nbsp;_<span translate="no">iAPS</span>_&nbsp;Open Topic *Zoom* replays](https://www.youtube.com/playlist?list=PLfnu6D6qjfHv4D7P6ki_6oTIFrBfdVWc1)
 * Be sure to join future&nbsp;_<span translate="no">iAPS</span>_&nbsp;[*Zoom* Sessions](#upcoming-zoom-sessions) with your questions
@@ -73,6 +73,7 @@ If you are among the few who need to modify the relationship between "maximum Bo
 ## Helpful Links
 
 * [Subscribe](https://www.loopandlearn.org/newsletter-signup/) to get the Newsletter delivered to your email weekly.
-    * Some articles in the original Newsletter are not reproduced here
+    * Some articles in the [original Newsletter](https://www.loopandlearn.org/2022/10/19/loop-and-learn-newsletter/) are not reproduced here
+* [Check for Updates](https://www.loopandlearn.org/version-updates/)
 * [Find a&nbsp;<span translate="no">Loop</span>-friendly Health Care Provider](https://www.loopandlearn.org/hcp-recommendations/)
 
