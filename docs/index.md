@@ -24,12 +24,10 @@ Special Session, 13 October 2023: **<span translate="no">Little Loopers<span tra
 
 * [https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09)
 
-* _<span translate="no">iAPS</span>_&nbsp;Sessions have special links (see the table)
-
 | Topic | Recorded? | Time | Date | Link |
 | - | - | - | - | - |
 | <span translate="no">Little Loopers to T1D Titans:</span><br>> Moving our Kids Towards T1D Independence | yes | 17:00 UTC | 13 October | [link](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09) |
-| <span translate="no">iAPS</span>&nbsp;Session:&nbsp;<span translate="no">Logarithm vs Sigmoid Dynamic ISF</span><br>Magnus & Theresa | yes | 17:00 UTC | 14 October | [special link](https://us02web.zoom.us/j/85228518290) |
+| <span translate="no">iAPS</span>&nbsp;Session: | - | - | on hold | - |
 | <span translate="no">iAPS</span>&nbsp;Session: Deep Dive into &nbsp;<span translate="no">Logarithm vs Sigmoid Dynamic ISF</span>&nbsp;with graphs<br>Mike Plante | yes | 17:00 UTC | 28 October | TBD |
 | <span translate="no">Loop</span>&nbsp;Any Topic | no | 18:00 UTC | 19 Oct,<br>02 Nov,<br>16 Nov,<br>30 Nov | [link](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09) |
 
