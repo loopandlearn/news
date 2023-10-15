@@ -1,72 +1,45 @@
 ## Welcome to News from&nbsp;_<span translate="no">Loop and Learn</span>_
 
-Published on 8 October 2023.
+Published on 15 October 2023.
 
 ## In this edition:
 
 * [Upcoming *Zoom* Sessions](#upcoming-zoom-sessions)
-* [Updates in&nbsp;_<span translate="no">LoopDocs</span>_](#updates-inloopdocs)
-* [*US Med* *Dexcom* Supplies](#us-med-dexcom-supplies)
-* [Great Ideas for New and Potential&nbsp;_<span translate="no">iAPS</span>_&nbsp;Users](#great-ideas-for-new-and-potentialiapsusers)
+* [Reminder if you Build with Browser](#reminder-if-you-build-with-browser)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
 
-See table below for full list.
-
-Special Session, 13 October 2023: **<span translate="no">Little Loopers<span translate="no">&nbsp;to T1D Titans: Moving Our Kids Towards T1D Independence**
-
-* Featuring a talk with Joe Donahue and Tina Hammer, parents of teen&nbsp;<span translate="no">Loopers<span translate="no">&nbsp;at various stages of independence
-* We’d love to hear your success stories and will have a question and answer session
-* This will be recorded, see table below for time
-
-*Zoom* Sessions use this link unless otherwise noted:
+*Zoom* Sessions use this link:
 
 * [https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09)
 
-| Topic | Recorded? | Time | Date | Link |
-| - | - | - | - | - |
-| <span translate="no">Little Loopers to T1D Titans:</span><br>> Moving our Kids Towards T1D Independence | yes | 17:00 UTC | 13 October | [link](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09) |
-| <span translate="no">iAPS</span>&nbsp;Session: | - | - | on hold | - |
-| <span translate="no">iAPS</span>&nbsp;Session: Deep Dive into &nbsp;<span translate="no">Logarithm vs Sigmoid Dynamic ISF</span>&nbsp;with graphs<br>Mike Plante | yes | 17:00 UTC | 28 October | TBD |
-| <span translate="no">Loop</span>&nbsp;Any Topic | no | 18:00 UTC | 19 Oct,<br>02 Nov,<br>16 Nov,<br>30 Nov | [link](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09) |
+| Topic | Recorded? | Time | Date |
+| - | - | - | - |
+| _<span translate="no">Loop</span>_&nbsp;Any Topic | no | 18:00 UTC | 19 Oct,<br>02 Nov,<br>16 Nov,<br>30 Nov |
+| _<span translate="no">iAPS</span>_&nbsp;Session: Deep Dive into &nbsp;<span translate="no">Logarithm vs Sigmoid Dynamic ISF</span>&nbsp;with graphs<br>Mike Plante | yes | 17:00 UTC | 28 October |
 
 ### Video Replay
 
+Did you miss this Special Session, 13 October 2023: **<span translate="no">Little Loopers<span translate="no">&nbsp;to T1D Titans: Moving Our Kids Towards T1D Independence**?
+
+* This featured a talk with Joe Donahue and Tina Hammer, parents of teen&nbsp;<span translate="no">Loopers<span translate="no">&nbsp;at various stages of independence
+* Click this [direct link] to the video replay
+* ALERT - I could not find the replay - is it posted?
+
+Many sessions are recoderd. This full list is found here:
+ß
 * Recorded sessions at&nbsp;[<span translate="no">LOOP and LEARN</span>&nbsp;YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
-## Updates in&nbsp;_<span translate="no">LoopDocs</span>_
+## Reminder if you Build with Browser
 
-The [Safety Tips](https://loopkit.github.io/loopdocs/faqs/safety-faqs/) page in&nbsp;_<span translate="no">LoopDocs</span>_&nbsp;has been updated. Here’s a list of topics:
+When you build the *Loop* app using a browser, you must rebuild a minimum of every 90 days. If you fail to do this, you will see the message: **<span translate="no">"Loop Beta has expired"<span translate="no">** on your phone and will not be able to run&nbsp;_<span translate="no">Loop</span>_&nbsp;until you build again. Remember that your pump will revert to running your scheduled basal rates within 30 minutes when the app is not available. 
 
-* Know your settings
-* Understand the App Displays
-* Carb Entry and Insulin Delivery
-* How to Cancel a Bolus
-* Understand Delivery Limits
-* Health app permissions
-* Medtronic Easy Bolus button
-* Finish your Medtronic priming
+You can go into the Testflight app on the phone and check how many days are left on your current build and then add a reminder in your calendar to rebuild before then. [Update with Browser](https://loopkit.github.io/loopdocs/gh-actions/gh-update/). 
 
-Additionally, this section is fairly new and should be studied. This was added in response to a FaceBook post that triggered lots of discussion:
+If you are close (within one month) of needing to rebuild and you are using released code (`main`), consider adding the new customization that adds the *TestFlight* date to the *Loop* app on your phone and add the in-app reminder starting 20 days before *TestFlight* will expire.
 
-* [How Do Delivery Limits Affect Automatic Bolusing](https://loopkit.github.io/loopdocs/faqs/algorithm-faqs/#how-do-delivery-limits-affect-automatic-dosing)
-
-If you are among the few who need to modify the relationship between "maximum Bolus" and "maximum IOB for Automatic Dosing", a customization was added to the [Code Customization](https://loopkit.github.io/loopdocs/build/code-customization/) page.
-
-## *US Med* *Dexcom* Supplies
-
-*US Med* (a supplier of medical supplies in the US) is automatically switching *Dexcom* users to *G7*. If you get *Dexcom* *G6* supplies through *US Med* and would like to keep receiving *G6*, you need to call and let them know.
-
-## Great Ideas for New and Potential&nbsp;_<span translate="no">iAPS</span>_&nbsp;Users
-
-* Read the&nbsp;_<span translate="no">iAPS</span>_&nbsp;[FAQs prepared by LnL](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:ad03d99d-a48e-4a15-912b-8e208d5beebc)
-* Read the&nbsp;_<span translate="no">iAPS</span>_&nbsp;page on [Transition from other closed&nbsp;<span translate="no">loop</span>&nbsp;solutions](https://iaps.readthedocs.io/en/main/Configuration/transition-qa.html)
-* Read posts in the&nbsp;[_<span translate="no">iAPS FaceBook</span>_](https://www.facebook.com/groups/1351938092206709)&nbsp;group
-* Don’t turn on all Auto settings up front- full setup takes a while and settings need to be dialed in first
-* Watch [LnL&nbsp;_<span translate="no">iAPS</span>_&nbsp;Open Topic *Zoom* replays](https://www.youtube.com/playlist?list=PLfnu6D6qjfHv4D7P6ki_6oTIFrBfdVWc1)
-* Be sure to join future&nbsp;_<span translate="no">iAPS</span>_&nbsp;[*Zoom* Sessions](#upcoming-zoom-sessions) with your questions
-
+* [*TestFlight* Expiration (Browser Build, main only)](https://www.loopandlearn.org/custom-code/#tf-expire)
 
 ## Helpful Links
 
