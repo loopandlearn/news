@@ -35,9 +35,9 @@ Many sessions are recoderd. This full list is found here:
 
 When you build the *Loop* app using a browser, you must rebuild a minimum of every 90 days. If you fail to do this, you will see the message: **<span translate="no">"Loop Beta has expired"<span translate="no">** on your phone and will not be able to run&nbsp;_<span translate="no">Loop</span>_&nbsp;until you build again. Remember that your pump will revert to running your scheduled basal rates within 30 minutes when the app is not available. 
 
-You can go into the Testflight app on the phone and check how many days are left on your current build and then add a reminder in your calendar to rebuild before then. [Update with Browser](https://loopkit.github.io/loopdocs/gh-actions/gh-update/). 
+You can go into the *Testflight* app on the phone and check how many days are left on your current build and then add a reminder in your calendar to rebuild before then. [Update with Browser](https://loopkit.github.io/loopdocs/gh-actions/gh-update/). 
 
-If you are close (within one month) of needing to rebuild and you are using released code (`main`), consider adding the new customization that adds the *TestFlight* date to the *Loop* app on your phone and add the in-app reminder starting 20 days before *TestFlight* will expire.
+If you are close (within one month) of needing to rebuild and you are using released code (`main`), consider adding the new customization to add the *TestFlight* date to the *Loop* app on your phone. This also adds an in-app reminder starting 20 days before expiration. This is not needed for `dev`; it is already included.
 
 * [*TestFlight* Expiration (Browser Build, main only)](https://www.loopandlearn.org/custom-code/#tf-expire)
 
