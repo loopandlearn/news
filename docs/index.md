@@ -21,18 +21,18 @@ Published on 15 October 2023.
 
 ### Video Replay
 
-Did you miss this Special Session, 13 October 2023: **<span translate="no">Little Loopers<span translate="no">&nbsp;to T1D Titans: Moving Our Kids Towards T1D Independence**?
+Did you miss this Special Session, 13 October 2023:&nbsp;**<span translate="no">Little Loopers<span translate="no">&nbsp;to T1D Titans: Moving Our Kids Towards T1D Independence**?
 
 * This featured a talk with Joe Donahue and Tina Hammer, parents of teen&nbsp;<span translate="no">Loopers<span translate="no">&nbsp;at various stages of independence
 * The link to the video replay with be posted here as soon as it is available.
 
-Many sessions are recorded. This full list is found here:
+Many sessions are recorded. The full list is found here:
 
 * Recorded sessions at&nbsp;[<span translate="no">LOOP and LEARN</span>&nbsp;YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
 ## Reminder if you Build with Browser
 
-When you build the *Loop* app using a browser, you must rebuild a minimum of every 90 days. If you fail to do this, you will see the message: **<span translate="no">"Loop Beta has expired"<span translate="no">** on your phone and will not be able to run&nbsp;_<span translate="no">Loop</span>_&nbsp;until you build again. Remember that your pump will revert to running your scheduled basal rates within 30 minutes when the app is not available. 
+When you build the *Loop* app using a browser, you must rebuild a minimum of every 90 days. If you fail to do this, you will see the message:&nbsp;**<span translate="no">"Loop Beta has expired"<span translate="no">**&nbsp;on your phone and will not be able to run&nbsp;_<span translate="no">Loop</span>_&nbsp;until you build again. Remember that your pump will revert to running your scheduled basal rates within 30 minutes when the app is not available. 
 
 You can go into the *Testflight* app on the phone and check how many days are left on your current build and then add a reminder in your calendar to rebuild before then. [Update with Browser](https://loopkit.github.io/loopdocs/gh-actions/gh-update/). 
 
