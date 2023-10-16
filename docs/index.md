@@ -17,15 +17,14 @@ Published on 15 October 2023.
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
 | _<span translate="no">Loop</span>_&nbsp;Any Topic | no | 18:00 UTC | 19 Oct,<br>02 Nov,<br>16 Nov,<br>30 Nov |
-| _<span translate="no">iAPS</span>_&nbsp;Session: Deep Dive into &nbsp;<span translate="no">Logarithm vs Sigmoid Dynamic ISF</span>&nbsp;with graphs<br>Mike Plante | yes | 17:00 UTC | 28 October |
+| _<span translate="no">iAPS</span>_&nbsp;Session: Dynamic ISF with Magnus & Theresa | yes | 17:00 UTC | 28 October |
 
 ### Video Replay
 
 Did you miss this Special Session, 13 October 2023: **<span translate="no">Little Loopers<span translate="no">&nbsp;to T1D Titans: Moving Our Kids Towards T1D Independence**?
 
 * This featured a talk with Joe Donahue and Tina Hammer, parents of teen&nbsp;<span translate="no">Loopers<span translate="no">&nbsp;at various stages of independence
-* Click this [direct link] to the video replay
-* ALERT - I could not find the replay - is it posted?
+* The link to the video replay with be posted here as soon as it is available.
 
 Many sessions are recoderd. This full list is found here:
 ß
@@ -37,7 +36,7 @@ When you build the *Loop* app using a browser, you must rebuild a minimum of eve
 
 You can go into the *Testflight* app on the phone and check how many days are left on your current build and then add a reminder in your calendar to rebuild before then. [Update with Browser](https://loopkit.github.io/loopdocs/gh-actions/gh-update/). 
 
-If you are close (within one month) of needing to rebuild and you are using released code (`main`), consider adding the new customization to add the *TestFlight* date to the *Loop* app on your phone. This also adds an in-app reminder starting 20 days before expiration. This is not needed for `dev`; it is already included.
+If you are using the released version of the *Loop* app (`main`), consider adding the new customization that reports the *TestFlight* date. You will receive in-app reminders starting 20 days before expiration. Loop dev users are already benefitting from this feature.
 
 * [*TestFlight* Expiration (Browser Build, main only)](https://www.loopandlearn.org/custom-code/#tf-expire)
 
