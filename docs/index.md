@@ -23,8 +23,8 @@ Published on 15 October 2023.
 
 Did you miss this Special Session, 13 October 2023:&nbsp;**<span translate="no">Little Loopers<span translate="no">&nbsp;to T1D Titans: Moving Our Kids Towards T1D Independence**?
 
+* [Click for Video Replay](https://youtu.be/4RT_Czdu2vI)
 * This featured a talk with Joe Donahue and Tina Hammer, parents of teen&nbsp;<span translate="no">Loopers<span translate="no">&nbsp;at various stages of independence
-* The link to the video replay with be posted here as soon as it is available.
 
 Many sessions are recorded. The full list is found here:
 
