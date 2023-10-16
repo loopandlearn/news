@@ -27,7 +27,7 @@ Did you miss this Special Session, 13 October 2023: **<span translate="no">Littl
 * The link to the video replay with be posted here as soon as it is available.
 
 Many sessions are recoderd. This full list is found here:
-ß
+
 * Recorded sessions at&nbsp;[<span translate="no">LOOP and LEARN</span>&nbsp;YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
 ## Reminder if you Build with Browser
