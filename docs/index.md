@@ -1,11 +1,13 @@
 ## Welcome to News from&nbsp;_<span translate="no">Loop and Learn</span>_
 
-Published on 15 October 2023.
+Published on 22 October 2023.
 
 ## In this edition:
 
 * [Upcoming *Zoom* Sessions](#upcoming-zoom-sessions)
-* [Reminder if you Build with Browser](#reminder-if-you-build-with-browser)
+* [T1D Community](#t1d-community)
+* [Fix for Error: Build with Browser](#fix-for-error-build-with-browser)
+* [Update for the *Loop Follow* App](#update-for-the-loop-follow-app)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -16,29 +18,66 @@ Published on 15 October 2023.
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop</span>_&nbsp;Any Topic | no | 18:00 UTC | 19 Oct,<br>02 Nov,<br>16 Nov,<br>30 Nov |
 | _<span translate="no">iAPS</span>_&nbsp;Session: Dynamic ISF with Magnus & Theresa | yes | 17:00 UTC | 28 October |
+| _<span translate="no">Loop</span>_&nbsp;Any Topic | no | 18:00 UTC | 02 Nov,<br>16 Nov,<br>30 Nov |
 
 ### Video Replay
-
-Did you miss this Special Session, 13 October 2023:&nbsp;**<span translate="no">Little Loopers<span translate="no">&nbsp;to T1D Titans: Moving Our Kids Towards T1D Independence**?
-
-* [Click for Video Replay](https://youtu.be/4RT_Czdu2vI)
-* This featured a talk with Joe Donahue and Tina Hammer, parents of teen&nbsp;<span translate="no">Loopers<span translate="no">&nbsp;at various stages of independence
 
 Many sessions are recorded. The full list is found here:
 
 * Recorded sessions at&nbsp;[<span translate="no">LOOP and LEARN</span>&nbsp;YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
-## Reminder if you Build with Browser
+## T1D Community
 
-When you build the *Loop* app using a browser, you must rebuild a minimum of every 90 days. If you fail to do this, you will see the message:&nbsp;**<span translate="no">"Loop Beta has expired"<span translate="no">**&nbsp;on your phone and will not be able to run&nbsp;_<span translate="no">Loop</span>_&nbsp;until you build again. Remember that your pump will revert to running your scheduled basal rates within 30 minutes when the app is not available. 
+We are excited that numerous members of our team are participating in diabetes conferences. This not only helps to educate us better, it also helps insert more of the people behind DIY looping and support into the conversations that take place high up in the diabetes realm- a great thing for all of our interests!
 
-You can go into the *Testflight* app on the phone and check how many days are left on your current build and then add a reminder in your calendar to rebuild before then. [Update with Browser](https://loopkit.github.io/loopdocs/gh-actions/gh-update/). 
+* d-data exChange
+* EASD: European Association for the Study of Diabetes
+* TCOYD: Taking Control of Your Diabetes
+* Friends for Life
+* ATTD: Advanced Technologies & Treatments for Diabetes
+* American Diabetes Association
+* ISPAD: International Society for Pediatric and Adolescent Diabetes
 
-If you are using the released version of the *Loop* app (`main`), consider adding the new customization that reports the *TestFlight* date. You will receive in-app reminders starting 20 days before expiration. Loop dev users are already benefitting from this feature.
+## Fix for Error: Build with Browser
 
-* [*TestFlight* Expiration (Browser Build, main only)](https://www.loopandlearn.org/custom-code/#tf-expire)
+If you have a build failure with the Browser Build that used to be working and get a message similar to that below, check to be sure that all of your credit card info in Apple Developer is current - including any change to expiration date. If not, update it and the build should work.
+
+> “Unable to create a valid authorization token for the App Store Connect API. Verify that the FASTLANE_ISSUER_ID, FASTLANE_KEY_ID, and FASTLANE_KEY secrets are set correctly and try again.”
+
+## Update for the *Loop Follow* App
+
+New *Loop Follow* Update: Optimized for Better Mileage
+
+We are thrilled to unveil an update with several improvements:
+
+🔋 Battery Efficiency
+
+📆 Sensor Start Date Issues
+
+🔢 New Versioning
+
+🛠️ Code Refactoring
+
+Your feedback is invaluable to us, and we eagerly await your thoughts on this update.
+
+### Details
+
+🔋 Battery Efficiency
+
+While we've aimed to reduce battery consumption, we're not promising miracles. The *Loop Follow* app might still be among the apps that drain your battery the most. However, we have optimized how Carbs Today, SAGE, and CAGE data are fetched, and we hope this results in a more efficient performance. Please share your observations regarding any changes in battery life.
+
+📆 Sensor Start Date Issues
+
+We have addressed a peculiar issue where the Loop dev may be uploading sensor start dates set to the year 2159, affecting SAGE readings. This version will ignore future sensor start dates.
+
+🔢 New Versioning
+
+Starting with this release, you will see versioning in the *Loop Follow* app. Check the bottom of the settings page for the version number—this release is labeled as 2.0.0. While not a major milestone, it's a starting point for future refinements.
+
+🛠️ Code Refactoring
+
+Behind the scenes, we have overhauled how Nightscout data is downloaded and processed, involving more than 2000 lines of code. This comprehensive change could potentially introduce undiscovered bugs, so please report any issues you encounter.
 
 ## Helpful Links
 
