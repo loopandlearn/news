@@ -5,7 +5,7 @@ Published on 22 October 2023.
 ## In this edition:
 
 * [Upcoming *Zoom* Sessions](#upcoming-zoom-sessions)
-* [T1D Community](#t1d-community)
+* [Diabetes Community Involvement](#diabetes-community-involvement)
 * [Fix for Error: Build with Browser](#fix-for-error-build-with-browser)
 * [Update for the *Loop Follow* App](#update-for-the-loop-follow-app)
 * [Helpful Links](#helpful-links)
@@ -27,17 +27,17 @@ Many sessions are recorded. The full list is found here:
 
 * Recorded sessions at&nbsp;[<span translate="no">LOOP and LEARN</span>&nbsp;YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
-## T1D Community
+## Diabetes Community Involvement
 
-We are excited that numerous members of our team are participating in diabetes conferences. This not only helps to educate us better, it also helps insert more of the people behind DIY looping and support into the conversations that take place high up in the diabetes realm- a great thing for all of our interests!
+We are excited that numerous members of our team are participating in diabetes conferences. This not only helps to educate us better, it also helps insert more of the people behind&nbsp;<span translate="no">DIY looping</span>&nbsp;and support into the conversations that take place high up in the diabetes realm- a great thing for all of our interests!
 
-* d-data exChange
-* EASD: European Association for the Study of Diabetes
-* TCOYD: Taking Control of Your Diabetes
-* Friends for Life
-* ATTD: Advanced Technologies & Treatments for Diabetes
-* American Diabetes Association
-* ISPAD: International Society for Pediatric and Adolescent Diabetes
+* <span translate="no">d-data exChange</span>
+* <span translate="no">EASD: European Association for the Study of Diabetes</span>
+* <span translate="no">TCOYD: Taking Control of Your Diabetes</span>
+* <span translate="no">Friends for Life</span>
+* <span translate="no">ATTD: Advanced Technologies & Treatments for Diabetes</span>
+* <span translate="no">American Diabetes Association</span>
+* <span translate="no">ISPAD: International Society for Pediatric and Adolescent Diabetes</span>
 
 ## Fix for Error: Build with Browser
 
