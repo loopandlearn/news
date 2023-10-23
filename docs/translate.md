@@ -30,6 +30,8 @@ Click on a language below to read a translated version.
 
 [Hrvatski](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=hr)
 
+[हिंदी](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=hi)
+
 [Italiano](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=it)
 
 [한국어](https://loopandlearn-github-io.translate.goog/news/?_x_tr_sl=auto&_x_tr_tl=ko)
