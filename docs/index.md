@@ -47,21 +47,11 @@ If you have a build failure with the Browser Build that used to be working and g
 
 ## Update for the *Loop Follow* App
 
-New *Loop Follow* Update: Optimized for Better Mileage
+Optimized for Better Mileage
 
-We are thrilled to unveil an update with several improvements:
+Your feedback is invaluable to us, and we eagerly await your thoughts on this update for the *Loop Follow* App.
 
-🔋 Battery Efficiency
-
-📆 Sensor Start Date Issues
-
-🔢 New Versioning
-
-🛠️ Code Refactoring
-
-Your feedback is invaluable to us, and we eagerly await your thoughts on this update.
-
-### Details
+Highlights for the improvements:
 
 🔋 Battery Efficiency
 
