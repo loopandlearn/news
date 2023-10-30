@@ -39,7 +39,7 @@ Many sessions are recorded. The full list is found here:
 
 ## Seasonal Time Changes
 
-Whatever the time-change is called in your area, it just happened or will happen soon. Be sure to update the time your app uses for your insulin infusion-pump to the new local time.
+Whatever the time-change is called in your area, it just happened or will happen soon. Be sure to update the time your app uses for your insulin pump to the new local time.
 
 This link tells you how to update time in the *Loop* app: [Time Zones, Daylight Savings Time, Summer Time](https://loopkit.github.io/loopdocs/faqs/time-faqs/#time-zones-daylight-savings-time-summer-time)
 
