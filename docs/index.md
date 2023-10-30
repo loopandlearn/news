@@ -1,6 +1,6 @@
 ## Welcome to News from&nbsp;_<span translate="no">Loop and Learn</span>_
 
-Published on 22 October 2023.
+Published on TBD October 2023.
 
 ## In this edition:
 
@@ -27,7 +27,7 @@ Many sessions are recorded. The full list is found here:
 
 ## News is Delayed
 
-It is a manual process to convert the beautiful newsletter to this text-only version. This version may be delayed this week. Check back in a few hours.
+It is a manual process to prepare the beautiful newsletter and then convert it to this text-only version. There may be a delay this week. But there will be news.
 
 ## Helpful Links
 
