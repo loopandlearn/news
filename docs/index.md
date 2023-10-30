@@ -8,7 +8,7 @@ Published on 29 October 2023.
 * [Time Zones, Daylight Savings Time, Summer Time](#time-zones-daylight-savings-time-summer-time)
 * [ISPAD 2023 Meeting Highlights](#ispad-2023-meeting-highlights)
 * [Happy Halloween](#happy-halloween)
-* [Cure 100 Mile Challenge](#cure-100-mile-challenge)
+* [100-Mile Challenge](#100-mile-challenge)
 * [_<span translate="no">Loop and Learn Italia</span>_](#loop-and-learn-italia)
 * [Check the Expiration Date on Your App](#check-the-expiration-date-on-your-app)
 * [Helpful Links](#helpful-links)
@@ -39,7 +39,7 @@ Many sessions are recorded. The full list is found here:
 
 ## Time Zones, Daylight Savings Time, Summer Time
 
-Whatever the time-change is called in your area, it just happened or will happen soon. Be sure to update the pump time in your app to the new local time.
+Whatever the time-change is called in your area, it just happened or will happen soon. Be sure to update the time your app uses for your insulin infusion-pump to the new local time.
 
 This link tells you how to update time in the *Loop* app: [Time Zones, Daylight Savings Time, Summer Time](https://loopkit.github.io/loopdocs/faqs/time-faqs/#time-zones-daylight-savings-time-summer-time)
 
@@ -68,11 +68,11 @@ This link tells you how to update time in the *Loop* app: [Time Zones, Daylight 
 * [Tips and Tricks for Handling Halloween with Type 1 Diabetes](https://childrenwithdiabetes.com/halloween-and-diabetes/?fbclid=IwAR2wxNdZA6KD9Hk8cQclAseF3rSMAdfz3lZpAFWy5Cb_aNAFrg0OkVXGp0c)
 * [Carb Counts for Candy](https://childrenwithdiabetes.com/halloween-and-diabetes/carb-counts-for-common-candies/)
 
-## Cure 100 Mile Challenge
+## 100-Mile Challenge
 
 Looking for a good way to get some exercise, while working towards a cure? November is the time!
 
-* [4th Annual: <span translate="no">T1D</span>&nbsp;Cure 100 Mile Challenge](https://www.facebook.com/thejdca/posts/pfbid02NyBQpVLpV5DHCA9Xgzk7DoCdSsnpfhKW72sazdoPMopFbaza5v7Ztm7PxmCC7bqUl)
+* [4th Annual: <span translate="no">T1D</span>&nbsp;Cure 100-Mile Challenge](https://www.facebook.com/thejdca/posts/pfbid02NyBQpVLpV5DHCA9Xgzk7DoCdSsnpfhKW72sazdoPMopFbaza5v7Ztm7PxmCC7bqUl)
 
 ## _<span translate="no">Loop and Learn Italia</span>_
 
