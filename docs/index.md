@@ -5,7 +5,7 @@ Published on 29 October 2023.
 ## In this edition:
 
 * [Upcoming *Zoom* Sessions](#upcoming-zoom-sessions)
-* [Time Zones, Daylight Savings Time, Summer Time](#time-zones-daylight-savings-time-summer-time)
+* [Seasonal Time Changes](#seasonal-time-changes)
 * [ISPAD 2023 Meeting Highlights](#ispad-2023-meeting-highlights)
 * [Happy Halloween](#happy-halloween)
 * [100-Mile Challenge](#100-mile-challenge)
@@ -37,7 +37,7 @@ Many sessions are recorded. The full list is found here:
 
 * Recorded sessions at&nbsp;[<span translate="no">LOOP and LEARN</span>&nbsp;YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
-## Time Zones, Daylight Savings Time, Summer Time
+## Seasonal Time Changes
 
 Whatever the time-change is called in your area, it just happened or will happen soon. Be sure to update the time your app uses for your insulin infusion-pump to the new local time.
 
