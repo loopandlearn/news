@@ -8,7 +8,7 @@ Published on 29 October 2023.
 * [Time Zones, Daylight Savings Time, Summer Time](#time-zones-daylight-savings-time-summer-time)
 * [ISPAD 2023 Meeting Highlights](#ispad-2023-meeting-highlights)
 * [Happy Halloween](#happy-halloween)
-* [<span translate="no">T1D</span>: Cure 100 Mile Challenge](#t1d-cure-100-mile-challenge)
+* [Cure 100 Mile Challenge](#cure-100-mile-challenge)
 * [_<span translate="no">Loop and Learn Italia</span>_](#loop-and-learn-italia)
 * [Check the Expiration Date on Your App](#check-the-expiration-date-on-your-app)
 * [Helpful Links](#helpful-links)
@@ -47,7 +47,7 @@ This link tells you how to update time in the *Loop* app: [Time Zones, Daylight 
 
 > Thanks to Miroslava Calegari, 2nd year “dedoc voice”, for this summary of a few of the high points from [ISPAD 2023](https://2023.ispad.org/)!
 
-* The importance of widespread population screening was a central topic. It's not just about one stage of diabetes, when the disease has already set in. Unlike previous conferences (ISPAD2022, ATTD2023) while speaking a lot about Stage 1 and Stage 2 of type 1 diabetes (before clinical diagnosis), this time, much attention was given to what's being called Stage 4 of diabetes - long standing <span translate="no">T1D</span>.
+* The importance of widespread population screening was a central topic. It's not just about one stage of diabetes, when the disease has already set in. Unlike previous conferences (ISPAD2022, ATTD2023) while speaking a lot about Stage 1 and Stage 2 of type 1 diabetes (before clinical diagnosis), this time, much attention was given to what's being called Stage 4 of diabetes - long standing&nbsp;<span translate="no">T1D</span>.
 
 * The evidence is clear: we should not simply wait for a universal solution to type 1 diabetes. There are various cures in the pipeline, and one size does not fit all.
 
@@ -63,12 +63,12 @@ This link tells you how to update time in the *Loop* app: [Time Zones, Daylight 
 
 ## Happy Halloween
 
-Thanks to [Children with Diabetes](https://childrenwithdiabetes.com/) for providing helpful information for Halloween.
+[<span translate="no">Children with Diabetes</span>](https://childrenwithdiabetes.com/)&nbsp;provides helpful information for Halloween.
 
 * [Tips and Tricks for Handling Halloween with Type 1 Diabetes](https://childrenwithdiabetes.com/halloween-and-diabetes/?fbclid=IwAR2wxNdZA6KD9Hk8cQclAseF3rSMAdfz3lZpAFWy5Cb_aNAFrg0OkVXGp0c)
 * [Carb Counts for Candy](https://childrenwithdiabetes.com/halloween-and-diabetes/carb-counts-for-common-candies/)
 
-## <span translate="no">T1D</span>: Cure 100 Mile Challenge
+## Cure 100 Mile Challenge
 
 Looking for a good way to get some exercise, while working towards a cure? November is the time!
 
