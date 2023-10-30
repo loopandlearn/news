@@ -25,11 +25,9 @@ Many sessions are recorded. The full list is found here:
 
 * Recorded sessions at&nbsp;[<span translate="no">LOOP and LEARN</span>&nbsp;YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
-The direct link to the 28 October 2023 session on _<span translate="no">iAPS</span>_&nbsp;is [Settings and Dynamic ISF]
-
 ## News is Delayed
 
-Sorry - it is a manual process to convert the beautiful newsletter to this text-only version. It will be delayed this week. Check back in a few hours.
+It is a manual process to convert the beautiful newsletter to this text-only version. This version may be delayed this week. Check back in a few hours.
 
 ## Helpful Links
 
