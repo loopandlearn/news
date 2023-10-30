@@ -8,7 +8,7 @@ Published on 29 October 2023.
 * [Time Zones, Daylight Savings Time, Summer Time](#time-zones-daylight-savings-time-summer-time)
 * [ISPAD 2023 Meeting Highlights](#ispad-2023-meeting-highlights)
 * [Happy Halloween](#happy-halloween)
-* [T1D Cure 100 Mile Challenge](#t1d-cure-100-mile-challenge)
+* [<span translate="no">T1D</span>: Cure 100 Mile Challenge](#t1d-cure-100-mile-challenge)
 * [_<span translate="no">Loop and Learn Italia</span>_](#loop-and-learn-italia)
 * [Check the Expiration Date on Your App](#check-the-expiration-date-on-your-app)
 * [Helpful Links](#helpful-links)
@@ -47,7 +47,7 @@ This link tells you how to update time in the *Loop* app: [Time Zones, Daylight 
 
 > Thanks to Miroslava Calegari, 2nd year “dedoc voice”, for this summary of a few of the high points from [ISPAD 2023](https://2023.ispad.org/)!
 
-* The importance of widespread population screening was a central topic. It's not just about one stage of diabetes, when the disease has already set in. Unlike previous conferences (ISPAD2022, ATTD2023) while speaking a lot about Stage 1 and Stage 2 of type 1 diabetes (before clinical diagnosis), this time, much attention was given to what's being called Stage 4 of diabetes - long standing t1d.
+* The importance of widespread population screening was a central topic. It's not just about one stage of diabetes, when the disease has already set in. Unlike previous conferences (ISPAD2022, ATTD2023) while speaking a lot about Stage 1 and Stage 2 of type 1 diabetes (before clinical diagnosis), this time, much attention was given to what's being called Stage 4 of diabetes - long standing <span translate="no">T1D</span>.
 
 * The evidence is clear: we should not simply wait for a universal solution to type 1 diabetes. There are various cures in the pipeline, and one size does not fit all.
 
@@ -68,15 +68,15 @@ Thanks to [Children with Diabetes](https://childrenwithdiabetes.com/) for provid
 * [Tips and Tricks for Handling Halloween with Type 1 Diabetes](https://childrenwithdiabetes.com/halloween-and-diabetes/?fbclid=IwAR2wxNdZA6KD9Hk8cQclAseF3rSMAdfz3lZpAFWy5Cb_aNAFrg0OkVXGp0c)
 * [Carb Counts for Candy](https://childrenwithdiabetes.com/halloween-and-diabetes/carb-counts-for-common-candies/)
 
-## T1D Cure 100 Mile Challenge
+## <span translate="no">T1D</span>: Cure 100 Mile Challenge
 
 Looking for a good way to get some exercise, while working towards a cure? November is the time!
 
-* [4th Annual T1D Cure 100 Mile Challenge](https://www.facebook.com/thejdca/posts/pfbid02NyBQpVLpV5DHCA9Xgzk7DoCdSsnpfhKW72sazdoPMopFbaza5v7Ztm7PxmCC7bqUl)
+* [4th Annual: <span translate="no">T1D</span>&nbsp;Cure 100 Mile Challenge](https://www.facebook.com/thejdca/posts/pfbid02NyBQpVLpV5DHCA9Xgzk7DoCdSsnpfhKW72sazdoPMopFbaza5v7Ztm7PxmCC7bqUl)
 
 ## _<span translate="no">Loop and Learn Italia</span>_
 
-We are excited to announce that the Facebook group previously known as _<span translate="no">Looped Italia</span>_ was renamed to _<span translate="no">Loop and Learn Italia</span>_! Their aim is to support Italian members in their mother language, following the example of _<span translate="no">Loop and Learn</span>_. How wonderful to have such great DIY support around the globe!
+We are excited to announce that the Facebook group previously known as&nbsp;_<span translate="no">Looped Italia</span>_&nbsp;was renamed to&nbsp;_<span translate="no">Loop and Learn Italia</span>_! Their aim is to support Italian members in their mother language, following the example of&nbsp;_<span translate="no">Loop and Learn</span>_. How wonderful to have such great DIY support around the globe!
 
 ## Check the Expiration Date on Your App
 
@@ -89,5 +89,5 @@ No matter what kind of DIY app you use and no matter how you build, you should b
 * [Subscribe](https://www.loopandlearn.org/newsletter-signup/) to get the Newsletter delivered to your email weekly.
     * Some articles in the [original Newsletter](https://www.loopandlearn.org/2022/10/19/loop-and-learn-newsletter/) are not reproduced here
 * [Check for Updates](https://www.loopandlearn.org/version-updates/)
-* [Find a&nbsp;<span translate="no">Loop</span>-friendly Health Care Provider](https://www.loopandlearn.org/hcp-recommendations/)
+* [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/)
 
