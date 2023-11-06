@@ -1,16 +1,14 @@
 ## Welcome to News from&nbsp;_<span translate="no">Loop and Learn</span>_
 
-Published on 30 October 2023.
+Published on 6 November 2023.
 
 ## In this edition:
 
 * [Upcoming *Zoom* Sessions](#upcoming-zoom-sessions)
 * [Seasonal Time Changes](#seasonal-time-changes)
-* [ISPAD 2023 Meeting Highlights](#ispad-2023-meeting-highlights)
-* [Happy Halloween](#happy-halloween)
-* [100-Mile Challenge](#100-mile-challenge)
-* [_<span translate="no">Loop and Learn Italia</span>_](#loop-and-learn-italia)
-* [Check the Expiration Date on Your App](#check-the-expiration-date-on-your-app)
+* [The *Apple* Health App](#the-apple-health-app)
+* [The *Loop Follow* App](#the-loop-follow-app)
+* [Diabetes Awareness Month](#diabetes-awareness-month)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -21,8 +19,6 @@ Published on 30 October 2023.
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop</span>_: Informal Discussion | no | 18:00 UTC | 02 November |
-| _<span translate="no">iAPS</span>_: Deep Dive into Dynamic ISF with Mike Plante | yes | 17:00 UTC | 04 November |
 | _<span translate="no">Loop</span>_: Informal Discussion | no | 19:00 UTC | 16 Nov,<br>30 Nov |
 
 #### Time Zone Converter
@@ -31,7 +27,13 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ### Video Replay
 
-Did you miss the _<span translate="no">iAPS</span>_: Dynamic ISF Zoom with Magnus & Theresa?  Here's the direct [Video Replay](https://www.youtube.com/watch?v=0Cv6gYMRBF4) link.
+Did you miss the **_<span translate="no">iAPS</span>_: Deep Dive Into Dynamic ISF Zoom with Mike Plante**?
+
+* [Direct Link to Video Replay](https://www.youtube.com/watch?v=7aJA-leQyPc)
+
+Did you miss the **_<span translate="no">iAPS</span>_: Autosens and Dynamic ISF Zoom with Magnus & Theresa**?
+
+* [Direct Link to Video Replay](https://www.youtube.com/watch?v=0Cv6gYMRBF4)
 
 Many sessions are recorded. The full list is found here:
 
@@ -39,50 +41,43 @@ Many sessions are recorded. The full list is found here:
 
 ## Seasonal Time Changes
 
-Whatever the time-change is called in your area, it just happened or will happen soon. Be sure to update the time your app uses for your insulin pump to the new local time.
+Whatever the time-change is called in your area, it just happened. Be sure to update the time your app uses for your insulin pump to the new local time.
 
 This link tells you how to update time in the *Loop* app: [Time Zones, Daylight Savings Time, Summer Time](https://loopkit.github.io/loopdocs/faqs/time-faqs/#time-zones-daylight-savings-time-summer-time)
 
-## ISPAD 2023 Meeting Highlights
+## The *Apple* Health App
 
-> Thanks to Miroslava Calegari, 2nd year “dedoc voice”, for this summary of a few of the high points from [ISPAD 2023](https://2023.ispad.org/)!
+The *Apple* Health app is an integral part of how Loop works. Be sure your permissions are set correctly. The documention has a [FAQs page](https://loopkit.github.io/loopdocs/faqs/apple-health-faqs/).
 
-* The importance of widespread population screening was a central topic. It's not just about one stage of diabetes, when the disease has already set in. Unlike previous conferences (ISPAD2022, ATTD2023) while speaking a lot about Stage 1 and Stage 2 of type 1 diabetes (before clinical diagnosis), this time, much attention was given to what's being called Stage 4 of diabetes - long standing&nbsp;<span translate="no">T1D</span>.
+If you recently switched to *Dexcom G7* from *Dexcom G6*, make sure you give the *Dexcom G7* app permission to write to the *Apple* Health app - please [read the documentation at this link](https://loopkit.github.io/loopdocs/loop-3/add-cgm/#dexcom-g7).
 
-* The evidence is clear: we should not simply wait for a universal solution to type 1 diabetes. There are various cures in the pipeline, and one size does not fit all.
+## The *Loop Follow* App
 
-* Scientists are passionately embracing the #WeAreNotWaiting mantra as well, in pursuit of a cure. The hot topics of the conference revolved around prevention, screening, immunotherapy, and beta cell replacements. DIY (Do-It-Yourself) presentations, including those by Lenka Petruzelkova (AAPS) and Katarina Braune (who, herself, is fully looped on iAPS), have become a significant part of ISPAD.
+Several important updates are included in _<span translate="no">Loop Follow 2.0.01</span>_:
 
-* The presence of people living with diabetes and caregivers under the #dedoc umbrella is now an essential aspect, both in the present and for the future. The most powerful resource for learning about diabetes is sharing and listening to those who live with it 24/7.
+* Initial graph display after opening app is now correct
+* SAGE can now be more than 10 days
+* Support for folks using the *iAPS* App
+    * COB displays only integers 
+    * Use *iAPS* colors for COB, IOB, UAM and ZT 
 
-### Links
+Thanks for your support and feedback.
 
-* [Miraslava Calegari: Facebook Photos from ISPAD 2023](https://www.facebook.com/media/set/?vanity=type1dmaniac&set=a.10231373909868742)
-* [#dedoc voices](https://www.dedoc.org/voices)
-* [ISPAD Home Page](https://ispad.org/)
+* More details on this release are available in [this Facebook post](https://www.facebook.com/groups/LOOPandLEARN/posts/3550188561904289/)
+* Documentation is found at [_<span translate="no">Loop Follow</span>_](https://www.loopandlearn.org/loop-follow/)
 
-## Happy Halloween
+## Diabetes Awareness Month
 
-[<span translate="no">Children with Diabetes</span>](https://childrenwithdiabetes.com/)&nbsp;provides helpful information for Halloween.
+Many of us take Diabetes Awareness Month as an occasion to help make others aware, but there is plenty we can do to increase our own awareness. Here’s a great reminder of how well that can serve us. This was written by fellow Looper Sanda Jane last November:
 
-* [Tips and Tricks for Handling Halloween with Type 1 Diabetes](https://childrenwithdiabetes.com/halloween-and-diabetes/?fbclid=IwAR2wxNdZA6KD9Hk8cQclAseF3rSMAdfz3lZpAFWy5Cb_aNAFrg0OkVXGp0c)
-* [Carb Counts for Candy](https://childrenwithdiabetes.com/halloween-and-diabetes/carb-counts-for-common-candies/)
-
-## 100-Mile Challenge
-
-Looking for a good way to get some exercise, while working towards a cure? November is the time!
-
-* [4th Annual: <span translate="no">T1D</span>&nbsp;Cure 100-Mile Challenge](https://www.facebook.com/thejdca/posts/pfbid02NyBQpVLpV5DHCA9Xgzk7DoCdSsnpfhKW72sazdoPMopFbaza5v7Ztm7PxmCC7bqUl)
-
-## _<span translate="no">Loop and Learn Italia</span>_
-
-We are excited to announce that the Facebook group previously known as&nbsp;_<span translate="no">Looped Italia</span>_&nbsp;was renamed to&nbsp;_<span translate="no">Loop and Learn Italia</span>_! Their aim is to support Italian members in their mother language, following the example of&nbsp;_<span translate="no">Loop and Learn</span>_. How wonderful to have such great DIY support around the globe!
-
-## Check the Expiration Date on Your App
-
-No matter what kind of DIY app you use and no matter how you build, you should be aware of when that app expires and be proactive in updating or rebuilding the app before then. The link below is for the *Loop* app. If you use a different app, check the documentation for that app.
-
-* [FAQS: Update or Rebuild](https://loopkit.github.io/loopdocs/faqs/update-faqs/#overview)
+> Just have to say Thank You to the _<span translate="no">Loop</span>_ developers and leaders. Lots to be thankful for during Diabetes Awareness Month and as Thanksgiving approaches! 
+> 
+> * Started 3 Loopers at the beginning of October. The “hands-off” time has been life changing - I used to try to temp basal on and off to catch lows and bump highs 24/7, but now the algorithm does it so much better than is humanly possible, and my brain can think about other important things sometimes.
+> * We have all slept more through the night than in recent memory and I would say I’ve been woken more by compression lows or 3 hour Dex outages than actual bg alerts (shouting at the diabetes gods).
+> * We’ve more than doubled the number of unicorns, and without adding low bgs.
+> * And seeing negative insulin onboard means I know when low treatment is needed or to just wait a minute.
+> 
+> Seriously can’t thank you all enough! 
 
 ## Helpful Links
 
