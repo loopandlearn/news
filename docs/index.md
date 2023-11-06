@@ -53,7 +53,7 @@ If you recently switched to *Dexcom G7* from *Dexcom G6*, make sure you give the
 
 ## The *Loop Follow* App
 
-Several important updates are included in _<span translate="no">Loop Follow 2.0.01</span>_:
+Several important updates are included in&nbsp;_<span translate="no">Loop Follow 2.0.01</span>_:
 
 * Initial graph display after opening app is now correct
 * SAGE can now be more than 10 days
@@ -70,7 +70,7 @@ Thanks for your support and feedback.
 
 Many of us take Diabetes Awareness Month as an occasion to help make others aware, but there is plenty we can do to increase our own awareness. Here’s a great reminder of how well that can serve us. This was written by fellow Looper Sanda Jane last November:
 
-> Just have to say Thank You to the _<span translate="no">Loop</span>_ developers and leaders. Lots to be thankful for during Diabetes Awareness Month and as Thanksgiving approaches! 
+> Just have to say Thank You to the&nbsp;_<span translate="no">Loop</span>_&nbsp;developers and leaders. Lots to be thankful for during Diabetes Awareness Month and as Thanksgiving approaches! 
 > 
 > * Started 3 Loopers at the beginning of October. The “hands-off” time has been life changing - I used to try to temp basal on and off to catch lows and bump highs 24/7, but now the algorithm does it so much better than is humanly possible, and my brain can think about other important things sometimes.
 > * We have all slept more through the night than in recent memory and I would say I’ve been woken more by compression lows or 3 hour Dex outages than actual bg alerts (shouting at the diabetes gods).
