@@ -64,7 +64,7 @@ Several important updates are included in&nbsp;_<span translate="no">Loop Follow
 Thanks for your support and feedback.
 
 * More details on this release are available in [this Facebook post](https://www.facebook.com/groups/LOOPandLEARN/posts/3550188561904289/)
-* Documentation is found at [_<span translate="no">Loop Follow</span>_](https://www.loopandlearn.org/loop-follow/)
+* Documentation is found at&nbsp;[_<span translate="no">Loop Follow</span>_](https://www.loopandlearn.org/loop-follow/)
 
 ## Diabetes Awareness Month
 
