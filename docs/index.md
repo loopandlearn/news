@@ -1,15 +1,16 @@
 ## Welcome to News from&nbsp;_<span translate="no">Loop and Learn</span>_
 
-Published on 6 November 2023.
+Published on 12 November 2023.
 
 ## In this edition:
 
 * [Upcoming *Zoom* Sessions](#upcoming-zoom-sessions)
-* [Seasonal Time Changes](#seasonal-time-changes)
-* [The *Apple* Health App](#the-apple-health-app)
-* [The *Loop Follow* App](#the-loop-follow-app)
+* [_<span translate="no">D-Data ExChange</span>_](#d-data-exchange)
+* [Did you know?](#did-you-know)
+    * [*Omnipod* Insulin Remaining](#omnipod-insulin-remaining)
+    * [Medical Items Exchange](#medical-items-exchange)
 * [Diabetes Awareness Month](#diabetes-awareness-month)
-* [Helpful Links](#helpful-links)
+
 
 ## Upcoming *Zoom* Sessions
 
@@ -39,45 +40,32 @@ Many sessions are recorded. The full list is found here:
 
 * Recorded sessions at&nbsp;[<span translate="no">LOOP and LEARN</span>&nbsp;YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
-## Seasonal Time Changes
+## _<span translate="no">D-Data ExChange</span>_
 
-Whatever the time-change is called in your area, it just happened. Be sure to update the time your app uses for your insulin pump to the new local time.
+Several&nbsp;_<span translate="no">Loop and Learn</span>_&nbsp;team members attended the `DiabetesMine Innovation Days` conference last week (9 & 10 November 2023) in San Diego, CA. In addition to Dan, Meera, Marion, Mike and Kenny; some iAPS gurus Theresa and Magnus were also there.
 
-This link tells you how to update time in the *Loop* app: [Time Zones, Daylight Savings Time, Summer Time](https://loopkit.github.io/loopdocs/faqs/time-faqs/#time-zones-daylight-savings-time-summer-time)
+## Did you know?
 
-## The *Apple* Health App
+### *Omnipod* Insulin Remaining
 
-The *Apple* Health app is an integral part of how Loop works. Be sure your permissions are set correctly. The documention has a [FAQs page](https://loopkit.github.io/loopdocs/faqs/apple-health-faqs/).
+When Omnipod first says, “No insulin remaining”, up to 4 units of useable insulin **might** remain. When insulin is depleted, your pod will give you a (not so) gentle notice.
 
-If you recently switched to *Dexcom G7* from *Dexcom G6*, make sure you give the *Dexcom G7* app permission to write to the *Apple* Health app - please [read the documentation at this link](https://loopkit.github.io/loopdocs/loop-3/add-cgm/#dexcom-g7).
+### Medical Items Exchange
 
-## The *Loop Follow* App
+If you have&nbsp;_<span translate="no">Loop-related</span>_&nbsp;items to sell or trade, or wish to ask for such, [_<span translate="no">Looping in a Time of Covid</span>_](https://www.facebook.com/groups/1087611668259945)&nbsp;Facebook group is the place to do that. Read the messages in the `Featured` tab carefully before posting.
 
-Several important updates are included in&nbsp;_<span translate="no">Loop Follow 2.0.01</span>_:
-
-* Initial graph display after opening app is now correct
-* SAGE can now be more than 10 days
-* Support for folks using the *iAPS* App
-    * COB displays only integers 
-    * Use *iAPS* colors for COB, IOB, UAM and ZT 
-
-Thanks for your support and feedback.
-
-* More details on this release are available in [this Facebook post](https://www.facebook.com/groups/LOOPandLEARN/posts/3550188561904289/)
-* Documentation is found at&nbsp;[_<span translate="no">Loop Follow</span>_](https://www.loopandlearn.org/loop-follow/)
+_<span translate="no">Loop and Learn</span>_&nbsp;asks that members do not post ads on our Facebook page.
 
 ## Diabetes Awareness Month
 
-Many of us take Diabetes Awareness Month as an occasion to help make others aware, but there is plenty we can do to increase our own awareness. Here’s a great reminder of how well that can serve us. This was written by fellow Looper Sanda Jane last November:
+November is Diabetes Awareness Month. How aware are you of the many resources at your disposal for making the MOST of your *DIY Closed-Loop Insulin Delivery System* app? Here are some links:
 
-> Just have to say Thank You to the&nbsp;_<span translate="no">Loop</span>_&nbsp;developers and leaders. Lots to be thankful for during Diabetes Awareness Month and as Thanksgiving approaches! 
-> 
-> * Started 3 Loopers at the beginning of October. The “hands-off” time has been life changing - I used to try to temp basal on and off to catch lows and bump highs 24/7, but now the algorithm does it so much better than is humanly possible, and my brain can think about other important things sometimes.
-> * We have all slept more through the night than in recent memory and I would say I’ve been woken more by compression lows or 3 hour Dex outages than actual bg alerts (shouting at the diabetes gods).
-> * We’ve more than doubled the number of unicorns, and without adding low bgs.
-> * And seeing negative insulin onboard means I know when low treatment is needed or to just wait a minute.
-> 
-> Seriously can’t thank you all enough! 
+* [`LoopDocs`](https://loopkit.github.io/loopdocs/)
+* [`LoopTips`](https://loopkit.github.io/looptips/)
+* [`Loop` Zulipchat](https://loop.zulipchat.com/)
+* [_<span translate="no">Loop and Learn</span>_&nbsp;Resources](https://www.loopandlearn.org/resources/)
+* [`iAPS Docs`](https://iaps.readthedocs.io/en/main/)
+
 
 ## Helpful Links
 
