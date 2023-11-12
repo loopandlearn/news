@@ -48,11 +48,11 @@ Several&nbsp;_<span translate="no">Loop and Learn</span>_&nbsp;team members atte
 
 ### *Omnipod* Insulin Remaining
 
-When Omnipod first says, “No insulin remaining”, up to 4 units of useable insulin **might** remain. When insulin is depleted, your pod will give you a (not so) gentle notice.
+When Omnipod first says, “No insulin remaining”, up to 4 units of useable insulin might remain. When insulin is depleted, your pod will give you a (not so) gentle notice.
 
 ### Medical Items Exchange
 
-If you have&nbsp;_<span translate="no">Loop-related</span>_&nbsp;items to sell or trade, or wish to ask for such, [_<span translate="no">Looping in a Time of Covid</span>_](https://www.facebook.com/groups/1087611668259945)&nbsp;Facebook group is the place to do that. Read the messages in the `Featured` tab carefully before posting.
+If you have&nbsp;_<span translate="no">Loop-related</span>_&nbsp;items to sell or trade, or wish to ask for such,&nbsp;[_<span translate="no">Looping in a Time of Covid</span>_](https://www.facebook.com/groups/1087611668259945)&nbsp;Facebook group is the place to do that. Read the messages in the `Featured` tab carefully before posting.
 
 _<span translate="no">Loop and Learn</span>_&nbsp;asks that members do not post ads on our Facebook page.
 
