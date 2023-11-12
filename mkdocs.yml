@@ -94,6 +94,7 @@ use_directory_urls: !ENV [CHECK_BROKEN_LINKS, True]
 nav:
 - Current: 'index.md'
 - Older:
+    - '2023-11-06': 'old/2023-11-06.md'
     - '2023-10-30': 'old/2023-10-30.md'
     - '2023-10-22': 'old/2023-10-22.md'
     - '2023-10-15': 'old/2023-10-15.md'
