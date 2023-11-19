@@ -1,15 +1,15 @@
 ## Welcome to News from&nbsp;_<span translate="no">Loop and Learn</span>_
 
-Published on 12 November 2023.
+Published on 19 November 2023.
 
 ## In this edition:
 
 * [Upcoming *Zoom* Sessions](#upcoming-zoom-sessions)
+* [9000 Members](#9000-members)
 * [_<span translate="no">D-Data ExChange</span>_](#d-data-exchange)
-* [Did you know?](#did-you-know)
-    * [*Omnipod* Insulin Remaining](#omnipod-insulin-remaining)
-    * [Medical Items Exchange](#medical-items-exchange)
 * [Diabetes Awareness Month](#diabetes-awareness-month)
+* [Diabetes Advantages](#diabetes-advantages)
+* [Happy Thanksgiving](#happy-thanksgiving)
 
 
 ## Upcoming *Zoom* Sessions
@@ -20,7 +20,7 @@ Published on 12 November 2023.
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop</span>_: Informal Discussion | no | 19:00 UTC | 16 Nov,<br>30 Nov |
+| _<span translate="no">Loop</span>_: Informal Discussion | no | 19:00 UTC | 30 Nov |
 
 #### Time Zone Converter
 
@@ -28,33 +28,33 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ### Video Replay
 
-Did you miss the **_<span translate="no">iAPS</span>_: Deep Dive Into Dynamic ISF Zoom with Mike Plante**?
-
-* [Direct Link to Video Replay](https://www.youtube.com/watch?v=7aJA-leQyPc)
-
-Did you miss the **_<span translate="no">iAPS</span>_: Autosens and Dynamic ISF Zoom with Magnus & Theresa**?
-
-* [Direct Link to Video Replay](https://www.youtube.com/watch?v=0Cv6gYMRBF4)
-
 Many sessions are recorded. The full list is found here:
 
 * Recorded sessions at&nbsp;[<span translate="no">LOOP and LEARN</span>&nbsp;YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
+## 9000 Members
+
+_<span translate="no">Loop and Learn</span>_&nbsp;Facebook group has grown to [9,000 members](https://www.facebook.com/groups/LOOPandLEARN/posts/3560094507580361/) as of this past week! We are grateful for all the help our members give each other and welcome our new members. Please note that when you invite new members to join, we’d appreciate your sending them the link to our group instead of hitting the “Invite” button, so that they will be directed to answer our mandatory group questions. This makes the joining process quicker and more seamless.
+
+[_<span translate="no">Loop and Learn</span>_: Facebook link](https://www.facebook.com/groups/LOOPandLEARN)
+
+`https://www.facebook.com/groups/LOOPandLEARN`
+
 ## _<span translate="no">D-Data ExChange</span>_
 
-Several&nbsp;_<span translate="no">Loop and Learn</span>_&nbsp;team members attended the `DiabetesMine Innovation Days` conference last week (9 & 10 November 2023) in San Diego, CA. In addition to Dan, Meera, Marion, Mike and Kenny; some iAPS gurus Theresa and Magnus were also there.
+Thanks to Mike Plante, _<span translate="no">Loop and Learn</span>_&nbsp;administrator and group expert for these meeting highlights!
 
-## Did you know?
+Last week, several&nbsp;_<span translate="no">Loop and Learn</span>_&nbsp;team members attended the [`DiabetesMine Fall 2023 Innovation Summit and d-data exChange`](https://ddataexchange.com/) in San Diego, California. It’s a smaller conference but it focuses on the bleeding edge of diabetes technology and innovation. Over the course of two days, many fascinating presentations were given, ranging from a start-up’s debut to commercial Goliaths putting their newest products on display.
 
-### *Omnipod* Insulin Remaining
+Kicking off the event was [Dean Kamen](https://www.firstinspires.org/about/leadership/dean-kamen). He is the inventor (1976) of the first wearable insulin pump, AutoSyringe. He also developed the [iBot](https://mobiusmobility.com/2021/05/the-ibot-a-mission-to-revolutionize-the-wheelchair/) which led to the Segway, *Coca-Cola* Freestyle machine, [`FIRST Robotics Competition`](https://www.firstinspires.org/robotics/frc), and many others. His current projects include both mass producing beta cell lines for research and a new insulin pump that delivers in the intradermal layer instead of the subcutaneous layer which should make it faster and more efficient.
 
-When Omnipod first says, “No insulin remaining”, up to 4 units of useable insulin might remain. When insulin is depleted, your pod will give you a (not so) gentle notice.
+Later in the event, there was also a presentation for a new open source CGM that reads glucose in the intradermal layer with essentially no lag time.
 
-### Medical Items Exchange
+Event activities also included a fashion show and crafts session with diabetes supplies and a brainstorming session about the pros and cons of real time CGM access in the healthcare realm.
 
-If you have&nbsp;_<span translate="no">Loop-related</span>_&nbsp;items to sell or trade, or wish to ask for such,&nbsp;[_<span translate="no">Looping in a Time of Covid</span>_](https://www.facebook.com/groups/1087611668259945)&nbsp;Facebook group is the place to do that. Read the messages in the `Featured` tab carefully before posting.
+Since `d-data` was the birthplace of the #WeAreNotWaiting movement, in 2013, it was appropriate that DIY legend Ben West gave a presentation on keeping diabetes open source innovation alive. Other open source presentations included iAPS, and a new fully closed loop (FCL) system by Nascence Biomed combining an offshoot of AndroidAPS with proprietary commercial pump drivers, and Boost which utilizes heart rate and a step counter to help automate an FCL.
 
-_<span translate="no">Loop and Learn</span>_&nbsp;asks that members do not post ads on our Facebook page.
+As intriguing as the presentations were, though, I think the networking and meeting so many other like-minded individuals from across the DIY diabetics community was my favorite part. There’s just something about being with so many other people who understand what we’re all going through and who are constantly pushing for new innovations. We even went out for pizza and gelato where a whole table didn’t bolus and just let their DIY system automate everything for them.
 
 ## Diabetes Awareness Month
 
@@ -66,6 +66,18 @@ November is Diabetes Awareness Month. How aware are you of the many resources at
 * [_<span translate="no">Loop and Learn</span>_&nbsp;Resources](https://www.loopandlearn.org/resources/)
 * [`iAPS Docs`](https://iaps.readthedocs.io/en/main/)
 
+## Diabetes Advantages
+
+Here are some actual advantages that people living with type 1 diabetes may be able to enjoy.
+
+* *Disney* guests with type 1 diabetes qualify for *Disney* [Disability Access Pass](https://disneyworld.disney.go.com/guest-services/disability-access-service/), which allows the qualifying guest and their party to obtain return times for rides and avoid much of the line. Other amusement parks may have similar services.
+* Type 1 diabetes qualifies one for a free lifetime pass to National Parks, monuments and landmarks. Here’s an [article about the pass](https://diatribe.org/how-get-free-lifetime-national-parks-pass), with some great tips.
+* When [traveling via air or going to the movies](https://beyondtype1.org/take-your-perks-with-type-1/) or other “restricted” places, people with type 1 diabetes have the ability to do things like take your own snacks in and get priority boarding, if needed.
+* [College students living with T1D](https://beyondtype1.org/college-university-with-type-1-diabetes/) may have numerous allowances, such as registering early for classes, priority dorm selection, excused absences, and more!
+
+## Happy Thanksgiving
+
+The U.S. celebrates Thanksgiving on November 23, 2023. See this [helpful article](https://www.loopandlearn.org/thanksgiving/) on the&nbsp;_<span translate="no">Loop and Learn</span>_&nbsp;website for tips that apply to all food-oriented holidays- we have a few coming up!
 
 ## Helpful Links
 
