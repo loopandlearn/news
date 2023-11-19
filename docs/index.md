@@ -20,7 +20,7 @@ Published on 19 November 2023.
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop</span>_: Informal Discussion | no | 19:00 UTC | 30 Nov |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 19:00 UTC | 30 Nov |
 
 #### Time Zone Converter
 
