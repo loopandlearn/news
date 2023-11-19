@@ -46,7 +46,7 @@ Thanks to Mike Plante, _<span translate="no">Loop and Learn</span>_&nbsp;adminis
 
 Last week, several&nbsp;_<span translate="no">Loop and Learn</span>_&nbsp;team members attended the [`DiabetesMine Fall 2023 Innovation Summit and d-data exChange`](https://ddataexchange.com/) in San Diego, California. It’s a smaller conference but it focuses on the bleeding edge of diabetes technology and innovation. Over the course of two days, many fascinating presentations were given, ranging from a start-up’s debut to commercial Goliaths putting their newest products on display.
 
-Kicking off the event was [Dean Kamen](https://www.firstinspires.org/about/leadership/dean-kamen). He is the inventor (1976) of the first wearable insulin pump, AutoSyringe. He also developed the [iBot](https://mobiusmobility.com/2021/05/the-ibot-a-mission-to-revolutionize-the-wheelchair/) which led to the Segway. Other project include the *Coca-Cola* Freestyle machine and the [`FIRST Robotics Competition`](https://www.firstinspires.org/robotics/frc). His current projects include both mass producing beta cell lines for research and a new insulin pump that delivers in the intradermal layer instead of the subcutaneous layer which should make it faster and more efficient.
+Kicking off the event was [Dean Kamen](https://www.firstinspires.org/about/leadership/dean-kamen). He is the inventor (1976) of the first wearable insulin pump, AutoSyringe. He also developed the [iBot](https://mobiusmobility.com/2021/05/the-ibot-a-mission-to-revolutionize-the-wheelchair/) which led to the Segway. Other projects include the *Coca-Cola* Freestyle machine and the [`FIRST Robotics Competition`](https://www.firstinspires.org/robotics/frc). His current projects include both mass producing beta cell lines for research and a new insulin pump that delivers in the intradermal layer instead of the subcutaneous layer which should make it faster and more efficient.
 
 Later in the event, there was also a presentation for a new open source CGM that reads glucose in the intradermal layer with essentially no lag time.
 
@@ -54,7 +54,7 @@ Event activities also included a fashion show and crafts session with diabetes s
 
 Since `d-data` was the birthplace of the #WeAreNotWaiting movement, in 2013, it was appropriate that DIY legend Ben West gave a presentation on keeping diabetes open source innovation alive. Other open source presentations included iAPS, and a new fully closed loop (FCL) system by Nascence Biomed combining an offshoot of AndroidAPS with proprietary commercial pump drivers, and Boost which utilizes heart rate and a step counter to help automate an FCL.
 
-As intriguing as the presentations were, though, I think the networking and meeting so many other like-minded individuals from across the DIY diabetics community was my favorite part. There’s just something about being with so many other people who understand what we’re all going through and who are constantly pushing for new innovations. We even went out for pizza and gelato where a whole table didn’t bolus and just let their DIY system automate everything for them.
+As intriguing as the presentations were, though, I think the networking and meeting so many other like-minded individuals from across the DIY diabetes community was my favorite part. There’s just something about being with so many other people who understand what we’re all going through and who are constantly pushing for new innovations. We even went out for pizza and gelato where a whole table didn’t bolus and just let their DIY system automate everything for them.
 
 ## Diabetes Awareness Month
 
@@ -71,7 +71,7 @@ November is Diabetes Awareness Month. How aware are you of the many resources at
 Here are some actual advantages that people living with type 1 diabetes may be able to enjoy.
 
 * *Disney* guests with type 1 diabetes qualify for *Disney* [Disability Access Pass](https://disneyworld.disney.go.com/guest-services/disability-access-service/), which allows the qualifying guest and their party to obtain return times for rides and avoid much of the line. Other amusement parks may have similar services.
-* Type 1 diabetes qualifies one for a free lifetime pass to National Parks, monuments and landmarks. Here’s an [article about the pass](https://diatribe.org/how-get-free-lifetime-national-parks-pass), with some great tips.
+* Type 1 diabetes qualifies one for a free lifetime pass to U.S. National Parks, monuments and landmarks. Here’s an [article about the pass](https://diatribe.org/how-get-free-lifetime-national-parks-pass), with some great tips.
 * When [traveling via air or going to the movies](https://beyondtype1.org/take-your-perks-with-type-1/) or other “restricted” places, people with type 1 diabetes have the ability to do things like take your own snacks in and get priority boarding, if needed.
 * [College students living with T1D](https://beyondtype1.org/college-university-with-type-1-diabetes/) may have numerous allowances, such as registering early for classes, priority dorm selection, excused absences, and more!
 
