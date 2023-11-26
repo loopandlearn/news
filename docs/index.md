@@ -57,7 +57,7 @@ The American Diabetes Association (ADA) and European Association for the Study o
 | Readings >180 mg/dL (10.0  mmol/L) | <25% of the time |
 | Readings >250 mg/dL (13.9 mmol/L) | <5% of the time |
 
-When taken together, Time In Range (TIR) and A1C are considered the standard way of comparing diabetes status. There are other ways of describing results that may be even better, but have not been generally adopted.
+When taken together, Time In Range (TIR) and A1C are considered the standard way of comparing diabetes status. There are other ways of describing results, but they have not been generally adopted.
 
 There are many posts by enthusiasts for particular methods who present stories that may leave out important information, such as:
 
