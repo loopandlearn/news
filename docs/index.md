@@ -57,7 +57,7 @@ The American Diabetes Association (ADA) and European Association for the Study o
 | Readings >180 mg/dL (10.0  mmol/L) | <25% of the time |
 | Readings >250 mg/dL (13.9 mmol/L) | <5% of the time |
 
-When taken together, Time In Range (TIR) and A1C describe what is considered the best standard way of comparing diabetes status. There are other ways of describing results that may be even better, but have not been generally adopted.
+When taken together, Time In Range (TIR) and A1C are considered the standard way of comparing diabetes status. There are other ways of describing results that may be even better, but have not been generally adopted.
 
 There are many posts by enthusiasts for particular methods who present stories that may leave out important information, such as:
 
@@ -67,7 +67,7 @@ There are many posts by enthusiasts for particular methods who present stories t
 
 - The personality of the individual
     * Some are more driven, some are very detail-oriented, some forget things all the time - while others do not forget a thing, some give up very easily, some get overwhelmed easily by complexity with regard to technical or medical matters
-    * A strict diet can make diabetes management easier, but others might feel that such limitations make life less worth living
+    * A strict diet or always prebolusing can make diabetes management easier, but others might feel that such limitations make life less enjoyable
 
 - Whether additional medications are used
     * For example, a GLP-1 (like Ozempic or equivalent) will impact how quickly carbs get absorbed which can reduce high glucose after meals
