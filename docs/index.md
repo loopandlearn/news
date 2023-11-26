@@ -1,15 +1,12 @@
 ## Welcome to News from&nbsp;_<span translate="no">Loop and Learn</span>_
 
-Published on 19 November 2023.
+Published on 26 November 2023.
 
 ## In this edition:
 
 * [Upcoming *Zoom* Sessions](#upcoming-zoom-sessions)
-* [9000 Members](#9000-members)
-* [_<span translate="no">D-Data ExChange</span>_](#d-data-exchange)
-* [Diabetes Awareness Month](#diabetes-awareness-month)
-* [Diabetes Advantages](#diabetes-advantages)
-* [Happy Thanksgiving](#happy-thanksgiving)
+* [Your Diabetes May Vary](#your-diabetes-may-vary)
+* [Helpful Links](#helpful-links)
 
 
 ## Upcoming *Zoom* Sessions
@@ -20,7 +17,8 @@ Published on 19 November 2023.
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 19:00 UTC | 30 Nov |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 19:00 UTC | 30 November |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 19:00 UTC | 14 December |
 
 #### Time Zone Converter
 
@@ -32,52 +30,51 @@ Many sessions are recorded. The full list is found here:
 
 * Recorded sessions at&nbsp;[<span translate="no">LOOP and LEARN</span>&nbsp;YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
-## 9000 Members
+## Your Diabetes May Vary
 
-_<span translate="no">Loop and Learn</span>_&nbsp;Facebook group has grown to [9,000 members](https://www.facebook.com/groups/LOOPandLEARN/posts/3560094507580361/) as of this past week! We are grateful for all the help our members give each other and welcome our new members. Please note that when you invite new members to join, we’d appreciate your sending them the link to our group instead of hitting the “Invite” button, so that they will be directed to answer our mandatory group questions. This makes the joining process quicker and more seamless.
+There was an interesting discussion in the *iAPS* Facebook group on what are reasonable expectations for results. Many of the ideas apply to any method of diabetes management.
 
-[_<span translate="no">Loop and Learn</span>_: Facebook link](https://www.facebook.com/groups/LOOPandLEARN)
+* [Original Facebook Conversation](https://www.facebook.com/groups/1351938092206709/posts/1490301131703737/)
 
-`https://www.facebook.com/groups/LOOPandLEARN`
+The&nbsp;_<span translate="no">Loop and Learn</span>_&nbsp;team took some of that conversation and summarized it for this edition of the news. Thanks to Odd Stoltenberg for permission to paraphrase his words.
 
-## _<span translate="no">D-Data ExChange</span>_
+* Do not ignore the importance of quality of life and your psychological state - is important not to get burned out
 
-Thanks to Mike Plante, _<span translate="no">Loop and Learn</span>_&nbsp;administrator and group expert for these meeting highlights!
+* Do not compare your diabetes results with others without considering how their lifestyle and personality may differ from yours, as well as ancillary treatments they may be employing
 
-Last week, several&nbsp;_<span translate="no">Loop and Learn</span>_&nbsp;team members attended the [`DiabetesMine Fall 2023 Innovation Summit and d-data exChange`](https://ddataexchange.com/) in San Diego, California. It’s a smaller conference but it focuses on the bleeding edge of diabetes technology and innovation. Over the course of two days, many fascinating presentations were given, ranging from a start-up’s debut to commercial Goliaths putting their newest products on display.
+* Treatments have to work for you (or your child), and nobody but you can say where that balance should be in life and in diabetes management
 
-Kicking off the event was [Dean Kamen](https://www.firstinspires.org/about/leadership/dean-kamen). He is the inventor (1976) of the first wearable insulin pump, AutoSyringe. He also developed the [iBot](https://mobiusmobility.com/2021/05/the-ibot-a-mission-to-revolutionize-the-wheelchair/) which led to the Segway. Other projects include the *Coca-Cola* Freestyle machine and the [`FIRST Robotics Competition`](https://www.firstinspires.org/robotics/frc) and don't miss this cool advertisement created when the competition went global: [FIRST Global - Not A Robot](https://www.youtube.com/watch?v=igR409sJly0). His current projects include both mass producing beta cell lines for research and a new insulin pump that delivers in the intradermal layer instead of the subcutaneous layer which should make it faster and more efficient.
+The American Diabetes Association (ADA) and European Association for the Study of Diabetes (EASD) published a joint consensus for [The Management of Type 1 Diabetes in Adults](https://diabetesjournals.org/care/article/44/11/2589/138492/The-Management-of-Type-1-Diabetes-in-Adults-A). They suggest that results be measured over 3 months. Don't just consider your best or worst days. The goals are:
 
-Later in the event, there was also a presentation for a new open source CGM that reads glucose in the intradermal layer with essentially no lag time.
+| Measurement | Goal |
+| - | - |
+|Time In Range (TIR) of 70-180 mg/dL (3.9-10.0 mmol/L)| >70% of the time |
+| A1c | < 7.0% (53 mmol/mol) |
+| Readings and time <70 mg/dL (3.9 mmol/L) | <4% of the time |
+| Readings and time <54 mg/dL (3.0 mmol/L) | <1% of the time |
+| Readings and time >180 mg/dL (10.0  mmol/L) | <25% of the time |
+| Readings and time >250 mg/dL (13.9 mmol/L) | <5% of the time |
 
-Event activities also included a fashion show and crafts session with diabetes supplies and a brainstorming session about the pros and cons of real time CGM access in the healthcare realm.
+When taken together, TIR and A1c describe what is considered the best standard way of comparing diabetes status. There are other ways of describing results that may be even better - but have not been generally adopted.
 
-Since `d-data` was the birthplace of the #WeAreNotWaiting movement, in 2013, it was appropriate that DIY legend Ben West gave a presentation on keeping diabetes open source innovation alive. Other open source presentations included iAPS, and a new fully closed loop (FCL) system by Nascence Biomed combining an offshoot of AndroidAPS with proprietary commercial pump drivers, and Boost which utilizes heart rate and a step counter to help automate an FCL.
+There are many posts by enthusiasts for particular methods who present stories that may leave out important information, such as:
 
-As intriguing as the presentations were, though, I think the networking and meeting so many other like-minded individuals from across the DIY diabetes community was my favorite part. There’s just something about being with so many other people who understand what we’re all going through and who are constantly pushing for new innovations. We even went out for pizza and gelato where a whole table didn’t bolus and just let their DIY system automate everything for them.
+- The use of a GLP-1 like Ozempic, or equivalent, that directly impact how quickly carbs get absorbed which can reduce high glucose after meals
 
-## Diabetes Awareness Month
+- The metabolism of the individual can impact how carbs and insulin absorption works, and how insulin resistant or insulin sensitive someone is
+    - The physical shape that the individual is in will matter - as it affects the metabolism, but also the absorption/digestion and how the body reacts overall
 
-November is Diabetes Awareness Month. How aware are you of the many resources at your disposal for making the MOST of your *DIY Closed-Loop Insulin Delivery System* app? Here are some links:
+- How much time the individual has used to understand the medical and technical aspects of their diabetes management
 
-* [`LoopDocs`](https://loopkit.github.io/loopdocs/)
-* [`LoopTips`](https://loopkit.github.io/looptips/)
-* [`Loop` Zulipchat](https://loop.zulipchat.com/)
-* [_<span translate="no">Loop and Learn</span>_&nbsp;Resources](https://www.loopandlearn.org/resources/)
-* [`iAPS Docs`](https://iaps.readthedocs.io/en/main/)
+- What food/drink diet the individual is willing to adhere to
+    * A strict diet can make diabetes management easier, but others might feel that such limitations make life less worth living
 
-## Diabetes Advantages
+- The personality of the individual will have an impact on the results
+    * Some are more driven, some are very detail-oriented, some forget things all the time - while others do not forget a thing, some give up very easily, some get overwhelmed easily by complexity with regard to technical or medical matters
 
-Here are some actual advantages that people living with type 1 diabetes may be able to enjoy.
+Any discussion stating what should be achievable can be difficult - since that often leaves a considerable number of people behind that cannot achieve what others say they should. For these people, discussions that are polarized or very assertive - are unfortunate!
 
-* *Disney* guests with type 1 diabetes qualify for *Disney* [Disability Access Pass](https://disneyworld.disney.go.com/guest-services/disability-access-service/), which allows the qualifying guest and their party to obtain return times for rides and avoid much of the line. Other amusement parks may have similar services.
-* Type 1 diabetes qualifies one for a free lifetime pass to U.S. National Parks, monuments and landmarks. Here’s an [article about the pass](https://diatribe.org/how-get-free-lifetime-national-parks-pass), with some great tips.
-* When [traveling via air or going to the movies](https://beyondtype1.org/take-your-perks-with-type-1/) or other “restricted” places, people with type 1 diabetes have the ability to do things like take your own snacks in and get priority boarding, if needed.
-* [College students living with T1D](https://beyondtype1.org/college-university-with-type-1-diabetes/) may have numerous allowances, such as registering early for classes, priority dorm selection, excused absences, and more!
-
-## Happy Thanksgiving
-
-The U.S. celebrates Thanksgiving on November 23, 2023. See this [helpful article](https://www.loopandlearn.org/thanksgiving/) on the&nbsp;_<span translate="no">Loop and Learn</span>_&nbsp;website for tips that apply to all food-oriented holidays- we have a few coming up!
+Listen to what people say, but also to what they do not say, or just do not remember mentioning.
 
 ## Helpful Links
 
@@ -85,4 +82,9 @@ The U.S. celebrates Thanksgiving on November 23, 2023. See this [helpful article
     * Some articles in the [original Newsletter](https://www.loopandlearn.org/2022/10/19/loop-and-learn-newsletter/) are not reproduced here
 * [Check for Updates](https://www.loopandlearn.org/version-updates/)
 * [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/)
+* [`LoopDocs`](https://loopkit.github.io/loopdocs/)
+* [`LoopTips`](https://loopkit.github.io/looptips/)
+* [`Loop` Zulipchat](https://loop.zulipchat.com/)
+* [_<span translate="no">Loop and Learn</span>_&nbsp;Resources](https://www.loopandlearn.org/resources/)
+* [`iAPS Docs`](https://iaps.readthedocs.io/en/main/)
 
