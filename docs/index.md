@@ -70,7 +70,7 @@ There are many posts by enthusiasts for particular methods who present stories t
 - The personality of the individual
     * Some are more driven, some are very detail-oriented, some forget things all the time - while others do not forget a thing, some give up very easily, some get overwhelmed easily by complexity with regard to technical or medical matters
 
-- The use of a GLP-1 like Ozempic, or equivalent, that directly impact how quickly carbs get absorbed which can reduce high glucose after meals
+- The use of a GLP-1 like Ozempic, or equivalent, will impact how quickly carbs get absorbed which can reduce high glucose after meals
 
 Any discussion stating what should be achievable can be difficult - since that often leaves a considerable number of people behind that cannot achieve what others say they should. For these people, discussions that are polarized or very assertive - are unfortunate!
 
