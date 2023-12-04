@@ -52,7 +52,7 @@ Hover over underlined terms in&nbsp;_<span translate="no">LoopDocs</span>_&nbsp;
 
 ## Secure Your *Nightscout* Data
 
-When showing your *Nightscout* site to someone on the internet, never send them your API secret. Check out this [link for instructions](https://nightscout.github.io/nightscout/security/#create-a-token) or follow the steps below to make a read-only access token. You can later delete the subject if you only want to temporarily share access.
+When showing your *Nightscout* site to someone on the internet, never send them your API_SECRET. Check out this [link for instructions](https://nightscout.github.io/nightscout/security/#create-a-token) or follow the steps below to make a read-only access token. You can later delete the subject if you only want to temporarily share access.
 
 1. Open Nightscout's 'hamburger' menu.
 1. Go to Admin Tools, add a new Subject.
