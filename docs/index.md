@@ -9,6 +9,7 @@ Published on 04 December 2023.
 * [Upcoming *Zoom* Sessions](#upcoming-zoom-sessions)
 * [Build with Browser How-to Video](#build-with-browser-how-to-video)
 * [Documentation Feature Spotlight](#documentation-feature-spotlight)
+* [New website for the *iAPS* app](#new-website-for-the-iaps-app)
 * [Secure Your *Nightscout* Data](#secure-your-nightscout-data)
 * [Check out LnL *Instagram*](#check-out-lnl-instagram)
 * [Pro Tip for Reporting Faulty Devices](#pro-tip-for-reporting-faulty-devices)
@@ -50,6 +51,12 @@ When you click in the comments there is a full index of topics and time-stamps.
 
 Hover over underlined terms in&nbsp;_<span translate="no">LoopDocs</span>_&nbsp;to see what the term means. Each of these underlined terms is also presented in the [Glossary](https://loopkit.github.io/loopdocs/faqs/glossary/).
 
+## New website for the *iAPS* app
+
+There is a new website for users of the *iAPS* app.
+
+* [*iAPS* website](https://www.iaps-app.org/)
+
 ## Secure Your *Nightscout* Data
 
 When showing your *Nightscout* site to someone on the internet, never send them your API_SECRET. Check out this [link for instructions](https://nightscout.github.io/nightscout/security/#create-a-token) or follow the steps below to make a read-only access token. You can later delete the subject if you only want to temporarily share access.
@@ -62,7 +69,7 @@ When showing your *Nightscout* site to someone on the internet, never send them 
 
 ## Check out LnL *Instagram*
 
-We are "growing" our&nbsp;_<span translate="no">Loop and Learn</span>_&nbsp;*Instagram* presence, to spread our T1D and DIY knowledge ... will you "follow" and share the link to your looping friends’ communities? We’d love to grow our following by 10% this month- that’s 50 new followers. Please help us reach our goal!
+We are "growing" our&nbsp;_<span translate="no">Loop and Learn</span>_&nbsp;*Instagram* presence, to spread our T1D and DIY knowledge ... will you "follow" and share the [*Instagram* link](https://www.instagram.com/loopandlearn/?igshid=YmMyMTA2M2Y%3D) to your looping friends’ communities? We’d love to grow our following by 10% this month- that’s 50 new followers. Please help us reach our goal!
 
 ## Pro Tip for Reporting Faulty Devices
 
@@ -94,9 +101,12 @@ You need the information on the package. Save the paper / box while wearing each
     * Some articles in the [original Newsletter](https://www.loopandlearn.org/2022/10/19/loop-and-learn-newsletter/) are not reproduced here
 * [Check for Updates](https://www.loopandlearn.org/version-updates/)
 * [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/)
-* [`LoopDocs`](https://loopkit.github.io/loopdocs/)
-* [`LoopTips`](https://loopkit.github.io/looptips/)
-* [`Loop` Zulipchat](https://loop.zulipchat.com/)
 * [_<span translate="no">Loop and Learn</span>_&nbsp;Resources](https://www.loopandlearn.org/resources/)
-* [`iAPS Docs`](https://iaps.readthedocs.io/en/main/)
+* <code>Loop</code>:
+    * [`LoopDocs`](https://loopkit.github.io/loopdocs/)
+    * [`LoopTips`](https://loopkit.github.io/looptips/)
+    * [`Loop` Zulipchat](https://loop.zulipchat.com/)
+* <code>iAPS</code>:
+    * [*iAPS* Website](https://www.iaps-app.org/)
+    * [*iAPS* Documentation](https://iaps.readthedocs.io/en/main/)
 
