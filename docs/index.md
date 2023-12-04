@@ -40,7 +40,7 @@ Many sessions are recorded. The full list is found here:
 
 Mike Plante has done it again! We are excited to share this video including audio and subtitles that will help many learn to use the Browser Build method. This method is available for many open-source apps. This video focuses on using the method to build the *Loop* app.
 
-When you click in the comments there is full index of topics and time-stamps.
+When you click in the comments there is a full index of topics and time-stamps.
 
 * [How to Build the *Loop* App With a Web Browser](https://www.youtube.com/watch?v=kiu5ho0MTW8)
 
@@ -76,10 +76,10 @@ Here are some ways to make calling in faulty devices as efficient as possible:
 * You will need this information
     * Lot # from the box or the paper seal on <code>pod</code> plastic tray
     * Sequence number from the <code>pod</code>
-    * Date started
-    * Duration of wear
-    * Site location
-    * Reason it’s off early
+    * Start date for <code>pod</code>
+    * How long was <code>pod</code> used
+    * Where on body was <code>pod</code> located
+    * Reason for early removal of <code>pod</code>
 * Ideas for saving the information
     * Record it on the <code>pods</code> themselves
     * Keep a spreadsheet with the information
