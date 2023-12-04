@@ -2,14 +2,17 @@
 
 _Master Your DIY Closed-Loop Insulin Delivery System_
 
-Published on 26 November 2023.
+Published on 04 December 2023.
 
 ## In this edition:
 
 * [Upcoming *Zoom* Sessions](#upcoming-zoom-sessions)
-* [Your Diabetes May Vary](#your-diabetes-may-vary)
+* [Build with Browser How-to Video](#build-with-browser-how-to-video)
+* [Documentation Feature Spotlight](#documentation-feature-spotlight)
+* [Secure Your *Nightscout* Data](#secure-your-nightscout-data)
+* [Check out LnL *Instagram*](#check-out-lnl-instagram)
+* [Pro Tip for Reporting Faulty Devices](#pro-tip-for-reporting-faulty-devices)
 * [Helpful Links](#helpful-links)
-
 
 ## Upcoming *Zoom* Sessions
 
@@ -19,8 +22,9 @@ Published on 26 November 2023.
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 19:00 UTC | 30 November |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 19:00 UTC | 14 December |
+
+This is the last session of this year.
 
 #### Time Zone Converter
 
@@ -32,49 +36,57 @@ Many sessions are recorded. The full list is found here:
 
 * Recorded sessions at&nbsp;[<span translate="no">LOOP and LEARN</span>&nbsp;YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
-## Your Diabetes May Vary
+## Build with Browser How-to Video
 
-There was an interesting discussion in the *iAPS* Facebook group on what are reasonable expectations for results. Many of the ideas apply to any method of diabetes management.
+Mike Plante has done it again! We are excited to share this video including audio and subtitles that will help many learn to use the Browser Build method. This method is available for many open-source apps. This video focuses on using the method to build the *Loop* app.
 
-* [Original Facebook Conversation](https://www.facebook.com/groups/1351938092206709/posts/1490301131703737/)
+When you click in the comments there is full index of topics and time-stamps.
 
-The&nbsp;_<span translate="no">Loop and Learn</span>_&nbsp;team took some of that conversation and summarized it for this edition of the news. Thanks to Odd Stoltenberg for permission to paraphrase his words.
+* [How to Build the *Loop* App With a Web Browser](https://www.youtube.com/watch?v=kiu5ho0MTW8)
 
-* Do not ignore the importance of quality of life and your psychological state - it is important not to get burned out
+> Please note that until either *GitHub* or *LoopWorkspace* is updated to fix this issue, about 25% of *GitHub* actions that require *Apple* to return a certificate to *GitHub* fail. This includes running the build action. It's a timing issue and **trying again seems to work the next time**. Should this happen to you, always try again before changing anything.
 
-* Do not compare your diabetes results with others without considering how their lifestyle and personality may differ from yours, as well as what other treatments they may be using
+## Documentation Feature Spotlight
 
-* Treatments have to work for you (or your child), and nobody but you can say where that balance should be in life and in diabetes management
+Hover over underlined terms in&nbsp;_<span translate="no">LoopDocs</span>_&nbsp;to see what the term means. Each of these underlined terms is also presented in the [Glossary](https://loopkit.github.io/loopdocs/faqs/glossary/).
 
-The American Diabetes Association (ADA) and European Association for the Study of Diabetes (EASD) published a joint consensus for [The Management of Type 1 Diabetes in Adults](https://diabetesjournals.org/care/article/44/11/2589/138492/The-Management-of-Type-1-Diabetes-in-Adults-A). They suggest that results be measured over 3 months. Don't just consider your best or worst days. The goals are:
+## Secure Your *Nightscout* Data
 
-| Measurement | Goal |
-| - | - |
-|Time In Range (TIR) of 70-180 mg/dL (3.9-10.0 mmol/L)| >70% of the time |
-| A1C | < 7.0% (53 mmol/mol) |
-| Readings <70 mg/dL (3.9 mmol/L) | <4% of the time |
-| Readings <54 mg/dL (3.0 mmol/L) | <1% of the time |
-| Readings >180 mg/dL (10.0  mmol/L) | <25% of the time |
-| Readings >250 mg/dL (13.9 mmol/L) | <5% of the time |
+When showing your *Nightscout* site to someone on the internet, never send them your API secret. Check out this [link for instructions](https://nightscout.github.io/nightscout/security/#create-a-token) or follow the steps below to make a read-only access token. You can later delete the subject if you only want to temporarily share access.
 
-When taken together, Time In Range (TIR) and A1C are considered the standard way of comparing diabetes status. There are other ways of describing results, but they have not been generally adopted.
+1. Open Nightscout's 'hamburger' menu.
+1. Go to Admin Tools, add a new Subject.
+1. Name it, assign 'readable' role, and save.
+1. Copy the link below Access Token.
+1. Share it with your medical team!
 
-There are many posts by enthusiasts for particular methods who present stories that may leave out important information, such as:
+## Check out LnL *Instagram*
 
-- Individual physical condition and genetics can affect metabolism and how the body reacts overall to food, insulin and exercise
+We are "growing" our&nbsp;_<span translate="no">Loop and Learn</span>_&nbsp;*Instagram* presence, to spread our T1D and DIY knowledge ... will you "follow" and share the link to your looping friends’ communities? We’d love to grow our following by 10% this month- that’s 50 new followers. Please help us reach our goal!
 
-- The time the individual spent learning about the medical and technical aspects of their diabetes management
+## Pro Tip for Reporting Faulty Devices
 
-- The personality of the individual
-    * Some are more driven, some are very detail-oriented, some forget things all the time - while others do not forget a thing, some give up very easily, some get overwhelmed easily by complexity with regard to technical or medical matters
-    * A strict diet or always prebolusing can make diabetes management easier, but others might feel that such limitations make life less enjoyable
+Here are some ways to make calling in faulty devices as efficient as possible:
 
-- Whether additional medications are used
-    * For example, a GLP-1 (like Ozempic or equivalent) will impact how quickly carbs get absorbed which can reduce high glucose after meals
+* Schedule calls to your pump and/or CGM provider on a regular, recurring basis, such as monthly. 
+* Put it on the calendar. 
+* If you don’t need to call, great! If you do, the time is built into your schedule.
 
-Any discussion stating what should be achievable can be difficult - since that often leaves a considerable number of people behind that cannot achieve what others say they should. For these people, discussions that are polarized or very assertive - are unfortunate!
+### For pods:
+* You will need this information
+    * Lot # from the box or the paper seal on pod container
+    * Sequence number from the pod
+    * Date started
+    * Duration of wear
+    * Site location
+    * Reason it’s off early
+* Ideas for saving the information
+    * Record it on the pods themselves
+    * Keep a spreadsheet with the information
 
-Listen to what people say, but also note that there may be more variables than were mentioned - or even realized.
+### For CGM:
+
+You need the information on the package. Save the paper / box while wearing each CGM and discard at the end of successful session.
 
 ## Helpful Links
 
