@@ -72,16 +72,16 @@ Here are some ways to make calling in faulty devices as efficient as possible:
 * Put it on the calendar. 
 * If you don’t need to call, great! If you do, the time is built into your schedule.
 
-### For pods:
+### For <code>pods</code>:
 * You will need this information
-    * Lot # from the box or the paper seal on pod container
-    * Sequence number from the pod
+    * Lot # from the box or the paper seal on <code>pod</code> plastic tray
+    * Sequence number from the <code>pod</code>
     * Date started
     * Duration of wear
     * Site location
     * Reason it’s off early
 * Ideas for saving the information
-    * Record it on the pods themselves
+    * Record it on the <code>pods</code> themselves
     * Keep a spreadsheet with the information
 
 ### For CGM:
