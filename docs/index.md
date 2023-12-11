@@ -2,17 +2,16 @@
 
 _Master Your DIY Closed-Loop Insulin Delivery System_
 
-Published on 04 December 2023.
+Published on 11 December 2023.
 
 ## In this edition:
 
 * [Upcoming *Zoom* Sessions](#upcoming-zoom-sessions)
-* [Build with Browser How-to Video](#build-with-browser-how-to-video)
-* [Documentation Feature Spotlight](#documentation-feature-spotlight)
-* [New website for the *iAPS* app](#new-website-for-the-iaps-app)
-* [Secure Your *Nightscout* Data](#secure-your-nightscout-data)
-* [Check out LnL *Instagram*](#check-out-lnl-instagram)
-* [Pro Tip for Reporting Faulty Devices](#pro-tip-for-reporting-faulty-devices)
+* [The *Loop Caregiver* App](#the-loop-caregiver-app)
+* [The *Loop Follow* App](#the-loop-follow-app)
+* [Alcohol Consumption](#alcohol-consumption)
+* [Unexpected Diabetes Equipment Failure](#unexpected-diabetes-equipment-failure)
+* [Enhancing the Effects of Insulin](#enhancing-the-effects-of-insulin)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -37,63 +36,61 @@ Many sessions are recorded. The full list is found here:
 
 * Recorded sessions at&nbsp;[<span translate="no">LOOP and LEARN</span>&nbsp;YouTube Channel](https://www.youtube.com/c/loopandlearn)
 
-## Build with Browser How-to Video
+### Thank You
 
-Mike Plante has done it again! We are excited to share this video including audio and subtitles that will help many learn to use the Browser Build method. This method is available for many open-source apps. This video focuses on using the method to build the *Loop* app.
+A huge THANK YOU to all who have made our informal discussions a great success! Started by Carol Vachon in August 2023, when she decided to have a spontaneous Zoom session, they have grown into a staple for LnL and really enhanced our sense of community.
 
-When you click in the comments there is a full index of topics and time-stamps.
+## The *Loop Caregiver* App
 
-* [How to Build the *Loop* App With a Web Browser](https://www.youtube.com/watch?v=kiu5ho0MTW8)
+The *Loop Caregiver* app was updated on 2023 December 8. It provides for lockscreen widgets, which require the addition of a `LoopCaregiver App Group`. The Build with Browser instructions have changed. The Mac-Xcode Build instructions are unchanged, but you should get a fresh download.
 
-> Please note that until either *GitHub* or *LoopWorkspace* is updated to fix this issue, about 25% of *GitHub* actions that require *Apple* to return a certificate to *GitHub* fail. This includes running the build action. It's a timing issue and **trying again seems to work the next time**. Should this happen to you, always try again before changing anything.
+* [`LoopCaregiver` Widgets Guide](https://docs.google.com/document/d/1Np4jusdXZERiAWZsz6QyF3b1FxT_ingJEw7R97632Hk/edit#heading=h.jn3e5xg75sf)
+* [Updated Browser Build Instructions](https://loopkit.github.io/loopdocs/gh-actions/gh-other-apps/#update-to-build-with-browser-for-the-loop-caregiver-app)
 
-## Documentation Feature Spotlight
+The link above informs you of the one-time update needed for Browser Build. In summary:
 
-Hover over underlined terms in&nbsp;_<span translate="no">LoopDocs</span>_&nbsp;to see what the term means. Each of these underlined terms is also presented in the [Glossary](https://loopkit.github.io/loopdocs/faqs/glossary/).
+1. `Sync` your `fork`
+1. Run `Add Identifiers`
+1. Follow instructions to create and add a `LoopCaregiver App Group` to all `LoopCaregiver Identifiers`
+1. Run `Create Certificates`
+1. Run `Build LoopCaregiver`
 
-## New website for the *iAPS* app
+## The *Loop Follow* App
 
-There is a new website for users of the *iAPS* app.
+> Early Christmas Gift Alert for Parents!
 
-* [*iAPS* website](https://www.iaps-app.org/)
+We're thrilled to announce an update of the *Loop Follow* app, released 2023 December 6, especially helpful for parents juggling Type 1 Diabetes management for multiple kids!
 
-## Secure Your *Nightscout* Data
+Here’s what’s new:
 
-When showing your *Nightscout* site to someone on the internet, never send them your API_SECRET. Check out this [link for instructions](https://nightscout.github.io/nightscout/security/#create-a-token) or follow the steps below to make a read-only access token. You can later delete the subject if you only want to temporarily share access.
+* [Browser Build](https://loopkit.github.io/loopdocs/gh-actions/gh-other-apps/?h=#multiple-copies-of-loop-follow): Build up to three instances - one for each child
+* [Enhanced *XCode* Build Script](https://www.loopandlearn.org/loop-follow#lf-script): Effortlessly create three distinct app instances
+* Customizable App Names: Personalize each app with your child's name for easy identification
+* Visible In-App Display Names: Instantly know which child's data you're viewing
 
-1. Open Nightscout's 'hamburger' menu.
-1. Go to Admin Tools, add a new Subject.
-1. Name it, assign 'readable' role, and save.
-1. Copy the link below Access Token.
-1. Share it with your medical team!
+Thanks to Jonas Björkert for this update of the *Loop Follow* app, which will make life easier for parents juggling Type 1 Diabetes management for multiple kids!
 
-## Check out LnL *Instagram*
+## Alcohol Consumption
 
-We are "growing" our&nbsp;_<span translate="no">Loop and Learn</span>_&nbsp;*Instagram* presence, to spread our T1D and DIY knowledge ... will you "follow" and share the [*Instagram* link](https://www.instagram.com/loopandlearn/?igshid=YmMyMTA2M2Y%3D) to your looping friends’ communities? We’d love to grow our following by 10% this month- that’s 50 new followers. Please help us reach our goal!
+Here’s an entertaining and informative video by our friends at *TCOYD* about how best to handle alcohol comsumption when living with T1D. Thanks, Drs. Edelman and Pettus!
 
-## Pro Tip for Reporting Faulty Devices
+* [Alcohol and Diabestes Video Link](https://www.youtube.com/watch?v=RaQlg1tcQGk)
 
-Here are some ways to make calling in faulty devices as efficient as possible:
+## Unexpected Diabetes Equipment Failure
 
-* Schedule calls to your pump and/or CGM provider on a regular, recurring basis, such as monthly. 
-* Put it on the calendar. 
-* If you don’t need to call, great! If you do, the time is built into your schedule.
+It’s always smart to think ahead and be prepared for any unexpected diabetes needs. Most Loop “failures” are when the phone is lost/stolen/drowned, or Bluetooth isn't working. Having Loop built to an accessible backup phone is the best way to get Loop back up and running quickly.
 
-### For <code>pods</code>:
-* You will need this information
-    * Lot # from the box or the paper seal on <code>pod</code> plastic tray
-    * Sequence number from the <code>pod</code>
-    * Start date for <code>pod</code>
-    * How long was <code>pod</code> used
-    * Where on body was <code>pod</code> located
-    * Reason for early removal of <code>pod</code>
-* Ideas for saving the information
-    * Record it on the <code>pods</code> themselves
-    * Keep a spreadsheet with the information
+* Be sure to keep a copy of your settings in the cloud so you can access them
+* Have a plan for switching to injections if you can't get your pump working
+* Make sure your scheduled basal rates are kept current - especially if you are using a system that dynamically adjusts settings
 
-### For CGM:
+## Enhancing the Effects of Insulin
 
-You need the information on the package. Save the paper / box while wearing each CGM and discard at the end of successful session.
+> Pro Tips from our friends at *CWD*
+
+In this helpful article from *Children with Diabetes*, Marissa Town, RN, BSN, CDCES, shares seven ideas of ways that you can get the best out of your insulin. How many of these strategies do you use?
+
+* [Link to Article](https://childrenwithdiabetes.com/clinical-director/pro-tips-for-enhancing-the-effects-of-insulin/)
 
 ## Helpful Links
 
@@ -101,7 +98,7 @@ You need the information on the package. Save the paper / box while wearing each
     * Some articles in the [original Newsletter](https://www.loopandlearn.org/2022/10/19/loop-and-learn-newsletter/) are not reproduced here
 * [Check for Updates](https://www.loopandlearn.org/version-updates/)
 * [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/)
-* [_<span translate="no">Loop and Learn</span>_&nbsp;Resources](https://www.loopandlearn.org/resources/)
+* [_<span translate="no">Loop and Learn</span>_&nbsp;Resources Page](https://www.loopandlearn.org/resources/)
 * <code>Loop</code>:
     * [`LoopDocs`](https://loopkit.github.io/loopdocs/)
     * [`LoopTips`](https://loopkit.github.io/looptips/)
