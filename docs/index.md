@@ -88,7 +88,7 @@ It’s always smart to think ahead and be prepared for any unexpected diabetes n
 
 > Pro Tips from our friends at *CWD*
 
-In this helpful article from *Children with Diabetes*, Marissa Town, RN, BSN, CDCES, shares seven ideas of ways that you can get the best out of your insulin. How many of these strategies do you use?
+In this helpful article from `Children with Diabetes`, Marissa Town, RN, BSN, CDCES, shares seven ideas of ways that you can get the best out of your insulin. How many of these strategies do you use?
 
 * [Link to Article](https://childrenwithdiabetes.com/clinical-director/pro-tips-for-enhancing-the-effects-of-insulin/)
 
