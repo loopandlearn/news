@@ -25,14 +25,14 @@ We are sharing 24 Resolutions to help you end 2023 and begin 2024 in good `loopy
 ## Using the *xDrip4iOS* App with Version 3.2.3 of the *Loop* App
 
 Did you recently upgrade to Version 3.2.3 of the *Loop* App?
-Did you lose access to the *xDrip4iOS* option for CGM?
+Did you lose access to the *xDrip4iOS* option for `CGM`?
 
 Follow these directions to restore that capability:
 
-* [Browser Build: Adding CGM Clients to 3.2.3](https://www.loopandlearn.org/custom-code/#add-lnl-patches)
-* [Mac-Xcode Build: Adding CGM Clients to 3.2.3](https://www.loopandlearn.org/custom-code/#add-cgm-323)
+* [Browser Build: Adding `CGM` Clients to 3.2.3](https://www.loopandlearn.org/custom-code/#add-lnl-patches)
+* [Mac-Xcode Build: Adding `CGM` Clients to 3.2.3](https://www.loopandlearn.org/custom-code/#add-cgm-323)
 
-Why can't I just use Apple Health? Why do I have to add CGM options?
+Why can't I just use Apple Health? Why do I have to add `CGM` options?
 
 * Without adding this customization, your *Loop* app will stop working as soon as the phone is locked
     * The *xDrip4iOS* App can write to *Apple Health* when the phone is locked
