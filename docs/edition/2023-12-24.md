@@ -17,6 +17,13 @@ In 2024, the&nbsp;_<span translate="no">Loop and Learn</span>_ &nbsp;Informal Di
 
 ## *Apple Developer* New License Agreement
 
+Apple updated its [Developer agreement](https://developer.apple.com/news/) on 2023 December 23. Please be sure to check and sign it by 6 January, to maintain your ability to build and update!
+
+For those who build the *Loop* App using a browser, the certificate expiration depends on when you started using this method. If you get an email your certificate is about to expire - that is independent of the agreement. You have to both agree and update.
+
+* [Renew Certificate](https://loopkit.github.io/loopdocs/gh-actions/gh-update/#renew-certificate)
+
+
 ## Gifts to and from You
 
 ### General Links for everyone
@@ -37,19 +44,19 @@ In 2024, the&nbsp;_<span translate="no">Loop and Learn</span>_ &nbsp;Informal Di
 
 ## Updates for the *Loop Follow* App
 
+> Loop Follow version: 2.1.3 when this article was published
+
 * Future Carbs: You can see future carbs displayed on the *Loop Follow* prediction plot and in the "Carbs today" display of Information
     * For the best experience, ensure your "Hours of Prediction" in the Graph Settings (LoopFollow -> Settings -> Graph Settings) match the time you need for future carbs since the display is limited by the prediction time
 * Enhanced Stability: We've addressed issues where Loop Follow could crash with no or only one recent blood glucose value. This fix should improve stability, but if you experience any crashes with the new version, please report them so we can continue to make improvements.
     * We already got one report of a problem, but it resolved after the next CGM reading came in - we will keep fixing things in the new year
-* Smoother Data Entry: Auto-capitalization has been disabled for certain fields where it's not needed, like URLs. This makes data entry more straightforward.
-* Password Manager Integration: Entering your URL and token has become easier and more secure. You can now retrieve your values directly from your password manager.
+* Smoother Data Entry: Auto-capitalization has been disabled for certain fields where it's not needed, like URLs and usernames. This makes data entry more straightforward.
+* Password Manager Integration: Entering your *Nightscout* and/or *Dexcom* credentials has become easier and more secure. You can now retrieve your values directly from your password manager
     * For the *Nightscout* site, the username must be configured to be the URL in the password manager
 
 We are committed to continuously improving Loop Follow and your feedback is crucial in this journey. If you have any comments or run into issues with the new update, do not hesitate to reach out.
 
 Thank you for being a part of our community, and happy Looping!
-
-> Loop Follow current version: 2.1.3
 
 ## Helpful Links
 
