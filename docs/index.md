@@ -2,49 +2,54 @@
 
 _Master Your DIY Closed-Loop Insulin Delivery System_
 
-Published on 18 December 2023.
+Published on 24 December 2023.
 
 ## In this edition:
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
-* [*Instagram* Series](#instagram-series)
-* [Using the *xDrip4iOS* App with Version 3.2.3 of the *Loop* App](#using-the-xdrip4ios-app-with-version-323-of-the-loop-app)
-* [Browser Build Certificate Renewal](#browser-build-certificate-renewal)
+* [*Apple Developer* New License Agreement](#apple-developer-new-license-agreement)
+* [Gifts to and from You](#gifts-to-and-from-you)
 * [Helpful Links](#helpful-links)
 
 ## *Zoom* Sessions
 
-No more zoom sessions in 2023. More planned in 2024.
+In 2024, the&nbsp;_<span translate="no">Loop and Learn</span>_ &nbsp;Informal Discussion sessions resume on the second Thursday of each month.
 
-## *Instagram* Series
+## *Apple Developer* New License Agreement
 
-Have you seen our Instagram series, `24 for '24`, that kicked off on 15 December 2023? 
+## Gifts to and from You
 
-We are sharing 24 Resolutions to help you end 2023 and begin 2024 in good `loopy` style! Look for daily posts on [*Instagram*](https://www.instagram.com/loopandlearn/) and [*Facebook*](https://www.facebook.com/groups/LOOPandLEARN) to join us in finding new ways to learn about and enjoy all things `Loop`!
+### General Links for everyone
 
-## Using the *xDrip4iOS* App with Version 3.2.3 of the *Loop* App
+* Continued Loop Follow updates - see [Updates for the *Loop Follow* App](#updates-for-the-loop-follow-app)
+* [Shared Healthcare Provider Recommendations](https://www.loopandlearn.org/hcp-recommendations/)
+* Data donations to the [Tidepool Big Data](https://www.tidepool.org/blog/empowering-the-future-of-diabetes-technology-with-data) collection
+* Donations to [Nightscout Foundation](https://www.nightscoutfoundation.org/) - see all the ways you can help!
+* [Owlet desktop Widget Repository](https://github.com/kashamalasha/nightscout-widget-electron) provided by Dmitry Burnishev
 
-Did you recently upgrade to Version 3.2.3 of the *Loop* App?
-Did you lose access to the *xDrip4iOS* option for `CGM`?
+### Links that require Facebook
 
-Follow these directions to restore that capability:
+* [Owlet desktop Widget](https://www.facebook.com/groups/LOOPandLEARN/posts/3564809293775549/) provided by Dmitry Burnishev
+    * see repository link above if you don't use Facebook
+* Participation in the [LnL community on Facebook](https://www.facebook.com/groups/LOOPandLEARN)
+* Suggestions of great [diabetes-related gift ideas](https://www.facebook.com/groups/LOOPandLEARN/posts/3582401498682995/) - good throughout the year!
+* Great [low treatment ideas- and a recipe](https://www.facebook.com/groups/LOOPandLEARN/posts/3582942028628942/)!
 
-* [Browser Build: Adding `CGM` Clients to 3.2.3](https://www.loopandlearn.org/custom-code/#add-lnl-patches)
-* [Mac-Xcode Build: Adding `CGM` Clients to 3.2.3](https://www.loopandlearn.org/custom-code/#add-cgm-323)
+## Updates for the *Loop Follow* App
 
-Why can't I just use Apple Health? Why do I have to add `CGM` options?
+* Future Carbs: You can see future carbs displayed on the *Loop Follow* prediction plot and in the "Carbs today" display of Information
+    * For the best experience, ensure your "Hours of Prediction" in the Graph Settings (LoopFollow -> Settings -> Graph Settings) match the time you need for future carbs since the display is limited by the prediction time
+* Enhanced Stability: We've addressed issues where Loop Follow could crash with no or only one recent blood glucose value. This fix should improve stability, but if you experience any crashes with the new version, please report them so we can continue to make improvements.
+    * We already got one report of a problem, but it resolved after the next CGM reading came in - we will keep fixing things in the new year
+* Smoother Data Entry: Auto-capitalization has been disabled for certain fields where it's not needed, like URLs. This makes data entry more straightforward.
+* Password Manager Integration: Entering your URL and token has become easier and more secure. You can now retrieve your values directly from your password manager.
+    * For the *Nightscout* site, the username must be configured to be the URL in the password manager
 
-* Without adding this customization, your *Loop* app will stop working as soon as the phone is locked
-    * The *xDrip4iOS* App can write to *Apple Health* when the phone is locked
-    * The *Loop* App can not **read** from *Apple Health* when the phone is locked
+We are committed to continuously improving Loop Follow and your feedback is crucial in this journey. If you have any comments or run into issues with the new update, do not hesitate to reach out.
 
-## Browser Build Certificate Renewal
+Thank you for being a part of our community, and happy Looping!
 
-What do I do when I get an email from Apple saying that my certificate will expire?
-
-Follow the updated instructions in LoopDocs.
-
-* [Renew Certificate](https://loopkit.github.io/loopdocs/gh-actions/gh-update/#renew-certificate)
+> Loop Follow current version: 2.1.3
 
 ## Helpful Links
 
