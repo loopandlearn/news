@@ -40,7 +40,7 @@ For those who build the *Loop* App using a browser, the certificate expiration d
     * see repository link above if you don't use Facebook
 * Participation in the [LnL community on Facebook](https://www.facebook.com/groups/LOOPandLEARN)
 * Suggestions of great [diabetes-related gift ideas](https://www.facebook.com/groups/LOOPandLEARN/posts/3582401498682995/) - good throughout the year!
-* Great [low treatment ideas- and a recipe](https://www.facebook.com/groups/LOOPandLEARN/posts/3582942028628942/)!
+* Great [low glucose treatment ideas - and a recipe](https://www.facebook.com/groups/LOOPandLEARN/posts/3582942028628942/)!
 
 ## Updates for the *Loop Follow* App
 
