@@ -3,6 +3,8 @@
 # execute this script to copy index.md to edition folder and set up nav
 # format for argument is "yyyy-mm-dd"
 #
+# Do this before starting the update and use the upcoming publish date
+#
 LAST_EDITION_LABEL="$1"
 LAST_EDITION_FILE="edition/${LAST_EDITION_LABEL}.md"
 LAST_EDITION_NAV="    - '${LAST_EDITION_LABEL}': '${LAST_EDITION_FILE}'"
