@@ -1186,8 +1186,30 @@
 <li><a href="https://loopkit.github.io/looptips/how-to/think-like-loop/">Think Like a <code>Loop</code></a></li>
 </ul>
 <h2 id="alert-for-iaps-users">Alert for <em>iAPS</em> Users<a class="headerlink" href="#alert-for-iaps-users" title="Anchor link to this Header on this Page">&para;</a></h2>
-<p>Warning - a logic error was accidentally introduced in version 2.2.7 of the <em>iAPS</em> app. This is the version that provides you an option to completely silence your pod. This error can cause a problem with pairing if something causes the app to quit and then resume before the pairing and priming has completed. The logic error was found and fixed in the <code>dev</code> branch almost immediately. It has been added to the <code>main</code> branch, version 2.3.1.</p>
+<p>Warning - a logic error was accidentally introduced in version 2.2.7 of the <em>iAPS</em> app.</p>
 <p>Please rebuild as soon as possible if you are running versions 2.2.7 to  2.3.0 of the <em>iAPS</em> app.</p>
+<p>How do I know if I need to rebuild?</p>
+<ul>
+<li>
+<p>Look at the settings in the <em>iAPS</em> app to see the version you have built: if it says 2.3.1, or higher, you have the fix</p>
+</li>
+<li>
+<p>This fix was added to <code>main</code> on 30 December 2023, so if you did a sync to <code>main</code> or a fresh download after that date, you have the fix</p>
+</li>
+<li>
+<p>The bug was introduced to <code>main</code> on 22 November 2023</p>
+</li>
+</ul>
+<details class="- question">
+<summary>Do you want to know more? Click to open</summary>
+<p>This logic error came in at the same time as the option to completely silence your pod.</p>
+<p>This error can cause the user to loose a pod unnecessarily when pairing if</p>
+<ul>
+<li>the user hits cancel before priming has completed or</li>
+<li>something causes the app to quit and then resume before the pairing/priming completes</li>
+</ul>
+<p>The logic error was found and fixed in the <code>dev</code> branch almost immediately. It has been added to the <code>main</code> branch, version 2.3.1 on 30 December 2023.</p>
+</details>
 <h2 id="helpful-links">Helpful Links<a class="headerlink" href="#helpful-links" title="Anchor link to this Header on this Page">&para;</a></h2>
 <ul>
 <li><a href="https://www.loopandlearn.org/newsletter-signup/">Subscribe</a> to get the Newsletter delivered to your email weekly.<ul>
