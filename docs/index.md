@@ -53,7 +53,7 @@ This article is valid for any closed loop system, `Loop`, `iAPS` or even commerc
 
 ## Alert for *iAPS* Users
 
-Warning - a logic error was accidentally introduced in version 2.2.7 of the *iAPS* app. This is the version that provides you an option to completely silence your pod. This error can cause a problem with pairing if something causes the app to quit and resume before the pairing and priming has completed. The logic error was found and fixed in the `dev` branch almost immediately. It has been added to the `main` branch, version 2.3.1.
+Warning - a logic error was accidentally introduced in version 2.2.7 of the *iAPS* app. This is the version that provides you an option to completely silence your pod. This error can cause a problem with pairing if something causes the app to quit and then resume before the pairing and priming has completed. The logic error was found and fixed in the `dev` branch almost immediately. It has been added to the `main` branch, version 2.3.1.
 
 Please rebuild as soon as possible if you are running versions 2.2.7 to  2.3.0 of the *iAPS* app.
 
