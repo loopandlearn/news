@@ -68,12 +68,9 @@ How do I know if I need to rebuild?
 ???- question "Do you want to know more? Click to open"
     This logic error came in at the same time as the option to completely silence your pod.
 
-    This error can cause the user to loose a pod unnecessarily when pairing if
+    This logic error can cause an 049 pod fault during pod setup in certain situations.
 
-    * the user hits cancel before priming has completed or
-    * something causes the app to quit and then resume before the pairing/priming completes
-
-    The logic error was found and fixed in the `dev` branch almost immediately. It has been added to the `main` branch, version 2.3.1 on 30 December 2023.
+    The logic error was found and fixed in the `dev` branch almost immediately. It was added to the `main` branch, version 2.3.1 on 30 December 2023.
 
 ## Helpful Links
 
