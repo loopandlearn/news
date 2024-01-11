@@ -4,13 +4,13 @@ _Master Your DIY Closed-Loop Insulin Delivery System_
 
 Published on 11 January 2024.
 
-> **The Text Edition for today has not been prepared.**
-
-> **Please check back later today**
-
 ## In this edition (so far):
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
+* [Do you have a `Diabuddy`?](#do-you-have-a-diabuddy)
+* [`Nightscout` News](#nightscout-news)
+* [Frequently Asked Questions](#frequently-asked-questions)
+* [Do Not Make a Double Entry](#do-not-make-a-double-entry)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -31,9 +31,47 @@ This is the first session of this year. The schedule is the second Thursday of e
 
 Need help figuring out when an event happens in your time zone? Try the [SavvyTime: UTC Converter](https://savvytime.com/converter/utc).
 
-## Where's the rest of the news?
+## Do you have a `Diabuddy`?
 
-> **More coming soon - please check back later today**
+> Definition: A `Diabuddy` is someone who can help you with your diabetes when you need it.
+
+`Diabuddies` are the best! They’re not just friends with diabetes in common, but they offer encouragement and support like few other people can. They can also be supportive by sharing data for safety’s sake, through such apps as [Nightscout](https://www.loopandlearn.org/nightscout/), [Loop Follow](https://www.loopandlearn.org/loop-follow/), [Gluroo](https://gluroo.com/), [Happy Bob](https://happybob.app/), [Dexcom Follow](https://www.dexcom.com/en-us/faqs/how-do-i-share-my-dexcom-g6-glucose-data-followers), or [Sugarmate](https://www.sugarmate.io/features). Some of our `diabuddies` have helped each other by calling to check in during nighttime low alarms and have even managed Loop remotely during surgeries! We urge you to get a `diabuddy` and make a plan for when help is needed.
+
+Think ahead: If you have a medical procedure that may leave you confused or sleepy - make sure you have someone who will check that your pump is working properly afterward. Or you could make plans to add a long-acting insulin option. Be safe - [avoid DKA](https://healthonline.washington.edu/sites/default/files/record_pdfs/Insulin-Pumps-Diabetic-Ketoacidosis-(DKA).pdf). 
+
+## `Nightscout` News
+
+There are several services that provide hosting of your `Nightscout` site as listed in the [`Nightscout` Documentation](https://nightscout.github.io/nightscout/new_user/#vendors-comparison-table).
+
+This news refers to two specific hosting services.
+
+* [NS10be](https://ns.10be.de/en/index.html) is offering a [25% discount](https://www.facebook.com/10be.de/posts/pfbid0r8gqqD6X1mWjR237g2vLbQCjoyo61hkpAkMh3z5rvSmBV7HJF8f14vKtv3SJcm77l) off their `Nightscout` hosting services, including all active subscriptions, until March 1, 2024
+    * For new users, use the discount code `2024BE`
+    * For existing users, no action needed, your discount is automatically applied
+
+* For those who use [Nightscout Pro](https://nightscout.pro/en_us/) as their hosting service, there is a new app to make it easier to adjust your own configuration variables
+    * See the free app in the [App Store](https://apps.apple.com/vn/app/nightscout-pro/id6475240448)
+    * This is only useful for active subscribers
+
+## Frequently Asked Questions
+
+Some recent frequently asked questions on Facebook involve the use of the *Loop* app in what I’ll call “non-conventional” (for a closed-loop system) ways. Here is helpful info from the *LoopDocs* website on these two topics:
+
+* [Open&nbsp;<span translate="no">Loop</span>](https://loopkit.github.io/loopdocs/operation/loop/open-loop/)
+    * We recommend running the *Loop* app with `Closed-Loop` disabled when just starting out
+    * After settings are dialed in and you’re up and running, we recommend running the *Loop* app with `Closed-Loop` enabled for almost every situation
+* [Extended Bolus](https://loopkit.github.io/loopdocs/operation/loop/open-loop/#extended-bolus)
+    * This is not a feature provided by the *Loop* app, however an explanation of how to simulate one in Open mode is provided at that link
+    * This involves use of `Manual Temporary Basal` feature - see the warning below
+* WARNING: When a [`Manual Temporary Basal`](https://loopkit.github.io/loopdocs/loop-3/omnipod/#manual-temp-basal) is enacted, the *Loop* app will not change insulin delivery **for any reason** until the `Manual Temporary Basal` duration ends or is manually turned off
+    * This means that, even if you are going low, if you have a `Manual Temporary Basal` set to deliver insulin, the *Loop* will not override your instructions
+    * This also means that if you are high and need insulin delivered, if you have a `Manual Temporary Basal` set to 0, the *Loop* app will not start delivering insulin
+
+## Do Not Make a Double Entry
+
+Beware the double Carb Entry, which could result in 2X the bolus you need! Please see this section of the *LoopDocs* website for information on [meal entries](https://loopkit.github.io/loopdocs/operation/features/carbs/#meal-entry_1).
+
+If you hit `Save and Bolus` and the bolus does not go through for any reason, those carbs are still saved in the *Loop* app. Do not enter them again.
 
 ## Helpful Links
 
