@@ -64,8 +64,8 @@ Some recent frequently asked questions on Facebook involve the use of the *Loop*
     * This is not a feature provided by the *Loop* app, however an explanation of how to simulate one in Open mode is provided at that link
     * This involves use of `Manual Temporary Basal` feature - see the warning below
 * WARNING: When a [`Manual Temporary Basal`](https://loopkit.github.io/loopdocs/loop-3/omnipod/#manual-temp-basal) is enacted, the *Loop* app will not change insulin delivery **for any reason** until the `Manual Temporary Basal` duration ends or is manually turned off
-    * This means that, even if you are going low, if you have a `Manual Temporary Basal` set to deliver insulin, the *Loop* will not override your instructions
-    * This also means that if you are high and need insulin delivered, if you have a `Manual Temporary Basal` set to 0, the *Loop* app will not start delivering insulin
+    * This means that, even if your glucose values are dropping, when you have a `Manual Temporary Basal` set to deliver insulin, the *Loop* app will not override your instructions
+    * This also means that if your glucose values are high and your need insulin delivered, when you have a `Manual Temporary Basal` set to 0 U/hr, the *Loop* app will not start delivering insulin
 
 ## Do Not Make a Double Entry
 
@@ -86,7 +86,7 @@ If you hit `Save and Bolus` and the bolus does not go through for any reason, th
     * [`Loop` Zulipchat](https://loop.zulipchat.com/)
 * <code>iAPS</code>:
     * [*iAPS* Website](https://www.iaps-app.org/)
-    * [*iAPS* Documentation](https://iaps.readthedocs.io/en/main/)
+    * [*iAPS* Documentation](http://iapsdocs.org/)
 * <code>Loop and Learn</code>
     * [Website](https://www.loopandlearn.org/)
     * [*Facebook*](https://www.facebook.com/groups/LOOPandLEARN)
