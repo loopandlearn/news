@@ -4,11 +4,14 @@ _Master Your DIY Closed-Loop Insulin Delivery System_
 
 Published on 11 January 2024.
 
-## In this edition:
+> **The Text Edition for today has not been prepared.**
+
+> **Please check back later today**
+
+## In this edition (so far):
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
-
-> **More coming soon - please check back later today**
+* [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
 
