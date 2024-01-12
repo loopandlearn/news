@@ -48,7 +48,7 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
     * [`Loop` Zulipchat](https://loop.zulipchat.com/)
 * <code>iAPS</code>:
     * [*iAPS* Website](https://www.iaps-app.org/)
-    * [*iAPS* Documentation](https://iaps.readthedocs.io/en/main/)
+    * [*iAPS* Documentation](http://iapsdocs.org/)
 * <code>Loop and Learn</code>
     * [Website](https://www.loopandlearn.org/)
     * [*Facebook*](https://www.facebook.com/groups/LOOPandLEARN)
