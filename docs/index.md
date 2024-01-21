@@ -2,9 +2,9 @@
 
 _Master Your DIY Closed-Loop Insulin Delivery System_
 
-Published on 11 January 2024.
+Published on 21 January 2024.
 
-## In this edition (so far):
+## In this edition:
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
 * [Automatic Temp Basal vs Manual Temp Basal](#automatic-temp-basal-vs-manual-temp-basal)
@@ -25,7 +25,7 @@ Published on 11 January 2024.
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 19:00 UTC | 8 February |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 19:00 UTC | 14 March |
 
-This is the first session of this year. The schedule is the second Thursday of each month.
+The schedule for 2024 is the second Thursday of each month.
 
 #### Time Zone Converter
 
@@ -33,7 +33,7 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## Automatic Temp Basal vs Manual Temp Basal
 
-A [Temporary Basal](https://loopkit.github.io/loopdocs/operation/algorithm/temp-basal/){:target="_blank"} (TB) can be issued by the *Loop* app when in `Closed Loop` mode to regulate insulin delivery every 5 minutes. The *Loop* app determines when to enact  a TB and when to return to scheduled basal, using a prediction updated every 5 minutes (or when a new CGM reading is detected), based on user entries and settings. If the user has selected <span>Automatic Bolus</span> <span>Dosing Strategy</span>, then TB are only used to reduce the amount of insulin delivered. The TB automatically issued by the *Loop* app all have a duration of 30 minutes. If not further commands are detected by the pump, at the end of 30 minutes, the pump returns to scheduled basal deliver.
+A [Temporary Basal](https://loopkit.github.io/loopdocs/operation/algorithm/temp-basal/){:target="_blank"} (TB) can be issued by the *Loop* app when in `Closed Loop` mode to regulate insulin delivery every 5 minutes. The *Loop* app determines when to enact  a TB and when to return to scheduled basal, using a prediction updated every 5 minutes (or when a new CGM reading is detected), based on user entries and settings. If the user has selected <span>Automatic Bolus</span> <span>Dosing Strategy</span>, then TB are only used to reduce the amount of insulin delivered. The TB automatically issued by the *Loop* app all have a duration of 30 minutes. If no further commands are detected by the pump, at the end of 30 minutes, the pump returns to scheduled basal delivery.
 
 A [Manual Temporary Basal](https://loopkit.github.io/loopdocs/loop-3/omnipod/#manual-temp-basal){:target="_blank"} (MTB) is a user-selected setting that effectively opens the loop and keeps insulin delivery steady at a user-defined rate for the user-defined duration (from 30 minutes up to 12 hours). If you use a Medtronic pump, you need to disable `closed-loop`, set MTB on your Medtronic pump and restore normal operation when done.
 
@@ -51,7 +51,7 @@ A major exception is when you are too flustered or hurried to search- there’s 
 
 * The [*LoopDocs*](https://loopkit.github.io/loopdocs/){:target="_blank"} website has a search bar in upper right
 * The [*Loop and Learn*](https://www.loopandlearn.org){:target="_blank"} website has a magnifying glass icon in upper right
-* The [*Loop and Learn Facebook*](https://www.loopandlearn.org){:target="_blank"} group has a magnifying glass icon in upper right
+* The [*Loop and Learn Facebook*](https://www.facebook.com/groups/LOOPandLEARN){:target="_blank"} group has a magnifying glass icon in upper right
 
 ## Enhanced Customization for Profiles
 
@@ -74,11 +74,11 @@ Get the Updates:
 
 * [`Loop Follow`](https://www.loopandlearn.org/loop-follow/#build-lf){:target="_blank"}: You need to build version 2.1.4 (released 18 January 2024) or newer to get the Profile display support.
 
-We’re committed to continually improving Profiles in `Loop` and `Loop Follow`. Your feedback is invaluable, so please share your experiences and suggestions with us.
+We’re committed to continually improving your experience with `Loop` and `Loop Follow`. Your feedback is invaluable, so please share your experiences and suggestions with us.
 
 ## Always use Automatic Time
 
-If you turn off automatic time and manually change the time while using the *Loop* app, you might get into a situation where the app crashes repeatedly. You can turn off permissions for `Loop` in Apple Health and might be able to operate, but this limits long-term storage on your phone. Set Screen Time, with a PIN, which will disable your -or your child’s- ability to change the phone’s time. If the *Loop* app crashes because of a time change, you will have to delete Loop off the phone completely, rebuild a fresh version, and repopulate all info to resolve the issue.
+If you turn off automatic time and manually change the time while using the *Loop* app, you might get into a situation where the app crashes repeatedly. You can turn off permissions for `Loop` in Apple Health and might be able to operate, but this limits long-term storage on your phone. Set Screen Time, with a PIN, which will disable your -or your child’s- ability to change the phone’s time. If the *Loop* app continues to crash because of a time change, even after you restore time to automatic, you will have to delete Loop off the phone completely, rebuild a fresh version, and repopulate all settings, overrides and options to resolve the issue.
 
 !!! question "Why would someone change the time on their phone?"
     One reason is to get more gaming time. So if you or your T1D child use the *Loop* phone for gaming, do yourself a favor and don’t change the time! Lock out the options with: iOS Settings, Screen Time, Lock Screen Time Settings and apply a PIN. This disables the ability for anything other than automatic time.
