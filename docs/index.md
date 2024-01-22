@@ -33,13 +33,13 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## Automatic Temp Basal vs Manual Temp Basal
 
-A [Temporary Basal](https://loopkit.github.io/loopdocs/operation/algorithm/temp-basal/){:target="_blank"} (TB) can be issued by the *Loop* app when in `Closed Loop` mode to regulate insulin delivery every 5 minutes. The *Loop* app determines when to enact  a TB and when to return to scheduled basal, using a prediction updated every 5 minutes (or when a new CGM reading is detected), based on user entries and settings. If the user has selected <span>Automatic Bolus</span> <span>Dosing Strategy</span>, then TB are only used to reduce the amount of insulin delivered. The TB automatically issued by the *Loop* app all have a duration of 30 minutes. If no further commands are detected by the pump, at the end of 30 minutes, the pump returns to scheduled basal delivery.
+A [Temporary Basal](https://loopkit.github.io/loopdocs/operation/algorithm/temp-basal/){:target="_blank"} (TB) is an automatic feature that the *Loop* uses in `Closed Loop` mode to regulate insulin delivery every 5 minutes. Loop uses user-input settings and entries to determine when to enact a TB and when to return to scheduled basal. If the user has selected <span>Automatic Bolus</span> <span>Dosing Strategy</span>, then TB are only used to reduce the amount of insulin delivered. The TB automatically issued by the *Loop* app all have a duration of 30 minutes. If no further commands are detected by the pump, at the end of 30 minutes, the pump returns to scheduled basal delivery.
 
 A [Manual Temporary Basal](https://loopkit.github.io/loopdocs/loop-3/omnipod/#manual-temp-basal){:target="_blank"} (MTB) is a user-selected setting that effectively opens the loop and keeps insulin delivery steady at a user-defined rate for the user-defined duration (from 30 minutes up to 12 hours). If you use a Medtronic pump, you need to disable `closed-loop`, set MTB on your Medtronic pump and restore normal operation when done.
 
 ### Resuming Scheduled Basal
 
-**Under normal operation**: The *Loop* app always sets a 30 minute TB. If the next prediction needs the same TB as the previous one, the TB is not modified to save the load on pump batteries. After 20 minutes, if the same TB is still required, then a new one is issued.
+**Under normal operation**: The *Loop* app always sets a 30-minute duration for TB. If the next prediction needs the same TB as the previous one, the TB is not modified to save the load on pump batteries. After 20 minutes, if the same TB is still required, then a new one is issued.
 
 **If connection with the phone is lost**: The pump resumes scheduled basal between 10 and 30 minutes later, depending on when the last TB was initiated.
 
