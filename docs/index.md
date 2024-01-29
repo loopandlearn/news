@@ -7,11 +7,9 @@ Published on 21 January 2024.
 ## In this edition:
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
-* [Automatic Temp Basal vs Manual Temp Basal](#automatic-temp-basal-vs-manual-temp-basal)
-    * [Resuming Scheduled Basal](#resuming-scheduled-basal)
-* [Searching for Information?](#searching-for-information)
-* [Enhanced Customization for Profiles](#enhanced-customization-for-profiles)
-* [Always use Automatic Time](#always-use-automatic-time)
+* [Updates and Upgrades](#updates-and-upgrades)
+* [A Model Request for Help](#a-model-request-for-help)
+* [DIY, Not “Have Someone Do It For You”](#diy-not-have-someone-do-it-for-you)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -31,59 +29,55 @@ The schedule for 2024 is the second Thursday of each month.
 
 Need help figuring out when an event happens in your time zone? Try the [SavvyTime: UTC Converter](https://savvytime.com/converter/utc){:target="_blank"}.
 
-## Automatic Temp Basal vs Manual Temp Basal
+## Updates and Upgrades
 
-A [Temporary Basal](https://loopkit.github.io/loopdocs/operation/algorithm/temp-basal/){:target="_blank"} (TB) is an automatic feature that the *Loop* uses in `Closed Loop` mode to regulate insulin delivery every 5 minutes. Loop uses user-input settings and entries to determine when to enact a TB and when to return to scheduled basal. If the user has selected <span>Automatic Bolus</span> <span>Dosing Strategy</span>, then TB are only used to reduce the amount of insulin delivered. The TB automatically issued by the *Loop* app all have a duration of 30 minutes. If no further commands are detected by the pump, at the end of 30 minutes, the pump returns to scheduled basal delivery.
+The [Version Updates](https://www.loopandlearn.org/version-updates/#ios-updates) page is updated with iOS 17.3 as the latest tested version.
 
-A [Manual Temporary Basal](https://loopkit.github.io/loopdocs/loop-3/omnipod/#manual-temp-basal){:target="_blank"} (MTB) is a user-selected setting that keeps insulin delivery steady at a user-defined rate for the user-defined duration (from 30 minutes up to 12 hours). In addition, the *Loop* app disables `closed-loop` operation, if enabled, and at after the MTB duration completes, it restores `closed-loop` configuration.  If you use a Medtronic pump, you need to disable `closed-loop`, set MTB on your Medtronic pump and restore normal operation when done.
+The [*LoopDocs*](https://loopkit.github.io/loopdocs/) website user experience has been improved! When users click on external links, they open in a new window or tab, depending on the browser’s setup. An up-right arrow is to the right of each external link.
 
-### Resuming Scheduled Basal
+And we have another helpful video in our “How to Build” series: Quick, Easy, Awesome! (Less than 4 minutes)
 
-**Under normal operation**: The *Loop* app always sets a 30-minute duration for TB. If the next prediction needs the same TB as the previous one, the TB is not modified to save the load on pump batteries. After 20 minutes, if the same TB is still required, then a new one is issued.
+* [How to Update and Rebuild DIY Loop with a Web Browser](https://www.youtube.com/watch?v=0ipTsiqbbrQ)
 
-**If connection with the phone is lost**: The pump resumes scheduled basal between 10 and 30 minutes later, depending on when the last TB was initiated.
+## A Model Request for Help
 
-## Searching for Information?
 
-We all have occasional troubles finding information through searches, but we urge you to use this valuable tool before asking questions on your favorite social media site. You may find lots more information than you realized is available.
+We often have occasion to outline things to include in help requests. Here’s an example of a request where the person saved a lot of time by providing thorough information upfront.
 
-A major exception is when you are too flustered or hurried to search- there’s usually someone online ready to help. In that situation, ask and then search! And -of course-  always be sure to seek help from emergency services first in an emergency!
+!!! tip ""
+    I am hoping that someone may have a magic fix for remote commands. I have successfully been using remote actions to dose and enact overrides for my son since they were released. They up and stopped working last week and I can not figure out a fix. I have gone through all of the Remote troubleshooting steps and remote errors on LoopDocs and have had no luck. Nightscout and my son's phone are not communicating...when I enact an override on either it can not be seen on the other. Anyone been through this and found a solution? I'm about to lose my mind after 8 hours of failing to troubleshoot.
 
-* The [*LoopDocs*](https://loopkit.github.io/loopdocs/){:target="_blank"} website has a search bar in upper right
-* The [*Loop and Learn*](https://www.loopandlearn.org){:target="_blank"} website has a magnifying glass icon in upper right
-* The [*Loop and Learn Facebook*](https://www.facebook.com/groups/LOOPandLEARN){:target="_blank"} group has a magnifying glass icon in upper right
+    I have tried:
 
-## Enhanced Customization for Profiles
+    * Rebuilding loop and loop caregiver
+    * Checking my developer account status
+    * Checking notification settings
+    * Removing and re-adding push authentication
+    * Turning off Cellular and WiFi (separately)
+    * Double checking that push notifications were enabled for loop
+    * Rebooting the phone
+    * Removing all non-medical apps
+    * Confirming that Background app refresh was on for loop
+    * Double-checking all focus settings
+    * and some other stuff.
 
-> Updated to add support for current Profile name in `Nightscout` and `Loop Follow`. Note - only the current profile is uploaded. Other profiles are stored only on the `Looper's` phone.
+    What am I missing? Any help would be greatly appreciated.
 
-We’re excited to bring you the latest updates to the Profiles Customization for the *Loop* app. At the same time, the *Loop Follow* app (v2.1.4) supports displaying that profile name if you use the customization. 
+## DIY, Not “Have Someone Do It For You”
 
-New features for the customization include:
+At `Loop and Learn`, we are deeply committed to supporting the DIY looping community. DIY stands for ‘Do It Yourself,’ emphasizing personal initiative with the understanding that you’re not alone, thanks to community support and shared expertise.
 
-* **Nightscout Display**: Your current active profile is now visible in Nightscout!
-* **Bug Fix for mmol/L Users**: We’ve squashed a bug where the app could mistakenly detect a profile change and suggest an update!
+We understand that the idea of building your own loop system can seem daunting at first. However, there are several compelling reasons to consider taking the DIY approach:
 
-New feature for the *Loop Follow* app (v2.1.4):
+1. **Empowerment through Education**: Engaging in the process of building your own loop system provides a deep understanding of its workings, empowering you to effectively manage your system and troubleshoot issues with confidence.
+2. **Community Support**: The strength of the DIY loop community lies in its foundation of mutual support and shared knowledge. By choosing the DIY path, you join a network of experienced individuals who offer guidance, support, and a wealth of collective knowledge, often surpassing what paid services can provide.
+3. **Cost Efficiency**: While the initial setup might seem challenging, the DIY route can lead to significant cost savings in the long run. This approach eliminates ongoing service fees, making it a financially sustainable option for managing your health.
+4. **Customization and Personalization**: Building your own system allows you to tailor it to your specific needs and preferences, resulting in a more effective and user-friendly experience that aligns with your lifestyle.
+5. **Independence and Self-Reliance**: The knowledge and skills gained through the DIY process foster a sense of confidence and independence, reducing reliance on third-party services. This is invaluable, especially in situations where immediate external support is not available.
 
-* `Loop Follow`: The user can select Profile as a display option to see the active profile used by the *Loop* app. If the profile customization is not applied to the *Loop* app, this simply shows `Default`.
+We recognize that certain challenges, such as limited access to technology or lack of technical expertise, can make the DIY approach seem less accessible. However, the community is here to support you, offering resources, advice, and sometimes even hardware assistance to help you get started.
 
-Get the Updates:
-
-* The enhanced [Profile Save & Load](https://www.loopandlearn.org/loop-features-in-development/#pr-2002){:target="_blank"} customization for the *Loop* app is available for both `main` and `dev` branches. You must rebuild to get the update using either [Browser Build](https://www.loopandlearn.org/custom-code/#github-intro){:target="_blank"} or [Mac Build](https://www.loopandlearn.org/custom-code/#customization-select){:target="_blank"}.
-
-* [`Loop Follow`](https://www.loopandlearn.org/loop-follow/#build-lf){:target="_blank"}: You need to build version 2.1.4 (released 18 January 2024) or newer to get the Profile display support.
-
-We’re committed to continually improving your experience with `Loop` and `Loop Follow`. Your feedback is invaluable, so please share your experiences and suggestions with us.
-
-## Always use Automatic Time
-
-If you turn off automatic time and manually change the time while using the *Loop* app, you might get into a situation where the app crashes repeatedly. You can turn off permissions for `Loop` in Apple Health and might be able to operate, but this limits long-term storage on your phone. Set Screen Time, with a PIN, which will disable your -or your child’s- ability to change the phone’s time. If the *Loop* app continues to crash because of a time change, even after you restore time to automatic, you will have to delete Loop off the phone completely, rebuild a fresh version, and repopulate all settings, overrides and options to resolve the issue.
-
-!!! question "Why would someone change the time on their phone?"
-    One reason is to get more gaming time. So if you or your T1D child use the *Loop* phone for gaming, do yourself a favor and don’t change the time! Lock out the options with: iOS Settings, Screen Time, Lock Screen Time Settings and apply a PIN. This disables the ability for anything other than automatic time.
-
-    To check that your phone is on automatic time, go to iOS Settings, General, Date & Time.
+Choosing to build and manage your own loop system is a rewarding journey that brings not only financial savings but also a greater sense of control and community connection. We encourage everyone interested in DIY looping to reach out to the community for support and to explore the resources available to embark on this empowering path.
 
 ## Helpful Links
 
