@@ -8,7 +8,7 @@ Published on 5 February 2024.
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
 * [February Food Events](#february-food-events)
-* [New Shortcut to Log *Nightscout* Treatment](#new-shortcut-to-log-nightscout-treatment)
+* [New Shortcut to Log a *Nightscout* Treatment](#new-shortcut-to-log-a-nightscout-treatment)
 * [Lock Your Phone](#lock-your-phone)
 * [Check Your Battery](#check-your-battery)
 * [Helpful Links](#helpful-links)
@@ -84,20 +84,20 @@ We want to be sure you know that it uses a lot of battery and recommend that you
 
 ## Helpful Links
 
-* [Subscribe](https://www.loopandlearn.org/newsletter-signup/) to get the Newsletter delivered to your email weekly.
-    * Some articles in the [original Newsletter](https://www.loopandlearn.org/2022/10/19/loop-and-learn-newsletter/) are not reproduced here
-* [Check for Updates](https://www.loopandlearn.org/version-updates/)
-* [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/)
-* [_<span translate="no">Loop and Learn</span>_&nbsp;Resources Page](https://www.loopandlearn.org/resources/)
+* [Subscribe](https://www.loopandlearn.org/newsletter-signup/){:target="_blank"} to get the Newsletter delivered to your email weekly.
+    * Some articles in the [original Newsletter](https://www.loopandlearn.org/2022/10/19/loop-and-learn-newsletter/){:target="_blank"} are not reproduced here
+* [Check for Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"}
+* [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/){:target="_blank"}
+* [_<span translate="no">Loop and Learn</span>_&nbsp;Resources Page](https://www.loopandlearn.org/resources/){:target="_blank"}
 * <code>Loop</code>:
-    * [`LoopDocs`](https://loopkit.github.io/loopdocs/)
-    * [`LoopTips`](https://loopkit.github.io/looptips/)
-    * [`Loop` Zulipchat](https://loop.zulipchat.com/)
+    * [`LoopDocs`](https://loopkit.github.io/loopdocs/){:target="_blank"}
+    * [`LoopTips`](https://loopkit.github.io/looptips/){:target="_blank"}
+    * [`Loop` Zulipchat](https://loop.zulipchat.com/){:target="_blank"}
 * <code>iAPS</code>:
-    * [*iAPS* Website](https://www.iaps-app.org/)
-    * [*iAPS* Documentation](http://iapsdocs.org/)
+    * [*iAPS* Website](https://www.iaps-app.org/){:target="_blank"}
+    * [*iAPS* Documentation](http://iapsdocs.org/){:target="_blank"}
 * <code>Loop and Learn</code>
-    * [Website](https://www.loopandlearn.org/)
-    * [*Facebook*](https://www.facebook.com/groups/LOOPandLEARN)
-    * [*Instagram*](https://www.instagram.com/loopandlearn/)
-    * [*YouTube*](https://www.youtube.com/c/loopandlearn)
+    * [Website](https://www.loopandlearn.org/){:target="_blank"}
+    * [*Facebook*](https://www.facebook.com/groups/LOOPandLEARN){:target="_blank"}
+    * [*Instagram*](https://www.instagram.com/loopandlearn/){:target="_blank"}
+    * [*YouTube*](https://www.youtube.com/c/loopandlearn){:target="_blank"}
