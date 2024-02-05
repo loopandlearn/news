@@ -64,7 +64,7 @@ When setting up this shortcut, you’ll be asked to enter:
 
 Important Note:
 
-Information logged via this shortcut is visible on your *Nightscout* site as a **note** and can be viewed compatible apps like LoopFollow, without affecting the *Loop*/*iAPS* app operations.
+Information logged via this shortcut is visible on your *Nightscout* site as a **note** and can be viewed with compatible apps like LoopFollow, without affecting the *Loop*/*iAPS* app operations.
 
 > This shortcut is based on contributions by Katie DiSimone and Daniel Mini Johansson.
 
