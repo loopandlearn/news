@@ -12,8 +12,6 @@ Published on 12 February 2024.
     * [Selecting iAPS version](#selecting-iaps-version)
 * [iOS Update](#ios-update)
 * [New Phone](#new-phone)
-
-
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
