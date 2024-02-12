@@ -48,8 +48,8 @@ markdown_extensions:
           generic: true
     - pymdownx.details
     - pymdownx.emoji:
-        emoji_index: !!python/name:materialx.emoji.twemoji 
-        emoji_generator: !!python/name:materialx.emoji.to_svg
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
     - pymdownx.highlight
     - pymdownx.mark
     - pymdownx.tilde
@@ -94,6 +94,7 @@ use_directory_urls: !ENV [CHECK_BROKEN_LINKS, True]
 nav:
 - Current: 'index.md'
 - Edition by Date:
+    - '2024-02-12': 'edition/2024-02-12.md'
     - '2024-02-05': 'edition/2024-02-05.md'
     - '2024-01-28': 'edition/2024-01-28.md'
     - '2024-01-21': 'edition/2024-01-21.md'
