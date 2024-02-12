@@ -69,6 +69,14 @@ This great (< 3 minute) video shows how to build 2.3.3 with Browser Build. Then 
 
 * [iAPS-main 2.3.3 & 3.0 Building Tips](https://www.youtube.com/watch?v=bT1YXsgyxMY&t=3s){:target="_blank"}
 
+The long alphanumeric string you need to add to your *GitHub* repository to make a branch called 2.3.3, is reproduced below for your convenience.
+
+``` { .bash .copy title="Copy and Paste to select commit for iAPS 2.3.3" }
+https://github.com/YOUR-GITHUB-USERNAME/iAPS/tree/f404fc49bfe4732dbb61c3a1b202d5b1f22ce178
+```
+
+Replace `YOUR-GITHUB-USERNAME` with your GitHub username. 
+
 #### Mac Build
 
 The Build_iAPS script has been updated to make it easy to select by option number:
