@@ -12,6 +12,7 @@ Published on 12 February 2024.
     * [Selecting iAPS version](#selecting-iaps-version)
 * [iOS Update](#ios-update)
 * [New Phone](#new-phone)
+* [Expiration Times](#expiration-times)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -43,7 +44,7 @@ If you participate in our group on [*Facebook*](https://www.facebook.com/groups/
 
 The [following post](https://www.facebook.com/groups/1351938092206709/posts/1534888703911646/){:target="_blank"} was written by Magnus Reintz in the *iAPS* *Facebook* group. The specific update mentioned here is from 2.3.3 to 3.0, but this holds for all updates in the future.
 
-For those readers who use *iAPS*, please wait to update any iAPS release until experts in the community have a chance to test and confirm the release. (Link to [*iAPS* Discord](https://discord.gg/ptkk2Y264Z){:target="_blank"}).
+For those readers who use *iAPS*, please wait to update any iAPS release until experts in the community have a chance to test and confirm the release.
 
 !!! warning "Post from 10 February 2024 repeated here:"
     iAPS has had a large increase in users over the last year. However, the development method has not changed. iAPS is still maintained by Jon B. Mårtensson with contributions from other developers. Jon decides when to merge code into the different branches, and he decides when to make a Main release. Jon is not on Facebook, and will not be commenting on this post. He is available on Discord.
@@ -57,6 +58,8 @@ For those readers who use *iAPS*, please wait to update any iAPS release until e
     I believe that iAPS Main 3.0 is an experimental app at the moment. It should be used with caution, only by people who are closely following the Discord group and ready to re-build on short notice. If you decide to use iAPS Main 3.0 now, you should be prepared for it not to work as expected. That includes bringing along low treatments, extra pods, your PDM (if you use Omnipod) and insulin pens at all times.
 
     Some of us will devote our time to testing this release and let you all know when it is safe. This will take time.
+
+ Link to [*iAPS* Discord](https://discord.gg/ptkk2Y264Z){:target="_blank"}.
 
 ### Selecting iAPS version
 
@@ -78,10 +81,7 @@ As of 12 February 2024:
 
 * tested main is 2.3.3
 
-After review of the new release, tested main will be updated to the appropriate version.
-
-
-When the main release has been deemed sufficiently tested, the script will be updated appropriately.
+When the main release has been deemed sufficiently reviewed, tested main in the script will be updated appropriately.
 
 Copy and paste the commands below into a terminal on your Mac and follow the directions.
 
@@ -102,7 +102,11 @@ A reminder when transferring your DIY loop app to a new phone: disable Closed `L
 
 ## Expiration Times
 
-If you are building released `Loop` code using the Browser Build method, the reported expiration time is not correct. You have to look at the *TestFlight* app to see when it expires. As soon as the next version is released, this will be fixed. In the meantime, you can add this [customization](https://www.loopandlearn.org/custom-code/#tf-expire){:target="_blank"} to your browser build to get the correct date and stop the warning messages. Should you get stuck and need help, copy and paste the URL from your Actions page in a post on Facebook or zulipchat.
+If you built released `Loop` code (version 3.2.x) using the Browser Build method, the reported expiration time is not correct. You have to look at the *TestFlight* app to see when it expires. 
+
+As soon as the next version is released, this will be fixed. 
+
+In the meantime, you can add this [customization](https://www.loopandlearn.org/custom-code/#tf-expire){:target="_blank"} to your browser build to get the correct date and stop the warning messages. Should you get stuck and need help, copy and paste the URL from your Actions page in a post on Facebook or zulipchat.
 
 ## Helpful Links
 
