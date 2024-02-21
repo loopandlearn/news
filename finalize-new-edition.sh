@@ -8,9 +8,9 @@
 #
 FOLDER_LABEL="docs/edition"
 EDITION_LABEL="$(ls -rt "${FOLDER_LABEL}" | tail -1)"
-# echo "EDITION_LABEL is ${EDITION_LABEL}"
+echo "EDITION_LABEL is ${EDITION_LABEL}"
 EDITION_FILE="${FOLDER_LABEL}/${EDITION_LABEL}"
-# echo "EDITION_FILE is ${EDITION_FILE}"
+echo "EDITION_FILE is ${EDITION_FILE}"
 cp -p "docs/index.md" "${EDITION_FILE}"
 # if there has been a change then git status will show it
 # a human will decide whether to add a commit
