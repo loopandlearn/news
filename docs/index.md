@@ -8,7 +8,7 @@ Published on 21 February 2024.
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
 * [Battery Drain: Phone and Dexcom](#battery-drain-phone-and-dexcom)
-* [Pod Site Stability](#pod-site-stability)
+* [`Pod` Site Stability](#pod-site-stability)
 * [Meal Time Tips]()
 * [Helpful Links](#helpful-links)
 
@@ -35,24 +35,24 @@ If you are a [`Loop Follow`](https://www.loopandlearn.org/loop-follow/){: target
 
 Another source of battery drain affects Dexcom and [Anubis](https://www.facebook.com/groups/247952672307306/posts/1901312990304591/){: target="_blank" } transmitters. Our friends at Anubis warn that the [*xDrip4iOS*](https://xdrip4ios.readthedocs.io/en/latest/){: target="_blank" } and [*Shuggah*](https://apps.apple.com/gb/app/shuggah/id1586789452){: target="_blank" } apps both drain the batteries of these transmitters at a rapid rate. Thankfully, we hear that a fix is in the works.
 
-## Pod Site Stability
+## `Pod` Site Stability
 
-Those of us who use pods occasionally encounter site issues like leaky pods, bloody sites, bruising, and painful sites, which can lead to poor absorption. Fortunately, a simple and effective solution has been suggested by a user on Discord and tested by several members of our team, yielding positive results. If you're experiencing any of these problems, you can consider this method.
+Those of us who use `pods` occasionally encounter site issues like leaky `pods`, bloody sites, bruising, and painful sites, which can lead to poor absorption. Fortunately, a simple and effective solution has been suggested by a user on Discord and tested by several members of our team, yielding positive results. If you're experiencing any of these problems, you can consider this method.
 
 > The information given here is based on personal experiences and is not intended as medical advice. Always consult your healthcare provider before making any changes to your treatment.
 
 > Consider the fact that this method depends on inserting the cannula through a piece of medical tape attached to the skin. You may not be willing to take that action.
 
-The [method](https://www.facebook.com/groups/LOOPandLEARN/posts/3627796764143468/){: target="_blank" } involves placing a piece of Tegaderm or OpSite Flexifix dressing on your skin prior to applying your pod. Apply the pod directly over it without cutting a hole for the cannula. The dressing only needs to be in the area of the cannula, it does not need to be as big as the pod. This technique has been successful in stabilizing the cannula and preventing many of the aforementioned issues, ultimately extending the use time of the site.
+The [method](https://www.facebook.com/groups/LOOPandLEARN/posts/3627796764143468/){: target="_blank" } involves placing a piece of Tegaderm or OpSite Flexifix dressing on your skin prior to applying your `pod`. Apply the `pod` directly over it without cutting a hole for the cannula. The dressing only needs to be in the area of the cannula, it does not need to be as big as the `pod`. This technique has been successful in stabilizing the cannula and preventing many of the aforementioned issues, ultimately extending the use time of the site.
 
 The rationale behind this approach is that it stabilizes where the cannula enters the skin, limiting motion that can lead to leaking. Several members report the site remains functional for a longer duration with more stability in day-to-day insulin needs.
 
-For individuals dealing with pod adhesive irritation, apply a sufficiently large piece of dressing to fit under the entire pod. Additionally, spraying Flonase on the area and allowing it to dry before applying any dressing can help mitigate adhesive-related issues.
+For individuals dealing with `pod` adhesive irritation, apply a sufficiently large piece of dressing to fit under the entire `pod`. Additionally, spraying Flonase on the area and allowing it to dry before applying any dressing can help mitigate adhesive-related issues.
 
-Some ways we can tell we have a leaky pod:
+Some ways we can tell we have a leaky `pod`:
 
 * Glucose is not responding to known sufficient insulin dosing
-* Wet and/or discolored adhesive around pod
+* Wet and/or discolored adhesive around `pod`
 * Smell of insulin
 * Cannula is visually dislodged
 * For some: leaking leads to bleeding and stinging with large boluses
