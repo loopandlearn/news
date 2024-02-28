@@ -36,11 +36,11 @@ Read this post on Facebook in [CGMitC Off Topic #T1DIY](https://www.facebook.com
 
 ## Use Unique Times for Remote Carbohydrate Entries
 
-Any Caregiver remotely entering carbohydrates needs to be aware of how Nightscout decides what carbohydrate treatments are unique. If two entries are made with the same hour: minute: second eating time, Nightscout keeps only one of the entries. 
+Any caregiver remotely entering carbohydrates needs to be aware of how *Nightscout* decides what carbohydrate treatments are unique. If two entries are made with the same hour: minute: second eating time, *Nightscout* keeps only one of the entries. 
 
-Loop handles the entries as unique so there can be a mismatch in what the Caregiver sees in Nightscout compared to the Looper's actual meal history. 
+The *Loop* app handles the entries as unique so there can be a mismatch in what the Caregiver sees in *Nightscout* compared to the Looper's actual meal history. 
 
-When adding a second remote carbohydrate entry for the same meal, increase the time for that entry by one minute. This will ensure that Nightscout keeps both of entries. For more details, [see this explanation](https://loopkit.github.io/loopdocs/nightscout/remote-commands/#use-unique-times-for-remote-carbohydrate-entries){: target="_blank" }.
+When adding a second remote carbohydrate entry for the same meal, increase the time for that entry by one minute. This will ensure that *Nightscout* keeps both of entries. For more details, [see this explanation](https://loopkit.github.io/loopdocs/nightscout/remote-commands/#use-unique-times-for-remote-carbohydrate-entries){: target="_blank" }.
 
 ## Helpful Links
 
