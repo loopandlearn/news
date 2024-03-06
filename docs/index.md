@@ -30,9 +30,9 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## Behind the Scenes
 
-Any idea how many times the LnL team exchanges messages about documentation in any given week? What triggers our discussions?
+Any idea how many messages the LnL team exchanges about changes to documentation in any given week? We bet you'll be surprised! Why do we do this? 
 
-* The *Loop* branch `dev` gets updated
+* The *Loop* `dev` branch gets updated
 * We prepare for the next release of the *Loop* app
 * Customizations are added or adjusted, with associated documention
 * Methods for building Loop (Browser and Mac builds) are updated
@@ -49,15 +49,32 @@ The answer is between 50 and 75 messages. We work hard to keep things up-to-date
 
 ## Be Ready to Rebuild
 
-A reminder: If you are using the *Loop* app or any other DIY APS, be ready to rebuild whenever the need arises. That may come for one of many different reasons, which may take you by surprise. Tips for managing with the least stress include:
+A reminder: If you are using the *Loop* app or any other DIY APS, be prepared to rebuild whenever the need arises. Various reasons may necessitate this. Here are some tips to help you navigate rebuilding with minimal stress:
 
-* If you are a [Mac builder](https://loopkit.github.io/loopdocs/build/overview/){:target="_blank"}, update your iOS in a timely fashion after Apple releases a new one, so it’s ready to go if you need to build in short order
-* Don’t update iOS ahead of Mac OS. Check [Version Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"} first!
-* When you update to the newest iOS, be prepared to be loopless during download, update, reboot an then possibly while Apple Health indexes. The index delay doesn't happen to everyone, but if it happens to you, it may take up to an hour.
-* Allow yourself enough time to rebuild. When we decide to DIY Loop, we do so with the understanding that app is experimental and that we may need to rebuild at any time. If you have time limitations, be sure to be ready to revert to traditional pump therapy if something happens to your Loop app or if you are unable to rebuild at a moment’s notice.
-* When you do a rebuild, consider using the [Browser Build Method](https://loopkit.github.io/loopdocs/gh-actions/gh-overview/){:target="_blank"}. With that, the first-time setup takes a couple of hours, but then rebuilds take less than a minute to trigger, right from your phone, anywhere you have an internet connection. Very frequently, someone needs to rebuild urgently because they dropped or lost their phone. If you’re a Mac builder and there’s any chance you’re going to be in a situation without the time or access to rebuild on a Mac, please consider setting up Browser Build as well. Even if you don’t install it, it will be ready, just in case. When you do, it will install over your old version. Watch this short [Browser Build video](https://www.youtube.com/watch?v=0ipTsiqbbrQ){:target="_blank"}!
-* The app expires every 90 days, but you can rebuild using your iPhone and it only takes a few minutes. Dev has an auto rebuild feature and Loop 3.4 will have it as well.
-* Loop and Learn has volunteers on Facebook that can help you virtually, 24/7/365 across all time zones should you run into issues.  
+### Allow Sufficient Time for Rebuilding:
+
+* Recognize that DIY Loop is experimental, and you may need to rebuild at any time.
+* If time constraints are an issue, be prepared to revert to traditional pump therapy if needed.
+
+### [*Mac* Builders](https://loopkit.github.io/loopdocs/build/overview/){:target="_blank"}: Keep your Operating Systems Updated
+
+* Ensure you update your Mac OS promptly when Apple releases a new version.
+* Avoid updating iOS ahead of Mac OS; check [Version Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"} first!
+
+### iOS Update Considerations:
+
+* When you update to the newest iOS, be ready for loopless periods during download, update, reboot and, potentially, while Apple Health indexes. The index delay doesn't happen to everyone, but when it does, it can take up to an hour.
+
+### Consider the [Browser Build](https://loopkit.github.io/loopdocs/gh-actions/gh-overview/){:target="_blank"} Strategy for Rebuilding
+
+* First-time setup takes a couple of hours; subsequent rebuilds take less than a minute and can be done from your phone, anywhere you have internet connection.
+* Suitable for urgent situations, especially if you're a Mac builder without immediate access to a Mac. It can reside on your phone, ready to install over your old version in case you need it.
+* Watch this short [Browser Build video](https://www.youtube.com/watch?v=0ipTsiqbbrQ){:target="_blank"}!
+* Browser Build expires every 90 days, but you can rebuild using your iPhone and it only takes a few minutes. Dev has an auto rebuild feature and Loop 3.4 will have it as well.
+
+### Help is Available:
+
+* Loop and Learn has volunteers on [*Facebook*](https://www.facebook.com/groups/LOOPandLEARN){:target="_blank"} that can help you virtually, 24/7/365 across all time zones should you run into issues.
 
 ## Helpful Links
 
