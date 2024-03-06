@@ -35,11 +35,11 @@ Any idea how many messages the LnL team exchanges about changes to documentation
 * The *Loop* `dev` branch gets updated
 * We prepare for the next release of the *Loop* app
 * Customizations are added or adjusted, with associated documention
-* Methods for building Loop (Browser and Mac builds) are updated
+* Methods for building Loop (Browser and *Mac* builds) are updated
 * Accessory apps are created or updated
 * Someone tells us that they can’t understand something in the docs and we think of better -or more succinct- ways to explain it
 * Questions get asked that indicate documentation needs clarity
-* Apple updates an operating system (iOS, macOS, Xcode version)
+* *Apple* updates an operating system (iOS, macOS, Xcode version)
 
 Thanks to all who participate in our community by asking questions and letting us know when something needs clarifying - you help us all!
 
@@ -51,28 +51,28 @@ The answer is between 50 and 75 messages. We work hard to keep things up-to-date
 
 A reminder: If you are using the *Loop* app or any other DIY APS, be prepared to rebuild whenever the need arises. Various reasons may necessitate this. Here are some tips to help you navigate rebuilding with minimal stress:
 
-### Allow Sufficient Time for Rebuilding:
+#### Allow Sufficient Time for Rebuilding:
 
 * Recognize that DIY Loop is experimental, and you may need to rebuild at any time.
 * If time constraints are an issue, be prepared to revert to traditional pump therapy if needed.
 
-### [*Mac* Builders](https://loopkit.github.io/loopdocs/build/overview/){:target="_blank"}: Keep your Operating Systems Updated
+#### [*Mac* Builders](https://loopkit.github.io/loopdocs/build/overview/){:target="_blank"}: Keep your Operating Systems Updated
 
-* Ensure you update your Mac OS promptly when Apple releases a new version.
-* Avoid updating iOS ahead of Mac OS; check [Version Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"} first!
+* Ensure you update your *Mac* OS promptly when *Apple* releases a new version.
+* Avoid updating iOS ahead of macOS; check [Version Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"} first!
 
-### iOS Update Considerations:
+#### iOS Update Considerations:
 
-* When you update to the newest iOS, be ready for loopless periods during download, update, reboot and, potentially, while Apple Health indexes. The index delay doesn't happen to everyone, but when it does, it can take up to an hour.
+* When you update to the newest iOS, be ready for loopless periods during download, update, reboot and, potentially, while *Apple* Health indexes. The index delay doesn't happen to everyone, but when it does, it can take up to an hour.
 
-### Consider the [Browser Build](https://loopkit.github.io/loopdocs/gh-actions/gh-overview/){:target="_blank"} Strategy for Rebuilding
+#### Consider the [Browser Build](https://loopkit.github.io/loopdocs/gh-actions/gh-overview/){:target="_blank"} Strategy for Rebuilding
 
 * First-time setup takes a couple of hours; subsequent rebuilds take less than a minute and can be done from your phone, anywhere you have internet connection.
-* Suitable for urgent situations, especially if you're a Mac builder without immediate access to a Mac. It can reside on your phone, ready to install over your old version in case you need it.
-* Watch this short [Browser Build video](https://www.youtube.com/watch?v=0ipTsiqbbrQ){:target="_blank"}!
+* Suitable for urgent situations, especially if you're a *Mac* builder without immediate access to a *Mac*. The *Loop* app can be installed on your phone from TestFlight should the need arise.
+* Watch this short [Browser Build video](https://www.youtube.com/watch?v=0ipTsiqbbrQ){:target="_blank"}
 * Browser Build expires every 90 days, but you can rebuild using your iPhone and it only takes a few minutes. Dev has an auto rebuild feature and Loop 3.4 will have it as well.
 
-### Help is Available:
+#### Help is Available:
 
 * Loop and Learn has volunteers on [*Facebook*](https://www.facebook.com/groups/LOOPandLEARN){:target="_blank"} that can help you virtually, 24/7/365 across all time zones should you run into issues.
 
