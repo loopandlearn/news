@@ -34,7 +34,7 @@ Any idea how many messages the LnL team exchanges about changes to documentation
 
 * The *Loop* `dev` branch gets updated
 * We prepare for the next release of the *Loop* app
-* Customizations are added or adjusted, with associated documention
+* Customizations are added or adjusted, with associated documentation
 * Methods for building Loop (Browser and *Mac* builds) are updated
 * Accessory apps are created or updated
 * Someone tells us that they can’t understand something in the docs and we think of better -or more succinct- ways to explain it
