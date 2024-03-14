@@ -19,8 +19,8 @@ Published on 9 March 2024.
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 18:00 UTC | 14 March |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 18:00 UTC | 11 April |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 19:00 UTC | 14 March |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 19:00 UTC | 11 April |
 
 _<span translate="no">Loop and Learn</span>_: Informal Discussion in 2024 is scheduled on the second Thursday of each month.
 
