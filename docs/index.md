@@ -7,7 +7,7 @@ Published on 18 March 2024.
 ## In this edition:
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
-* [*Loop* Settings Review using Nightscout](#loop-settings-review-using-nightscout)
+* [_<span translate="no">Loop</span>_&nbsp;Settings Review using *Nightscout*](#loopsettings-review-using-nightscout)
 * [Website Page Highlight: Version Updates](#website-page-highlight-version-updates)
 * [Thanks from *Anubis*](#thanks-from-anubis)
 * [Helpful Links](#helpful-links)
@@ -28,11 +28,11 @@ _<span translate="no">Loop and Learn</span>_: Informal Discussion in 2024 is sch
 
 Need help figuring out when an event happens in your time zone? Try the [SavvyTime: UTC Converter](https://savvytime.com/converter/utc){:target="_blank"}.
 
-## *Loop* Settings Review using Nightscout
+## _<span translate="no">Loop</span>_&nbsp;Settings Review using *Nightscout*
 
-We had a series of Zoom sessions in which Kenny Fox analyzes Nightscout reports for various people to assist them in analysing the settings they use for their *Loop* app. These sessions are being recorded and made into very nice productions with timestamps. The first of these is available on our [YouTube channel](https://www.youtube.com/@LoopAndLearn){:target="_blank"}. These will be a great resource for all loopers!
+We had a series of Zoom sessions in which Kenny Fox analyzes *Nightscout* reports for various people to assist them in analysing the settings they use for their *Loop* app. These sessions are being recorded and made into very nice productions with timestamps. The first of these is available on our [YouTube channel](https://www.youtube.com/@LoopAndLearn){:target="_blank"}. These will be a great resource for all loopers!
 
-* [*Loop* Settings Review in Nightscout with Kenny Fox #1, Feb 2024](https://www.youtube.com/watch?v=73BKO4VNrGk){:target="_blank"}
+* [_<span translate="no">Loop</span>_&nbsp;Settings Review in *Nightscout* with Kenny Fox #1, Feb 2024](https://www.youtube.com/watch?v=73BKO4VNrGk){:target="_blank"}
 
 ## Website Page Highlight: Version Updates
 
