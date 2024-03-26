@@ -94,6 +94,7 @@ use_directory_urls: !ENV [CHECK_BROKEN_LINKS, True]
 nav:
 - Current: 'index.md'
 - Edition by Date:
+    - '2024-03-26': 'edition/2024-03-26.md'
     - '2024-03-18': 'edition/2024-03-18.md'
     - '2024-03-09': 'edition/2024-03-09.md'
     - '2024-03-05': 'edition/2024-03-05.md'
