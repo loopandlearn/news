@@ -13,6 +13,7 @@ Published on 26 March 2024.
 * [iOS Updates](#ios-updates)
 * [_<span translate="no">Loop Follow</span>_&nbsp;Updates](#loop-followupdates)
 * [Browser Build Expiration Date](#browser-build-expiration-date)
+* [_<span translate="no">Tidepool Loop</span>_&nbsp;News](#tidepool-loopnews)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -71,6 +72,13 @@ If you want to see the approximate TestFlight expiration date and get in-app rem
 * Details about the [TestFlight Expiration Customization](https://www.loopandlearn.org/custom-code/#tf-expire){:target="_blank"}
 
 This is not needed for the `dev` branch. The TestFlight expiration is already provided with that version.
+
+## _<span translate="no">Tidepool Loop</span>_&nbsp;News
+
+Here’s exciting news that stems from the world of DIY: _<span translate="no">Tidepool Loop</span>_&nbsp;has announced its partnership with *Sequel Med Tech, LLC*, to bring their new *twiist* AID system to market! They received US FDA clearance and we look forward to availability as an option for people living with diabetes.
+
+* [_<span translate="no">Tidepool Loop</span>_&nbsp;Press Release](https://www.tidepool.org/blog/the-twiist-tm-aid-system-powered-by-tidepool-receives-510-k-clearance){:target="_blank"}
+* [_<span translate="no">Sequel</span>_&nbsp;Press Release](https://twiist.com/wp-content/uploads/sequel_twiist_510k-post-clearance-release-03182024-with-image.pdf){:target="_blank"}
 
 ## Helpful Links
 
