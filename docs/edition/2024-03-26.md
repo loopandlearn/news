@@ -2,18 +2,14 @@
 
 _Master Your DIY Closed-Loop Insulin Delivery System_
 
-Published on 26 March 2024.
+Published on 8 April 2024.
 
 ## In this edition:
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
-* [Membership Milestone](#membership-milestone)
-* [Spring Forward in Europe](#spring-forward-in-europe)
-* [_<span translate="no">Loop</span>_&nbsp;Settings Review using *Nightscout #2*](#loopsettings-review-using-nightscout-2)
-* [iOS Updates](#ios-updates)
+* [Do Not Post in Multiple Places](#do-not-post-in-multiple-places)
 * [_<span translate="no">Loop Follow</span>_&nbsp;Updates](#loop-followupdates)
-* [Browser Build Expiration Date](#browser-build-expiration-date)
-* [_<span translate="no">Tidepool Loop</span>_&nbsp;News](#tidepool-loopnews)
+* [Record Non-Pump Insulin BEFORE Recording Carbs](#record-non-pump-insulin-before-recording-carbs)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -32,53 +28,41 @@ _<span translate="no">Loop and Learn</span>_: Informal Discussion in 2024 is sch
 
 Need help figuring out when an event happens in your time zone? Try the [SavvyTime: UTC Converter](https://savvytime.com/converter/utc){:target="_blank"}.
 
-## Membership Milestone
+## Do Not Post in Multiple Places
 
-The [*Loop and Learn Facebook* group](https://www.facebook.com/groups/LOOPandLEARN){:target="_blank"} reached 10,000 members last week! Thanks to all who make our community and our mission THRIVE!
+Cross-posting is becoming increasingly common: someone seeks help in one community and then duplicates their question in another. While this may seem like a strategy to expedite issue resolution, it's crucial to remember that this is a volunteer-driven online community. Every moment spent contributing is volunteered time. Cross-posting often results in dulicated efforts, with multiple volunteers unknowingly responding to the same query. Consequently, valuable time is squandered, hindering assistance for others awaiting responses.
 
-## Spring Forward in Europe
+Instead, consider the most relevant group for your question and post it there exclusively. If you don't receive a timely response, you can either "bump" your post or delete it from one group and repost it in another. This approach ensures efficient use of volunteer time and prioritizes equitable assistance for all community members.
 
-If your time zone changes, in the wee small hours of March 31, you can find a clock in the pump icon on the main screen of your Loop app - or on the Pump settings screen of your iAPS app. Read more about how your pump time and phone time can be different and how to [sync to the current time](https://loopkit.github.io/loopdocs/loop-3/displays-v3/#time-zone){:target="_blank"}:
-
-* Tap on the pump icon to go to your pump screen
-* Scroll down to the Pump Time row
-* If your pump time doesn't match your phone time, you can change it by tapping on the Sync to Current Time button and confirming you want to sync the time
-
-> A Look Ahead... on 7 April, parts of Australia Fall Back
-
-## _<span translate="no">Loop</span>_&nbsp;Settings Review using *Nightscout #2*
-
-The second in our series of Nightscout Review videos is available on our [YouTube channel](https://www.youtube.com/@LoopAndLearn){:target="_blank"}. These videos cover a lot of ground and are a great resource for all loopers! More to come!
-
-* [_<span translate="no">Loop</span>_&nbsp;Settings Review in *Nightscout* with Kenny Fox #2, Feb 2024](https://www.youtube.com/watch?v=wMR2Zbc5ZX4){:target="_blank"}
-
-## iOS Updates
-
-iOS Version Updates 17.4.1 and 16.7.7 have been successfully built and tested.
-
-See our [Version Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"} page for update info at any time!
+If a mentor asks you to post the same information in a different location - that is different. Please leave your original post up so people in the current group can follow to the new location.
 
 ## _<span translate="no">Loop Follow</span>_&nbsp;Updates
 
-Our developers have been working hard on updating _<span translate="no">Loop Follow</span>_. More info to come, but here are the [version 2.1.7 release notes](https://github.com/loopandlearn/LoopFollow/releases/tag/v2.1.7){:target="_blank"}.
+The [*Loop Follow*](https://www.loopandlearn.org/loop-follow/){:target="_blank"} app has new tech enhancements and user-focused improvements that you're bound to love!
 
-## Browser Build Expiration Date
+ WHAT’S NEW in recent releases:
 
-The released (main) version of the *Loop* app does not report the expected expiration date if you use the Browser Build method.
+* Browser Build Boost: 
+    * We've leveled up our browser build dependencies to Node 20, banishing those "Node.js 16 actions are deprecated" warnings.
+* Xcode and iOS SDK Update: 
+    * Staying ahead with Apple's evolving requirements, we've shifted our GitHub build to Xcode 15 and the iOS 17 SDK. This update keeps our app in line with the latest TestFlight requirements. 
+* Accurate Build Expiration Date: 
+    * Good news for TestFlight users! The app now accurately reports the build expiration date for TestFlight builds. 
+* Snoozer Tab Revamp: 
+    * Seeking a clearer view? We've significantly enhanced the Snoozer tab for you. With enlarged text and more visible BG delta and clock time fonts, glancing over your stats is effortless – whether your phone's right beside you or across the room.
+* Scrolling and Viewing Made Better: 
+    * Dive into your historical data without a hitch! We've introduced an intelligent auto-scrolling behavior. Manually scroll through your history, and the auto-scroll will pause, resuming only after 5 minutes of inactivity or if you navigate to the latest point in time. 
+* Enhanced Data Clarity: 
+    * To ensure you're always informed, we've added a strikethrough feature for stale glucose data (>12 minutes old) on both the main and Snoozer screens. Never be in doubt whether displayed glucose is up-to-date! 
+* Say Goodbye to Watch Image Feature: 
+    * This feature was a tad confusing for many and sparingly used. If this was a feature dear to you, we're all ears – let us know!
+    
 
-If you want to see the approximate TestFlight expiration date and get in-app reminders when you need to rebuild and install a new version from TestFlight:
+Latest [Release](https://github.com/loopandlearn/LoopFollow/releases){:target="_blank"} is found here. Scroll through the releases to see what has changed recently. Your insights drive our progress, so please keep the feedback coming!
 
-* [General instructions for customizing Browser Build](https://www.loopandlearn.org/custom-code/#github-intro){:target="_blank"} (use the ones you want but include TestFlight Expiration)
-* Details about the [TestFlight Expiration Customization](https://www.loopandlearn.org/custom-code/#tf-expire){:target="_blank"}
+## Record Non-Pump Insulin BEFORE Recording Carbs
 
-This is not needed for the `dev` branch. The TestFlight expiration is already provided with that version.
-
-## _<span translate="no">Tidepool Loop</span>_&nbsp;News
-
-Here’s exciting news that stems from the world of DIY: _<span translate="no">Tidepool Loop</span>_&nbsp;has announced its partnership with *Sequel Med Tech, LLC*, to bring their new *twiist* AID system to market! They received US FDA clearance and we look forward to availability as an option for people living with diabetes.
-
-* [_<span translate="no">Tidepool Loop</span>_&nbsp;Press Release](https://www.tidepool.org/blog/the-twiist-tm-aid-system-powered-by-tidepool-receives-510-k-clearance){:target="_blank"}
-* [_<span translate="no">Sequel</span>_&nbsp;Press Release](https://twiist.com/wp-content/uploads/sequel_twiist_510k-post-clearance-release-03182024-with-image.pdf){:target="_blank"}
+This is a big SAFETY issue: If you use non-pump insulin in association with adding a carb entry to Loop, be sure to add the insulin entry BEFORE recording the carbs. This will keep Loop from duplicating the insulin and overdosing you.
 
 ## Helpful Links
 
