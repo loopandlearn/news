@@ -30,7 +30,7 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## Do Not Post in Multiple Places
 
-Cross-posting is becoming increasingly common: someone seeks help in one community and then duplicates their question in another. While this may seem like a strategy to expedite issue resolution, it's crucial to remember that this is a volunteer-driven online community. Every moment spent contributing is volunteered time. Cross-posting often results in dulicated efforts, with multiple volunteers unknowingly responding to the same query. Consequently, valuable time is squandered, hindering assistance for others awaiting responses.
+Cross-posting is becoming increasingly common: someone seeks help in one community and then duplicates their question in another. While this may seem like a strategy to expedite issue resolution, it's crucial to remember that this is a volunteer-driven online community. Every moment spent contributing is volunteered time. Cross-posting often results in duplicated efforts, with multiple volunteers unknowingly responding to the same query. Consequently, valuable time is squandered, hindering assistance for others awaiting responses.
 
 Instead, consider the most relevant group for your question and post it there exclusively. If you don't receive a timely response, you can either "bump" your post or delete it from one group and repost it in another. This approach ensures efficient use of volunteer time and prioritizes equitable assistance for all community members.
 
