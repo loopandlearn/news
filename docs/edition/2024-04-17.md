@@ -36,7 +36,7 @@ Here’s a [Resource Page](https://www.loopandlearn.org/wp-content/uploads/2024/
 
 ## How to Ask for Build Help
 
-The best way to get help is to follow these directions. (Yes - we want you to actually **read** the information at these links **before** you post). This is not the discourage you from asking questions. This is to help us help you.
+The best way to get help is to follow these directions. (Yes - we want you to actually **read** the information at these links **before** you post). This is not to discourage you from asking questions. This is to help us help you.
 
 * [Browser Build Help](https://loopkit.github.io/loopdocs/gh-actions/gh-errors/#help-with-errors)
     * Give us your GitHub username and a brief description of your problem
