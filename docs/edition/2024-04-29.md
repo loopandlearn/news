@@ -30,13 +30,13 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## Alert: Using Browser to Build the *Loop* app?
 
-This only affects the `main` branch.
+This only affects the &nbsp;<span translate="no">LoopWorkspace main branch</span>.
 
-> There is a different issue for the `dev` branch that only affects you if you have to update your certificates. There is a solution for that too. We'll post about that next week.
+> There is a different issue for the&nbsp;<span translate="no">dev branch</span>&nbsp;that only affects you if you have to update your certificates. There is a solution for that too. We'll post about that next week.
 
 Apple reported a change that may affect your Browser Build starting 29 April 2024.
 
-* As of 29 April 2024, we have not heard of failures of `main` branch browser builds to deploy to TestFlight
+* As of 29 April 2024, we have not heard of failures of&nbsp;<span translate="no">main branch</span>&nbsp;browser builds to deploy to TestFlight
 * Don't bother with this procedure until it either happens to you or we report that it is required
     * This issue only impacts&nbsp;_<span translate="no">Loop main</span>_, not&nbsp;_<span translate="no">Loop dev</span>_&nbsp;or any&nbsp;_<span translate="no">Loop related</span>_&nbsp;apps
     * This link walks you through the steps: [_<span translate="no">Loop main Browser Build</span>_](https://www.loopandlearn.org/2024/04/27/testflight-april-29-2024/){: target="_blank" }
