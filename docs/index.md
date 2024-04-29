@@ -34,13 +34,13 @@ This only affects the `main` branch.
 
 > There is a different issue for the `dev` branch that only affects you if you have to update your certificates. There is a solution for that too. We'll post about that next week.
 
-Apple has reported that apps built with older versions of Xcode (before version 15) cannot be uploaded through App Store Connect starting 29 April 2024. (This is how your Browser Build gets into your *TestFlight* app.)
+Apple reported that apps built with older versions of Xcode (before version 15) cannot be uploaded through App Store Connect starting 29 April 2024. (This is how your Browser Build gets into your *TestFlight* app.)
 
-We have not heard of failures yet. But if it happens to you, we have provided a method that should solve your problem.
+As of 29 April 2024, we have not heard of failures of `main` branch browser builds to deploy to TestFlight. So don't bother with this procedure until it either happens to you or we report that it is required.
 
 This issue only impacts&nbsp;_<span translate="no">Loop main</span>_, not&nbsp;_<span translate="no">Loop dev</span>_&nbsp;or any&nbsp;_<span translate="no">Loop related</span>_&nbsp;apps. It does not impact Xcode builders (there are very few Xcode builders who deploy via TestFlight).
 
-This link walks you through the steps:
+This link walks you through the steps, should you need them:
 
 * [_<span translate="no">Loop main Browser Build</span>_](https://www.loopandlearn.org/2024/04/27/testflight-april-29-2024/){: target="_blank" }
 
