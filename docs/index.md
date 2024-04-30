@@ -30,17 +30,15 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## Alert: Using Browser to Build the *Loop* app?
 
-This only affects the &nbsp;<span translate="no">LoopWorkspace main branch</span>.
+Apple reported a change that may affect your Browser Build starting 29 April 2024. This only affects the&nbsp;<span translate="no">LoopWorkspace main branch</span>.
 
-> There is a different issue for the&nbsp;<span translate="no">dev branch</span>&nbsp;that only affects you if you have to update your certificates. There is a solution for that too. We'll post about that next week.
-
-Apple reported a change that affects your Browser Build starting 29 April 2024.
-
-* The message you get is on the build step: "the sdk version being used (16.1) is too low to upload to testflight".
-* A request to change the code has been submitted to the developers and after they merge the change, you won't need to do anything.
-* As of the evening of 29 April (PDT), the fix hasn't been merged, so follow the steps below if you need to build (or you can build the dev branch)
+* The message you get is on the build step: "the sdk version being used (16.1) is too low to upload to testflight"
+* A request to change the code has been submitted to the developers and after they merge the change, you can sync your fork and won't need to do anything else
+* As of the evening of 29 April (PDT), the fix hasn't been merged, so follow the steps below if you need to build (or you can build `dev`)
     * This issue only impacts&nbsp;_<span translate="no">Loop main</span>_, not&nbsp;_<span translate="no">Loop dev</span>_&nbsp;or any&nbsp;_<span translate="no">Loop related</span>_&nbsp;apps
     * This link walks you through the steps: [_<span translate="no">Loop main Browser Build</span>_](https://www.loopandlearn.org/2024/04/27/testflight-april-29-2024/){: target="_blank" }
+
+> There is a different issue for the&nbsp;<span translate="no">dev branch</span>&nbsp;that only affects you if you have to update your certificates. There is a solution for that too. We'll post about that next week.
 
 !!! important "Check your Distribution Certificate for your expiration date"
     Check the expiration date for your Distribution Certificate. If it’s soon, you should build now. Then you will have 90 days to renew your certificate.
