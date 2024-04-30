@@ -44,7 +44,7 @@ Apple reported a change that may affect your Browser Build starting 29 April 202
 !!! important "Check your Distribution Certificate for your expiration date"
     Check the expiration date for your Distribution Certificate. If it’s soon, you should build now. Then you will have 90 days to renew your certificate.
 
-    You can use the [Renew Certificate](){: target="_blank" } section to check the expiration date. Just use the link in the first step. If your certificate is still valid but will expire soon, you should build without deleting the certificate.
+    You can use the [Renew Certificate](https://loopkit.github.io/loopdocs/gh-actions/gh-update/#renew-certificate){: target="_blank" } section to check the expiration date. Just use the link in the first step. If your certificate is still valid but will expire soon, you should build without deleting the certificate.
 
 ## Conference Report: _<span translate="no">ATTD2024</span>_
 
