@@ -34,10 +34,11 @@ This only affects the &nbsp;<span translate="no">LoopWorkspace main branch</span
 
 > There is a different issue for the&nbsp;<span translate="no">dev branch</span>&nbsp;that only affects you if you have to update your certificates. There is a solution for that too. We'll post about that next week.
 
-Apple reported a change that may affect your Browser Build starting 29 April 2024.
+Apple reported a change that affects your Browser Build starting 29 April 2024.
 
-* As of 29 April 2024, we have not heard of failures of&nbsp;<span translate="no">main branch</span>&nbsp;browser builds to deploy to TestFlight
-* Don't bother with this procedure until it either happens to you or we report that it is required
+* The message you get is on the build step: "the sdk version being used (16.1) is too low to upload to testflight".
+* A request to change the code has been submitted to the developers and after they merge the change, you won't need to do anything.
+* As of the evening of 29 April (PDT), the fix hasn't been merged, so follow the steps below if you need to build (or you can build the dev branch)
     * This issue only impacts&nbsp;_<span translate="no">Loop main</span>_, not&nbsp;_<span translate="no">Loop dev</span>_&nbsp;or any&nbsp;_<span translate="no">Loop related</span>_&nbsp;apps
     * This link walks you through the steps: [_<span translate="no">Loop main Browser Build</span>_](https://www.loopandlearn.org/2024/04/27/testflight-april-29-2024/){: target="_blank" }
 
@@ -62,7 +63,7 @@ There is still a huge gap in professionals’ understanding of PWD and the signi
 
 > There's a translate link on each website we support. It uses the Google automatic translation service.
 
-If you are a non-native English speaker and are stuggling with any of our content, here’s a great suggestion from one of our developers:
+If you are a non-native English speaker and are struggling with any of our content, here’s a great suggestion from one of our developers:
 
 Open two copies of the “how to” page, one in English and one in your native language. Use the English version for opening links and checking identifier and App Group name spellings, and the other one to assist in understanding.
 
