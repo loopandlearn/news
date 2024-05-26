@@ -2,7 +2,7 @@
 
 _Master Your DIY Closed-Loop Insulin Delivery System_
 
-Published on 25 May 2024.
+Published on 26 May 2024.
 
 ## In this edition:
 
@@ -31,7 +31,7 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## We’ve Lost a Friend
 
-Terry Witt was a very nice person and an asset to the looping community. He helped countless people through his role as a moderator in the Nightscout group and around the looping community and was always so pleasant during LnL meetings and open mics. Terry passed away on May 11th and we will miss him. His son Jason shared this [post](https://www.facebook.com/tlwitt46/posts/pfbid0rSg44dbEuiEpo1Ksno96Sr41o2JYsCg7WLtngS8eUHve8y29nzHRMTkAvLH71tjPl){: target="_blank" } on Terry’s Facebook page as well as his [obituary](https://www.facebook.com/tlwitt46/posts/pfbid02HD7af5youzAjZFTT2xouFiaHATHnnSiFDbaNanfCpFgUwsvKdWTfreQMbkvFAbPzl){: target="_blank" }. Please feel free to express your condolences at either link and share stories about Terry.
+Terry Witt was a very nice person and an asset to the looping community. He helped countless people through his role as a moderator in the Nightscout group and around the looping community and was always so pleasant during LnL meetings and open mics. Terry passed away on May 11th and we will miss him. His son Jason shared this [post](https://www.facebook.com/tlwitt46/posts/pfbid0rSg44dbEuiEpo1Ksno96Sr41o2JYsCg7WLtngS8eUHve8y29nzHRMTkAvLH71tjPl){: target="_blank" } on Terry’s Facebook page as well as his [obituary](https://www.facebook.com/tlwitt46/posts/pfbid02HD7af5youzAjZFTT2xouFiaHATHnnSiFDbaNanfCpFgUwsvKdWTfreQMbkvFAbPzl){: target="_blank" }. Please feel free to express your condolences and share stories about Terry on his page- his family would love that. The family invites donations to the [American Diabetes Association](https://diabetes.org/?form=FUNSQWPTUDZ&utm_source=legacy&utm_medium=display&utm_campaign=fundraising-wefight&utm_content=clio-link&utm_term=prospecting){: target="_blank" } in his memory, continuing his commitment to supporting those living with diabetes.
 
 ## When Does My *Loop* App Expire?
 
@@ -61,7 +61,7 @@ One of our group experts shares a clever way to use Overrides: Set an active ove
 
 ### Hack #2: Overrides
 
-I set my biking override to be longer than my expected ride. When I return, I edit the insulin needs from 65% (needed while I'm actively biking) back to 100%. My negative IOB typically doubles at that change. I then disable the override and take the full negative IOB as a bolus. This helps prevent a post-exercise high that often follows my ride.
+One other group expert says: I set my biking override to be longer than my expected ride. When I return, I edit the insulin needs from 65% (needed while I'm actively biking) back to 100%. My negative IOB typically doubles at that change. I then disable the override and take the full negative IOB as a bolus. This helps prevent a post-exercise high that often follows my ride.
 
 I do not enter any carbs while biking and almost always ride first thing in the morning while fasting, so I just edit the override. If no carbohydrates are active, there is no need to quit and restart the app. (This idea is included in the [“Recalculate When Needs Change”](https://loopkit.github.io/loopdocs/operation/features/overrides/#recalculate-when-needs-change){: target="_blank" } section of LoopDocs.)
 
