@@ -15,15 +15,17 @@ Published on 26 May 2024.
 
 ## Upcoming *Zoom* Sessions
 
+Note - Informal Discussion is the first Thursday in June. A special event will be announced for the second Thursday in June.
+
 *Zoom* Sessions use this link:
 
 * [https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09){:target="_blank"}
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 18:00 UTC | 13 June |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 18:00 UTC | 6 June |
 
-_<span translate="no">Loop and Learn</span>_: Informal Discussion in 2024 is scheduled on the second Thursday of each month.
+_<span translate="no">Loop and Learn</span>_: Informal Discussion in 2024 is normally scheduled on the second Thursday of each month; but will happen one week early in June.
 
 #### Time Zone Converter
 
