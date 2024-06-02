@@ -70,11 +70,11 @@ Managing T1D effectively requires a balance between leveraging new technologies 
     * [`LoopDocs`](https://loopkit.github.io/loopdocs/){:target="_blank"}
     * [`LoopTips`](https://loopkit.github.io/looptips/){:target="_blank"}
     * [`Loop` Zulipchat](https://loop.zulipchat.com/){:target="_blank"}
+* <code>iAPS</code>:
+    * [*iAPS* Website](https://www.iaps-app.org/){:target="_blank"}
+    * [*iAPS* Documentation](http://iapsdocs.org/){:target="_blank"}
 * <code>Loop and Learn</code>
     * [Website](https://www.loopandlearn.org/){:target="_blank"}
     * [*Facebook*](https://www.facebook.com/groups/LOOPandLEARN){:target="_blank"}
     * [*Instagram*](https://www.instagram.com/loopandlearn/){:target="_blank"}
     * [*YouTube*](https://www.youtube.com/c/loopandlearn){:target="_blank"}
-* <code>Trio</code> (version 0.1.0 is in beta test, most should wait for version 1.0.0 to be released):
-    * *Trio* Website: under development
-    * [*Trio* Documentation](http://docs.diy-trio.org/en/latest){:target="_blank"}
