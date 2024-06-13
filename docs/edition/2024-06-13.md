@@ -30,7 +30,7 @@ The second Thursday in June is a special panel discussing Omnipod 5, one year la
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Omnipod 5</span>_: One Year Later: Panel Discussion | yes | 18:00 UTC | 13 June |
+| _<span translate="no">Omnipod 5</span>_: One Year Later: Panel Discussion | yes | 17:00 PDT<br>20:00 EDT<br>00:00 UTC<br>02:00 CET | 13 June<br><br>14 June |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion | no | 18:00 UTC | 11 July |
 
 #### Time Zone Converter
