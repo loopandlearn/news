@@ -55,7 +55,11 @@ The G7 app cannot be updated or installed outside of your home country. If you a
 
 A frequent cause of difficulty during searches is the entry of too many search terms. Often, one of them doesn’t adequately match what is being searched for, so results are not returned. Start with one- or two-word terms and add to them if you get too many hits and need to narrow them down.
 
-In LoopDocs, sometimes only part of a word is best: typing just `auth` instead of `authorize` provides links to Authenticate a Nightscout site, learn that Therapy Settings require authorization like bolusing and locate the custom edit directions to Disable Authentication for Bolusing.
+In LoopDocs, sometimes only part of a word is best:
+
+* If you type "auth" in the search box, you are shown links that include the words "authenticate", "authorization" and "authentication"
+
+* If you type "authorize" in the search box, no links are provided
 
 ## Rebuild Before You Need To
 
