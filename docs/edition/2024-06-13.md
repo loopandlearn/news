@@ -18,7 +18,7 @@ Published on 13 June 2024.
 
 ## Upcoming *Zoom* Sessions
 
-_<span translate="no">Loop and Learn</span>_: Informal Discussion in 2024 is normally scheduled on the second Thursday of each month; but will happen one week early in June.
+_<span translate="no">Loop and Learn</span>_: Informal Discussion in 2024 is normally scheduled on the second Thursday of each month; but was one week earlier just in June.
 
 ###  _<span translate="no">Omnipod 5</span>_: Panel Discussion 
 
@@ -75,13 +75,13 @@ This link has instructions to create a free GitHub Organization Account and use 
 
 You may have heard that Trio (a version of OpenAPS on an iPhone) is open for beta testing. What does that mean?
 
-If you play video games you may have heard about games being released as a "Beta test”. The same concept is used in Open-Source Automated Insulin Delivery (OS-AID) systems, also know as DIY.
+If you play video games you may have heard about games being released as a "Beta test”. The same concept is used in Open-Source Automated Insulin Delivery (OS-AID) systems, also known as DIY.
 
 Essentially, the developers categorized the known issues, added some new features and prepared a list of items that users need to be aware of. Because this is an insulin-dosing algorithm rather than a game, extra care is used. Before announcing the beta test, the Trio developers kept the repositories private; and as part of the testing used this app on themselves in addition to using test phones. They had the advantage of starting with iAPS version 2.3.3 built on the work of many developers. Once they felt it was ready for beta test, the repositories were opened for public access.
 
 During the beta test, the app is only recommended for experienced testers. As it nears the end of beta test, there will be a release candidate (for final review) followed by a release to Trio version 1.0.0. The Trio developers know there is a lot of excitement, but please wait for the release unless you are willing to follow along in [discord](https://discord.gg/kyjG4333Wb){:target="_blank"} as a beta tester.
 
-If you want a peak under the hood, this [link](https://github.com//nightscout/Trio/pull/2){:target="_blank"} provides a preliminary look at all the differences since iAPS version 2.3.3.
+If you want a peak under the hood, this [link](https://github.com//nightscout/Trio/pull/2){:target="_blank"} provides a preliminary look at all the differences since Trio was created from iAPS version 2.3.3.
 
 ## Helpful Links
 
