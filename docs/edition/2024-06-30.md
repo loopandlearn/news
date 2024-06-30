@@ -92,18 +92,5 @@ Recent updates for the *LoopFollow* app brings several new features and improvem
     * Some articles in the [original Newsletter](https://www.loopandlearn.org/2022/10/19/loop-and-learn-newsletter/){:target="_blank"} are not reproduced here
 * [Check for Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"}
 * [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/){:target="_blank"}
+* [_<span translate="no">Loop and Learn</span>_&nbsp;Open-Source Automated Delivery System Links](https://www.loopandlearn.org/resources/#os-aid){:target="_blank"}
 * [_<span translate="no">Loop and Learn</span>_&nbsp;Resources Page](https://www.loopandlearn.org/resources/){:target="_blank"}
-* <code>Loop</code>:
-    * [`LoopDocs`](https://loopkit.github.io/loopdocs/){:target="_blank"}
-    * [`LoopTips`](https://loopkit.github.io/looptips/){:target="_blank"}
-    * [`Loop` Zulipchat](https://loop.zulipchat.com/){:target="_blank"}
-* <code>Loop and Learn</code>
-    * [Website](https://www.loopandlearn.org/){:target="_blank"}
-    * [*Facebook*](https://www.facebook.com/groups/LOOPandLEARN){:target="_blank"}
-    * [*Instagram*](https://www.instagram.com/loopandlearn/){:target="_blank"}
-    * [*YouTube*](https://www.youtube.com/c/loopandlearn){:target="_blank"}
-* <code>Trio</code> (version 0.1.0 is in beta test, most should wait for version 1.0.0 to be released)
-    * [*Trio* Website (work-in-progress)](http://diy-trio.org/){:target="_blank"}
-    * [*Trio* Documentation](http://docs.diy-trio.org/en/latest){:target="_blank"}
-* <code>iAPS</code> (for experienced people):
-    * [*iAPS* Discord](https://discord.com/invite/ptkk2Y264Z){:target="_blank"}
