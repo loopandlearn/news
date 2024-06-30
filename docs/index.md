@@ -8,7 +8,8 @@ Published on 30 June 2024.
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
     * [_<span translate="no">Omnipod 5</span>_: Panel Discussion Replay](#omnipod-5-panel-discussion-replay)
-* 
+* [International Travel with Dexcom G7](#international-travel-with-dexcom-g7)
+* [Updates for the *LoopFollow* App](#updates-for-the-loopfollow-app)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -33,8 +34,7 @@ Thanks to our Omnipod 5 Panel for bringing us up to speed on Omnipod’s FDA-app
 
 * [_<span translate="no">Omnipod 5</span>_: Panel Discussion Replay](https://www.youtube.com/watch?v=h-tiBspWy2U){:target="_blank"}
 
-
-## Dexcom G7 Geofencing Update
+## International Travel with Dexcom G7
 
 If you’re traveling outside of your home country and your phone is lost, stolen, broken or goes for a swim, or the app tries to update -or fails- you might not be able to reinstall the G7 app. If this happens to you, unless you have brought a different Loopable CGM (like the G6, ONE or ONE+), you have two options for continuing to Loop, and both involve manually entering glucose readings into Loop:
 
@@ -51,6 +51,9 @@ Our Best Advice (other than be extra careful and lucky):
     * Instead, sign in to the existing app
 * Have a backup strategy when traveling internationally. Options include:
     * Bring a spare phone preloading with your required apps
+        * Be sure to take a copy of all your settings and your G7 sensor 4-digit pairing code
+        * You will probably need to start a new pod with this solution
+        * [LoopDocs: FAQs: New Phone Tips](https://loopkit.github.io/loopdocs/faqs/new-phone/#overview){:target="_blank"}
     * Bring some G6 or One sensors and a transmitter in your travel bag
     * Bring extra test strips and a meter
     * Bring a G7 receiver and charging cord if you have one
@@ -59,15 +62,15 @@ Here is more info on G7 and other Dexcom CGMs. Note that the ONE+ requires a cus
 
 The good news (only kidding, it's not that good) is that there are rumors that Dexcom is working to resolve this issue by the end of the year, so if you're staying home until 2025, geofencing shouldn't be an issue.
 
-## LoopFollow version 2.2.3
+## Updates for the *LoopFollow* App
 
-Recent LoopFollow updates brings several new features and improvements designed to enhance your experience:
+Recent updates for the *LoopFollow* app brings several new features and improvements designed to enhance your experience:
 
 ### Version 2.2.3
 
 * **Prediction Curves for Trio:** The app now displays all 4 prediction curves.
-   * The "eventually" number and the min/max prediction values are not currently shown for Trio (as they are for Loop)
-   * This will be addressed in a future release
+    * The "eventually" number and the min/max prediction values are not currently shown for the *Trio* app (as they are for the *Loop* app)
+    * This will be addressed in a future release
 * **Background Update Alerts:** You will now receive an alert if the app has stopped updating in the background, ensuring you stay informed at all times.
 * **Bolus Display Differentiation:** Automated and SMB boluses are now displayed as blue triangles, while manual boluses remain as blue dots, making it easier to differentiate between them.
 * **Graph Height Reset:** The height of the graph now resets with each data refresh. Previously, a high prediction or BG value could cause the graph scale to remain stuck until the app was restarted.
@@ -76,7 +79,7 @@ Recent LoopFollow updates brings several new features and improvements designed 
 ### Version 2.2.2
 
 * **Branch, Build Date, Latest Version, and Blacklisted Version Display:** The app now displays essential version information directly within the interface. It will check for newer versions and show if the current version is “Blacklisted,” meaning it has bugs that make updating to a new version important.
-   * GitHub archives the build version information, so it make take 24 hours after the release before current information appears in your app on your phone
+    * GitHub archives the build version information, so it make take 24 hours after the release before current information appears in your app on your phone
 * **Version Notifications:** Receive notifications for new versions, blacklisted versions, and build expirations to ensure you are always up-to-date.
 * **Removed Download Loop/iAPS Data Toggle:** Streamlined the user interface by removing the unnecessary toggle. The same effect can be achieved by a combination of other settings. This setting was a common source of error when it was forgotten to be enabled. The app now runs as if this setting was on.
 * **Nightscout Entries with Glucose Key:** Improved data handling allowing the glucose key for Nightscout entries.
