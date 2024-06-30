@@ -36,7 +36,7 @@ Thanks to our Omnipod 5 Panel for bringing us up to speed on Omnipod’s FDA-app
 
 ## International Travel with Dexcom G7
 
-If you’re traveling outside of your home country and your phone is lost, stolen, broken or goes for a swim, or the app tries to update -or fails- you might not be able to reinstall the G7 app. If this happens to you, unless you have brought a different Loopable CGM (like the G6, ONE or ONE+), you have two options for continuing to Loop, and both involve manually entering glucose readings into Loop:
+If you’re traveling outside of your home country and your phone is lost, stolen, broken or goes for a swim, or the app tries to update -or fails- you might not be able to install the G7 app on your existing or replacement phone. If this happens to you, unless you have brought a different Loopable CGM (like the G6, ONE or ONE+), you have two options for continuing to Loop, and both involve manually entering glucose readings into Loop:
 
 * Test blood glucose using a meter
 * Switch to the Dexcom G7 receiver
@@ -50,7 +50,7 @@ Our Best Advice (other than be extra careful and lucky):
     * You will lose the G7 app due to geofencing
     * Instead, sign in to the existing app
 * Have a backup strategy when traveling internationally. Options include:
-    * Bring a spare phone preloading with your required apps
+    * Bring a spare phone preloaded with your required apps
         * Be sure to take a copy of all your settings and your G7 sensor 4-digit pairing code
         * You will probably need to start a new pod with this solution
         * [LoopDocs: FAQs: New Phone Tips](https://loopkit.github.io/loopdocs/faqs/new-phone/#overview){:target="_blank"}
