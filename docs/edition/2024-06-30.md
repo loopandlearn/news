@@ -51,9 +51,11 @@ Our Best Advice (other than be extra careful and lucky):
     * Instead, sign in to the existing app
 * Have a backup strategy when traveling internationally. Options include:
     * Bring a spare phone preloaded with your required apps
-        * Be sure to take a copy of all your settings and your G7 sensor 4-digit pairing code
+        * Be sure to take a copy of all your settings
         * You will probably need to start a new pod with this solution
         * [LoopDocs: FAQs: New Phone Tips](https://loopkit.github.io/loopdocs/faqs/new-phone/#overview){:target="_blank"}
+        * The directions on that page for switching the Dexcom to the backup phone with G7 won't work:
+            * According to Dexcom: "People must sign in to the G7 app before leaving home for the app to work overseas and can only sign into one app at a time."
     * Bring some G6 or One sensors and a transmitter in your travel bag
     * Bring extra test strips and a meter
     * Bring a G7 receiver and charging cord if you have one
