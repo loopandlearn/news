@@ -93,4 +93,3 @@ Recent updates for the *LoopFollow* app brings several new features and improvem
 * [Check for Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"}
 * [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/){:target="_blank"}
 * [_<span translate="no">Loop and Learn</span>_&nbsp;Open-Source Automated Delivery System Links](https://www.loopandlearn.org/resources/#os-aid){:target="_blank"}
-* [_<span translate="no">Loop and Learn</span>_&nbsp;Resources Page](https://www.loopandlearn.org/resources/){:target="_blank"}
