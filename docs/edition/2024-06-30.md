@@ -36,33 +36,31 @@ Thanks to our Omnipod 5 Panel for bringing us up to speed on Omnipod’s FDA-app
 
 ## International Travel with Dexcom G7
 
-If you’re traveling outside of your home country and your phone is lost, stolen, broken or goes for a swim, or the app tries to update -or fails- you might not be able to install the G7 app on your existing or replacement phone. If this happens to you, unless you have brought a different Loopable CGM (like the G6, ONE or ONE+), you have two options for continuing to Loop, and both involve manually entering glucose readings into Loop:
+If you’re **traveling outside of your home country** and your phone is lost, stolen, broken or goes for a swim, or the app tries to update -or fails- you might not be able to install the G7 app on your existing or replacement phone. If this happens to you, unless you have brought a different Loopable CGM (like the G6, ONE or ONE+), you have two options for continuing to Loop, and both involve manually entering glucose readings into Loop:
 
 * Test blood glucose using a meter
 * Switch to the Dexcom G7 receiver
 
 Our Best Advice (other than be extra careful and lucky):
 
-* Turn off auto update on both the G7 app and your controller before leaving home
-    * If you update, uninstall, or try to reinstall the app while outside your home country, you will lose the app until you return home
-* If you travel across a border, you may get an error message because the local server finds you
-    * Do not delete and reinstall the G7 app to get rid of the error message
-    * You will lose the G7 app due to geofencing
-    * Instead, sign in to the existing app
 * Have a backup strategy when traveling internationally. Options include:
     * Bring a spare phone preloaded with your required apps
         * Be sure to take a copy of all your settings
         * You will probably need to start a new pod with this solution
-        * [LoopDocs: FAQs: New Phone Tips](https://loopkit.github.io/loopdocs/faqs/new-phone/#overview){:target="_blank"}
-        * The directions on that page for switching the Dexcom to the backup phone with G7 won't work:
-            * According to Dexcom: "People must sign in to the G7 app before leaving home for the app to work overseas and can only sign into one app at a time."
+        * The directions on [LoopDocs: FAQs: New Phone Tips](https://loopkit.github.io/loopdocs/faqs/new-phone/#overview){:target="_blank"} for switching the Dexcom to the backup phone with G7 won't work. According to Dexcom: "People must sign in to the G7 app before leaving home for the app to work overseas and can only sign into one app at a time."
     * Bring some G6 or One sensors and a transmitter in your travel bag
     * Bring extra test strips and a meter
     * Bring a G7 receiver and charging cord if you have one
+* **Turn off auto update** on both the G7 app and your controller before leaving home
+    * If you update, uninstall, or try to reinstall the app while outside your home country, you will lose the app until you return home
+* If you travel across a border, you may get an error message because the local server finds you
+    * **Do not delete and reinstall the G7 app** to get rid of the error message
+    * You will lose the G7 app due to geofencing
+    * Instead, ignore the error and attempt to sign in to the existing app
 
 Here is [more info on G7](https://www.loopandlearn.org/dex-one/#g7){:target="_blank"} and other Dexcom CGMs. Note that the ONE+ requires a customization to the `main` branch for the *Loop* app, but is included in the `dev branch`. So make sure you have the correct version installed if you have access to the ONE+ and plan to use it. We do also acknowledge that it would be rare for someone to have both G7/G6 and ONE+/ONE.  
 
-The good news (only kidding, it's not that good) is that there are rumors that Dexcom is working to resolve this issue by the end of the year, so if you're staying home until 2025, geofencing shouldn't be an issue.
+Solutions are evolving and we are trying to keep everyone updated with the best information that we have. With the help of a community member, we have tested a VPN solution. More details to follow next week.
 
 ## Updates for the *LoopFollow* App
 
