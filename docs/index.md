@@ -82,7 +82,7 @@ Recent updates for the *LoopFollow* app brings several new features and improvem
     * GitHub archives the build version information, so it may take 24 hours after the release before current information appears in your app on your phone
 * **Version Notifications:** Receive notifications for new versions, blacklisted versions, and build expirations to ensure you are always up-to-date.
 * **Removed Download Loop/iAPS Data Toggle:** Streamlined the user interface by removing the unnecessary toggle. The same effect can be achieved by a combination of other settings. This setting was a common source of error when it was forgotten to be enabled. The app now runs as if this setting is on.
-* **Nightscout Entries with Glucose Key:** Improved data handling; this allow the glucose entered in the Nightscout careportal to be plotted on the LoopFollow graph.
+* **Nightscout Entries with Glucose Key:** Improved data handling; this allows the glucose entered in the Nightscout careportal to be plotted on the LoopFollow graph.
 
 ## Helpful Links
 
