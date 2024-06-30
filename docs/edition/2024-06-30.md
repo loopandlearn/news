@@ -78,11 +78,11 @@ Recent updates for the *LoopFollow* app brings several new features and improvem
 
 ### Version 2.2.2
 
-* **Branch, Build Date, Latest Version, and Blacklisted Version Display:** The app now displays essential version information directly within the interface. It will check for newer versions and show if the current version is “Blacklisted,” meaning it has bugs that make updating to a new version important.
-    * GitHub archives the build version information, so it make take 24 hours after the release before current information appears in your app on your phone
+* **Branch, Build Date, Latest Version, and Blacklisted Version Display:** The app now displays essential version information directly within the interface. It will check for newer versions and show if the current version is “blacklisted,” meaning it has bugs that make updating to a new version important.
+    * GitHub archives the build version information, so it may take 24 hours after the release before current information appears in your app on your phone
 * **Version Notifications:** Receive notifications for new versions, blacklisted versions, and build expirations to ensure you are always up-to-date.
-* **Removed Download Loop/iAPS Data Toggle:** Streamlined the user interface by removing the unnecessary toggle. The same effect can be achieved by a combination of other settings. This setting was a common source of error when it was forgotten to be enabled. The app now runs as if this setting was on.
-* **Nightscout Entries with Glucose Key:** Improved data handling allowing the glucose key for Nightscout entries.
+* **Removed Download Loop/iAPS Data Toggle:** Streamlined the user interface by removing the unnecessary toggle. The same effect can be achieved by a combination of other settings. This setting was a common source of error when it was forgotten to be enabled. The app now runs as if this setting is on.
+* **Nightscout Entries with Glucose Key:** Improved data handling; this allow the glucose entered in the Nightscout careportal to be plotted on the LoopFollow graph.
 
 ## Helpful Links
 
