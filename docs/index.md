@@ -58,7 +58,7 @@ Our Best Advice (other than be extra careful and lucky):
     * Bring extra test strips and a meter
     * Bring a G7 receiver and charging cord if you have one
 
-Here is [more info on G7](https://www.loopandlearn.org/dex-one/#g7){:target="_blank"} and other Dexcom CGMs. Note that the ONE+ requires a customization to the `main` branch for the *Loop* app, but is included in the `dev branch`. So make sure you have the current version installed if you have access to the ONE+ and plan to use it. We do also acknowledge that it would be rare for someone to have both G7/G6 and ONE+/ONE.  
+Here is [more info on G7](https://www.loopandlearn.org/dex-one/#g7){:target="_blank"} and other Dexcom CGMs. Note that the ONE+ requires a customization to the `main` branch for the *Loop* app, but is included in the `dev branch`. So make sure you have the correct version installed if you have access to the ONE+ and plan to use it. We do also acknowledge that it would be rare for someone to have both G7/G6 and ONE+/ONE.  
 
 The good news (only kidding, it's not that good) is that there are rumors that Dexcom is working to resolve this issue by the end of the year, so if you're staying home until 2025, geofencing shouldn't be an issue.
 
