@@ -51,7 +51,7 @@ Our Best Advice (other than be extra careful and lucky):
     * Bring some G6 or One sensors and a transmitter in your travel bag
     * Bring extra test strips and a meter
     * Bring a G7 receiver and charging cord if you have one
-* **Turn off auto update** on both the G7 app and your controller before leaving home
+* **Turn off auto update** on the G7 app before leaving home
     * If you update, uninstall, or try to reinstall the app while outside your home country, you will lose the app until you return home
 * If you travel across a border, you may get an error message because the local server finds you
     * **Do not delete and reinstall the G7 app** to get rid of the error message
