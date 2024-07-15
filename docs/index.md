@@ -7,7 +7,6 @@ Published on 15 July 2024.
 ## In this edition:
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
-    * [_<span translate="no">Omnipod 5</span>_: Panel Discussion Replay](#omnipod-5-panel-discussion-replay)
 * [Version 3.4 of the *Loop* App Released!](#version-34-of-the-loop-app-released)
 * [Updates for the *LoopFollow* App](#updates-for-the-loopfollow-app)
 * [Glider- Make Diabetes Fun](#glider-make-diabetes-fun)
@@ -29,17 +28,14 @@ _<span translate="no">Loop and Learn</span>_: Informal Discussion in 2024 are no
 
 Need help figuring out when an event happens in your time zone? Try the [SavvyTime: UTC Converter](https://savvytime.com/converter/utc){:target="_blank"}.
 
-### _<span translate="no">Omnipod 5</span>_: Panel Discussion Replay
-
-Thanks to our Omnipod 5 Panel for bringing us up to speed on Omnipod’s FDA-approved hybrid closed-loop system. If you were unable to join us, here’s the replay!
-
-* [_<span translate="no">Omnipod 5</span>_: Panel Discussion Replay](https://www.youtube.com/watch?v=h-tiBspWy2U){:target="_blank"}
-
 ## Version 3.4 of the *Loop* App Released!
 
 The long-awaited [Loop 3.4](https://www.loopandlearn.org/2024/07/13/loop-3-4-release/){:target="_blank"} is here! Since the release of Loop 3.2 in March of 2023, many [new features and bug fixes](https://loopkit.github.io/loopdocs/version/releases/#loop-v340){:target="_blank"} were added to the `dev` branch, and now they are live in `main`. Pete Schwamb announced the release on 13 July 2024. Please wait for a week or more to update to 3.4, to allow time for any bugs to be discovered and resolved. Some browser builders have encountered build errors when building Loop 3.4. If that happens to you, help can be found [here](https://www.loopandlearn.org/2024/07/13/loop-3-4-release/#check-upstream-and-keep-alive){:target="_blank"}.
 
-Because Loop `dev` just became Loop `main` (3.4), and Loop is under steady innovation, the `dev` branch (now 3.5) will be updated very soon. All users of the Browser Build who are not actively engaged in developing or testing should make sure their default branch is set to `main` in GitHub to avoid unexpected updates.
+Because Loop `dev` just became Loop `main` (3.4), and Loop is under steady innovation, the `dev` branch (now 3.5) will be updated very soon.
+
+* All Loopers who are not actively engaged in developing or testing the *Loop* app should be using `Loop-main`. 
+* Users who build with the Browser Build method should make sure their default branch is set to `main` in GitHub to avoid unexpected updates
 
 If you use Browser Build, this is a good time to ensure that you turned off automatic installation from *TestFlight* on the phone - you should choose a good time to update. See [Disable Automatic Install from *TestFlight*](https://loopkit.github.io/loopdocs/gh-actions/gh-deploy/#disable-automatic-install-from-testflight){:target="_blank"}.
 
