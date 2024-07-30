@@ -11,6 +11,7 @@ Published on 31 July 2024.
 * [Feature Highlight: `Loop Follow`](#feature-highlight-loop-follow)
 * [Dexcom G7 Geofencing](#dexcom-g7-geofencing)
 * [Customizing the *Loop* App](#customizing-the-loop-app)
+* [Get Your Open Source-AID Merchandise](#get-your-open-source-aid-merchandise)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
