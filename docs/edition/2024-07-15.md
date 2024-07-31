@@ -8,6 +8,7 @@ Published on 31 July 2024.
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
 * [Automatic Update and Build for the *Loop* App](#automatic-update-and-build-for-the-loop-app)
+* [iOS Version Update](#ios-version-update)
 * [Feature Highlight: `Loop Follow`](#feature-highlight-loop-follow)
 * [Dexcom G7 Geofencing](#dexcom-g7-geofencing)
 * [Customizing the *Loop* App](#customizing-the-loop-app)
