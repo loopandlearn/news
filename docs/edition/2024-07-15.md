@@ -12,6 +12,10 @@ Published on 31 July 2024.
 * [Dexcom G7 Geofencing](#dexcom-g7-geofencing)
 * [Customizing the *Loop* App](#customizing-the-loop-app)
 * [Get Your Open Source-AID Merchandise](#get-your-open-source-aid-merchandise)
+* [Helpful Tips](#helpful-tips)
+    * [Do not get sunscreen on your Pods](#do-not-get-sunscreen-on-your-pods)
+    * [Dexcom - try this before deleting your app](#dexcom---try-this-before-deleting-your-app)
+    * [America the Beautiful Pass](#america-the-beautiful-pass)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -42,6 +46,13 @@ These events are automatically scheduled:
 
 Your responsibility is to keep your Apple Developer account up to date and renew your Certificates once a year. This keeps a current version of the *Loop* app available in your *TestFlight* app when you are ready to install it on your phone.
 
+## iOS Version Update
+
+We have successfully built the latest versions of Loop-main, Loop-dev, LoopFollow,
+LoopCaregiver and Trio to an iPhone running iOS 17.6 using a Mac running Xcode 15.4.
+
+We consider iOS 17.6 to be safe for use with each of these apps.
+
 ## Feature Highlight: `Loop Follow`
 
 Do you want to be alerted when your child's pod is getting low on insulin?
@@ -68,6 +79,24 @@ The&nbsp;[_<span translate="no">Loop and Learn</span>_&nbsp;Customization](https
 ## Get Your Open Source-AID Merchandise
 
 Want to show off your love for OS-AID? Lots of new options have been added to the [Nightscout Foundation’s store](https://nightscoutfoundation.myspreadshop.com/all){: target="_blank" } - check them out! There’s shirts, bags, caps, stickers, water bottles, mugs and even something for the babies. The proceeds benefit the [Nightscout Foundation](https://www.nightscoutfoundation.org/){: target="_blank" }.
+
+## Helpful Tips
+
+### Do not get sunscreen on your Pods
+
+Remember- though your skin may appreciate sunscreen, your CGM and Pods do NOT and the plastic can crack. Take precautions to avoid getting sunscreen on them when you’re enjoying time in the sun this summer!
+
+### Dexcom - try this before deleting your app
+
+If you get a Dexcom message saying "App stopped working" that tells you to delete and reinstall the Dexcom app - try this first.
+
+We recommend swiping the app closed and reopening! You can also try toggling Bluetooth off and then on or rebooting your phone. This often restores it to normal use and saves you a lot of headache- especially if you’re using G7 and are on a trip outside of your home country! See [Dexcom G7 Geofencing](#dexcom-g7-geofencing).
+
+### America the Beautiful Pass
+
+Type 1 diabetes qualifies U.S. citizens and permanent residents for a free lifetime pass to U.S. National Parks, monuments and landmarks.
+
+Here’s an [article about the pass](https://diatribe.org/lifestyle/how-get-free-lifetime-national-parks-pass){: target="_blank" }, with some great tips. This was shared last year, and we thought it a good time to share it again!
 
 ## Helpful Links
 
