@@ -8,9 +8,13 @@ Published on 19 August 2024.
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
 * [The *Trio* App is Released](#the-trio-app-is-released)
-* [What are `Keys`?](#what-are-keys)
-* [View Override History in the `Loop` App](#view-override-history-in-the-loop-app)
 * [`LoopFollow`: Feature Highlight & Update](#loopfollow-feature-highlight-update)
+* [View Override History in the `Loop` App](#view-override-history-in-the-loop-app)
+* [Live Activity & Dynamic Island](#live-activity--dynamic-island)
+* [iOS Version Update](#ios-version-update)
+* [What are `Keys`?](#what-are-keys)
+* [No Pull Requests Please](#no-pull-requests-please)
+* [Troubleshoot Browser Build Customization](#troubleshoot-browser-build-customization)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -101,6 +105,36 @@ Important links:
 * [Setup Instructions](https://docs.diy-trio.org/en/latest/Setup/New-User-Setup.html){:target="_blank"}
 * [Instructions for Switching from 2.3.3 to Trio](https://docs.diy-trio.org/en/latest/Configuration/transition-qa.html){:target="_blank"}
 
+## `LoopFollow`: Feature Highlight & Update
+
+Loop Follow has a vast array of alarms, including IOB. You can be alerted if there are boluses above a given size, multiple boluses within a set number of minutes or if the Total IOB for the looper is above a set amount. This can help prevent an inadvertent overdose - or at least alert you that steps need to be taken.
+
+[`LoopFollow 2.2.5`](https://github.com/loopandlearn/LoopFollow/releases/tag/v2.2.5){:target="_blank"} was released recently and is FULL of great new features! Check it out!
+
+## View Override History in the `Loop` App
+
+Did You Know?
+
+You can look back and see details of Overrides you set within the last 24 hours.
+
+Simply tap the blue "Overrides" button at the bottom of Loop's main screen and scroll to the bottom, where you'll find "History". Tap on that and you're all set!
+
+If you have an override running, you'll need to wait until it is finished, or cancel and restart it if you want to view the history.
+
+## Live Activity & Dynamic Island
+
+Live Activity displays your glucose graph as a widget on your phone’s lock screen so you don't have to unlock your phone to see it. While typical widgets often get stale and show data up to an hour out-of-date, Live Activity widgets are reliably updated every few minutes. Also, if you have an iPhone 14 pro or any type of iPhone 15 or newer, it will put your glucose / trend / delta in your Dynamic Island (at the top of your screen) so you can see it even when you have a different app on your iPhone's screen. This feature is included in Trio and is available via [Customization Select Script](https://www.loopandlearn.org/custom-code/){:target="_blank"} for Loop.
+
+## iOS Version Update
+
+We have successfully built Loop-main, Loop-dev, LoopCaregiver, LoopFollow 2.2.5, Trio,
+and iAPS 2.3.3 using Xcode 15.4 to an iPhone using iOS 17.6.1. There is no need to rebuild
+Loop when you update your iOS, but if you are an Xcode-Mac builder, you should be
+sure to keep your Mac updated in case you need an emergency rebuild. Mac OS was
+then updated from 14.6 to 14.6.1. Xcode randomly closed twice when building again, but
+the builds were successful. If your Xcode crashes after this macOS update, just open it
+and try again.
+
 ## What are `Keys`?
 
 When building with a browser and using Nightscout, we use two kinds of keys:
@@ -118,21 +152,16 @@ Both keys and key IDs are needed for both API and APN.
 
 If you lose you keys or get them mixed up, new keys can be obtained at any time, but then you have to go through the trouble of changing the keys in all the places where they are needed.
 
-## View Override History in the `Loop` App
+## No Pull Requests Please
 
-Did You Know?
+Be kind to your developers: Do NOT open a Pull Request against LoopKit/LoopWorkspace or nightscout/Trio when you modify your build_loop.yml. Do not open a Pull Request against any LoopKit/submodule if preparing Loop or Trio customizations to submodules for browser build. This will save them a lot of work and enable them to stay focused.
 
-You can look back and see details of Overrides you set within the last 24 hours.
+* [LoopDocs Link](https://loopkit.github.io/loopdocs/browser/edit-browser/#do-not-make-a-pull-request-to-loopkit-github-username){:target="_blank"}
+* [Loop and Learn Link](https://www.loopandlearn.org/custom-code/#updating-your-fork){:target="_blank"}
 
-Simply tap the blue "Overrides" button at the bottom of Loop's main screen and scroll to the bottom, where you'll find "History". Tap on that and you're all set!
+## Troubleshoot Browser Build Customization
 
-If you have an override running, you'll need to wait until it is finished, or cancel and restart it if you want to view the history.
-
-## `LoopFollow`: Feature Highlight & Update
-
-Loop Follow has a vast array of alarms, including IOB. You can be alerted if there are boluses above a given size, multiple boluses within a set number of minutes or if the Total IOB for the looper is above a set amount. This can help prevent an inadvertent overdose - or at least alert you that steps need to be taken.
-
-[`LoopFollow 2.2.5`](https://github.com/loopandlearn/LoopFollow/releases/tag/v2.2.5){:target="_blank"} was released recently and is FULL of great new features! Check it out!
+If your build fails after you build with a browser and then customize, click on this [link for a visual aid](https://www.loopandlearn.org/custom-code/#troubleshooting){:target="_blank"} to help you get the format correct for updating your build_loop.yml file.
 
 ## Helpful Links
 
