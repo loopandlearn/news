@@ -42,7 +42,7 @@ you this exciting new option for DIY looping. We also want to express our gratit
 participated in the beta testing and patiently awaited this release.
 
 As with all things DIY looping, if you need help with any aspect of the *Trio* app, please reach out to the community for
-support. [Trio Facebook](https://www.facebook.com/groups/diytrio){:target="_blank"}, [Trio Discord](https://discord.gg/FnwFEFUwXE){:target="_blank"} and [Loop and Learn Facebook](https://www.facebook.com/groups/loopandlearn){:target="_blank"} are the best places to seek help.
+support. [Trio Facebook](https://www.facebook.com/groups/diytrio){:target="_blank"} and [Trio Discord](https://discord.gg/FnwFEFUwXE){:target="_blank"} are the best places to seek help.
 
 [Click to begin building](https://docs.diy-trio.org/en/latest/operate/build.html){:target="_blank"} your own *Trio* app - but please - do your research first.
 
@@ -166,7 +166,7 @@ If your build fails after you build with a browser and then customize, click on 
 ## Helpful Links
 
 * [Subscribe](https://www.loopandlearn.org/newsletter-signup/){:target="_blank"} to get the Newsletter delivered to your email weekly.
-    * Some articles in the [original Newsletter](https://www.loopandlearn.org/2022/10/19/loop-and-learn-newsletter/){:target="_blank"} are not reproduced here
+    * Some articles in the [original Newsletter](https://www.loopandlearn.org/loop-and-learn-newsletter/){:target="_blank"} are not reproduced here
 * [Check for Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"}
 * [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/){:target="_blank"}
 * [_<span translate="no">Loop and Learn</span>_&nbsp;Open-Source Automated Delivery System Links](https://www.loopandlearn.org/resources/#os-aid){:target="_blank"}
