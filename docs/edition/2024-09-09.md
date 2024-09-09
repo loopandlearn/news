@@ -129,7 +129,8 @@ You can view the Saturday morning lectures from the [ONE conference at this link
 ## Helpful Links
 
 * [Subscribe](https://www.loopandlearn.org/newsletter-signup/){:target="_blank"} to get the Newsletter delivered to your email weekly.
-    * Some articles in the [original Newsletter](https://www.loopandlearn.org/loop-and-learn-newsletter/){:target="_blank"} are not reproduced here
-* [Check for Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"}
+    * Not all articles in the original Newsletter are reproduced in this text only edition; click on [original Newsletter archives](https://www.loopandlearn.org/loop-and-learn-newsletter/){:target="_blank"} for the full version
+    * In particular, articles about recent posts in Facebook are not transcribed to the text-only version
+* [Check for Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"} summarizes details about latest versions for Loop, Trio, Loop Customizations and iOS
 * [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/){:target="_blank"}
 * [_<span translate="no">Loop and Learn</span>_&nbsp;Open-Source Automated Delivery System Links](https://www.loopandlearn.org/resources/#os-aid){:target="_blank"}
