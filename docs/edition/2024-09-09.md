@@ -108,11 +108,11 @@ Many thanks to all who made ADA an enjoyable experience for me!
 
 ### TCOYD ONE 2024 August Meeting
 
-The ONE Conference, put on by Taking Control of Your Diabetes (TCOYD), is the ultimate conference and retreat for ADULTS with type one diabetes and their loved ones. TCOYD is a nonprofit, charitable organization that has been around since 1995.
+The ONE Conference, put on by [Taking Control of Your Diabetes (TCOYD)](https://tcoyd.org/){:target="_blank"}, is the ultimate conference and retreat for ADULTS with type one diabetes and their loved ones. TCOYD is a nonprofit, charitable organization that has been around since 1995.
 
 > Thank you to LnL member Wendy Fuller for sharing these meeting highlights from San Diego, CA, 16-18 August 2024!
 
-For the past two summers I have attended The ONE Conference. The retreat takes place at the Paradise Point Resort in San Diego, CA every August. It’s two days jam-packed with learning about all the new advancements in diabetes care, making connections with other T1s and having a lot of fun!
+For the past two summers I have attended the [ONE Conference](https://tcoyd.org/one-2024/){:target="_blank"}. The retreat takes place at the Paradise Point Resort in San Diego, CA every August. It’s two days jam-packed with learning about all the new advancements in diabetes care, making connections with other T1s and having a lot of fun!
 
 The weekend starts with a sponsor lounge with all the major diabetes companies represented. You can look at, touch and talk about all the currently available tech and get all your questions answered. Exercise opportunities are available every morning and the days are packed with all types of relevant T1 breakout sessions from advanced AID systems, including Loop, to the emotional side of Type 1.
 
@@ -123,6 +123,8 @@ The best part about the ONE Conference is being able to hang out with about 600 
 As a Looper, the primary way to obtain and share information is through direct conversations with endocrinologists who also loop and by connecting with other Loopers. I suggested in the post-conference survey that the conference include more information about open-source AID systems, with specific breakout sessions on this topic. Despite this, I was able to connect with fellow Loopers, exchange insights, and expand my knowledge about our looping experiences. We learned from each other, dined together, and even danced to a fantastic Beatles cover band.
 
 Who wants to join us next year?
+
+You can view the Saturday morning lectures from the [ONE conference at this link](https://tcoyd.org/one-24-virtual/){:target="_blank"}.
 
 ## Helpful Links
 
