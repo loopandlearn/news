@@ -81,26 +81,26 @@ Here are a few highlights from the June 2024 D-Data session:
 
 ### ADA 84th Scientific Sessions
 
-> Tina Hammer attended the American Diabetes Association’s 84th Scientific Sessions and was amazed by the vast number of presentations and speakers, as well as the sheer scale of the event. Held at Orlando’s 7-million-square-foot convention center, 21-24 June 2024. She felt like she walked every inch of those 7 million square feet over the four days! ADA was a big experience and she writes that her notes just scratch the surface.
+> Tina Hammer attended the [American Diabetes Association’s 84th Scientific Sessions](https://www.adameetingnews.org/category/scientific-sessions/2024/){:target="_blank"} and was amazed by the [vast](https://www.adameetingnews.org/wp-content/uploads/2024/06/24-ADA-SAG.pdf){:target="_blank"} number of presentations and speakers, as well as the sheer scale of the event. Held at Orlando’s 7-million-square-foot convention center, 21-24 June 2024. She felt like she walked every inch of those 7 million square feet over the four days! ADA was a big experience and she writes that her notes just scratch the surface.
 
 I have been looking forward to attending the ADA conference for a few years and it was impressive! I was
 surprised to feel a bit intimidated the first day, with the expansiveness of it all, and with so many people scurrying around, but I settled in by the second day. Seeing and hanging out with several friends, colleagues and other people I was excited to meet helped. The Vachons even popped over from D-Data! Many of ADA’s sessions had multiple speakers. They spoke rapidly, to get all they wanted to say into a short window, often of 15 minutes.
 
-ADA TV filmed throughout the conference. Many familiar faces can be seen in these videos. There was heavy
+[ADA TV](https://www.youtube.com/playlist?list=PL9CZabk3nD4GxwEbJX8faPhlKOWoAdp0Q){:target="_blank"} filmed throughout the conference. Many familiar faces can be seen in these videos. There was heavy
 emphasis in the areas of Clinical Diabetes/Therapeutics, Complications and Behavioral Medicine, Clinical
 Nutrition, Education, and Exercise.
 
-Next to the treat of seeing and making friends, I have to say that the highlight of ADA for me was seeing Dr. Rory Holman accept the 2024 Banting Medal for Scientific Achievement and talk about his many, many contributions to diabetes research and development. Among these are the first finger pricking device and insulin pen and many important studies. Dr. Holman was extremely gracious in crediting colleagues and family members for their contributions to his accomplishments, which was nice to see!
+Next to the treat of seeing and making friends, I have to say that the highlight of ADA for me was seeing Dr. Rory Holman accept the 2024 [Banting Medal for Scientific Achievement](https://professional.diabetes.org/awards/banting-medal-scientific-achievement-award){:target="_blank"} and talk about his many, many contributions to diabetes research and development. His segment starts around minute 06:00 in this [video](https://www.youtube.com/watch?v=n8Drhhadv84){:target="_blank"}. Among these are the first finger pricking device and insulin pen and many important studies. Dr. Holman was extremely gracious in crediting colleagues and family members for their contributions to his accomplishments, which was nice to see!
 
 I noted a couple of general themes throughout many of the sessions I attended. Many speakers emphasized the need for increased diversity in diabetes research, both among participants and researchers themselves. This is not only for equity purposes but because diverse physiologies and backgrounds bring additional issues and insights. The other theme I noticed was the mention of the gut microbiome and its importance.
 
-Something really cool for me was to see two pumps I have assessed when participating in diabetes-related focus groups in the recent past: twiist, which is Tidepool’s first pump partner in offering an FDA-approved (older) version of Loop, and Tandem’s Mobi, a versatile little pump that has numerous impressive features. Neither of these pumps is compatible with Loop/Trio at this time. The DANA-i pump, which is Loopable, was represented too!
+Something really cool for me was to see two pumps I have assessed when participating in diabetes-related focus groups in the recent past: [twiist](https://twiist.com/){:target="_blank"}, which is [Tidepool’s first pump partner](https://www.tidepool.org/blog/the-twiist-tm-aid-system-powered-by-tidepool-receives-510-k-clearance){:target="_blank"} in offering an FDA-approved (older) version of Loop, and Tandem’s [Mobi](https://www.tandemdiabetes.com/products/insulin-pumps/tandem-mobi){:target="_blank"}, a versatile little pump that has numerous impressive features. Neither of these pumps is compatible with Loop/Trio at this time. The [DANA-i pump](https://www.intuitivetherapeutics.co.nz/about/dana-i-insulin-pump){:target="_blank"}, which is Loopable, was represented too!
 
 Numerous talks highlighted that GLP-1RAs (glucagon-like peptide-1 receptor agonists) are emerging as versatile therapeutic agents, extending far beyond their original application in T2D management. Besides that and their proven efficacy in obesity treatment, we saw evidence of their potential in addressing a wide array of health conditions, including AUD (alcohol use disorder), sleep apnea, cardiovascular health, kidney function, liver health, metabolic syndrome, neurodegenerative diseases, and cognitive function. Additionally, researchers are finding that the use of dual GLP-1RAs seems to enhance the positive effects of this class of drugs.
 
 The success of Teplizumab/ Tzield in delaying the onset of Stage 3 T1D and the importance of repeated screenings in high-risk populations (those with T1D family members) was emphasized. Tzield is now available in the U.S. for Stage 2 T1D patients ages 8 and up.
 
-ADA’s Diabetes Innovation Challenge winners and finalists were announced and last year’s winners were reviewed. It was thrilling to see our friends from Diatech Diabetes win the Challenge with their SmartFusion Insulin Failure Detection technology!
+ADA’s [Diabetes Innovation Challenge](https://diabetes.org/newsroom/press-releases/american-diabetes-association-names-winners-diabetes-innovation-challenge){:target="_blank"} winners and finalists were announced and last year’s winners were reviewed. It was thrilling to see our friends from [Diatech Diabetes](https://diatechdiabetes.com/){:target="_blank"} win the Challenge with their SmartFusion Insulin Failure Detection technology! See the [video when they gave a Loop and Learn talk back in 2021](https://www.youtube.com/watch?v=QFA56Wct9P8){:target="_blank"}.
 
 And let’s not forget AI! Studies of the use of AI in the diabetes and nutrition sectors were presented, with encouraging results. I look forward to seeing much success!
 
@@ -123,9 +123,6 @@ The best part about the ONE Conference is being able to hang out with about 600 
 As a Looper, the primary way to obtain and share information is through direct conversations with endocrinologists who also loop and by connecting with other Loopers. I suggested in the post-conference survey that the conference include more information about open-source AID systems, with specific breakout sessions on this topic. Despite this, I was able to connect with fellow Loopers, exchange insights, and expand my knowledge about our looping experiences. We learned from each other, dined together, and even danced to a fantastic Beatles cover band.
 
 Who wants to join us next year?
-
-
-
 
 ## Helpful Links
 
