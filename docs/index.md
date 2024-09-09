@@ -66,19 +66,18 @@ Mike Plante. Carol Vachon, Ann Oxley and Melissa Holloway and hundreds of other 
 
 Here are a few highlights from the June 2024 D-Data session:
 
-* Ed Beccle from CGM Me presented the Glider app, which pairs you up with a different CGM user daily to compete for best time in range. It turns CGMing into a game. The LnL team has been experimenting with this app for the last few weeks. Please see our July 15 edition for details on Glider.
+* Ed Beccle from [CGM Me](https://www.cgm.me/){:target="_blank"} presented the Glider app, which pairs you up with a different CGM user daily to compete for best time in range. It turns CGMing into a game. The LnL team has been experimenting with this app for the last few weeks. Please see our [July 15 edition for details on Glider](https://loopandlearn.github.io/news/edition/2024-07-15/#helpful-links){:target="_blank"}.
 
-* Arjun Panesar from DDM Health delivered a fascinating presentation on using voice analysis to diagnose Type 2 Diabetes (T2D) with remarkable accuracy. Although DDM Health is based in the UK, they are working on expanding to the US, Australia, and other countries. Panesar shared that with just 250 voice samples, their AI model could diagnose T2D with 85% accuracy. Remarkably, by increasing the sample size to 1,000, the accuracy rate soared to 97%!
+* Arjun Panesar from [DDM Health](https://ddm.health/){:target="_blank"} delivered a fascinating presentation on using voice analysis to diagnose Type 2 Diabetes (T2D) with remarkable accuracy. Although DDM Health is based in the UK, they are working on expanding to the US, Australia, and other countries. Panesar shared that with just 250 voice samples, their AI model could diagnose T2D with 85% accuracy. Remarkably, by increasing the sample size to 1,000, the accuracy rate soared to 97%!
 
 * Diana Isaacs from Cleveland Clinic  moderated a panel on alternative insulin delivery, emphasizing that many with diabetes can't access Automated Insulin Delivery and the newest technologies.
 
 * Deanna Bousalis from the FDA discussed interoperability between CGM, pumps, and algorithms. She highlighted how simulations and models are now being used to test compatibility, helping to streamline and expedite regulatory submissions.
 
 * Numerous AI companies were represented. Here’s a sampling:
-    * Milton presented their AI-powered diabetes concierge, designed to answer patients’ questions about their diabetes devices and optimize their usage. In addition to device support, it also provides personalized tips for meal planning and exercise.
-    * Lior Eshel, CEO of MakeSense presented that their platform “accurately and automatically monitors the carb content of every meal. One to watch!
+    * [Milton](https://www.getmilton.com/){:target="_blank"} presented their AI-powered diabetes concierge, designed to answer patients’ questions about their diabetes devices and optimize their usage. In addition to device support, it also provides personalized tips for meal planning and exercise.
+    * Lior Eshel, CEO of [MakeSense](https://www.makesensedht.com/){:target="_blank"} presented that their platform “accurately and automatically monitors the carb content of every meal. One to watch!
     * Vision – The AI software designed to assist in managing T1D and recommend settings adjustments based on Nightscout data is not ready for widespread use. While we won't delve into the debate over its status as an unauthorized medical device, it's important to note that the software's recommendations are derived from the Juicebox Podcast (JBP). The concern isn't about the quality of JBP contributors but rather about the applicability of their advice to individual T1D cases— context is crucial.
-
 
 ### ADA 84th Scientific Sessions
 
