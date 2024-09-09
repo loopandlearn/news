@@ -62,7 +62,7 @@ We are helping raise funds for developers to meet at the Diabetes Mine D-Data/ H
 
 Mike Plante. Carol Vachon, Ann Oxley and Melissa Holloway and hundreds of other participants had the opportunity to learn about the latest in T1D innovation. Thanks to the amazing Amy Tenderich for organizing such an important conference!
 
-[Amy Tenderich](https://www.healthline.com/authors/amy-tenderich){:target="_blank"} is the Founder of DiabetesMine, a leading online information destination that she launched after her diagnosis with type 1 diabetes in 2003. D-Data events, future announcments and past summaries, can be found at [DData](https://ddataexchange.com/){:target="_blank"}.
+[Amy Tenderich](https://www.healthline.com/authors/amy-tenderich){:target="_blank"} is the Founder of DiabetesMine, a leading online information destination that she launched after her diagnosis with type 1 diabetes in 2003.
 
 Here are a few highlights from the June 2024 D-Data session:
 
