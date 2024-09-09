@@ -62,7 +62,7 @@ We are helping raise funds for developers to meet at the Diabetes Mine D-Data/ H
 
 Mike Plante. Carol Vachon, Ann Oxley and Melissa Holloway and hundreds of other participants had the opportunity to learn about the latest in T1D innovation. Thanks to the amazing Amy Tenderich for organizing such an important conference!
 
-[Amy Tenderich](https://www.healthline.com/authors/amy-tenderich){:target="_blank"} is the Founder of DiabetesMine, a leading online information destination that she launched after her diagnosis with type 1 diabetes in 2003. 
+[Amy Tenderich](https://www.healthline.com/authors/amy-tenderich){:target="_blank"} is the Founder of DiabetesMine, a leading online information destination that she launched after her diagnosis with type 1 diabetes in 2003. D-Data events, future announcments and past summaries, can be found at [DData](https://ddataexchange.com/){:target="_blank"}.
 
 Here are a few highlights from the June 2024 D-Data session:
 
@@ -109,7 +109,7 @@ Many thanks to all who made ADA an enjoyable experience for me!
 
 ### TCOYD ONE 2024 August Meeting
 
-The ONE Conference, put on by Take Control of Your Diabetes (TCOYD), is the ultimate conference and retreat for ADULTS with type one diabetes and their loved ones. TCOYD is a nonprofit, charitable organization that has been around since 1995.
+The ONE Conference, put on by Taking Control of Your Diabetes (TCOYD), is the ultimate conference and retreat for ADULTS with type one diabetes and their loved ones. TCOYD is a nonprofit, charitable organization that has been around since 1995.
 
 > Thank you to LnL member Wendy Fuller for sharing these meeting highlights from San Diego, CA, 16-18 August 2024!
 
