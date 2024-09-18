@@ -47,7 +47,7 @@ Our team is helping to organize the upcoming Hack 2024 because we strongly belie
 
 The `Democratic National Convention (DNC)` was held in Chicago, IL (United States) 19-22 August 2024.
 
-Loper and patient advocate Gail DeVore spoke at the `DNC` advocating for reduced insulin pricing for ALL in the US- not just those on Medicare.
+Looper and patient advocate Gail DeVore spoke at the `DNC` advocating for reduced insulin pricing for ALL in the US- not just those on Medicare.
 
 Thank you, Gail!
 
@@ -61,7 +61,7 @@ Stacey Simms had a recent conversation with Dexcom’s Jake Leach and learned th
 
 We strongly recommend that loopers take advantage of auto updates from GitHub to TestFlight, courtesy of the Browser Build, but not from TestFlight to your phone. Because sometimes there are big changes, you want to be aware of them before updating and be the one to decide when to change your version!
 
-Here are a few helpful links:
+Here are some links:
 
 * [Automatic Recomendation for Browser Build](https://loopkit.github.io/loopdocs/browser/phone-install/#recommendation){:target="_blank"}
 * [Disable Automatic Install from `TestFlight`](https://loopkit.github.io/loopdocs/browser/phone-install/#disable-automatic-install-from-testflight){:target="_blank"}
@@ -76,7 +76,7 @@ What’s in your diabetes bag? Have you looked lately? This is a friendly remind
 
 ## Make Your Own Dark Mode
 
-Some app don't have dark mode. These apps with white brackgrounds are blindingly bright in low light situations. You can invert those. Here’s how!
+Some apps don't have dark mode. These apps with white backgrounds are blindingly bright in low light situations. You can invert them. Here’s how!
 
 * Go to iPhone Settings
 * Accessibility
@@ -95,7 +95,7 @@ One of our mentors updated her watch and got a spinning Loop installation indica
 
 ## Overlap Dexcom G7 Sensors
 
-Many people start their next G7 Sensor during the grace period of their current sensor. Then, after the new sensor has time to stabilize, switch over to the new sensor. With the method, so long as there are no failed or knocked off sensors, you get continuous readings and avoid using those first 6-12 hours of a new sensor with your closed-loop system.
+Many people start their next G7 Sensor during the grace period of their current sensor. Then, after the new sensor has time to stabilize, switch over to the new sensor. With this method, so long as there are no failed or knocked off sensors, you get continuous readings and avoid using those first 6-12 hours of a new sensor with your closed-loop system.
 
 1. Acknowledge the expired alert on the G7 app and indicate you’ll change the sensor later
 1. Then insert a new sensor - it automatically starts but does not pair with the phone
