@@ -69,7 +69,6 @@ This is not an issue, but users who rely on password interface to apps like Loop
 enabled glucose updating promptly on the watch.
 * Loop - if built with a free developer account, NFC (Near Field Communication) is unavailable; NFC is required for EU Libre 2 users
 * The User Interface slows down and is especially bad immediately after a build
-* If you update and run into operational or other issues, there aren’t a lot of people with experience to help you fix them. 
 
 If you update and run into operational or other issues, there aren’t a lot of people with experience to help you fix them.
 
