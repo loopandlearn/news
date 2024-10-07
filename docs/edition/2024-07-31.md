@@ -47,7 +47,7 @@ This is a minor improvement with some fixes. It is important for both Browser Bu
 
 ### iOS Update
 
-Though we are unaware of critical operational issues with iOS 18.0.1, a number of annoying problems have been reported. Our experts stand by their statement that it is best to wait when Apple provides a major releases for iOS so you do not inadvertently become a beta tester.
+Though we are unaware of critical operational issues with iOS 18.0.1, a number of annoying problems have been reported. Our experts stand by their statement that it is best to wait when Apple provides a major release for iOS so you do not inadvertently become a beta tester.
 
 * The current suggestion is to wait for at least iOS 18.1, and we will update our recommendation again when that version is available.
 * If you are on iOS 17 / watchOS 10 - stay there:
