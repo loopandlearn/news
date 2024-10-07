@@ -413,6 +413,30 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Tracking Settings Changes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#option-1-use-nightscout" class="md-nav__link">
+    <span class="md-ellipsis">
+      Option 1 - Use Nightscout
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#option-2-use-a-customization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Option 2 - Use a Customization
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -2014,6 +2038,30 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Tracking Settings Changes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#option-1-use-nightscout" class="md-nav__link">
+    <span class="md-ellipsis">
+      Option 1 - Use Nightscout
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#option-2-use-a-customization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Option 2 - Use a Customization
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -2110,7 +2158,7 @@
 <p>Need help figuring out when an event happens in your time zone? Try the <a href="https://savvytime.com/converter/utc" target="_blank">SavvyTime: UTC Converter</a>.</p>
 <h2 id="version-updates">Version Updates<a class="headerlink" href="#version-updates" title="Anchor link to this Header on this Page">&para;</a></h2>
 <h3 id="version-343">Version 3.4.3<a class="headerlink" href="#version-343" title="Anchor link to this Header on this Page">&para;</a></h3>
-<p>The <a href="https://loopkit.github.io/loopdocs/version/releases/#loop-v343"><em>Loop</em> app, version 3.4.3</a> is available.</p>
+<p>The <a href="https://loopkit.github.io/loopdocs/version/releases/#loop-v343" target="_blank"><em>Loop</em> app, version 3.4.3</a> is available.</p>
 <p>This is a minor improvement with some fixes. It is important for both Browser Builders and Mac-Xcode Builders. </p>
 <ul>
 <li>For <code>Browser Builders</code> who previously updated to <code>version 3.4.1</code>, your automatic update and build action on <em>GitHub</em> should run on Wed; you can then choose when to install <code>version 3.4.3</code> from <em>TestFlight</em> onto your phone</li>
@@ -2138,7 +2186,7 @@
 </ul>
 </li>
 </ul>
-<p>Check our <a href="https://www.loopandlearn.org/version-updates/">Version Updates</a> page (and the <a href="https://www.facebook.com/groups/LOOPandLEARN">FB group</a>) for updates.</p>
+<p>Check our <a href="https://www.loopandlearn.org/version-updates/" target="_blank">Version Updates</a> page (and the <a href="https://www.facebook.com/groups/LOOPandLEARN" target="_blank">FB group</a>) for updates.</p>
 <p>This is not an issue, but users who rely on password interface to apps like Loop, LoopCaregiver and LoopFollow should know that the iOS Settings have been rearranged in iOS 18. Specifically, Passwords were moved to their own app rather than being included in Settings.</p>
 <h3 id="issues-reported-by-ios-180-users">Issues reported by iOS 18.0 users:<a class="headerlink" href="#issues-reported-by-ios-180-users" title="Anchor link to this Header on this Page">&para;</a></h3>
 <ul>
@@ -2151,9 +2199,34 @@ enabled glucose updating promptly on the watch.</li>
 </ul>
 <p>If you update and run into operational or other issues, there aren’t a lot of people with experience to help you fix them.</p>
 <h2 id="tracking-settings-changes">Tracking Settings Changes<a class="headerlink" href="#tracking-settings-changes" title="Anchor link to this Header on this Page">&para;</a></h2>
+<p>A Looper asked for a way to keep track of settings changes.</p>
+<p>Here are some ways that work well: </p>
+<h3 id="option-1-use-nightscout">Option 1 - Use <em>Nightscout</em><a class="headerlink" href="#option-1-use-nightscout" title="Anchor link to this Header on this Page">&para;</a></h3>
+<p>Install <a href="https://nightscout.github.io/" target="_blank"><em>Nightscout</em></a> for yourself and add it to Loop as a Service.</p>
+<p>All of your treatments, including your therapy settings, are uploaded to your <em>Nightscout</em> URL.</p>
+<p>One of the reports in <em>Nightscout</em> is to show <a href="https://nightscout.github.io/nightscout/reports/#profiles" target="_blank">Profiles</a> over time.</p>
+<p>One issue with <em>Nightscout</em> is that a profile is uploaded every time you run an override, so there may be a lot of profiles with the same Basal Rates, Carb Ratio and Insulin Sensitivity Factor.</p>
+<h3 id="option-2-use-a-customization">Option 2 - Use a Customization<a class="headerlink" href="#option-2-use-a-customization" title="Anchor link to this Header on this Page">&para;</a></h3>
+<p>Install the "Profiles Save &amp; Load" customization:</p>
+<ul>
+<li><a href="https://www.loopandlearn.org/custom-code/" target="_blank">Customization Overview Page</a></li>
+<li><a href="https://www.loopandlearn.org/loop-features-in-development/#profiles" target="_blank">Profiles Information Section</a></li>
+</ul>
+<p>To keep a record of profiles locally (on your Loop phone):</p>
+<ul>
+<li>After you modify a Therapy setting, tap on Profiles and select cancel - you do not want to update the named profile</li>
+<li>Tap on the + sign to create a new named profile that has your current values</li>
+<li>Tip: Begin "names" with a date to make it easy to sort and add a comment to help you understand the purpose of that override<ul>
+<li>One user, with only a single CR and ISF each day, uses values for "date daily-basal CR ISF"</li>
+</ul>
+</li>
+</ul>
 <h2 id="fixing-an-extreme-override">Fixing an Extreme Override<a class="headerlink" href="#fixing-an-extreme-override" title="Anchor link to this Header on this Page">&para;</a></h2>
+<p>We say it again and again... don’t use <a href="https://loopkit.github.io/loopdocs/operation/features/overrides/#avoid-extreme-insulin-needs-setting" target="_blank">extreme overrides</a>! If you do and are having issues because of doing so, here’s <a href="https://www.loopandlearn.org/override/#extreme-override-fix" target="_blank">how to fix them</a>. If you don’t know what an extreme override is, hopefully that’s because you have not used one... but please read up and stay on that course!  </p>
 <h2 id="quickest-way-to-get-help">Quickest Way to get Help<a class="headerlink" href="#quickest-way-to-get-help" title="Anchor link to this Header on this Page">&para;</a></h2>
+<p>If you’re <a href="https://loopkit.github.io/loopdocs/browser/bb-overview/" target="_blank">building with browser</a> and need <a href="https://www.loopandlearn.org/buildhelp/#browser-build-help" target="_blank">help</a>, the fastest way to get it is to include your GitHub URL when you request help- we see lots of other info, but that’s the ticket to getting quick help.</p>
 <h2 id="lnl-instagram">LnL Instagram<a class="headerlink" href="#lnl-instagram" title="Anchor link to this Header on this Page">&para;</a></h2>
+<p>What’s that dino doing? Check out our <a href="https://www.instagram.com/loopandlearn/?igshid=YmMyMTA2M2Y%3D" target="_blank">Instagram</a> and see! It’s a great way to get little “bites” of Loopy info, reminders and more.</p>
 <h2 id="helpful-links">Helpful Links<a class="headerlink" href="#helpful-links" title="Anchor link to this Header on this Page">&para;</a></h2>
 <ul>
 <li><a href="https://www.loopandlearn.org/newsletter-signup/" target="_blank">Subscribe</a> to get the Newsletter delivered to your email weekly.<ul>
