@@ -34,7 +34,7 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ### Version 3.4.3
 
-The [*Loop* app, version 3.4.3](https://loopkit.github.io/loopdocs/version/releases/#loop-v343) is available.
+The [*Loop* app, version 3.4.3](https://loopkit.github.io/loopdocs/version/releases/#loop-v343){:target="_blank"} is available.
 
 This is a minor improvement with some fixes. It is important for both Browser Builders and Mac-Xcode Builders. 
 
@@ -58,7 +58,7 @@ Though we are unaware of critical operational issues with iOS 18.0.1, a number o
         * You will find this version under software update; it is reported to improve several user interface issues
     * Similarly, if your watchOS is already at 11.0, please try 11.0.1 - we have heard it improves things
 
-Check our [Version Updates](https://www.loopandlearn.org/version-updates/) page (and the [FB group](https://www.facebook.com/groups/LOOPandLEARN)) for updates.
+Check our [Version Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"} page (and the [FB group](https://www.facebook.com/groups/LOOPandLEARN){:target="_blank"}) for updates.
 
 This is not an issue, but users who rely on password interface to apps like Loop, LoopCaregiver and LoopFollow should know that the iOS Settings have been rearranged in iOS 18. Specifically, Passwords were moved to their own app rather than being included in Settings.
 
@@ -75,11 +75,45 @@ If you update and run into operational or other issues, there aren’t a lot of 
 
 ## Tracking Settings Changes
 
+A Looper asked for a way to keep track of settings changes.
+
+Here are some ways that work well: 
+
+### Option 1 - Use *Nightscout*
+
+Install [*Nightscout*](https://nightscout.github.io/){:target="_blank"} for yourself and add it to Loop as a Service.
+
+All of your treatments, including your therapy settings, are uploaded to your *Nightscout* URL.
+
+One of the reports in *Nightscout* is to show [Profiles](https://nightscout.github.io/nightscout/reports/#profiles){:target="_blank"} over time.
+
+One issue with *Nightscout* is that a profile is uploaded every time you run an override, so there may be a lot of profiles with the same Basal Rates, Carb Ratio and Insulin Sensitivity Factor.
+
+### Option 2 - Use a Customization
+
+Install the "Profiles Save & Load" customization:
+
+* [Customization Overview Page](https://www.loopandlearn.org/custom-code/){:target="_blank"}
+* [Profiles Information Section](https://www.loopandlearn.org/loop-features-in-development/#profiles){:target="_blank"}
+
+To keep a record of profiles locally (on your Loop phone):
+
+* After you modify a Therapy setting, tap on Profiles and select cancel - you do not want to update the named profile
+* Tap on the + sign to create a new named profile that has your current values
+* Tip: Begin "names" with a date to make it easy to sort and add a comment to help you understand the purpose of that override
+    * One user, with only a single CR and ISF each day, uses values for "date daily-basal CR ISF"
+
 ## Fixing an Extreme Override
+
+We say it again and again... don’t use [extreme overrides](https://loopkit.github.io/loopdocs/operation/features/overrides/#avoid-extreme-insulin-needs-setting){:target="_blank"}! If you do and are having issues because of doing so, here’s [how to fix them](https://www.loopandlearn.org/override/#extreme-override-fix){:target="_blank"}. If you don’t know what an extreme override is, hopefully that’s because you have not used one... but please read up and stay on that course!  
 
 ## Quickest Way to get Help
 
+If you’re [building with browser](https://loopkit.github.io/loopdocs/browser/bb-overview/){:target="_blank"} and need [help](https://www.loopandlearn.org/buildhelp/#browser-build-help){:target="_blank"}, the fastest way to get it is to include your GitHub URL when you request help- we see lots of other info, but that’s the ticket to getting quick help.
+
 ## LnL Instagram
+
+What’s that dino doing? Check out our [Instagram](https://www.instagram.com/loopandlearn/?igshid=YmMyMTA2M2Y%3D){:target="_blank"} and see! It’s a great way to get little “bites” of Loopy info, reminders and more.
 
 ## Helpful Links
 
