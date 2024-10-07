@@ -36,12 +36,12 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 The [*Loop* app, version 3.4.3](https://loopkit.github.io/loopdocs/version/releases/#loop-v343) is available.
 
-This is a minor improvement with some fixes. It is importanat for both Browser Builders and Mac-Xcode Builders. 
+This is a minor improvement with some fixes. It is important for both Browser Builders and Mac-Xcode Builders. 
 
-* For `Browser Builders` who previously updated to `version 3.4.1`, your automatic update and build should run on Wed; you can then choose when to install `version 3.4.3` on your phone
+* For `Browser Builders` who previously updated to `version 3.4.1`, your automatic update and build action on *GitHub* should run on Wed; you can then choose when to install `version 3.4.3` from *TestFlight* onto your phone
 * For `Mac-Xcode Builders`, if you used *Xcode* 16 and don't see an expiration date in your app, please get a fresh download and build again
 
-> *WARNING* If you are running `dev` branch for any reason and are not a serious tester: change to `main` immediately. Really big changes are expected to appear in the `dev` branch with no warning. All improvements previously in `dev` are in the new release, Loop 3.4.3.
+> *WARNING* If you are running `dev` branch for any reason and are not a serious developer and tester: change to `main` immediately. Really big changes are expected to appear in the `dev` branch with no warning. All improvements previously in `dev` are in the new release, Loop 3.4.3.
 
 > CHANGE TO `main` NOW!
 
@@ -60,10 +60,7 @@ Though we are unaware of critical operational issues with iOS 18.0.1, a number o
 
 Check our [Version Updates](https://www.loopandlearn.org/version-updates/) page (and the [FB group](https://www.facebook.com/groups/LOOPandLEARN)) for updates.
 
-This is not an issue, but users who rely on password interface to apps like Loop,
-LoopCaregiver and LoopFollow should know that the iOS Settings have been rearranged in
-iOS 18. Specifically, Passwords were moved to their own app rather than being included in
-Settings.
+This is not an issue, but users who rely on password interface to apps like Loop, LoopCaregiver and LoopFollow should know that the iOS Settings have been rearranged in iOS 18. Specifically, Passwords were moved to their own app rather than being included in Settings.
 
 ### Issues reported by iOS 18.0 users:
 
