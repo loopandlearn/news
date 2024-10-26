@@ -83,7 +83,7 @@ Why are these the top two for Browser Build?
 
 * Deleting muddies the waters and makes it harder for mentors to see your status
 * GitHub Organizations save a lot of time and potential for errors when building more than one app - you only need to enter your 6 SECRETS one time!
-* Refer to [this page for more tips to get Browser Build Help and see the Most Common Errors]({:target="_blank"}){:target="_blank"}
+* Refer to [this page for more tips to get Browser Build Help and see the Most Common Errors](https://loopkit.github.io/loopdocs/browser/bb-errors/#help-with-errors){:target="_blank"}
 
 ## Disable Auto-Update in TestFlight
 
