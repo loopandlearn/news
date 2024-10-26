@@ -7,6 +7,7 @@ Special Edition - Published on 25 October 2024.
 ## In this edition:
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
+* [*Apple* Developer Agreement](#apple-developer-agreement)
 * [Time for a Change](#time-for-a-change)
 * [Insights from Hack 2024](#insights-from-hack-2024)
 * [Version Updates](#version-updates)
