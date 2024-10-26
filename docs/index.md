@@ -61,7 +61,7 @@ No change to recommendations: we continue to recommend waiting for iOS 18.1. In-
 
 The latest *Loop* release is version 3.4.4.
 
-* You should update (and if a Browser Builder, install from TestFlight){:target="_blank"} if you are not on 3.4.4
+* You should update (and if a Browser Builder, install from TestFlight) if you are not on 3.4.4
 * If you built version 3.4.4 between 9 and 12 October 2024, please update again because an important update was added without a modification to the build number
 
 ### The *Trio* App
