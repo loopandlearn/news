@@ -49,7 +49,7 @@ In many places, the clocks will change soon.  Be sure to use your app to update 
 
 Hack 2024 is on 6 November 2024 - less than 2 weeks away! We're planning something special - a behind-the-scenes opportunity to check in at this event, where 30 developers and other volunteers from across the globe brainstorm the future of open-source automated insulin delivery systems like Loop, Trio and AAPS. Of course, we've never tried to host a session like this before, so we're still working out the details. We'll post of FB and here in the newsletter as time gets closer.
 
-If you haven't yet had the opportunity to make a small donation to the [Nightscout Foundatation](https://www.nightscoutfoundation.org/new-products/direct-donation-apa26){:target="_blank"} to help with this effort and would like to pay it forward by contributing to the community's future, click on the link above for a quick and easy way to do so
+If you haven't yet had the opportunity to make a small donation to the [Nightscout Foundation](https://www.nightscoutfoundation.org/new-products/direct-donation-apa26){:target="_blank"} to help with this effort and would like to pay it forward by contributing to the community's future, click on the link above for a quick and easy way to do so
 
 ## Version Updates
 
