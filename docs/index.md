@@ -84,6 +84,8 @@ We have been fighting a lot of post removals in recent weeks and are hearing tha
 * Provide a clear, concise explanation of why you believe the post complies with the guidelines.
 * Mention specific parts of the Community Standards that you believe the post adheres to in order to strengthen the appeal.
 
+[Link to Facebook Appeal Information](https://www.facebook.com/help/2090856331203011?helpref=faq_content){:target="_blank"}
+
 ## Helpful Links
 
 * [Subscribe](https://www.loopandlearn.org/newsletter-signup/){:target="_blank"} to get the Newsletter delivered to your email weekly.
