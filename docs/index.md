@@ -46,7 +46,7 @@ A note from James Wedding, President, [Nightscout Foundation](https://www.nights
 
 ## Loop and Learn
 
-Loop and Learn extends our thanks to Nightscout and to our outstanding community, as well. Your support is truly helping shape the future of Automated Insulin Delivery, from which we all benefit.
+Loop and Learn extends our thanks to the Nightscout Foundation and to our outstanding community, as well. Your support is truly helping shape the future of Automated Insulin Delivery, from which we all benefit.
 
 ## Hack '24 was a Great Success
 
