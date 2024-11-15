@@ -74,7 +74,7 @@ As promised, the Loop and Learn team at Hack ‘24 hosted an Open Mic, during wh
 
 ## A Word From D-Data
 
-More to come on the Fall 2024 DiabetesMine Innovation Days, but here’s a teaser. This [#NeverStopInnovating Video](https://youtu.be/SbBmrz87QmM%20){:target="_blank"}, showcasing the innovation at the core of our mission, was presented at the start of Day 2.
+More to come on the [Fall 2024 DiabetesMine Innovation Days](https://ddataexchange.com/){:target="_blank"}, but here’s a teaser. This [#NeverStopInnovating Video](https://youtu.be/SbBmrz87QmM%20){:target="_blank"}, showcasing the innovation at the core of our mission, was presented at the start of Day 2 of the DData ExChange conference.
 
 ## Facebook Post Removals
 
