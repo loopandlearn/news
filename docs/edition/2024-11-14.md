@@ -34,15 +34,15 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## World Diabetes Day - Open Mic
 
-On [World Diabetes Day](https://worlddiabetesday.org/){:target="_blank"}, thirty loopers from around the world joined in an Open Mic session. One of the themes was to provide information about Hack '24 held the previous week.
+On [World Diabetes Day](https://worlddiabetesday.org/){:target="_blank"}, thirty loopers from around the world joined in an Open Mic session. One of the themes was to provide information about Hack '24 held on 6 November 2024.
 
 ## Nightscout Foundation
 
 A note from James Wedding, President, [Nightscout Foundation](https://www.nightscoutfoundation.org/){:target="_blank"} about the Hackathon 2024:
 
-When we began the Nightscout Foundation, we hoped it would be a vehicle for sustaining and driving open-source development in the diabetes world. Thanks to the generosity of this community, we were able to put together yet another hack, literally bringing together developers from around the globe. These folks give so much of their time to support us all, and I'm so proud that we can support them financially to attend these events.
+> When we began the Nightscout Foundation, we hoped it would be a vehicle for sustaining and driving open-source development in the diabetes world. Thanks to the generosity of this community, we were able to put together yet another hack, literally bringing together developers from around the globe. These folks give so much of their time to support us all, and I'm so proud that we can support them financially to attend these events.
 
-Thank you to every single person who contributed to this focused effort. Keep an eye for future events!"
+> Thank you to every single person who contributed to this focused effort. Keep an eye for future events!
 
 ## Loop and Learn
 
@@ -71,7 +71,7 @@ Theresa Hastings sums it up quite nicely, probably for all of us:
 
 ## A Peek into the Hack
 
-As promised, he Loop and Learn team at Hack ‘24 hosted an Open Mic, during which developers and the rest of us got to say hello and share a bit of what was going on, in real time. It was a quick little window in, helping loopers from around the world know that they, too, are a part of this revolutionary #WeAreNotWaiting movement!
+As promised, the Loop and Learn team at Hack ‘24 hosted an Open Mic, during which developers and the rest of us got to say hello and share a bit of what was going on, in real time. It was a quick little window in, helping loopers from around the world know that they, too, are a part of this revolutionary #WeAreNotWaiting movement!
 
 ## A Word From D-Data
 
@@ -83,7 +83,7 @@ We have been fighting a lot of post removals in recent weeks and are hearing tha
 
 * Immediately submit an appeal through the “Request a Review” process if it’s available. This is a direct way to contest the removal.
 * Provide a clear, concise explanation of why you believe the post complies with the guidelines.
-* Mention specific parts of the Community Standards that you believe the post adheres to can strengthen the appeal.
+* Mention specific parts of the Community Standards that you believe the post adheres to strengthen the appeal.
 
 ## Helpful Links
 
