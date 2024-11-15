@@ -60,8 +60,7 @@ David Burren and Tim Gunn of [Nascence Biomed](https://www.nascencebiomed.com/){
 
 > Additionally, we worked on standardizing the oref implementation across platforms, moving away from JavaScript to support a shared reference implementation rather than just a design. Progress was also made on the coding front, setting us up to deliver a more cohesive and accessible experience across platforms.
 
-Other groups focused on topics such as AID testing/development, Nightscout
-and open souce sustainability.
+Other groups focused on topics such as AID testing/development, Nightscout and open source sustainability.
 
 Theresa Hastings sums it up quite nicely, probably for all of us:
 
