@@ -82,7 +82,7 @@ We have been fighting a lot of post removals in recent weeks and are hearing tha
 
 * Immediately submit an appeal through the “Request a Review” process if it’s available. This is a direct way to contest the removal.
 * Provide a clear, concise explanation of why you believe the post complies with the guidelines.
-* Mention specific parts of the Community Standards that you believe the post adheres to strengthen the appeal.
+* Mention specific parts of the Community Standards that you believe the post adheres to in order to strengthen the appeal.
 
 ## Helpful Links
 
