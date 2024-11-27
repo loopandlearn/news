@@ -11,7 +11,8 @@ Published on 27 November 2024.
 * [Another Call to Action](#another-call-to-action)
 * [Adam Brown: Save the Date](#adam-brown-save-the-date)
 * [D-Data Download](#d-data-download)
-* [Build Tips](#build-tips)
+* [iOS Version Update](#ios-version-update)
+* [Help Wanted](#help-wanted)
 * [Holiday Indulgence](#holiday-indulgence)
 * [Helpful Links](#helpful-links)
 
@@ -27,15 +28,16 @@ _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) z
 | - | - | - | - |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` | no | 19:00 UTC | 12 December 2024 |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` | no | 19:00 UTC | 09 January 2025 |
-| _<span translate="no">Loop and Learn</span>_: Speaker Series<br>Adam Brown | no | 20:00 UTC | 16 January 2025 |
+| _<span translate="no">Loop and Learn</span>_: Speaker Series<br>Adam Brown | yes | 20:00 UTC | 16 January 2025 |
 
 #### Time Zone Converter
 
 Need help figuring out when an event happens in your time zone? Try the [SavvyTime: UTC Converter](https://savvytime.com/converter/utc){:target="_blank"}.
 
-## Reminder: Sign Your New Apple Developer Agreement
+## Reminder: Sign Your New *Apple* Developer Agreement
 
-We are finding that some of our members have not yet signed their new agreements, which should have been signed by 6 November. If this is you: sign the agreement at [*Apple*](https://developer.apple.com/support/terms/apple-developer-program-license-agreement/){:target="_blank"} and then wait at least 15 minutes before trying to use the new agreement (especially if using Browser Build).
+We are finding that some of our members have not yet signed their October 23rd
+agreement. Please take a moment and do it now: [*Apple* Developer Agreement*](https://developer.apple.com/support/terms/apple-developer-program-license-agreement/){:target="_blank"}. Wait at least 15 minutes after signing the agreement before trying to build an app (especially if using Browser Build).
 
 ## Another Call to Action
 
@@ -51,59 +53,68 @@ If you submitted a letter to the FDA recently, THANK YOU and please also sign th
 
 ## D-Data Download
 
-Several Loop and Learn team members attended the [DiabetesMine’s Fall 2024 Innovation Summit and d-data exChange](https://ddataexchange.com/){:target="_blank"}, organized by
-Amy Tenderich, earlier this month in San Diego in San Diego. The #WeAreNotWaiting movement originated at d-data, a smaller conference that focuses on the forefront of technological diabetes innovation. Day 1 was The DiabetesMine Innovation Summit and Day 2, Diabetes Mine’s D-Data Exchange.
+Many Loop and Learn team members attended the [DiabetesMine’s Fall 2024 Innovation Summit and d-data exChange](https://ddataexchange.com/){:target="_blank"}, organized by
+Amy Tenderich, earlier this month in San Diego. The #WeAreNotWaiting movement originated at d-data, a smaller conference that focuses on the forefront of technological diabetes innovation. Here are some selected highlights from the [full program](https://drive.google.com/file/d/126Ob1CYS2IR7eqRM1S0Xev6WI9VL9liq/view){:target="_blank"}:
 
-###Mental Health
+### Mental Health
 
-* Adam Brown emphasized the importance of focusing on positive outcomes ("bright spots") rather than negatives ("landmines") in diabetes management, advocating for praise to encourage healthier behaviors.
-* Lynxi Mytkolli discussed Diabetes Action Canada's work to improve diabetes care through collaborative research, addressing unmet needs with a focus on lived, loved, learned, and labored experiences.
-* Alex Durussel-Baker introduced her “Diabetes by Design” art cards as tools to spark meaningful conversations about diabetes.
+* [Adam Brown](https://adambrowntherapy.com/ ){: target="_blank" } emphasized the importance of focusing on positive outcomes ("bright spots") rather than negatives ("landmines") in diabetes management, advocating for praise to encourage healthier behaviors.
+* Lynxi Mytkolli discussed [Diabetes Action Canada](https://diabetesaction.ca/ ){: target="_blank" }, which works to improve diabetes care through collaborative research, addressing unmet needs with a focus on lived, loved, learned, and labored experiences.
+* Alex Durussel-Baker introduced her [“Diabetes by Design”](https://www.diabetesbydesign.org/ ){: target="_blank" } art cards as tools to spark meaningful conversations about diabetes.
 
 Each presentation highlighted the critical role of mental health in diabetes care, and we are excited to see this emphasis on this often-overlooked aspect.
 
 ### Pregnancy
 
-* Dr. Kristin Castorino (Sansum Diabetes Research Institute) emphasized the lifelong impact of diabetes, linking hyperglycemia to birth defects and cardiovascular risks.
-* Dr. Carol Levy (Mt. Sinai) highlighted how technology can reduce the significant burden of T1D at this critical time.
-* Joy Cornthwaite (UT Health) advocated integrating CGM data into electronic health records to improve care coordination and support long-term technology adoption during pregnancy.
+* Dr. Kristin Castorino ([Sansum Diabetes Research Institute](https://sansum.org/ ){: target="_blank" }) emphasized the lifelong impact of diabetes, linking hyperglycemia to birth defects and cardiovascular risks.
+* Dr. Carol Levy ([Mt. Sinai](https://www.mountsinai.org/care/diabetes/about?pk_vid=22226afc580dede3173267730208ddb5 ){: target="_blank" }) highlighted how technology can reduce the significant burden of T1D at this critical time.
+* [Joy Cornthwaite](https://www.instagram.com/diabeteswithjoy/?hl=en ){: target="_blank" } (UT Health) advocated integrating CGM data into electronic health records to improve care coordination and support long-term technology adoption during pregnancy.
 
 ### AI (Artificial Intelligence) and Food Recognition Apps
 
-* UCSD’s Chief Health AI Officer, Dr. Karandeep Singh, explained the paradox of AI in healthcare and emphasized the need for greater attention to implementation science in hospitals and quality measurements for AI use in healthcare.
-* Chat CGM, an AI algorithm for CGM data and food recognition that is in development, was presented by Kirill Gusev.
-* GoCoCo Diabetes-focused food scanner app was introduced by Julie Ruelle.
-* Sam Royston (Replica Health) discussed integrating AI and machine learning into AID algorithms, particularly for predicting carb absorption based on meal types.
+* [UCSD’s Chief Health AI Officer](https://healthinnovation.ucsd.edu/news/meet-ucsd-healths-first-chief-ai-officer ){: target="_blank" }, Dr. Karandeep Singh, explained the paradox of AI in healthcare and emphasized the need for greater attention to implementation science in hospitals and quality measurements for AI use in healthcare.
+* [Chat CGM](https://www.chatcgm.com/ ){: target="_blank" }, an AI algorithm for CGM data and food recognition that is in development, was presented by Kirill Gusev.
+* [GoCoCo](https://www.gococo.app/ ){: target="_blank" } Diabetes-focused food scanner app was introduced by Julie Ruelle.
+* Sam Royston ([Replica Health](https://www.replica.health/){: target="_blank" }) discussed integrating AI and machine learning into AID algorithms, particularly for predicting carb absorption based on meal types.
 
 ### CGM in development
 
-* Glucotrack 3-year implantable continuous CGM implants into the subclavian vein and reads blood glucose directly from blood.
-* Persperion Diagnostics’ sweat-based glucose sensor uses fingertip sweat and is non-invasive.
+* [Glucotrack](https://glucotrack.com/ ){: target="_blank" } 3-year implantable continuous CGM implants into the subclavian vein and reads blood glucose directly from blood.
+* [Persperion Diagnostics’](https://persperiontech.com/home ){: target="_blank" } sweat-based glucose sensor uses fingertip sweat and is non-invasive.
 
 ### New Insulins
 
-* Dr. Robert Thomas (UCSD) discussed the potential of once-weekly insulins in diabetes therapy, noting their convenience but also the risk of prolonged hypoglycemia due to their long half-lives. He highlighted their benefits for certain patient populations, such as those with DKA or disabilities, while emphasizing the need to tailor insulin therapy to individual needs. Something to look for in the future.
+* [Dr. Robert Thomas (UCSD)](https://www.instagram.com/ucsd_diabetes/p/C7kGzl3yKjR/?img_index=1 ){: target="_blank" } discussed the potential of once-weekly insulins in diabetes therapy, noting their convenience but also the risk of prolonged hypoglycemia due to their long half-lives. He highlighted their benefits for certain patient populations, such as those with DKA or disabilities, while emphasizing the need to tailor insulin therapy to individual needs. Something to look for in the future.
 
 ### Addressing Challenges in Diabetes Care
-* Dr. Bob Gabbay (Joslin Diabetes) addressed mental health, GLP-1 RA access, and healthcare delivery shortages. He praised the "revolutionary" impact of GLP-1 RAs but noted supply and insurance barriers, suggesting workarounds for T1D use given regulatory hurdles. He urged optimizing endocrinologist roles and team-based care.
-* Drs. Kathryn Evans Kreider (Duke Univ.) and Alicia Warnock (Stability Health) shared efforts at their institutions to improve healthcare efficiency and quality.
-* Mary Jane Roche (Diabetes Link) discussed the iHero randomized controlled trial, a collaborative project between The Diabetes Link and University Hospitals to develop a financial toolkit for young adults with type 1 diabetes. The study seeks to assess how targeted financial education can improve health outcomes for this population.
-* The Tidepool+ risk-based dashboard for patient care was presented by Brandon Arbiter. This will help HCPs be able to proactively identify patients whose data indicates they need more intensive help with management or supply issues.
+* Dr. Bob Gabbay ([Joslin Diabetes](https://joslin.org/ ){: target="_blank" }) addressed mental health, GLP-1 RA access, and healthcare delivery shortages. He praised the "revolutionary" impact of GLP-1 RAs but noted supply and insurance barriers, suggesting workarounds for T1D use given regulatory hurdles. He urged optimizing endocrinologist roles and team-based care.
+* Drs. Kathryn Evans Kreider ([Duke Univ.](https://medicine.duke.edu/divisions/endocrinology-metabolism-and-nutrition ){: target="_blank" }) and Alicia Warnock ([Stability Health](https://stabilityhealth.com/ ){: target="_blank" }) shared efforts at their institutions to improve healthcare efficiency and quality.
+* Mary Jane Roche ([Diabetes Link](https://thediabeteslink.org/ ){: target="_blank" }) discussed the [iHero](https://www.uhhospitals.org/uh-research/department-research/endocrinology-research/diabetes-and-metabolic-research/clinical-trials/ihero ){: target="_blank" } randomized controlled trial, a collaborative project between The Diabetes Link and University Hospitals to develop a financial toolkit for young adults with type 1 diabetes. The study seeks to assess how targeted financial education can improve health outcomes for this population.
+* Dr. Inge Van Boxelaer ([Diabetotech](https://www.diabetotech.com/ ){: target="_blank" }) presented an online platform offering video courses on diabetes technology. The goal is to empower individuals, caregivers, and healthcare professionals with the latest insights on glucose sensors, insulin pumps, and AID, fostering better diabetes care for all. Some modules, including those for [OS-AID systems](https://www.diabetotech.com/aid-systems ){: target="_blank" }, are free. 
+* The [Tidepool+](https://www.tidepool.org/providers ){: target="_blank" } risk-based dashboard for patient care was presented by Brandon Arbiter. This will help HCPs be able to proactively identify patients whose data indicates they need more intensive help with management or supply issues.
 
 ### Community-Based Advocacy
 
-* Susannah Fox (author of Rebel Health: A Field Guide to the Patient-Led Revolution in Medical Care) emphasized the role of online communities and grassroots initiatives in addressing healthcare challenges. These efforts help meet unmet needs, fight misinformation, and improve access to care and resources. The book explores how patients and caregivers are driving innovation and advocating for solutions based on their lived experiences, exemplified by movements like #WeAreNotWaiting. It focuses on empowering patients to take an active role in their healthcare, challenging traditional hierarchies within the system. and last, but certainly not least, Automated Insulin Delivery (AID)
-* Dr. Anders Carlson (International Diabetes Center) advocated for early AID adoption in T2D, emphasizing its potential to improve management and reduce complications. He called for partnerships with primary care clinics and continued device innovation to meet T2D-specific needs.
-* A panel on the “Wild West” of open-source automated insulin delivery system (OS-AID) support, featuring our own Joanne Milo and Marion Barker, and Dr. Rayhan Lal (Stanford Medicine), was moderated by Brandon Arbiter (Tidepool). Dr. Lal addressed the safety and efficacy of OS-AID, emphasizing that diabetes itself, not the system type, poses the primary risk. Dr. Lal continues to push for equity for users of AID systems. Joanne and Marion talked about the importance of peer-to-peer help found in the online community. The panel discussed the need to support OS- AID users, who should use open-source, and whether there should be some standards of training or ways of validating paid support services to supplement the volunteer community.
-* David Burren (Nascence BioMed) discussed the capability of achieving fully closed looping with OS-AID and shared that while he has not bolused or announced meals since 2021, his A1C remains low (5.6) with TIR (time in range) >90% and TITR (time in tight range) >75%.
-* Kate Farnsworth shared news on the Sequel twiist AID system, which uses the Tidepool Loop algorithm.
-* Theresa Hastings unveiled the soon-to-be-released updated Trio, the iPhone-based Oref OS- AID app, which many of us are already benefiting from through an earlier release.
+* Susannah Fox (author of [Rebel Health: A Field Guide to the Patient-Led Revolution in Medical Care](https://mitpress.mit.edu/9780262553001/rebel-health/ ){: target="_blank" }) emphasized the role of online communities and grassroots initiatives in addressing healthcare challenges. These efforts help meet unmet needs, fight misinformation, and improve access to care and resources. The book explores how patients and caregivers are driving innovation and advocating for solutions based on their lived experiences, exemplified by movements like #WeAreNotWaiting. It focuses on empowering patients to take an active role in their healthcare, challenging traditional hierarchies within the system. and last, but certainly not least, Automated Insulin Delivery (AID)
+* Dr. Anders Carlson ([International Diabetes Center](https://www.healthpartners.com/institute/centers/international-diabetes-center/ ){: target="_blank" }) advocated for early AID adoption in T2D, emphasizing its potential to improve management and reduce complications. He called for partnerships with primary care clinics and continued device innovation to meet T2D-specific needs.
+* A panel on the “Wild West” of open-source automated insulin delivery system (OS-AID) support, featuring our own Joanne Milo and Marion Barker, and Dr. Rayhan Lal ([Stanford Medicine](https://stanfordhealthcare.org/medical-clinics/diabetes-care.html ){: target="_blank" }), was moderated by Brandon Arbiter ([Tidepool](https://www.tidepool.org/ ){: target="_blank" }). Dr. Lal addressed the safety and efficacy of OS-AID, emphasizing that diabetes itself, not the system type, poses the primary risk. Dr. Lal continues to push for equity for users of AID systems. Joanne and Marion talked about the importance of peer-to-peer help found in the online community. The panel discussed the need to support OS- AID users, who should use open-source, and whether there should be some standards of training or ways of validating paid support services to supplement the volunteer community.
+* David Burren ([Nascence BioMed](https://www.nascencebiomed.com/ ){: target="_blank" }) discussed the capability of achieving fully closed looping with OS-AID and shared that while he has not bolused or announced meals since 2021, his A1C remains low (5.6) with TIR (time in range) >90% and TITR (time in tight range) >75%.
+* Kate Farnsworth shared news on the [Sequel twiist AID system](https://twiist.com/ ){: target="_blank" }, which uses the Tidepool Loop algorithm.
+* Theresa Hastings unveiled the soon-to-be-released updated [Trio](https://diy-trio.org/ ){: target="_blank" }, the iPhone-based oref OS-AID app, which many of us are already benefiting from through an earlier release.
 
 The innovations and focus on patient care at D-Data were truly inspiring, and we are excited to see the positive changes that will come from them. It was also a wonderful experience to meet more of our team and community members in person. Despite, for many, it being our first face-to- face meeting, the bonds we’ve built through close collaboration made it feel like anything but our first meeting! 
  
-## Build Tips
+## iOS Version Update
+
+We are happy to announce that there are no reported issues with iOS 18.1.1. It is safe to update. iOS 18 is compatible with watchOS 11.
+
+## Help Wanted
+
+When you see a question that you can answer, feel free to speak up and help others in our Facebook group.That will not only help the person asking the question but will help our mentors as well.
 
 ## Holiday Indulgence
+
+See this [helpful article from 2023](https://www.loopandlearn.org/thanksgiving/ ){: target="_blank" } on the Loop and Learn website for tips that apply to all food-oriented holidays- we have a few coming up!
 
 ## Helpful Links
 
