@@ -10,7 +10,7 @@ Published on 27 November 2024.
 * [Reminder: Sign Your New Apple Developer Agreement](#reminder-sign-your-new-apple-developer-agreement)
 * [Another Call to Action](#another-call-to-action)
 * [Adam Brown: Save the Date](#adam-brown-save-the-date)
-* [D-Data Download](#d-data-download)
+* [Report from <span translate="no">D-Data</span>](#report-from-d-data)
 * [iOS Version Update](#ios-version-update)
 * [Help Wanted](#help-wanted)
 * [Holiday Indulgence](#holiday-indulgence)
@@ -51,7 +51,7 @@ If you submitted a letter to the FDA recently, THANK YOU and please also sign th
 
 [Adam Brown](https://adambrowntherapy.com/){:target="_blank"} is coming back! We saw him share some important mental health-related ideas at D-Data earlier this month and asked him if he would Zoom with us again so that all of our members can learn from him. It’s good stuff! You can prepare yourself by [watching our previous meeting with Adam](https://youtu.be/aLKhFBoPRh8?si=UjWJwpT3y0opzvwl&t=1){:target="_blank"}.
 
-## D-Data Download
+## Report from <span translate="no">D-Data</span>
 
 Many Loop and Learn team members attended the [DiabetesMine’s Fall 2024 Innovation Summit and d-data exChange](https://ddataexchange.com/){:target="_blank"}, organized by
 Amy Tenderich, earlier this month in San Diego. The #WeAreNotWaiting movement originated at d-data, a smaller conference that focuses on the forefront of technological diabetes innovation. Here are some selected highlights from the [full program](https://drive.google.com/file/d/126Ob1CYS2IR7eqRM1S0Xev6WI9VL9liq/view){:target="_blank"}:
