@@ -7,11 +7,15 @@ Published on 23 December 2024.
 ## In this edition:
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
+* [End of Year Updates](#end-of-the-year-updates)
+    * [ADA Standards of Care](#ada-standards-of-care)
+    * [*Dexcom* G7 Geofencing Update: Advocacy at Work](#dexcom-g7-geofencing-update-advocacy-at-work)
 * [Version Updates](#version-updates)
-* [*Dexcom* G7 Geofencing Update](#dexcom-g7-geofencing-update)
-* [*Dexcom* G7 Pairing Help](#dexcom-g7-pairing-help)
-* [*Dexcom* G7 Direct to Watch Help](#dexcom-g7-direct-to-watch-help)
-* [What is Goosenecking](#what-is-goosenecking)
+* [Subscriber Email](#subscriber-email)
+* [More *Dexcom* G7 News](#more-dexcom-g7-news)
+    * [*Dexcom* G7 Pairing Help](#dexcom-g7-pairing-help)
+    * [*Dexcom* G7 Direct to Watch Help](#dexcom-g7-direct-to-watch-help)
+    * [What is Goosenecking](#what-is-goosenecking)
 * [End of Year Checklist](#end-of-year-checklist)
 * [Where did that Bolus come from?](#where-did-that-bolus-come-from)
 * [Subscriber Email](#subscriber-email)
@@ -34,9 +38,26 @@ _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) z
 
 Need help figuring out when an event happens in your time zone? Try the [SavvyTime: UTC Converter](https://savvytime.com/converter/utc){:target="_blank"}.
 
-## Subscriber Email
+## End of the Year Updates:
 
-In an effort to make bringing the News to you easier, we are moving to a new email service. To make this and any future moves easier, please use this [form to provide your email address](https://docs.google.com/forms/d/e/1FAIpQLSeu64I0Ygauk079Q0lMhEcPq-IydPmscm2UCie6uxXfkfdmWw/viewform){:target="_blank"} to be subscribed when the move happens. 
+This year has been marked by growth, innovation, new collaborations and meaningful milestones. We are grateful to all who spend their valuable time helping make the world of OS-AID more available to those who wish to use it and are excited to highlight two significant updates to close out 2024 on a high note! 
+
+### ADA Standards of Care
+
+The American Diabetes Association (ADA) Standards of Care for 2025 recognizes Loop/ OS-AID as a viable option.
+
+This is an exciting time for Open Source! Section 7.29 of the ADA Standards of Care for 2025 recommends that providers “support and provide diabetes management advice to people with diabetes who choose to use an open-source closed-loop system.” This [article](https://diabetesjournals.org/care/article/48/Supplement_1/S146/157557/7-Diabetes-Technology-Standards-of-Care-in?searchresult=1){:target="_blank"} also outlines many other valuable and impactful standards. Providers need help in understanding and embracing OS-AID options and how they work, and you will see info on that in an upcoming newsletter.
+
+### *Dexcom* G7 Geofencing Update: Advocacy at Work
+
+This year, we helped numerous stressed-out Loopers fix this issue mid-vacation so they could keep their CGM working. It was a long haul and a lot of work by our team and others. Here’s great news... 
+
+**With the new Dexcom G7 app (v2.6.0), you can reconnect anywhere!**
+
+Please note that your initial setup of the Dexcom G7 app must be done in your home country. The first time you start the app, it verifies that the country you are in matches the country of residence in your account. This ensures you receive the resources and features approved for use in your location.
+
+Thanks to those who raised their voices, including [Stacey Simms of Diabetes Connections](https://www.youtube.com/watch?v=JQd2zpd3gaY){:target="_blank"} and [Justin Eastzer of Diabetech](https://www.youtube.com/watch?v=Feh9N5j6vXU&t=1s){:target="_blank"}, who joined our
+efforts to keep G7 usable for international travelers. Perseverance paid off!
 
 ## Version Updates
 
@@ -44,39 +65,37 @@ Loop, Trio, Loop Follow and Loop Caregiver have successfully been built to a pho
 
 Please see our [Version Updates page](https://www.loopandlearn.org/version-updates/#ios-updates){:target="_blank"} for reference.
 
-## *Dexcom* G7 Geofencing Update
+## Subscriber Email
 
-Geofencing Update: Advocacy at Work
+In an effort to make bringing the News to you easier, we are moving to a new newsletter service. To make this and any future moves easier, please use this [form to provide your email address](https://docs.google.com/forms/d/e/1FAIpQLSeu64I0Ygauk079Q0lMhEcPq-IydPmscm2UCie6uxXfkfdmWw/viewform){:target="_blank"} to be subscribed when the move happens. 
 
-Over the past 2 years, we’ve helped numerous stressed Loopers fix this issue mid-vacation so they could keep their CGM working. It was a long haul and a lot of work by our team and others. Here’s great news...  
+## More *Dexcom* G7 News
 
-With the new Dexcom G7 app (v2.6.0), you can reconnect anywhere!
+### *Dexcom* G7 Pairing Help
 
-Please note that your initial setup of the Dexcom G7 app must be done in your home country. The first time you start the app, it verifies that the country you are in matches the country of residence in your account. This ensures you receive the resources and features approved for use in your location.
+Trouble pairing your G7 sensor? 
 
-Thanks to those who raised their voices, including [Stacy Simms of Diabetes Connections](https://www.youtube.com/watch?v=JQd2zpd3gaY){:target="_blank"}, who joined our efforts to keep G7 usable for international travelers. Perseverance paid off!
+Here’s a helpful tip:
 
-## *Dexcom* G7 Pairing Help
+The sensor contains a magnet-activated switch that usually flips upon insertion. (Until then, it is in the “off” position to conserve battery.) If your sensor doesn't activate automatically, you can use the applicator, which contains a magnet, or any common magnet you have on hand to flip the switch and activate it. Just run the magnet around the perimeter of the sensor.
 
-Trouble pairing your G7 sensor? Here’s a helpful tip:
+Here's a [video on Facebook](https://www.facebook.com/reel/1279549609746788){:target="_blank"}.
 
-* When the sensor is inserted, it goes past a magnet that turns on the sensor
-* If your sensor doesn't activate automatically, you can run a magnet over it to activate a switch that, when turned off conserves battery. 
-* The applicator contains magnets or you can use any common one you have on hand.
-
-## *Dexcom* G7 Direct to Watch Help
+### *Dexcom* G7 Direct to Watch Help
 
 To aid in making Direct to Watch connections with G7, be sure to delete all previous Bluetooth:Dexcom connections on the watch itself. This is done on the watch itself by selecting watch Settings > Bluetooth and forgetting devices that begin with DXCM. If you forget the current device name, the watch will ask if you want to pair with it again.
 
 This is similar to the suggested procedure of forgetting previous Dexcom devices on the Phone, under Settings > Bluetooth.
 
-## What is Goosenecking
+### What is Goosenecking
 
-More information about the *Dexcom* G7 sensor. Thanks to [Carb Counting Mama](https://carbcountingmama.ca/){:target="_blank"} who posted this information on her [Facebook page](https://www.facebook.com/carbcountingmama/posts/pfbid02fz8Wwm6yfSj4q6bN4NXuwVnQkFN2z2QCwpetCAKPY1QgukptAMsnpuanm51rpe65l){:target="_blank"}. You can see a [photo on Reddit](https://www.reddit.com/r/dexcom/comments/11p51kh/g7_insertion_failure/?rdt=40835){:target="_blank"} if you don't use Facebook.
+“Goosenecking” refers to a G7 sensor issue where the filament wire fails to insert properly and protrudes through the small hole. This means the sensor likely won’t work correctly. Contact Dexcom to report the issue and request a replacement.
 
-"Goosenecking"
+Thanks to [Carb Counting Mama](https://carbcountingmama.ca/){:target="_blank"} for making us aware of this occasional G7 issue on her [Facebook page](https://www.facebook.com/carbcountingmama/posts/pfbid02fz8Wwm6yfSj4q6bN4NXuwVnQkFN2z2QCwpetCAKPY1QgukptAMsnpuanm51rpe65l){:target="_blank"} . Here’s a photo of what it looks like, from a post on [Reddit](https://www.reddit.com/r/dexcom/comments/11p51kh/g7_insertion_failure/?rdt=40835){:target="_blank"}.
 
-This is a term specific to the *Dexcom* G7 sensor. Upon insertion, sometimes the filament wire will not insert properly and will be poking out of the small hole on the back of the sensor. Hopefully, this never happens to you, but if it does, know that you didn't do anything to cause it to happen. Report it to *Dexcom* to get a replacement.
+Have you had this happen?
+
+Let us know in our [Facebook group](https://www.facebook.com/groups/2161109864145506){:target="_blank"}!
 
 ## End of Year Checklist
 
