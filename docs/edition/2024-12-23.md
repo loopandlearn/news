@@ -8,10 +8,10 @@ Published on 23 December 2024.
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
 * [Version Updates](#version-updates)
-* [End of Year Checklist](#end-of-year-checklist)
 * [*Dexcom* G7 Geofencing Update](#dexcom-g7-geofencing-update)
 * [*Dexcom* G7 Pairing Help](#dexcom-g7-pairing-help)
 * [What is Goosenecking](#what-is-goosenecking)
+* [End of Year Checklist](#end-of-year-checklist)
 * [Where did that Bolus come from?](#where-did-that-bolus-come-from)
 * [Subscriber Email](#subscriber-email)
 * [Helpful Links](#helpful-links)
@@ -43,6 +43,34 @@ Loop, Trio, Loop Follow and Loop Caregiver have successfully been built to a pho
 
 Please see our [Version Updates page](https://www.loopandlearn.org/version-updates/#ios-updates){:target="_blank"} for reference.
 
+## *Dexcom* G7 Geofencing Update
+
+Geofencing Update: Advocacy at Work
+
+Over the past 2 years, we’ve helped numerous stressed Loopers fix this issue mid-vacation so they could keep their CGM working. It was a long haul and a lot of work by our team and others. Here’s great news...  
+
+With the new Dexcom G7 app (v2.6.0), you can reconnect anywhere!
+
+Please note that your initial setup of the Dexcom G7 app must be done in your home country. The first time you start the app, it verifies that the country you are in matches the country of residence in your account. This ensures you receive the resources and features approved for use in your location.
+
+Thanks to those who raised their voices, including [Stacy Simms of Diabetes Connections](https://www.youtube.com/watch?v=JQd2zpd3gaY){:target="_blank"}, who joined our efforts to keep G7 usable for international travelers. Perseverance paid off!
+
+## *Dexcom* G7 Pairing Help
+
+Trouble pairing your G7 sensor? Here’s a helpful tip:
+
+* When the sensor is inserted, it goes past a magnet that turns on the sensor
+* If your sensor doesn't activate automatically, you can run a magnet over it to activate a switch that, when turned off conserves battery. 
+* The applicator contains magnets or you can use any common one you have on hand.
+
+## What is Goosenecking
+
+More information about the *Dexcom* G7 sensor. Thanks to [Carb Counting Mama](https://carbcountingmama.ca/){:target="_blank"} who posted this information on her [Facebook page](https://www.facebook.com/carbcountingmama/posts/pfbid02fz8Wwm6yfSj4q6bN4NXuwVnQkFN2z2QCwpetCAKPY1QgukptAMsnpuanm51rpe65l){:target="_blank"}. You can see a [photo on Reddit](https://www.reddit.com/r/dexcom/comments/11p51kh/g7_insertion_failure/?rdt=40835){:target="_blank"} if you don't use Facebook.
+
+"Goosenecking"
+
+This is a term specific to the *Dexcom* G7 sensor. Upon insertion, sometimes the filament wire will not insert properly and will be poking out of the small hole on the back of the sensor. Hopefully, this never happens to you, but if it does, know that you didn't do anything to cause it to happen. Report it to *Dexcom* to get a replacement.
+
 ## End of Year Checklist
 
 Many of us have a little “breathing room” during the last week of the year. Here’s a great way to still be productive during that time-
@@ -60,34 +88,6 @@ and things you’ll want to do even if you don’t find yourself with extra end 
 * GitHub users (this means you!) are now required to enable two-factor authentication (2FA) as an additional security measure before January 26, 2025 or be restricted from account actions. See this [link](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication){:target="_blank"}
 * When you have a CGM or pump failure, in addition to calling it in to the manufacturer, please report it to the FDA using this [form](https://www.accessdata.fda.gov/scripts/medwatch/index.cfm?action=reporting.home){:target="_blank"}.
     * Reporting can help make our tech more reliable and you do NOT have to be a US user to do this!
-
-## *Dexcom* G7 Geofencing Update
-
-Geofencing Update: Advocacy at Work
-
-Over the past 2 years, we’ve helped numerous stressed Loopers fix this issue mid-vacation so they could keep their CGM working. It was a long haul and a lot of work by our team and others. Here’s great news...  
-
-With the new Dexcom G7 app (v2.6.0), you can reconnect anywhere!
-
-Please note that your initial setup of the Dexcom G7 app must be done in your home country. The first time you start the app, it verifies that the country you are in matches the country of residence in your account. This ensures you receive the resources and features approved for use in your location.
-
-Thanks to those who raised their voices, including [Stacy Simms of Diabetes Connections](https://www.youtube.com/watch?v=JQd2zpd3gaY){:target="_blank"}, who joined our efforts to keep G7 usable for international travelers. Perseverance paid off!
-
-## *Dexcom* G7 Pairing Help
-
-Trouble pairing your G7 sensor? Here’s a helpful tip:
-
-* When the sensor is inserted, it goes past a battery that turns on the sensor
-* If your sensor doesn't activate automatically, you can run a magnet over it to activate a switch that, when turned off conserves battery. 
-* The applicator contains magnets or you can use any common one you have on hand.
-
-## What is Goosenecking
-
-More information about the *Dexcom* G7 sensor. Thanks to [Carb Counting Mama](https://carbcountingmama.ca/){:target="_blank"} who posted this information on her [Facebook page](https://www.facebook.com/carbcountingmama/posts/pfbid02fz8Wwm6yfSj4q6bN4NXuwVnQkFN2z2QCwpetCAKPY1QgukptAMsnpuanm51rpe65l){:target="_blank"}. You can see a [photo on Reddit](https://www.reddit.com/r/dexcom/comments/11p51kh/g7_insertion_failure/?rdt=40835){:target="_blank"} if you don't use Facebook.
-
-"Goosenecking"
-
-This is a term specific to the *Dexcom* G7 sensor. Upon insertion, sometimes the filament wire will not insert properly and will be poking out of the small hole on the back of the sensor. Hopefully, this never happens to you, but if it does, know that you didn't do anything to cause it to happen. Report it to *Dexcom* to get a replacement.
 
 ## Where did that Bolus come from?
 
