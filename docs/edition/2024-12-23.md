@@ -41,26 +41,25 @@ In an effort to make bringing the News to you easier, we are moving to a new ema
 
 Loop, Trio, Loop Follow and Loop Caregiver have successfully been built to a phone running iOS 18.2 using a Mac with macOS 15.1.1 (and macOS 14.6) and Xcode 16.1 (and Xcode 16.2).
 
-Please see our [Version Updates page](https://www.loopandlearn.org/version-updates/#ios-updates) for reference.
+Please see our [Version Updates page](https://www.loopandlearn.org/version-updates/#ios-updates){:target="_blank"} for reference.
 
 ## End of Year Checklist
 
 Many of us have a little “breathing room” during the last week of the year. Here’s a great way to still be productive during that time-
 and things you’ll want to do even if you don’t find yourself with extra end of year time.
 
-* Be sure you are using [Loop 3.4.4](https://www.loopandlearn.org/version-updates/#loop-updates) instead of an earlier version.
-* Former Loop-dev users who have moved back to Loop-main should [remove Loop-dev from TestFlight](https://loopkit.github.io/loopdocs/browser/build-dev-browser/#what-happens-in-testflight). This should include all Loop users who are not actively testing developments in the dev branch at this time.
-* Make sure you have an up-to-date [Apple Developer agreement](https://developer.apple.com/account) and have your account set to auto-renew, with a credit card on file, if possible.
-* Declare [non-trader status](https://loopkit.github.io/loopdocs/browser/prepare-app/#digital-service-act-compliance).
-* Check your phone to see when you’ll need to rebuild (if you build with a Mac) or reinstall from TestFlight (if you use Browser Build) and put reminder(s) on your calendar.
-* Put [Open Mics](#upcoming-zoom-sessions) on the calendar for 2nd Thursdays and join us!
+* Be sure you are using [Loop 3.4.4](https://www.loopandlearn.org/version-updates/#loop-updates){:target="_blank"} instead of an earlier version.
+* Former Loop-dev users who have moved back to Loop-main should [remove Loop-dev from TestFlight](https://loopkit.github.io/loopdocs/browser/build-dev-browser/#what-happens-in-testflight){:target="_blank"}. This should include all Loop users who are not actively testing developments in the dev branch at this time.
+* Make sure you have an up-to-date [Apple Developer agreement](https://developer.apple.com/account){:target="_blank"} and have your account set to auto-renew, with a credit card on file, if possible.
+* Declare [non-trader status](https://loopkit.github.io/loopdocs/browser/prepare-app/#digital-service-act-compliance){:target="_blank"}.
+* Check your app (bottom of the *Loop* Settings screen) to see when you’ll need to rebuild (if you build with a Mac) or reinstall from TestFlight (if you use Browser Build) and put reminder(s) on your calendar.
+* Put [Open Mics](#upcoming-zoom-sessions){:target="_blank"} on the calendar for 2nd Thursdays and join us!
 * Subscribe to have this newsletter delivered to your inbox (if you haven't already done so, use the new google form to add your name for when we change newsletter services).
     * [Add your email address for newsletter](https://docs.google.com/forms/d/e/1FAIpQLSeu64I0Ygauk079Q0lMhEcPq-IydPmscm2UCie6uxXfkfdmWw/viewform){:target="_blank"}
-* [*Dexcom* G7 users should update to v2.6 of the *Dexcom* app](https://www.loopandlearn.org/g7-geofence/).
-* GitHub users (this means you!) are now required to enable two-factor authentication (2FA) as an additional security measure before January 26, 2025 or be restricted from account actions. See this [link](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication)
-* When you have a CGM or pump failure, in addition to calling it in to the manufacturer, please report it to the FDA using this [form](https://www.accessdata.fda.gov/scripts/medwatch/index.cfm?action=reporting.home).
+* [*Dexcom* G7 users should update to v2.6 of the *Dexcom* app](https://www.loopandlearn.org/g7-geofence/){:target="_blank"}.
+* GitHub users (this means you!) are now required to enable two-factor authentication (2FA) as an additional security measure before January 26, 2025 or be restricted from account actions. See this [link](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication){:target="_blank"}
+* When you have a CGM or pump failure, in addition to calling it in to the manufacturer, please report it to the FDA using this [form](https://www.accessdata.fda.gov/scripts/medwatch/index.cfm?action=reporting.home){:target="_blank"}.
     * Reporting can help make our tech more reliable and you do NOT have to be a US user to do this!
-
 
 ## *Dexcom* G7 Geofencing Update
 
@@ -72,23 +71,23 @@ With the new Dexcom G7 app (v2.6.0), you can reconnect anywhere!
 
 Please note that your initial setup of the Dexcom G7 app must be done in your home country. The first time you start the app, it verifies that the country you are in matches the country of residence in your account. This ensures you receive the resources and features approved for use in your location.
 
-Thanks to those who raised their voices, including [Stacy Simms of Diabetes Connections](https://www.youtube.com/watch?v=JQd2zpd3gaY), who joined our efforts to keep G7 usable for international.
+Thanks to those who raised their voices, including [Stacy Simms of Diabetes Connections](https://www.youtube.com/watch?v=JQd2zpd3gaY){:target="_blank"}, who joined our efforts to keep G7 usable for international travelers. Perseverance paid off!
 
 ## *Dexcom* G7 Pairing Help
 
 Trouble pairing your G7 sensor? Here’s a helpful tip:
 
-* When the sensor is inserted, it goes past a battery the turns on the sensor
+* When the sensor is inserted, it goes past a battery that turns on the sensor
 * If your sensor doesn't activate automatically, you can run a magnet over it to activate a switch that, when turned off conserves battery. 
 * The applicator contains magnets or you can use any common one you have on hand.
 
 ## What is Goosenecking
 
-More information about the *Dexcom* G7 sensor. Thanks to [Carb Counting Mama](https://carbcountingmama.ca/) who posted this information on her [Facebook page](https://www.facebook.com/carbcountingmama/posts/pfbid02fz8Wwm6yfSj4q6bN4NXuwVnQkFN2z2QCwpetCAKPY1QgukptAMsnpuanm51rpe65l). You can see a [photo on Reddit](https://www.reddit.com/r/dexcom/comments/11p51kh/g7_insertion_failure/?rdt=40835) if you don't use Facebook.
+More information about the *Dexcom* G7 sensor. Thanks to [Carb Counting Mama](https://carbcountingmama.ca/){:target="_blank"} who posted this information on her [Facebook page](https://www.facebook.com/carbcountingmama/posts/pfbid02fz8Wwm6yfSj4q6bN4NXuwVnQkFN2z2QCwpetCAKPY1QgukptAMsnpuanm51rpe65l){:target="_blank"}. You can see a [photo on Reddit](https://www.reddit.com/r/dexcom/comments/11p51kh/g7_insertion_failure/?rdt=40835){:target="_blank"} if you don't use Facebook.
 
 "Goosenecking"
 
-This is a term specific to the *Dexcom* G7 sensor. Upon insertion, sometimes the filament wire will not insert properly and will be showing in the small hole on the sensor. Hopefully, this never happens to you, but if it does, know that you didn't do anything to cause it to happen. Report it to *Dexcom* to get a replacement.
+This is a term specific to the *Dexcom* G7 sensor. Upon insertion, sometimes the filament wire will not insert properly and will be showing poking out in the small hole on the sensor. Hopefully, this never happens to you, but if it does, know that you didn't do anything to cause it to happen. Report it to *Dexcom* to get a replacement.
 
 ## Where did that Bolus come from?
 
