@@ -10,6 +10,7 @@ Published on 23 December 2024.
 * [Version Updates](#version-updates)
 * [*Dexcom* G7 Geofencing Update](#dexcom-g7-geofencing-update)
 * [*Dexcom* G7 Pairing Help](#dexcom-g7-pairing-help)
+* [*Dexcom* G7 Direct to Watch Help](#dexcom-g7-direct-to-watch-help)
 * [What is Goosenecking](#what-is-goosenecking)
 * [End of Year Checklist](#end-of-year-checklist)
 * [Where did that Bolus come from?](#where-did-that-bolus-come-from)
@@ -62,6 +63,12 @@ Trouble pairing your G7 sensor? Here’s a helpful tip:
 * When the sensor is inserted, it goes past a magnet that turns on the sensor
 * If your sensor doesn't activate automatically, you can run a magnet over it to activate a switch that, when turned off conserves battery. 
 * The applicator contains magnets or you can use any common one you have on hand.
+
+## *Dexcom* G7 Direct to Watch Help
+
+To aid in making Direct to Watch connections with G7, be sure to delete all previous Bluetooth:Dexcom connections on the watch itself. This is done on the watch itself by selecting watch Settings > Bluetooth and forgetting devices that begin with DXCM. If you forget the current device name, the watch will ask if you want to pair with it again.
+
+This is similar to the suggested procedure of forgetting previous Dexcom devices on the Phone, under Settings > Bluetooth.
 
 ## What is Goosenecking
 
