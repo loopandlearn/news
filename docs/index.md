@@ -87,7 +87,7 @@ More information about the *Dexcom* G7 sensor. Thanks to [Carb Counting Mama](ht
 
 "Goosenecking"
 
-This is a term specific to the *Dexcom* G7 sensor. Upon insertion, sometimes the filament wire will not insert properly and will be showing poking out in the small hole on the sensor. Hopefully, this never happens to you, but if it does, know that you didn't do anything to cause it to happen. Report it to *Dexcom* to get a replacement.
+This is a term specific to the *Dexcom* G7 sensor. Upon insertion, sometimes the filament wire will not insert properly and will be poking out of the small hole on the back of the sensor. Hopefully, this never happens to you, but if it does, know that you didn't do anything to cause it to happen. Report it to *Dexcom* to get a replacement.
 
 ## Where did that Bolus come from?
 
