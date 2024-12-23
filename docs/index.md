@@ -51,7 +51,7 @@ and things you’ll want to do even if you don’t find yourself with extra end 
 * Be sure you are using [Loop 3.4.4](https://www.loopandlearn.org/version-updates/#loop-updates){:target="_blank"} instead of an earlier version.
 * Former Loop-dev users who have moved back to Loop-main should [remove Loop-dev from TestFlight](https://loopkit.github.io/loopdocs/browser/build-dev-browser/#what-happens-in-testflight){:target="_blank"}. This should include all Loop users who are not actively testing developments in the dev branch at this time.
 * Make sure you have an up-to-date [Apple Developer agreement](https://developer.apple.com/account){:target="_blank"} and have your account set to auto-renew, with a credit card on file, if possible.
-* Declare [non-trader status](https://loopkit.github.io/loopdocs/browser/prepare-app/#digital-service-act-compliance){:target="_blank"}.
+    * Follow these instructions to declare [non-trader status](https://loopkit.github.io/loopdocs/browser/prepare-app/#digital-service-act-compliance){:target="_blank"} at Apple to comply with the Digital Service Act.
 * Check your app (bottom of the *Loop* Settings screen) to see when you’ll need to rebuild (if you build with a Mac) or reinstall from TestFlight (if you use Browser Build) and put reminder(s) on your calendar.
 * Put [Open Mics](#upcoming-zoom-sessions){:target="_blank"} on the calendar for 2nd Thursdays and join us!
 * Subscribe to have this newsletter delivered to your inbox (if you haven't already done so, use the new google form to add your name for when we change newsletter services).
