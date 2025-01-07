@@ -77,11 +77,13 @@ on FB with a short description and ask for help. Most issues can be resolved in 
 
 ## Extreme Weather Tips
 
-The season’s changing! Some of us are headed into [winter fun](https://www.loopandlearn.org/winter-sports/){:target="_blank"}, while others are ready for [fun in the sun](https://www.loopandlearn.org/summer-shenanigans/){:target="_blank"}. Here are helpful tips no matter which way you’re headed.
+The seasons are changing! Some of us are headed into [winter fun](https://www.loopandlearn.org/winter-sports/){:target="_blank"}, while others are ready for [fun in the sun](https://www.loopandlearn.org/summer-shenanigans/){:target="_blank"}. Here are helpful tips no matter which way you’re headed.
 
 ## Happy New Year
 
-A  few members of the Loop and Learn admin and editing team got together on Zoom to celebrate another year of working together to make Open Source Automated Insulin Delivery (OS-AID) easier to use and more accessible to the community at large. What a special thing we have here- all of us- and we are glad you’re a part of it! We always love seeing more people helping other loopers, so don’t be shy- and if you have questions about doing such, feel free to “grab” on of us and ask away!
+A  few members of the Loop and Learn admin and editing team got together on Zoom to celebrate another year of working together to make Open-Source Automated Insulin Delivery (OS-AID) easier to use and more accessible to the community at large. What a special thing we have here- all of us- and we are glad you’re a part of it!
+
+We love seeing people helping other loopers on Facebook. Don't be shy when you see a question you can answer.
 
 ## Helpful Links
 
