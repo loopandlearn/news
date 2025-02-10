@@ -8,8 +8,8 @@ Published on 10 February 2025.
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
 * [Feb 17 Deadline for Digital Services Act Compliance](#feb-17-deadline-for-digital-services-act-compliance)
-* [_<span translate="no">LoopFollow</span>_ News](#loopfollow-news)
-    * [More on Bluetooth Heartbeat](#more-on-bluetooth-heartbeat)
+* [_<span translate="no">LoopFollow</span>_&nbsp;News](#loopfollownews)
+    * [More on Bluetooth `Heartbeat`](#more-on-bluetooth-heartbeat)
 * [Troubleshooting Remote Commands](#troubleshooting-remote-commands)
 * [Circulating Insulin](#circulating-insulin)
 * [In the News](#in-the-news)
@@ -45,7 +45,7 @@ If you see a message about the Digital Services Act Compliance in your Apple Dev
 Nearly all of us are building apps only for ourselves and family members, and we are not Traders. If you mistakenly click on the blue box (which is for those offering paid apps or in-app paid purchases), DO NOT provide tax ID information and back out of that
 screen if you can. If you can not, contact Apple for support.
 
-## _<span translate="no">LoopFollow</span>_ News
+## _<span translate="no">LoopFollow</span>_&nbsp;News
 
 **LoopFollow v2.2.9 is here!**
 
