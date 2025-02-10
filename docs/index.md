@@ -51,8 +51,8 @@ screen if you can. If you can not, contact Apple for support.
 
 Here are some highlights:
 
-* **Loop Overrides:** You can now easily set and cancel Loop Overrides using _<span translate="no">LoopFollow</span>_. (Note: This feature requires a token with admin access to Nightscout.)
-* **Bluetooth Heartbeat:** This is a new option to keep the app active in the background. Options were added to select a recently expired Dexcom- or RileyLink- compatible device to maintain activity for users where the _<span translate="no">Silent Tune</span>_ option is either unreliable or drains too much battery. More on this below.
+* **<span translate="no">Loop Overrides</span>:** You can now easily set and cancel Overrides for the *Loop* app using&nbsp;_<span translate="no">LoopFollow</span>_. (Note: This feature requires a token with admin access to Nightscout.)
+* **Bluetooth Heartbeat:** This is a new option to keep the app active in the background. Options were added to select a recently expired Dexcom- or RileyLink- compatible device to maintain activity for users where the&nbsp;_<span translate="no">Silent Tune</span>_&nbsp;option is either unreliable or drains too much battery. More on this below.
 * **Alarm Improvement:** The Rec. Bolus Alarm will no longer repeat when set not to. Previously, the alarm would continue playing for a recommended bolus even when Repeat was turned off.
 * **Notification Bug Fix:** Delta strings now display with the correct ± sign. The missing + sign for delta values in notifications has been restored.
 
@@ -60,19 +60,19 @@ The whole list of updates for this version can be found on the [releases page](h
 
 Documentation has been updated. Please ask in the comments of this [post in the LoopFollow FB group](https://www.facebook.com/groups/1281905676265126/posts/1305687503886943/){:target="_blank"} if anything is unclear.
 
-### More on Bluetooth Heartbeat
+### More on Bluetooth `Heartbeat`
 
-LoopFollow’s new Bluetooth-driven heartbeat offers a battery-efficient alternative to the _<span translate="no">Silent Tune</span>_ and works with RileyLink, OrangeLink, EmaLink, or a recently expired Dexcom G6/ONE/G7/ONE+ devices. While the _<span translate="no">Silent Tune</span>_ is generally reliable, some other activities on the phone can interrupt the process and cause *LoopFollow* to stop working in the background. (For example, playing games or using the Timer have been reported to interrupt *LoopFollow*.) If you experience battery drain or are missing alarms, consider switching to Bluetooth (you do have to carry this extra device with you).
+The new Bluetooth-driven `heartbeat` provides a battery-efficient alternative to the&nbsp;_<span translate="no">Silent Tune</span>_&nbsp;option often used to ensure the *LoopFollow* app continues working in the background or when the phone is locked. The new `Background Refresh` option is compatible with RileyLink, OrangeLink, EmaLink, or a recently expired Dexcom G6/ONE/G7/ONE+ device. While&nbsp;_<span translate="no">Silent Tune</span>_&nbsp;is generally reliable, certain phone activities, such as playing games or using the Timer, can interrupt its process, causing the *LoopFollow* app to stop running in the background.
 
-The connected Bluetooth device will update at 5 minute intervals (*Dexcom* devices) or 1-minute intervals (*RileyLink* devices) to wake your *LoopFollow* app to be sure desired alerts and alarms are provided.
+If you experience battery drain or missed alarms, switching to Bluetooth may help. However, this requires carrying an additional device. The connected Bluetooth device will update at 5-minute intervals (for *Dexcom* devices) or 1-minute intervals (for *RileyLink* devices) to wake the *LoopFollow* app and ensure alerts and alarms function properly.
 
-If you use LoopFollow on your Looping phone for the features offered, you can connect to your own Dexcom device and don't need to use an additional expired device.
+Those using the *LoopFollow* app on their *Looping* phone can connect directly to your own Dexcom device without needing an additional one.
 
 This update also improves failure notifications, now alerting you at 6, 12, and 18 minutes if updates stop. 
 
 Instructions on how to add this feature can be found [at this link](https://www.loopandlearn.org/loop-follow#bt-heartbeat){:target="_blank"}. 
 
-For background on the using _<span translate="no">Silent Tune</span>_ compared to a Bluetooth device, please see this [post on Facebook](https://www.facebook.com/groups/1281905676265126/posts/1305999973855696/){:target="_blank"}.
+For background on the using&nbsp;_<span translate="no">Silent Tune</span>_&nbsp;compared to a Bluetooth device, please see this [post on Facebook](https://www.facebook.com/groups/1281905676265126/posts/1305999973855696/){:target="_blank"}.
 
 ## Troubleshooting Remote Commands
 
@@ -123,16 +123,17 @@ CBS News Healthwatch recently posted an article titled, “Schools aren't as plu
 
 ## Subscriber Email
 
-In an effort to make bringing the News to you easier, we are moving to a new newsletter service. To make this and any future moves easier, please use this [form to provide your email address](https://docs.google.com/forms/d/e/1FAIpQLSeu64I0Ygauk079Q0lMhEcPq-IydPmscm2UCie6uxXfkfdmWw/viewform){:target="_blank"} to be subscribed when the move happens. 
+We are moving to an improved newsletter service. To continue your newsletter subscription when the move happens, please use this [form to provide your email address](https://docs.google.com/forms/d/e/1FAIpQLSeu64I0Ygauk079Q0lMhEcPq-IydPmscm2UCie6uxXfkfdmWw/viewform){:target="_blank"}. 
 
 ## Helpful Links
 
-* Subscribe to get the Newsletter delivered to your email weekly.
-    * This is the old way to subscribe (it still works but when we change vendors, we cannot take your email with us). So please sign up with the Google form too.
-        * [Subscribe](https://www.loopandlearn.org/newsletter-signup/){:target="_blank"} 
-    * Please use this new Google Form to add your email
-        * [Google Form for Newsletter sign up](https://docs.google.com/forms/d/e/1FAIpQLSeu64I0Ygauk079Q0lMhEcPq-IydPmscm2UCie6uxXfkfdmWw/viewform){:target="_blank"} 
-    * Not all articles in the original Newsletter are reproduced in this text only edition; click on [original Newsletter archives](https://www.loopandlearn.org/loop-and-learn-newsletter/){:target="_blank"} for the full version
+* Newsletter Subscription
+    * We cannot take your email subscription with us when we move to a new service
+    * Until we make the move, you need to be signed up in both places
+    * If you are getting the emails, you are already subscribed to the current service):
+        * [Current Service Sign-up](https://www.loopandlearn.org/newsletter-signup/){:target="_blank"} 
+        * [Future Service Sign-up: Google Form for Newsletter sign up](https://docs.google.com/forms/d/e/1FAIpQLSeu64I0Ygauk079Q0lMhEcPq-IydPmscm2UCie6uxXfkfdmWw/viewform){:target="_blank"} 
+* Not all articles in the original Newsletter are reproduced in this text only edition; click on [original Newsletter archives](https://www.loopandlearn.org/loop-and-learn-newsletter/){:target="_blank"} for the full version
     * In particular, articles about recent posts in Facebook are not transcribed to the text-only version
 * [Check for Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"} summarizes details about latest versions for Loop, Trio, Loop Customizations and iOS
 * [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/){:target="_blank"}
