@@ -8,7 +8,7 @@ Published on 10 February 2025.
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
 * [Feb 17 Deadline for Digital Services Act Compliance](#feb-17-deadline-for-digital-services-act-compliance)
-* [_<span translate="no">LoopFollow</span>_&nbsp;News](#loopfollownews)
+* [_<span translate="no">LoopFollow</span>_&nbsp;News](#loopfollow-news)
     * [More on Bluetooth `Heartbeat`](#more-on-bluetooth-heartbeat)
 * [Troubleshooting Remote Commands](#troubleshooting-remote-commands)
 * [Circulating Insulin](#circulating-insulin)
