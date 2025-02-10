@@ -7,8 +7,8 @@ Published on 10 February 2025.
 ## In this edition:
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
-* [Feb 17 Deadline for EU Digital Services Act Compliance](#feb-17-deadline-for-eu-digital-services-act-compliance)
-* [LoopFollow News](#loopfollow-news)
+* [Feb 17 Deadline for Digital Services Act Compliance](#feb-17-deadline-for-digital-services-act-compliance)
+* [_<span translate="no">LoopFollow</span>_ News](#loopfollow-news)
     * [More on Bluetooth Heartbeat](#more-on-bluetooth-heartbeat)
 * [Troubleshooting Remote Commands](#troubleshooting-remote-commands)
 * [Circulating Insulin](#circulating-insulin)
@@ -36,35 +36,43 @@ _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) z
 
 Need help figuring out when an event happens in your time zone? Try the [SavvyTime: UTC Converter](https://savvytime.com/converter/utc){:target="_blank"}.
 
-## Feb 17 Deadline for EU Digital Services Act Compliance
+## Feb 17 Deadline for Digital Services Act Compliance
 
-If you see a message about the EU Digital Services Act Compliance in your Apple Developer account, please follow these [LoopDocs directions](https://loopkit.github.io/loopdocs/browser/prepare-app/#digital-service-act-compliance){:target="_blank"}. (It does not matter what app you are building, you still need to do this.)
+**This message is for anyone who uses Browser Build method for any of their apps.**
+
+If you see a message about the Digital Services Act Compliance in your Apple Developer account, please follow these [LoopDocs directions](https://loopkit.github.io/loopdocs/browser/prepare-app/#digital-service-act-compliance){:target="_blank"}. (This needs to be completed regardless of which app you are building.)
 
 Nearly all of us are building apps only for ourselves and family members, and we are not Traders. If you mistakenly click on the blue box (which is for those offering paid apps or in-app paid purchases), DO NOT provide tax ID information and back out of that
 screen if you can. If you can not, contact Apple for support.
 
-## LoopFollow News
+## _<span translate="no">LoopFollow</span>_ News
 
 **LoopFollow v2.2.9 is here!**
 
 Here are some highlights:
 
-* **Loop Overrides:** You can now easily set and cancel Loop Overrides using LoopFollow. (Note: This feature requires a token with admin access to Nightscout.)
-* **Bluetooth Heartbeat:** This is a new option to keep the app active in the background. Options were added to select a recently expired Dexcom- or RileyLink- compatible device to maintain activity for users where the silent tune option is either unreliable or drains too much battery. More on this below.
+* **Loop Overrides:** You can now easily set and cancel Loop Overrides using _<span translate="no">LoopFollow</span>_. (Note: This feature requires a token with admin access to Nightscout.)
+* **Bluetooth Heartbeat:** This is a new option to keep the app active in the background. Options were added to select a recently expired Dexcom- or RileyLink- compatible device to maintain activity for users where the _<span translate="no">Silent Tune</span>_ option is either unreliable or drains too much battery. More on this below.
 * **Alarm Improvement:** The Rec. Bolus Alarm will no longer repeat when set not to. Previously, the alarm would continue playing for a recommended bolus even when Repeat was turned off.
 * **Notification Bug Fix:** Delta strings now display with the correct ± sign. The missing + sign for delta values in notifications has been restored.
 
 The whole list of updates for this version can be found on the [releases page](https://github.com/loopandlearn/LoopFollow/releases/tag/v2.2.9){:target="_blank"}.
 
-Documentation has been updated. But please ask in the comments of this [post in the LoopFollow FB group](https://www.facebook.com/groups/1281905676265126/posts/1305687503886943/){:target="_blank"} if anything is unclear.
+Documentation has been updated. Please ask in the comments of this [post in the LoopFollow FB group](https://www.facebook.com/groups/1281905676265126/posts/1305687503886943/){:target="_blank"} if anything is unclear.
 
 ### More on Bluetooth Heartbeat
 
-LoopFollow’s new Bluetooth-driven heartbeat offers a battery-efficient alternative to the silent tune and works with RileyLink, OrangeLink, EmaLink, and Dexcom G6/ONE/G7/ONE+ devices. While the silent tune is generally reliable, interruptions can cause LoopFollow to stop. If you experience battery drain or issues, consider switching to Bluetooth (requires a constant connection).
+LoopFollow’s new Bluetooth-driven heartbeat offers a battery-efficient alternative to the _<span translate="no">Silent Tune</span>_ and works with RileyLink, OrangeLink, EmaLink, or a recently expired Dexcom G6/ONE/G7/ONE+ devices. While the _<span translate="no">Silent Tune</span>_ is generally reliable, some other activities on the phone can interrupt the process and cause *LoopFollow* to stop working in the background. (For example, playing games or using the Timer have been reported to interrupt *LoopFollow*.) If you experience battery drain or are missing alarms, consider switching to Bluetooth (you do have to carry this extra device with you).
 
-Dexcom users can keep LoopFollow active with a live device or even an expired G6 transmitter or G7 sensor, which may provide a heartbeat for weeks. Data fetch rates vary: every 5 minutes with Dexcom and every minute with RileyLink. Background updates may be delayed, but opening the app immediately resumes data fetching. If you use LoopFollow on your Looping phone for the features offered, you can connect to your own Dexcom device and don't need to use an additional expired device.
+The connected Bluetooth device will update at 5 minute intervals (*Dexcom* devices) or 1-minute intervals (*RileyLink* devices) to wake your *LoopFollow* app to be sure desired alerts and alarms are provided.
 
-This update also improves failure notifications, now alerting you at 6, 12, and 18 minutes if updates stop. Instructions on how to add this feature can be found [here](https://www.loopandlearn.org/loop-follow/#bt-heartbeat){:target="_blank"}. For background on the silent tune, please see this [post on Facebook](https://www.facebook.com/groups/1281905676265126/posts/1305999973855696/){:target="_blank"}.
+If you use LoopFollow on your Looping phone for the features offered, you can connect to your own Dexcom device and don't need to use an additional expired device.
+
+This update also improves failure notifications, now alerting you at 6, 12, and 18 minutes if updates stop. 
+
+Instructions on how to add this feature can be found [at this link](https://www.loopandlearn.org/loop-follow#bt-heartbeat){:target="_blank"}. 
+
+For background on the using _<span translate="no">Silent Tune</span>_ compared to a Bluetooth device, please see this [post on Facebook](https://www.facebook.com/groups/1281905676265126/posts/1305999973855696/){:target="_blank"}.
 
 ## Troubleshooting Remote Commands
 
@@ -87,6 +95,8 @@ The following are known to decrease the likelihood of success:
 Do you have troubleshooting tips? Please put in the comments of this [FaceBook post](https://www.facebook.com/groups/LOOPandLEARN/posts/3931563953766746/){:target="_blank"}.
 
 ## Circulating Insulin
+
+The body’s response to insulin can vary due to factors like exercise, stress, illness, diet. and many others. Monitoring insulin levels helps prevent unexpected crashes or spikes.
 
 Ideally, basal rates match your metabolic needs to keep blood glucose steady, but diabetes is not ideal. Loop's Insulin on Board (IOB) shows the difference between delivered insulin and your set basal rate. Knowing circulating insulin can be helpful—when Loop shows zero IOB, basal insulin is still active. Loop’s exponential model factor varies by  insulin type (2.23 for Novolog, 1.85 for Fiasp), but individual response matters most. So, use these numbers with caution.
 
