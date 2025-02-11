@@ -130,7 +130,7 @@ We are moving to an improved newsletter service. To continue your newsletter sub
 * Newsletter Subscription
     * We cannot take your email subscription with us when we move to a new service
     * Until we make the move, you need to be signed up in both places
-    * If you are getting the emails, you are already subscribed to the current service):
+    * If you are getting the emails, you are already subscribed to the current service:
         * [Current Service Sign-up](https://www.loopandlearn.org/newsletter-signup/){:target="_blank"} 
         * [Future Service Sign-up: Google Form for Newsletter sign up](https://docs.google.com/forms/d/e/1FAIpQLSeu64I0Ygauk079Q0lMhEcPq-IydPmscm2UCie6uxXfkfdmWw/viewform){:target="_blank"} 
 * Not all articles in the original Newsletter are reproduced in this text only edition; click on [original Newsletter archives](https://www.loopandlearn.org/loop-and-learn-newsletter/){:target="_blank"} for the full version
