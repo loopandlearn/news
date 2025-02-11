@@ -96,7 +96,7 @@ Do you have troubleshooting tips? Please put in the comments of this [FaceBook p
 
 ## Circulating Insulin
 
-The body’s response to insulin can vary due to factors like exercise, stress, illness, diet. and many others. Monitoring insulin levels helps prevent unexpected crashes or spikes.
+The body’s response to insulin can vary due to factors like exercise, stress, illness, diet and many others. Monitoring insulin levels helps prevent unexpected crashes or spikes.
 
 Ideally, basal rates match your metabolic needs to keep blood glucose steady, but diabetes is not ideal. Loop's Insulin on Board (IOB) shows the difference between delivered insulin and your set basal rate. Knowing circulating insulin can be helpful—when Loop shows zero IOB, basal insulin is still active. Loop’s exponential model factor varies by  insulin type (2.23 for Novolog, 1.85 for Fiasp), but individual response matters most. So, use these numbers with caution.
 
