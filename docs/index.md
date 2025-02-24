@@ -43,15 +43,15 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 iOS 18.3.1 has been tested and given the thumbs up by our team. Please see [Version Updates](https://www.loopandlearn.org/version-updates/#ios-updates){:target="_blank"}.
 
-If you have not updated your phone to iOS 18 yet, we recommend that you at least update to iOS 17.7.2 to get the latest security patches.
+If you have not updated your phone to iOS 18 yet, we recommend that you at least update to iOS 17.7.2 to get the latest security patches, if possible.
 
-It is unusual for the Loop developers to support four different iOS Historically, the Loop developers tried to maintain support for the current and one-level-earlier iOS. Be prepared for your iOS 15 and 16 devices to no longer be supported in future releases. We recommend you update to a phone that can support iOS 17 and 18.
+It is unusual for the *Loop* developers to support four different iOS Historically, the Loop developers tried to maintain support for the current and one-level-earlier iOS. Be prepared for your iOS 15 and 16 devices to no longer be supported in future releases. We recommend you update to a phone that can support iOS 17 and 18.
 
 These apps currently have these minimum requirements:
 
-* Loop: iOS 15
-* Trio 0.2.3: iOS 16
-* Trio (closed beta - coming soon): iOS 17
+* `Loop 3.4.4`: iOS 15
+* Trio 0.2.3 - released: iOS 16
+* Trio 0.1.0 - coming soon: iOS 17
 * LoopFollow: iOS 15.6
 * LoopCaregiver: iOS 16
 
