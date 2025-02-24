@@ -59,7 +59,7 @@ If you're still using an iPhone X or earlier, please look for a new device. Get 
 
 ## `LoopFollow` News
 
-Do you insert your G7 sensor to allow it to stabilize while still using the previous sensor? Do you worry that the new sensor might not start the way it's supposed to? It has happened to people - which is why the [magnet trick has been discussed](https://loopandlearn.github.io/news/edition/2024-12-23/#dexcom-g7-pairing-help){:target="_blank"}.
+Do you insert your G7 sensor early to allow it to stabilize while still using the previous sensor? Do you worry that the new sensor might not start the way it's supposed to? It has happened to people - which is why the [magnet trick has been discussed](https://loopandlearn.github.io/news/edition/2024-12-23/#dexcom-g7-pairing-help){:target="_blank"}.
 
 With the *LoopFollow* app, v2.2.9 or later, it’s very easy to check if a G7 sensor wakes up upon insertion. In *LoopFollow*, choose Settings -> Background Refresh Settings -> Dexcom. This will show any new Dexcom device within a few minutes after insertion. This can be useful to confirm  the newly inserted G7 is active and doesn’t require the magnet trick.
 
