@@ -79,7 +79,12 @@ The Associated Press [recently reported](https://apnews.com/article/diabetes-sma
 
 ## How To Choose Open-Source Technology for Diabetes Management
 
-Open-source (OS) technology has opened new doors for diabetes management, offering innovative, customizable, and cost-effective solutions. Open-source automated insulin delivery (OS-AID) systems empower people with diabetes to take more control over their care and attain better outcomes. However, adopting a new OS-AID solution requires careful evaluation to ensure safety, reliability, and long-term usability. With increasing numbers of options, how do you choose?
+Several good commercial automated insulin delivery (AID) systems are available, but many people opt for open-source (OS) systems for the added control and flexibility. Here are some things to consider when making that choice.
+
+* Open-source (OS) technology has opened new doors for diabetes management, offering innovative, customizable, and cost-effective solutions. 
+* Open-source automated insulin delivery (OS-AID) systems empower people with diabetes to take more control over their care and attain better outcomes. 
+* Adopting a new OS-AID solution requires careful evaluation to ensure safety, reliability, and long-term usability
+* With increasing numbers of options, how do you choose?
 
 When considering an OS-AID technology, assessing its reliability and accuracy is essential. Diabetes management relies on precise and consistent data, so any tool must be rigorously tested. Seek out and critically evaluate peer reviews and community feedback that validate its accuracy in tracking blood glucose levels, insulin dosing, and other key metrics.
 
