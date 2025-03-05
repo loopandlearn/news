@@ -1,6 +1,6 @@
 ## Welcome to News from&nbsp;_<span translate="no">Loop and Learn</span>_
 
-_Master Your DIY Closed-Loop Insulin Delivery System_
+_Master Your DIY `Closed-Loop` Insulin Delivery System_
 
 Published on 04 March 2025.
 
@@ -50,10 +50,10 @@ It is known that using pods to `loop` does increase the drain on pod batteries, 
 
 If you get an 0x31 fault or if you wonder about Eros faults, you can request the Loop Report be evaluated (ask on Facebook and a mentor will help you.)
 
-* Only the Loop Report matters for a pod fault: (Loop,
+* Only the `Loop Report` matters for a pod fault: (`Loop`,
 Settings, Issue Report)
 * The critical log is not needed
-* If anyone has a 0x31 (decimal 049), we definitely want to know and wants the Loop Report
+* If anyone has a 0x31 (decimal 049), we definitely want to know and wants the `Loop Report`
 
 ## Encouragement for Browser Building
 
