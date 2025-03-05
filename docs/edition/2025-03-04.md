@@ -48,7 +48,7 @@ It is known that using pods to `loop` does increase the drain on pod batteries, 
 * If it’s an Eros pod, it may be related to having a lot of RileyLink failures - which can lead to excess battery drain on the pod.
 * If it’s a DASH pod, there’s nothing we can do. 
 
-If you get an 0x31 fault or if you wonder about Eros faults, you can request the Loop Report be evaluated (ask on Facebook and a mentor will help you.)
+If you get an 0x31 fault or if you wonder about Eros faults, you can request the `Loop Report` be evaluated (ask on Facebook and a mentor will help you.)
 
 * Only the `Loop Report` matters for a pod fault: (`Loop`,
 Settings, Issue Report)
