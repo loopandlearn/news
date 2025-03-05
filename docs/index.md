@@ -2,19 +2,17 @@
 
 _Master Your DIY Closed-Loop Insulin Delivery System_
 
-Published on 24 February 2025.
+Published on 04 March 2025.
 
 ## In this edition:
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
-* [iOS Version Update and Recommendation](#ios-version-update-and-recommendation)
-* [`LoopFollow` News](#loopfollow-news)
-* [Connectivity Issues with *Dexcom G7*](#connectivity-issues-with-dexcom-g7)
-* [Tech Tips](#tech-tips)
-    * [Preserve Omnipod Battery During Travel](#preserve-omnipod-battery-during-travel)
-    * [Medtronic Pump Pressure Issues](#medtronic-pump-pressure-issues)
-    * [A Look at LoopDocs](#a-look-at-loopdocs)
-* [Spread the News](#spread-the-news)
+* [Pod Faults](#pod-faults)
+* [Encouragement for Browser Building](#encouragement-for-browser-building)
+* [Swollen Batteries](#swollen-batteries)
+* [Alerts Alert: Make Sure You Get Them](#alerts-alert-make-sure-you-get-them)
+* [How To Choose Open-Source Technology for Diabetes Management](#how-to-choose-open-source-technology-for-diabetes-management)
+* [What is Goat Simulator?](#what-is-goat-simulator)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -39,55 +37,79 @@ March is tricky: Some folks switch to Daylight Savings Time March 9, others swit
 
 Need help figuring out when an event happens in your time zone? Try the [SavvyTime: UTC Converter](https://savvytime.com/converter/utc){:target="_blank"}.
 
-## iOS Version Update and Recommendation
+## Pod Faults
 
-iOS 18.3.1 has been tested and given the thumbs up by our team. Please see [Version Updates](https://www.loopandlearn.org/version-updates/#ios-updates){:target="_blank"}.
+How do you tell if a Pod failure is pod-related or Loop-related? Our resident expert tells us:
 
-If you have not updated your phone to iOS 18 yet, we recommend that you at least update to iOS 17.7.2 to get the latest security patches, if possible.
+> Any fault other than 0x31 (decimal 049) is a pod error.
 
-It is unusual for the *Loop* developers to support four different iOS Historically, the Loop developers tried to maintain support for the current and one-level-earlier iOS. Be prepared for your iOS 15 and 16 devices to no longer be supported in future releases. We recommend you update to a phone that can support iOS 17 and 18.
+It is known that using pods to loop does increase the drain on pod batteries, but most pods are able to handle it. It the fault happens on the third day - it might not have happened with the PDM.
 
-These apps currently have these minimum requirements:
+* If it’s an Eros pod, it may be related to having a lot of RileyLink failures - which can lead to excess battery drain on the pod.
+* If it’s a DASH pod, there’s nothing we can do. 
 
-* `Loop 3.4.4`: iOS 15
-* Trio 0.2.3 - released: iOS 16
-* Trio 0.1.0 - coming soon: iOS 17
-* LoopFollow: iOS 15.6
-* LoopCaregiver: iOS 16
+If you get an 0x31 fault or if you wonder about Eros faults, you can request the Loop Report be evaluated (ask on Facebook and a mentor will help you.)
 
-If you're still using an iPhone X or earlier, please look for a new device. Get a newer one from a friend/relative who is upgrading or buy one from a resale shop. Compatibility information can be found in [LoopDocs](https://loopkit.github.io/loopdocs/build/phone/#compatible-device){:target="_blank"}.
+* Only the Loop Report matters for a pod fault: (Loop,
+Settings, Issue Report)
+* The critical log is not needed
+* If anyone has a 0x31 (decimal 049), we definitely want to know and wants the Loop Report
 
-## `LoopFollow` News
+## Encouragement for Browser Building
 
-Do you insert your G7 sensor early to allow it to stabilize while still using the previous sensor? Do you worry that the new sensor might not start the way it's supposed to? It has happened to people - which is why the [magnet trick has been discussed](https://loopandlearn.github.io/news/edition/2024-12-23/#dexcom-g7-pairing-help){:target="_blank"}.
+One of our Loopers enthusiastically recommended browser building in a recent FB comment: 
 
-With the *LoopFollow* app, v2.2.9 or later, it’s very easy to check if a G7 sensor wakes up upon insertion. In *LoopFollow*, choose Settings -> Background Refresh Settings -> Dexcom. This will show any new Dexcom device within a few minutes after insertion. This can be useful to confirm  the newly inserted G7 is active and doesn’t require the magnet trick.
+> “I am so happy that I managed to browser build Loop and related apps! I’m so mind-free now! Xcode build was my first go but every time I had to check / wait for updates (macOS , Xcode), dread that disk space wouldn’t suffice, my Mac mini would not get the latest updates and so on! Now I build Loop from an old laptop!!” 
 
-**`Trio` + `LoopFollow` Users**: LoopFollow Version 2.2.10 was released on 22 February. The only change from v2.2.9 is that v2.2.10 restores the proper display of Trio prediction lines when following someone using Trio 0.2.3 and earlier. Browser Builders can easily update LoopFollow from a phone or any internet-connected device.
+We agree, Nikos!
 
-## Connectivity Issues with *Dexcom G7*
+## Swollen Batteries
 
-There have been a lot of reports that both the *Loop* app and the *Trio* app are not picking up *Dexcom G7* readings even when the *Dexcom* app is working. There is work ongoing to test code that may improve the situation.
+One of our members got a battery pack out to charge a phone and found that the batteries were swollen. This is a dangerous situation, as the device could catch fire or explode. Remember to check each of your devices regularly for swelling- and remember to check the ones that you may have stored, too!
 
-## Tech Tips
+If you find visual evidence of swelling, do not use and dispose of the battery/ies safely. An unexpected smell coming from the battery or device can also indicate a problem. For more tips on identifying battery issues and handling them, see this article by [IFIXIT](https://www.ifixit.com/Wiki/What_to_do_with_a_swollen_battery){:target="_blank"}.
 
-### Preserve Omnipod Battery During Travel
+## Alerts Alert: Make Sure You Get Them
 
-Insulet shared [helpful instructions](https://www.omnipod.com/current-podders/resources/omnipod-dash/travel-advisory){:target="_blank"} for international travelers who may encounter zones where 2G and 3G service has been shut down.
+The Associated Press [recently reported](https://apnews.com/article/diabetes-smartphone-apps-death-injury-fda-health-920b97d30e4330bfc67f249430b7c17e){:target="_blank"} about smartphone users missing critical alerts and shared these tips on how to make sure alerts from glucose-monitoring apps are received:
 
-### Medtronic Pump Pressure Issues
+* Disable automatic updates on your smartphone until you've verified that the new operating system works with your diabetes app.
+* After pairing your smartphone with a new accessory, ensure that app alerts are still coming  through and are clearly audible.
+* Check your smartphone’s notification settings once a month to make sure they haven't changed. (We suggest a more frequent check.)
 
-Changes in atmospheric pressure, such as during air travel, can cause unintended insulin delivery due to air bubble expansion or compression in the reservoir, potentially affecting blood glucose levels. [Details of this Safety Alert](https://hcp.medtronic-diabetes.com.au/safety-alerts){:target="_blank"} can be found on Medtronic’s website.
+## How To Choose Open-Source Technology for Diabetes Management
 
-Note: This can happen with other pumps too.
+Open-source (OS) technology has opened new doors for diabetes management, offering innovative, customizable, and cost-effective solutions. Open-source automated insulin delivery (OS-AID) systems empower people with diabetes to take more control over their care and attain better outcomes. However, adopting a new OS-AID solution requires careful evaluation to ensure safety, reliability, and long-term usability. With increasing numbers of options, how do you choose?
 
-### A Look at LoopDocs
+When considering an OS-AID technology, assessing its reliability and accuracy is essential. Diabetes management relies on precise and consistent data, so any tool must be rigorously tested. Seek out and critically evaluate peer reviews and community feedback that validate its accuracy in tracking blood glucose levels, insulin dosing, and other key metrics.
 
-When’s the last time you popped over and read LoopDocs? Here’s a great opportunity- we’ll even include a link! Check out the [Algorithm FAQs](https://loopkit.github.io/loopdocs/faqs/algorithm-faqs/){:target="_blank"}... and if you have a question you think should be added, let us know on Facebook!  
+A crucial factor when considering an OS-AID is community and developer support. A strong, active developer community is vital for maintaining and improving OS-AID tools. Investigate whether the project receives regular updates, has thorough documentation, and fosters an engaged user base with responsive support forums. A well-supported app is less likely to become obsolete or vulnerable to security risks.
 
-## Spread the News
+Ease of use and integration can make or break an OS-AID technology’s effectiveness. The tool should fit into your diabetes management routine without requiring extensive technical expertise. If it does not sync with your current devices, such as CGM, insulin pumps, or health apps, weigh the potential benefits against the effort required to make adjustments.
 
-We recommend sharing an applicable edition of [News From Loop and Learn](https://www.loopandlearn.org/loop-and-learn-newsletter/){:target="_blank"} with others when you know of content that may help them- Loopy or otherwise. An example is recent sharing with a non-Looper, who needed G7 help.
+Regulatory compliance—or lack thereof—is another important consideration. Unlike commercial diabetes management tools, OS solutions lack FDA or other regulatory approvals. This does not mean they are unsafe (although some could be), but it does place personal responsibility on the user to ensure accuracy and safety. Extra caution should be taken when using OS-AID technology, as errors could have serious consequences.
+
+Long-term viability and sustainability also play a role in determining whether an OS tool is worth adopting. These projects rely on volunteers and community contributions, which can lead to varying levels of support over time. While some projects thrive for many years, others lose momentum and risk abandonment. If key developers step away, updates and bug fixes may slow down or stop entirely. A project with a strong and diverse group of contributors, including developers, mentors, writers, and editors, is more likely to remain sustainable. Without ongoing updates, a tool may become obsolete, less secure, or incompatible with new devices.
+
+Hardware compatibility is another key factor. OS-AID solutions require specific devices, which may not be practical for everyone. Before committing to an OS-AID option, verify that it works with your current devices or that you can procure the necessary hardware to use it effectively.
+
+Legal and liability risks should not be overlooked. Using non-FDA-approved OS software for medical decisions, particularly for insulin dosing, could have legal implications if something goes wrong. Understanding potential personal liabilities before using such tools for critical decisions is essential.
+
+Evaluating user experience and accessibility is just as important as assessing technical capabilities. A powerful tool is only useful if it is intuitive and easy to navigate. Complicated installation processes, frequent updates, or steep learning curves may make adoption challenging for non-technical users. Spending time in a user community and learning about an OS-AID system before deciding to use it can help determine whether it is a good fit. It is also worth noting that some people may start using an OS-AID system and later decide it is not for them, which is completely okay. Fortunately, there are now many OS and commercial options for automated insulin delivery.
+
+Before adopting any new technology, consulting with your healthcare team is recommended. They can help assess whether the tool aligns with your treatment plan. While some healthcare providers are open to new technologies, and even promote them, others may be hesitant or unwilling to support patients who use OS-AID solutions. Be prepared to discuss how you plan to validate the tool’s effectiveness and integrate it responsibly into your care routine. You can check for a `Loop`-friendly healthcare provider on our [resource](https://www.loopandlearn.org/hcp-recommendations/){:target="_blank"} and if you have one to recommend, please [add to it](https://www.loopandlearn.org/hcp-recommendations/#recommend-an-hcp){:target="_blank"}!
+
+Finally, diabetes management involves sensitive health data, so security should be considered. Open-source software is transparent, allowing users to examine its code for vulnerabilities, but that also means potential security risks if it’s not well maintained.
+
+Open-source diabetes management technology offers innovative and cost-effective solutions, but it requires careful evaluation to ensure safety, usability, and sustainability. By considering factors like accuracy, security, ease of maintenance, and long-term support, you can make informed decisions. Remember to consult your healthcare provider before making changes to your treatment plan and choose technology that enhances, rather than complicates, your diabetes management.
+
+## What is Goat Simulator?
+
+Never mind that! (But it IS a game that kids play). If you want more info from `Loop` parents, see this [post](https://www.facebook.com/groups/LOOPandLEARN/permalink/3955354294721045/?rdid=0o4LE2fUtUgFG7YD&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fp%2F18VMCHqRWK%2F#){:target="_blank"}.
+
+Need a `Loop`-related alert that comes to the parents phone? There’s an app for that!
+
+The [*LoopFollow* app](https://www.loopandlearn.org/loop-follow/){:target="_blank"} has you covered! Today, we highlight the `SAGE` and `CAGE` alerts- you can set them to alert YOU so your goat-simulating looper doesn’t miss a device change! `SAGE` means Sensor Age and `CAGE` means Cannula Age, and they’ll help you be able to sneak up on your little “goat” and change their device(s) while they keep on playing!
 
 ## Helpful Links
 
