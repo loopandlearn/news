@@ -42,7 +42,7 @@ How do you tell if a Pod failure is pod-related or `Loop`-related? Our resident 
 
 > Any fault *other than* 0x31 (decimal 049) is a pod error.
 
-It is known that using pods to `loop` does increase the drain on pod batteries, but most pods are able to handle it. It the fault happens on the third day - it might not have happened with the PDM.
+It is known that using pods to `loop` does increase the drain on pod batteries, but most pods are able to handle it. If the fault happens on the third day - it might not have happened with the PDM.
 
 * If it’s an Eros pod, it may be related to having a lot of RileyLink failures - which can lead to excess battery drain on the pod.
 * If it’s a DASH pod, there’s nothing we can do. 
@@ -94,9 +94,11 @@ Evaluating user experience and accessibility is just as important as assessing t
 
 Before adopting any new technology, consulting with your healthcare team is recommended. They can help assess whether the tool aligns with your treatment plan. While some healthcare providers are open to new technologies, and even promote them, others may be hesitant or unwilling to support patients who use OS-AID solutions. Be prepared to discuss how you plan to validate the tool’s effectiveness and integrate it responsibly into your care routine. You can check for a `Loop`-friendly healthcare provider on our [resource](https://www.loopandlearn.org/hcp-recommendations/){:target="_blank"} and if you have one to recommend, please [add to it](https://www.loopandlearn.org/hcp-recommendations/#recommend-an-hcp){:target="_blank"}!
 
-Finally, diabetes management involves sensitive health data, so security should be considered. Open-source software is transparent, allowing users to examine its code for vulnerabilities, but that also means potential security risks if it’s not well maintained.
+Remember that diabetes management involves sensitive health data, so security should be considered. Open-source software is transparent, allowing users to examine its code for vulnerabilities, but that also means potential security risks if it’s not well maintained.
 
-Open-source diabetes management technology offers innovative and cost-effective solutions, but it requires careful evaluation to ensure safety, usability, and sustainability. By considering factors like accuracy, security, ease of maintenance, and long-term support, you can make informed decisions. Remember to consult your healthcare provider before making changes to your treatment plan and choose technology that enhances, rather than complicates, your diabetes management.
+A very important and often overlooked aspect of choosing OS-AID overall is that the learning curve is unavoidable. With OS-AID on your phone, displaying all its features and when reading success stories from others in the community, it’s easy to assume that great glycemic results will come quickly. However, this journey requires patience. Take a deep breath and embrace the process—ask questions, join our Zoom Open Mic sessions to connect with experts and newbies alike, and share your observations. Step by step, you’ll make progress, and you’ll get there before you know it!
+
+Open-source diabetes management technology offers innovative and cost-effective solutions, but it requires careful evaluation to ensure safety, usability, and sustainability. By considering factors like accuracy, security, ease of maintenance, and long-term support, you can make informed decisions. Remember to consult your healthcare provider before making changes to your treatment plan and choose technology that enhances, rather than complicates, your diabetes management. And plan to put the time in to learn how to get the results you want!
 
 ## What is Goat Simulator?
 
