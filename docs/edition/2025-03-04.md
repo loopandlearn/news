@@ -39,7 +39,7 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## Pod Faults
 
-How do you tell if a Pod failure is pod-related or Loop-related? Our resident expert tells us:
+How do you tell if a Pod failure is pod-related or `Loop`-related? Our resident expert tells us:
 
 > Any fault other than 0x31 (decimal 049) is a pod error.
 
