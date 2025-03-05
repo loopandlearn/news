@@ -43,7 +43,7 @@ How do you tell if a Pod failure is pod-related or Loop-related? Our resident ex
 
 > Any fault other than 0x31 (decimal 049) is a pod error.
 
-It is known that using pods to loop does increase the drain on pod batteries, but most pods are able to handle it. It the fault happens on the third day - it might not have happened with the PDM.
+It is known that using pods to `loop` does increase the drain on pod batteries, but most pods are able to handle it. It the fault happens on the third day - it might not have happened with the PDM.
 
 * If it’s an Eros pod, it may be related to having a lot of RileyLink failures - which can lead to excess battery drain on the pod.
 * If it’s a DASH pod, there’s nothing we can do. 
@@ -59,7 +59,7 @@ Settings, Issue Report)
 
 One of our Loopers enthusiastically recommended browser building in a recent FB comment: 
 
-> “I am so happy that I managed to browser build Loop and related apps! I’m so mind-free now! Xcode build was my first go but every time I had to check / wait for updates (macOS , Xcode), dread that disk space wouldn’t suffice, my Mac mini would not get the latest updates and so on! Now I build Loop from an old laptop!!” 
+> “I am so happy that I managed to browser build `Loop` and related apps! I’m so mind-free now! Xcode build was my first go but every time I had to check / wait for updates (macOS , Xcode), dread that disk space wouldn’t suffice, my Mac mini would not get the latest updates and so on! Now I build Loop from an old laptop!!” 
 
 We agree, Nikos!
 
