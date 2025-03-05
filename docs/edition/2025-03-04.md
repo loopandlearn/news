@@ -8,7 +8,6 @@ Published on 04 March 2025.
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
 * [Pod Faults](#pod-faults)
-* [Encouragement for Browser Building](#encouragement-for-browser-building)
 * [Swollen Batteries](#swollen-batteries)
 * [Alerts Alert: Make Sure You Get Them](#alerts-alert-make-sure-you-get-them)
 * [How To Choose Open-Source Technology for Diabetes Management](#how-to-choose-open-source-technology-for-diabetes-management)
@@ -41,7 +40,7 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 How do you tell if a Pod failure is pod-related or `Loop`-related? Our resident expert tells us:
 
-> Any fault other than 0x31 (decimal 049) is a pod error.
+> Any fault *other than* 0x31 (decimal 049) is a pod error.
 
 It is known that using pods to `loop` does increase the drain on pod batteries, but most pods are able to handle it. It the fault happens on the third day - it might not have happened with the PDM.
 
@@ -50,18 +49,9 @@ It is known that using pods to `loop` does increase the drain on pod batteries, 
 
 If you get an 0x31 fault or if you wonder about Eros faults, you can request the `Loop Report` be evaluated (ask on Facebook and a mentor will help you.)
 
-* Only the `Loop Report` matters for a pod fault: (`Loop`,
-Settings, Issue Report)
+* Only the `Loop Report` matters for a pod fault: (`Loop`, Settings, Issue Report)
 * The critical log is not needed
-* If anyone has a 0x31 (decimal 049), we definitely want to know and wants the `Loop Report`
-
-## Encouragement for Browser Building
-
-One of our Loopers enthusiastically recommended browser building in a recent FB comment: 
-
-> “I am so happy that I managed to browser build `Loop` and related apps! I’m so mind-free now! Xcode build was my first go but every time I had to check / wait for updates (macOS , Xcode), dread that disk space wouldn’t suffice, my Mac mini would not get the latest updates and so on! Now I build Loop from an old laptop!!” 
-
-We agree, Nikos!
+* If anyone has a 0x31 (decimal 049), we definitely want to know and want the `Loop Report`
 
 ## Swollen Batteries
 
