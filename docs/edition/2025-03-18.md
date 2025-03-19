@@ -12,8 +12,8 @@ Published on 18 March 2025.
 * [Stay in Closed Loop](#stay-in-closed-loop)
 * [Changing Text Size](#changing-text-size)
 * [Focus on Overrides](#focus-on-overrides)
-* [_<span translate="no">LoopFollow</span>_&nbsp;News](#loopfollow-news)
 * [Children with Diabetes’ Friends for Life](#children-with-diabetes-friends-for-life)
+* [_<span translate="no">LoopFollow</span>_&nbsp;News](#loopfollow-news)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -31,6 +31,7 @@ _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) z
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` | no | 18:00 UTC | 10 April 2025 |
+| Insurance Roadblocks | yes | 8 PM EDT<br>Midnight UTC | 22 April 2025<br>23 April 2025 |
 
 #### Time Zone Converter
 
@@ -52,9 +53,11 @@ You can [DONATE](https://lifeforachild.org/donate/){:target="_blank"} here.
 
 We’ve emphasized the importance of keeping the loop closed, but many people still miss that message. Here’s a personal example of what can happen when that advice isn’t followed—and it could have been even worse.
 
-During a recent swim practice, the loop was briefly opened with the intention of closing it right away. The user was aware of the need to close it but got distracted. As a result, the loop remained open for six hours before anyone noticed that basal insulin had been running continuously leading to multiple lows. A much better approach would have been to set a 30-minute high temp target of 300 and then remove it. Forgetting to do so would have had minimal impact.
+During a recent swim practice, the loop was briefly opened with the intention of closing it right away. The user was aware of the need to close it but got distracted. As a result, the loop remained open for six hours before anyone noticed that basal insulin had been running continuously, leading to multiple lows.
 
-We strongly recommend keeping the loop closed even when basal testing. If you're unsure why this is a safety issue, please ask in our Facebook group. A rare exception is when disconnecting a Medtronic pump with a pre-set zero temp basal, as Medtronic’s LoopKit submodule does not support manual temp basals.
+OS-AID systems have several options when one wants to alter the set program. What would you (hope you would) have done in this situation? Let’s talk about it in this post in our Facebook group. Please [join the conversation]!
+
+We DO strongly recommend keeping the loop closed even when [basal testing](https://www.loopandlearn.org/basal-testing-in-closed-loop/){:target="_blank"}. If you're unsure why this is a safety issue, please ask in our [Facebook group](https://www.facebook.com/groups/LOOPandLEARN/){:target="_blank"}. A rare exception is when disconnecting a Medtronic pump with a pre-set zero temp basal, as Medtronic’s LoopKit submodule does not support manual temp basals.
 
 ## Changing Text Size
 
@@ -72,23 +75,6 @@ You can tweak text size for Trio or Loop instead of changing it for your entire 
 When was the last time you reminded yourself how valuable Loop Overrides are?
 
 Take a few minutes to explore this [page on the Loop and Learn site](https://www.loopandlearn.org/override/){:target="_blank"} and discover new ways to use overrides to enhance your Looping journey!
-
-## _<span translate="no">LoopFollow</span>_&nbsp;News
-
-_<span translate="no">LoopFollow</span>_&nbsp;[2.2.12](https://github.com/loopandlearn/LoopFollow/releases/tag/v2.2.12) was released just one day after _<span translate="no">LoopFollow</span>_&nbsp;[2.2.11](https://github.com/loopandlearn/LoopFollow/releases/tag/v2.2.11).
-
-* A recent code change introduced crashes for some people. 
-* The source of the issue has been identified and fixed. If you updated to 2.2.11, please go ahead and update to 2.2.12. This includes these and other great updates from 2.2.11:
-    * Battery Drop Alarm – A new alarm that can alert you if the battery is draining
-    faster than usual. Perfect for catching situations like a forgotten flashlight left on!
-    * Contact Improvements – You can now choose colors for contacts and have the option to display trend and delta in separate contact cards for better clarity.
-    * Expected BG Delay -For Bluetooth heartbeat devices, the expected BG delay value is reported to help you choose the device that provides the shortest delay in BG readings for the looper's CGM 
-        * This is especially useful if you are saving your old G7 Sensors so you have a choice of used sensors
-        * Pro-tip: when using used G7 sensors: write the date used and Bluetooth name on each sensor
-
-**Huge Thanks to Our Contributors!**
-
-> In addition to the work from the Loop and Learn team, this release included valuable contributions from David Novosel, Mike Bash, and Daniel Snällfot. Your help in making LoopFollow better is truly appreciated!
 
 ## Children with Diabetes’ Friends for Life
 
@@ -113,6 +99,23 @@ We both got screened for T1D autoantibodies—Tina for the first time and Rebecc
 Dr. Ken Moritsugu, T1D, retired Rear Admiral and former U.S. Surgeon General (twice!), delivered the closing keynote. He shared his dedication to public health and personal commitment to the T1D community. We're lucky to be one of his passion projects!
 
 The FFL Arlington conference was both enlightening and empowering, reinforcing the strength and support within the diabetes community. It’s a much smaller version of what we experience in Orlando in July and we encourage attending any of their events.
+
+## _<span translate="no">LoopFollow</span>_&nbsp;News
+
+_<span translate="no">LoopFollow</span>_&nbsp;[2.2.12](https://github.com/loopandlearn/LoopFollow/releases/tag/v2.2.12) was released just one day after _<span translate="no">LoopFollow</span>_&nbsp;[2.2.11](https://github.com/loopandlearn/LoopFollow/releases/tag/v2.2.11).
+
+* A recent code change introduced crashes for some people. 
+* The source of the issue has been identified and fixed. If you updated to 2.2.11, please go ahead and update to 2.2.12. This includes these and other great updates from 2.2.11:
+    * Battery Drop Alarm – A new alarm that can alert you if the battery is draining
+    faster than usual. Perfect for catching situations like a forgotten flashlight left on!
+    * Contact Improvements – You can now choose colors for contacts and have the option to display trend and delta in separate contact cards for better clarity.
+    * Expected BG Delay -For Bluetooth heartbeat devices, the expected BG delay value is reported to help you choose the device that provides the shortest delay in BG readings for the looper's CGM 
+        * This is especially useful if you are saving your old G7 Sensors so you have a choice of used sensors
+        * Pro-tip: when using used G7 sensors: write the date used and Bluetooth name on each sensor
+
+**Huge Thanks to Our Contributors!**
+
+> In addition to the work from the Loop and Learn team, this release included valuable contributions from David Novosel, Mike Bash, and Daniel Snällfot. Your help in making LoopFollow better is truly appreciated!
 
 ## Helpful Links
 
