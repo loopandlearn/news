@@ -13,6 +13,7 @@ Published on 18 March 2025.
 * [Changing Text Size](#changing-text-size)
 * [Focus on Overrides](#focus-on-overrides)
 * [Children with Diabetes’ Friends for Life](#children-with-diabetes-friends-for-life)
+* [Appreciation From Lucky Loopers](#appreciation-from-lucky-loopers)
 * [_<span translate="no">LoopFollow</span>_&nbsp;News](#loopfollow-news)
 * [Helpful Links](#helpful-links)
 
@@ -39,7 +40,7 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## Voices from ATTD
 
-Several members of the Loop and Learn team, as well as others we all know from the community are attending Advanced Technologies & Treatments for Diabetes ([ATTD](https://attd.kenes.com/){:target="_blank"}) in Amsterdam as [#dedoc°](https://www.facebook.com/hashtag/dedoc){:target="_blank"} voices this week. We are looking forward to setting up a Zoom call and will share that info in our Facebook group when we do.
+Several members of the Loop and Learn team, as well as others we all know from the community are attending Advanced Technologies & Treatments for Diabetes ([ATTD](https://attd.kenes.com/){:target="_blank"}) in Amsterdam as [#dedoc°](https://www.facebook.com/hashtag/dedoc){:target="_blank"} voices this week. We are looking forward to hearing their reports and will share that info in our Facebook group.
 
 ## Life for a Child
 
@@ -55,7 +56,7 @@ We’ve emphasized the importance of keeping the loop closed, but many people st
 
 During a recent swim practice, the loop was briefly opened with the intention of closing it right away. The user was aware of the need to close it but got distracted. As a result, the loop remained open for six hours before anyone noticed that basal insulin had been running continuously, leading to multiple lows.
 
-OS-AID systems have several options when one wants to alter the set program. What would you (hope you would) have done in this situation? Let’s talk about it in this post in our Facebook group. Please [join the conversation]!
+OS-AID systems have several options when one wants to alter the set program. What would you (hope you would) have done in this situation? Let’s talk about it in this post in our Facebook group. Please join the conversation!
 
 We DO strongly recommend keeping the loop closed even when [basal testing](https://www.loopandlearn.org/basal-testing-in-closed-loop/){:target="_blank"}. If you're unsure why this is a safety issue, please ask in our [Facebook group](https://www.facebook.com/groups/LOOPandLEARN/){:target="_blank"}. A rare exception is when disconnecting a Medtronic pump with a pre-set zero temp basal, as Medtronic’s LoopKit submodule does not support manual temp basals.
 
@@ -99,6 +100,34 @@ We both got screened for T1D autoantibodies—Tina for the first time and Rebecc
 Dr. Ken Moritsugu, T1D, retired Rear Admiral and former U.S. Surgeon General (twice!), delivered the closing keynote. He shared his dedication to public health and personal commitment to the T1D community. We're lucky to be one of his passion projects!
 
 The FFL Arlington conference was both enlightening and empowering, reinforcing the strength and support within the diabetes community. It’s a much smaller version of what we experience in Orlando in July and we encourage attending any of their events.
+
+## Appreciation From Lucky Loopers
+
+We are humbled to receive such kind expressions of gratitude for the work we do for the community. Every "thank you" we receive is shared with our team to ensure everyone feels the impact of their efforts. Thank YOU for these and for participating on our Facebook page- that helps loopers in so many ways! Here are some of the thoughtful thank-you messages we’ve received recently. Names have been removed and some messages have been paraphrased.
+
+* I feel the need to publicly express my thanks for helping me once again resolve my browser customization error (and then going on to help me build Trio, discovering that my developer agreement wasn’t up to date!!). My mentor set up a Zoom call with me, giving up her beautiful sunny afternoon. She empowered me to try things outside of my comfort zone. I can't thank her enough!
+
+* I am so happy that I managed to browser build Loop and related apps! I’m so mind-free now! Xcode build was my first go but every time I had to check/ wait for updates (macOS , Xcode), dread that disk space wouldn’t suffice, my Mac mini would not get the latest updates and so on! Now I build Loop from an old laptop!!
+
+* Thank you to everyone supporting Loop And Learn! Posted my best ever A1C today—  feeling thankful.
+
+* People have traveled and not had trouble with G7 geofencing lately- thanks to the advocacy of this group.
+
+* Why read the LNL newsletter? BECAUSE you learn about things like the Negative Insulin Damper...
+
+* Thanks for the great intro video! Definitely helpful as some info here isn’t covered by the docs.
+
+* Regarding a Build video: Thank you so much. Best guide!
+
+* Thank you again for your help and support today. You (and the loop and learn team) are so gracious with your time and it is so very appreciated.
+
+* Thank you so much! Great, great video!
+
+* Just renewed my distribution certificates. Directions are excellent - super easy. Many thanks for the wonderful work on the directions and pictures.
+
+* Thank you so, so much. I wanted to do the browser build for Trio for several months now and wasn't aware there was a video that I could use!That is so much more accessible for me. So now I just used it to build the Trio App and it worked right away! IN UNDER ONE HOUR! (I had the developer license already)
+
+* I just want to say big THANK YOU to my amazing mentor. She’s really helping from heart with patience to Zero tech person like me, she never gave up or let me feel shame about my ignorance, she went through step- by-step with me till I fixed all my huge things, without her help I really wouldn’t be here helping my daughter. Thanks a lot! Also, I want to say big THANK YOU for the Amazing LNL video build loop with browser, it’s really easy, simple and just amazing. Thank you to all the LNL community. I really Love you all
 
 ## _<span translate="no">LoopFollow</span>_&nbsp;News
 
