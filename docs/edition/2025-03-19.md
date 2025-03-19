@@ -12,7 +12,7 @@ Published on 19 March 2025.
 * [Stay in Closed `Loop`](#stay-in-closed-loop)
 * [Changing Text Size](#changing-text-size)
 * [Focus on Overrides](#focus-on-overrides)
-* [Children with Diabetes’ Friends for Life](#children-with-diabetes-friends-for-life)
+* [Children with Diabetes Friends for Life](#children-with-diabetes-friends-for-life)
 * [Appreciation From Lucky Loopers](#appreciation-from-lucky-loopers)
 * [_<span translate="no">LoopFollow</span>_&nbsp;News](#loopfollow-news)
 * [Helpful Links](#helpful-links)
