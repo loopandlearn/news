@@ -9,7 +9,7 @@ Published on 19 March 2025.
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
 * [Voices from ATTD](#voices-from-attd)
 * [Life for a Child](#life-for-a-child)
-* [Stay in Closed Loop](#stay-in-closed-loop)
+* [Stay in Closed `Loop`](#stay-in-closed-loop)
 * [Changing Text Size](#changing-text-size)
 * [Focus on Overrides](#focus-on-overrides)
 * [Children with Diabetes’ Friends for Life](#children-with-diabetes-friends-for-life)
@@ -50,9 +50,9 @@ For a deeper dive into their analysis, check out their [full article](https://di
 
 You can [DONATE](https://lifeforachild.org/donate/){:target="_blank"} here.
 
-## Stay in Closed Loop
+## Stay in Closed `Loop`
 
-We’ve emphasized the importance of keeping the loop closed, but many people still miss that message. Here’s a personal example of what can happen when that advice isn’t followed—and it could have been even worse.
+We’ve emphasized the importance of keeping your Automated Insulin Deliver app (`Loop` or `Trio`) operating in `closed loop`, but many people still miss that message. Here’s a personal example of what can happen when that advice isn’t followed—and it could have been even worse.
 
 During a recent swim practice, the loop was briefly opened with the intention of closing it right away. The user was aware of the need to close it but got distracted. As a result, the loop remained open for six hours before anyone noticed that basal insulin had been running continuously, leading to multiple lows.
 
