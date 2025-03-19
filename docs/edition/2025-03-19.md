@@ -52,7 +52,7 @@ You can [DONATE](https://lifeforachild.org/donate/){:target="_blank"} here.
 
 ## Stay in Closed `Loop`
 
-We’ve emphasized the importance of keeping your Automated Insulin Deliver app (e.g., `Loop` or `Trio`) operating in `closed loop`, but many people still miss that message. Here’s a personal example of what can happen when that advice isn’t followed—and it could have been even worse.
+We’ve emphasized the importance of keeping your Automated Insulin Delivery app (e.g., `Loop` or `Trio`) operating in `closed loop`, but many people still miss that message. Here’s a personal example of what can happen when that advice isn’t followed—and it could have been even worse.
 
 During a recent swim practice, the loop was briefly opened with the intention of closing it right away. The user was aware of the need to close it but got distracted. As a result, the loop remained open for six hours before anyone noticed that basal insulin had been running continuously, leading to multiple lows.
 
