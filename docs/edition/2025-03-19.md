@@ -44,7 +44,7 @@ Several members of the Loop and Learn team, as well as others we all know from t
 
 ## Life for a Child
 
-[Scott Leibrand and Dana Lewis](https://www.facebook.com/thedanamlewis/posts/pfbid0Up8EiDmaW67zvEdyZJi7iT4TZtznZm3Udujr3F876RWMRyLxZgMDVQBb7Rb7ncggl){:target="_blank"} analyzed the impact of [Life for a Child](https://www.facebook.com/lifeforachild1){:target="_blank"}, a nonprofit providing insulin and diabetes care to children in low-income countries. Their estimate shows they save 25-35 Disability-Adjusted Life Years (DALYs) per child, improving life expectancy and quality of life. They achieve this at just $60-$140 per DALY, making them one of the most cost- effective global health interventions. Due to a funding shortfall in 2025, Life for a Child needs our support to continue its life-saving work. Your donation will directly fund essential care like insulin and glucose monitoring.
+[Scott Leibrand and Dana Lewis](https://www.facebook.com/thedanamlewis/posts/pfbid0Up8EiDmaW67zvEdyZJi7iT4TZtznZm3Udujr3F876RWMRyLxZgMDVQBb7Rb7ncggl){:target="_blank"} analyzed the impact of [Life for a Child](https://www.facebook.com/lifeforachild1){:target="_blank"}, a nonprofit providing insulin and diabetes care to children in low-income countries. Their estimate shows they save 25-35 Disability-Adjusted Life Years (DALYs) per child, improving life expectancy and quality of life. They achieve this at just \$60-\$140 per DALY, making them one of the most cost- effective global health interventions. Due to a funding shortfall in 2025, Life for a Child needs our support to continue its life-saving work. Your donation will directly fund essential care like insulin and glucose monitoring.
 
 For a deeper dive into their analysis, check out their [full article](https://diyps.org/2025/03/04/the-cost-effectiveness-of-life-for-a-child-a-deep-dive-into-daly-estimates-and-the-2025-funding-gap/){:target="_blank"}.
 
@@ -56,7 +56,7 @@ We’ve emphasized the importance of keeping your Automated Insulin Delivery app
 
 During a recent swim practice, the loop was briefly opened with the intention of closing it right away. The user was aware of the need to close it but got distracted. As a result, the loop remained open for six hours before anyone noticed that basal insulin had been running continuously, leading to multiple lows.
 
-OS-AID systems have several options when one wants to alter the set program. What would you (hope you would) have done in this situation? Let’s talk about it in this post in our Facebook group. Please join the conversation!
+OS-AID systems have several options when one wants to alter the set program. What would you (hope you would) have done in this situation? Let’s talk about it in [this post](https://www.facebook.com/groups/LOOPandLEARN/posts/3972030203053454/){:target="_blank"} in our Facebook group. Please join the conversation!
 
 We DO strongly recommend keeping the loop closed even when [basal testing](https://www.loopandlearn.org/basal-testing-in-closed-loop/){:target="_blank"}. If you're unsure why this is a safety issue, please ask in our [Facebook group](https://www.facebook.com/groups/LOOPandLEARN/){:target="_blank"}. A rare exception is when disconnecting a Medtronic pump with a pre-set zero temp basal, as Medtronic’s LoopKit submodule does not support manual temp basals.
 
@@ -77,11 +77,11 @@ When was the last time you reminded yourself how valuable Loop Overrides are?
 
 Take a few minutes to explore this [page on the Loop and Learn site](https://www.loopandlearn.org/override/){:target="_blank"} and discover new ways to use overrides to enhance your Looping journey!
 
-## Children with Diabetes’ Friends for Life
+## Children with Diabetes Friends for Life
 
 **Regional Conference Recap**
 
-The Children with Diabetes’ Friends for Life regional conference took place in Arlington, Virginia, last weekend. Admin team members Rebecca and Tina, as well as some of our members, were present. As always, fostering connections within the diabetes community was a central focus. For a comprehensive look at all presentations and activities, refer to pages 4 and 5 of the [program](https://media.childrenwithdiabetes.com/conferences/friends-for-life-arlington-2025/FFL_Arlington_2025_Program_02_18_25_Spreads.pdf){:target="_blank"}. 
+The Children with Diabetes Friends for Life regional conference took place in Arlington, Virginia, March 7 to 9, 2025. Admin team members Rebecca and Tina, as well as some of our members, were present. As always, fostering connections within the diabetes community was a central focus. For a comprehensive look at all presentations and activities, refer to pages 4 and 5 of the [program](https://media.childrenwithdiabetes.com/conferences/friends-for-life-arlington-2025/FFL_Arlington_2025_Program_02_18_25_Spreads.pdf){:target="_blank"}. 
 
 Here are some highlights.
 
@@ -103,7 +103,7 @@ The FFL Arlington conference was both enlightening and empowering, reinforcing t
 
 ## Appreciation From Lucky Loopers
 
-We are humbled to receive such kind expressions of gratitude for the work we do for the community. Every "thank you" we receive is shared with our team to ensure everyone feels the impact of their efforts. Thank YOU for these and for participating on our Facebook page- that helps loopers in so many ways! Here are some of the thoughtful thank-you messages we’ve received recently. Names have been removed and some messages have been paraphrased.
+We are humbled to receive such kind expressions of gratitude for the work we do for the community. Every "thank you" we receive is shared with our team to ensure everyone feels the impact of their efforts. Thank YOU for these and for participating on our Facebook group - that helps loopers in so many ways! Here are some of the thoughtful thank-you messages we’ve received recently. Names have been removed and some messages have been paraphrased.
 
 * I feel the need to publicly express my thanks for helping me once again resolve my browser customization error (and then going on to help me build Trio, discovering that my developer agreement wasn’t up to date!!). My mentor set up a Zoom call with me, giving up her beautiful sunny afternoon. She empowered me to try things outside of my comfort zone. I can't thank her enough!
 
@@ -125,7 +125,7 @@ We are humbled to receive such kind expressions of gratitude for the work we do 
 
 * Just renewed my distribution certificates. Directions are excellent - super easy. Many thanks for the wonderful work on the directions and pictures.
 
-* Thank you so, so much. I wanted to do the browser build for Trio for several months now and wasn't aware there was a video that I could use!That is so much more accessible for me. So now I just used it to build the Trio App and it worked right away! IN UNDER ONE HOUR! (I had the developer license already)
+* Thank you so, so much. I wanted to do the browser build for Trio for several months now and wasn't aware there was a video that I could use! That is so much more accessible for me. So now I just used it to build the Trio App and it worked right away! IN UNDER ONE HOUR! (I had the developer license already)
 
 * I just want to say big THANK YOU to my amazing mentor. She’s really helping from heart with patience to Zero tech person like me, she never gave up or let me feel shame about my ignorance, she went through step- by-step with me till I fixed all my huge things, without her help I really wouldn’t be here helping my daughter. Thanks a lot! Also, I want to say big THANK YOU for the Amazing LNL video build loop with browser, it’s really easy, simple and just amazing. Thank you to all the LNL community. I really Love you all
 
