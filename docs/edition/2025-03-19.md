@@ -32,7 +32,7 @@ _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) z
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` | no | 18:00 UTC | 10 April 2025 |
-| Insurance Roadblocks | yes | 8 PM EDT<br>Midnight UTC | 22 April 2025<br>23 April 2025 |
+| Insurance Roadblocks with George Huntley | yes | 8 PM EDT<br>Midnight UTC | 22 April 2025<br>23 April 2025 |
 
 #### Time Zone Converter
 
