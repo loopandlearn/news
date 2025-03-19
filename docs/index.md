@@ -40,7 +40,7 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## Voices from ATTD
 
-Several members of the Loop and Learn team, as well as others we all know from the community are attending Advanced Technologies & Treatments for Diabetes ([ATTD](https://attd.kenes.com/){:target="_blank"}) in Amsterdam as [#dedoc°](https://www.facebook.com/hashtag/dedoc){:target="_blank"} voices this week. We are looking forward to hearing their reports and will share that info in our Facebook group.
+Several members of the Loop and Learn team, as well as others we all know from the community are attending Advanced Technologies & Treatments for Diabetes ([ATTD](https://attd.kenes.com/){:target="_blank"}) in Amsterdam as [#dedoc°](https://www.facebook.com/hashtag/dedoc){:target="_blank"} voices this week. We are looking forward to hearing their reports and will share that info after the conference.
 
 ## Life for a Child
 
