@@ -103,7 +103,7 @@ The FFL Arlington conference was both enlightening and empowering, reinforcing t
 
 ## Appreciation From Lucky Loopers
 
-We are humbled to receive such kind expressions of gratitude for the work we do for the community. Every "thank you" we receive is shared with our team to ensure everyone feels the impact of their efforts. Thank YOU for these and for participating on our Facebook group - that helps loopers in so many ways! Here are some of the thoughtful thank-you messages we’ve received recently. Names have been removed and some messages have been paraphrased.
+We are humbled to receive such kind expressions of gratitude for the work we do for the community. Every "thank you" we receive is shared with our team to ensure everyone feels the impact of their efforts. Thank YOU for these and for participating in our Facebook group - that helps loopers in so many ways! Here are some of the thoughtful thank-you messages we’ve received recently. Names have been removed and some messages have been paraphrased.
 
 * I feel the need to publicly express my thanks for helping me once again resolve my browser customization error (and then going on to help me build Trio, discovering that my developer agreement wasn’t up to date!!). My mentor set up a Zoom call with me, giving up her beautiful sunny afternoon. She empowered me to try things outside of my comfort zone. I can't thank her enough!
 
