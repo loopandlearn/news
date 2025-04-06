@@ -74,25 +74,25 @@ will be recorded.
 One of our Loopers enthusiastically
 recommended [browser building](https://loopkit.github.io/loopdocs/browser/bb-overview/){:target="_blank"} in a recent
 FaceBook comment: “I am so happy that I
-managed to browser build Loop and related
+managed to browser build `Loop` and related
 apps! I’m so mind-free now! Xcode build
 was my first go but every time I had to
 check/ wait for updates (macOS , Xcode),
 dread that disk space wouldn’t suffice, my
 Mac mini would not get the latest updates
-and so on! Now I build Loop from an old
+and so on! Now I build `Loop` from an old
 laptop!!” We agree, Nikos!
 
 ## Do Not Rely on Answers from AI
 
 We’ve previously shared our concerns
 about relying on AI for settings decisions
-when looping—and we still stand by that.
+when `looping`—and we still stand by that.
 Now we need to add: please don’t use AI
 for building information either. It can lead
 to serious safety issues. We’re all eager
 for the day AI can safely lighten the
-looping load, and we’re watching its
+`looping` load, and we’re watching its
 progress. But it’s not ready for this role.
 Your safety and the integrity of your OS-
 AID come first. For now, stick with trusted,
@@ -101,7 +101,7 @@ human-verified resources.
 ## Bluetooth Signal Loss in a Crowd
 
 You may encounter signal loss,
-leading to a red loop. Two great pieces
+leading to a red `loop`. Two great pieces
 of advice from our experts on
 [Facebook](https://www.facebook.com/groups/diytrio/permalink/1798332747567239/?rdid=ZnGTTsJnNNY7tIOy#){:target="_blank"}:
 
@@ -136,15 +136,15 @@ Getting a new phone? That can be
 exciting, but also a little nerve-wracking.
 
 Take a moment to read up on what
-to do to keep on Loopin’ in [`LoopDocs`: New Phone Tips](https://loopkit.github.io/loopdocs/faqs/new-phone/){:target="_blank"}!
+to do to keep on `Looping` in [`LoopDocs`: New Phone Tips](https://loopkit.github.io/loopdocs/faqs/new-phone/){:target="_blank"}!
 
 ## `Trio` Tip
 
-If you add manual glucose in Trio and would like to force a loop, you can do so as follows:
+If you add manual glucose in Trio and would like to force a `loop`, you can do so as follows:
 
 1. Open the history and tap upper right to add manual glucose. 
 2. After adding it, long press
-the green loop status ring and BOOM!
+the green `loop` status ring and BOOM!
 
 But remember, with Trio:
 
@@ -153,7 +153,7 @@ But remember, with Trio:
 
 ## News from `ATTD`
 
-Several members of the Loop and Learn team, as well as others we all know from the
+Several members of the `Loop and Learn` team, as well as others we all know from the
 community, attended the [Advanced Technologies & Treatments for Diabetes](https://attd.kenes.com/scientific-program/){:target="_blank"} (ATTD)
 conference in Amsterdam as [#dedoc° voices](https://www.dedoc.org/){:target="_blank"} recently. Thanks to Miroslava Calegari and
 Theresa Hastings for sharing these nuggets of information from the conference.
@@ -171,10 +171,10 @@ CWD awarded over 1500 of them last year and about a dozen at ATTD 2025. If one o
 big milestones is approaching for you or for a T1D you love, be sure to request your
 [Journey Award](https://childrenwithdiabetes.com/cwd-journey-award/){:target="_blank"}!
 
-Data from the [CLOSE IT](https://pmc.ncbi.nlm.nih.gov/articles/PMC10882371/){:target="_blank"} trial, which evaluated an open-source, fully closed-loop (FCL)
+Data from the [CLOSE IT](https://pmc.ncbi.nlm.nih.gov/articles/PMC10882371/){:target="_blank"} trial, which evaluated an open-source, fully `closed-loop` (FCL)
 insulin delivery system using the oref algorithm, were presented. The trial aimed to assess
 the safety and efficacy of a bolus-free, fully automated system. In the study, the FCL
-system was compared to a hybrid closed-loop (HCL) approach, both utilizing an Android-
+system was compared to a hybrid `closed-loop` (HCL) approach, both utilizing an Android-
 based artificial pancreas incorporating a Dexcom CGM and Ypsomed pump.
 
 In the FCL arm, no manual boluses were administered unless CGM glucose exceeded 270
