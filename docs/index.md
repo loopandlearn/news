@@ -230,7 +230,7 @@ dedoc° voice, see [dedoc.org/voices](dedoc.org/voices){:target="_blank"}!
 
 ## `LoopFollow` News
 
-[LoopFollow 2.3.0](https://github.com/loopandlearn/LoopFollow/releases) has been released.
+[LoopFollow 2.3.0](https://github.com/loopandlearn/LoopFollow/releases){:target="_blank"} has been released.
 
 **All LoopFollowers**: check out the release history for full details of all recent updates. 
 
@@ -238,7 +238,7 @@ dedoc° voice, see [dedoc.org/voices](dedoc.org/voices){:target="_blank"}!
 to LoopFollow!!
 
 1. Automatic certificate renewal requires the addition of an Action Variable: 
-    * [LoopDocs: Add Variable](https://loopkit.github.io/loopdocs/browser/prepare-fork/#add-variable)
+    * [LoopDocs: Add Variable](https://loopkit.github.io/loopdocs/browser/prepare-fork/#add-variable){:target="_blank"}
 
 2. Manually sync your fork and run the action Build LoopFollow to make sure you're
 using all of the latest updates.
@@ -249,11 +249,8 @@ LoopFollow update.
 ## Helpful Links
 
 * Newsletter Subscription
-    * We cannot take your email subscription with us when we move to a new service
-    * Until we make the move, you need to be signed up in both places
-    * If you are getting the emails, you are already subscribed to the current service:
-        * [Current Service Sign-up](https://www.loopandlearn.org/newsletter-signup/){:target="_blank"} 
-        * [Future Service Sign-up: Google Form for Newsletter sign up](https://docs.google.com/forms/d/e/1FAIpQLSeu64I0Ygauk079Q0lMhEcPq-IydPmscm2UCie6uxXfkfdmWw/viewform){:target="_blank"} 
+    * [Current Service Sign-up](https://www.loopandlearn.org/newsletter-signup/){:target="_blank"} 
+    * [Future Service Sign-up: Google Form for Newsletter sign up](https://docs.google.com/forms/d/e/1FAIpQLSeu64I0Ygauk079Q0lMhEcPq-IydPmscm2UCie6uxXfkfdmWw/viewform){:target="_blank"} 
 * Not all articles in the original Newsletter are reproduced in this text only edition; click on [original Newsletter archives](https://www.loopandlearn.org/loop-and-learn-newsletter/){:target="_blank"} for the full version
     * In particular, articles about recent posts in Facebook are not transcribed to the text-only version
 * [Check for Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"} summarizes details about latest versions for Loop, Trio, Loop Customizations and iOS
