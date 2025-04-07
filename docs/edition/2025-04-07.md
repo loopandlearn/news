@@ -9,12 +9,13 @@ Published on 7 April 2025.
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
 * [iOS Version Update](#ios-version-update)
 * [The `PBM` Problem - Insurance Roadblocks to Care](#the-pbm-problem---insurance-roadblocks-to-care)
-* [A User Recommends Browser Build](#a-user-recommends-browser-build)
-* [Do Not Rely on Answers from AI](#do-not-rely-on-answers-from-ai)
-* [Bluetooth Signal Loss in a Crowd](#bluetooth-signal-loss-in-a-crowd)
-* [Is Your "Go Bag" Ready](#is-your-go-bag-ready)
-* [A Look at `LoopDocs`](#a-look-at-loopdocs)
-* [`Trio` Tip](#trio-tip)
+* [Do, Don't and Other Tips](#do-dont-and-other-tips )
+    * [A User Recommends Browser Build](#a-user-recommends-browser-build)
+    * [Do Not Rely on Answers from AI](#do-not-rely-on-answers-from-ai)
+    * [Bluetooth Signal Loss in a Crowd](#bluetooth-signal-loss-in-a-crowd)
+    * [Is Your "Go Bag" Ready](#is-your-go-bag-ready)
+    * [A Look at `LoopDocs`](#a-look-at-loopdocs)
+    * [`Trio` Tip](#trio-tip)
 * [News from `ATTD`](#news-from-attd)
 * [What is `dedoc`?](#what-is-dedoc)
 * [`LoopFollow` News](#loopfollow-news)
@@ -69,7 +70,9 @@ other significant PBM market practices. Both commercial plans and the Medicare P
 model will be discussed. This session is specific to our US members, but all are welcome. It
 will be recorded.
 
-## A User Recommends Browser Build
+## Do, Don't and Other Tips
+
+### A User Recommends Browser Build
 
 One of our Loopers enthusiastically
 recommended [browser building](https://loopkit.github.io/loopdocs/browser/bb-overview/){:target="_blank"} in a recent
@@ -87,7 +90,7 @@ laptop!!”
 
 We agree.
 
-## Do Not Rely on Answers from AI
+### Do Not Rely on Answers from AI
 
 We’ve previously shared our concerns
 about relying on AI for settings decisions
@@ -102,7 +105,7 @@ Your safety and the integrity of your OS-
 AID come first. For now, stick with trusted,
 human-verified resources.
 
-## Bluetooth Signal Loss in a Crowd
+### Bluetooth Signal Loss in a Crowd
 
 You may encounter signal loss,
 leading to a red `loop`. Two great pieces
@@ -124,7 +127,7 @@ pod with a person on either side.
     * You might also be able to shield
 using a sheet of aluminium foil or a faraday bag 
 
-## Is Your "Go Bag" Ready
+### Is Your "Go Bag" Ready
 
 What’s in your diabetes bag? Have
 you looked lately? This is a friendly
@@ -134,7 +137,7 @@ your or your kid’s diabetes bag on a
 regular basis and make sure
 everything you may need is in it!
 
-## A Look at `LoopDocs`
+### A Look at `LoopDocs`
 
 Getting a new phone? That can be
 exciting, but also a little nerve-wracking.
@@ -142,7 +145,7 @@ exciting, but also a little nerve-wracking.
 Take a moment to read up on what
 to do to keep on `Looping` in [`LoopDocs`: New Phone Tips](https://loopkit.github.io/loopdocs/faqs/new-phone/){:target="_blank"}!
 
-## `Trio` Tip
+### `Trio` Tip
 
 If you add manual glucose in Trio and would like to force a `loop`, you can do so as follows:
 
