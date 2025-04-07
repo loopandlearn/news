@@ -2842,7 +2842,7 @@ will be recorded.</p>
 <h2 id="do-dont-and-other-tips">Do, Don't and Other Tips<a class="headerlink" href="#do-dont-and-other-tips" title="Anchor link to this Header on this Page">&para;</a></h2>
 <h3 id="a-user-recommends-browser-build">A User Recommends Browser Build<a class="headerlink" href="#a-user-recommends-browser-build" title="Anchor link to this Header on this Page">&para;</a></h3>
 <p>One of our Loopers enthusiastically
-recommended <a href="https://loopkit.github.io/loopdocs/browser/bb-overview/" target="_blank">browser building</a> in a recent
+recommended <a href="https://loopkit.github.io/loopdocs/browser/bb-overview/" target="_blank">browser build</a> in a recent
 FaceBook comment:</p>
 <blockquote>
 <p>“I am so happy that I
@@ -2880,13 +2880,13 @@ Bluetooth and WiFi use the same
 antenna and there’s going to be a
 lot of noise in that frequency band.</li>
 <li>You can solve this issue by putting
-the phone right next to the pod,
+the phone right next to the <code>pod</code>,
 then shielding it from the other side
 with something that blocks
 Bluetooth. <ul>
 <li>You can use bodies
 to sandwich the phone against the
-pod with a person on either side.</li>
+<code>pod</code> with a person on either side.</li>
 <li>You might also be able to shield
 using a sheet of aluminium foil or a faraday bag </li>
 </ul>
@@ -2906,32 +2906,36 @@ exciting, but also a little nerve-wracking.</p>
 <p>Take a moment to read up on what
 to do to keep on <code>Looping</code> in <a href="https://loopkit.github.io/loopdocs/faqs/new-phone/" target="_blank"><code>LoopDocs</code>: New Phone Tips</a>!</p>
 <h3 id="trio-tip"><code>Trio</code> Tip<a class="headerlink" href="#trio-tip" title="Anchor link to this Header on this Page">&para;</a></h3>
-<p>If you add manual glucose in Trio and would like to force a <code>loop</code>, you can do so as follows:</p>
+<p>If your <em>Trio</em> app isn’t <code>looping</code> because you are missing glucose values:</p>
 <ol>
-<li>Open the history and tap upper right to add manual glucose. </li>
-<li>After adding it, long press
-the <code>loop</code> status ring and if Trio has enough information, it will <code>loop</code><ul>
-<li>Depending on the size of the gap, you may need to enter several readings before Trio will make a decision</li>
-<li>If your glucose is higher or lower than you expect, take manual action</li>
-</ul>
-</li>
+<li>Open the History screen in the Trio app</li>
+<li>Tap the + on the top right to add a manual glucose value</li>
+<li>After adding a glucose reading, press and hold the <code>loop</code> indicator (to the right of BG on the main screen)</li>
 </ol>
+<p>What helps:</p>
+<ul>
+<li>Add 3 glucose values about 4–5 minutes apart within 20 minutes.</li>
+</ul>
+<p>Note: If all 3 values are exactly the same, the algorithm might ignore them. This is because <em>Trio</em> looks for realistic changes in glucose, not repeated numbers.</p>
 <h2 id="news-from-attd">News from <code>ATTD</code><a class="headerlink" href="#news-from-attd" title="Anchor link to this Header on this Page">&para;</a></h2>
 <p>Several members of the <code>Loop and Learn</code> team, as well as others we all know from the
 community, attended the <a href="https://attd.kenes.com/scientific-program/" target="_blank">Advanced Technologies &amp; Treatments for Diabetes</a> (ATTD)
 conference in Amsterdam as <a href="https://www.dedoc.org/" target="_blank">#dedoc° voices</a> recently. Thanks to Miroslava Calegari and
 Theresa Hastings for sharing these nuggets of information from the conference.</p>
+<h4 id="ting">TING<a class="headerlink" href="#ting" title="Anchor link to this Header on this Page">&para;</a></h4>
 <p>A new blood glucose range was born at ATTD: <a href="https://www.linkedin.com/posts/thomas-danne-81694917_attd2025-activity-7307694868103884800-2MKK" target="_blank">“TING,” Time in Normoglycemia</a>. It is
 suggested to use TING instead of TITR (Time in Tight Range) for Continuous Glucose
 Measurements. There is an ongoing discussion about whether TITR (70-140 mg/dl) will
 remain the standard or if we should move to 63 - 140 mg/dl, which got the majority vote,
 so far.</p>
+<h4 id="journey-awards">Journey Awards<a class="headerlink" href="#journey-awards" title="Anchor link to this Header on this Page">&para;</a></h4>
 <p>It's always a joy to see people receiving their Journey Awards, beautiful mementos for
 anyone living with diabetes for 10, 25, 50 and 75 years. CWD assumed the honor and duty
 of awarding these treasures from Lilly Diabetes, who still funds them, starting a few years ago.
 CWD awarded over 1500 of them last year and about a dozen at ATTD 2025. If one of those
 big milestones is approaching for you or for a T1D you love, be sure to request your
 <a href="https://childrenwithdiabetes.com/cwd-journey-award/" target="_blank">Journey Award</a>!</p>
+<h4 id="close-it-fully-closed-loop-study">CLOSE IT (fully <code>closed-loop</code> study)<a class="headerlink" href="#close-it-fully-closed-loop-study" title="Anchor link to this Header on this Page">&para;</a></h4>
 <p>Data from the <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10882371/" target="_blank">CLOSE IT</a> trial, which evaluated an open-source, fully <code>closed-loop</code> (FCL)
 insulin delivery system using the oref algorithm, were presented. The trial aimed to assess
 the safety and efficacy of a bolus-free, fully automated system. In the study, the FCL
@@ -2948,6 +2952,13 @@ restrictions.</p>
 <a href="https://bionicwookiee.com/" target="_blank">Bionic Wookiee</a>, for his pivotal contributions as a software engineer in the development of
 open-source diabetes technologies. His work continues to shape the future of automated
 insulin delivery.</p>
+<h4 id="womens-health">Women's Health<a class="headerlink" href="#womens-health" title="Anchor link to this Header on this Page">&para;</a></h4>
+<p>Important information was shared about women’s issues, which we’ll expound on in an
+upcoming News From Loop and Learn Special Edition:</p>
+<p>Can your menstrual cycle affect your insulin needs? Absolutely — and now, we have the
+data to back it up. Carson Wedding (University of Colorado Anschutz) shared powerful
+new insights into how different phases of the menstrual cycle impact glucose patterns in
+women with T1D — using an innovative method called BlockRQA.</p>
 <p>An <a href="https://www.facebook.com/1166328317/posts/10235978041529156/" target="_blank">insightful poster</a> explored the lived experiences of women with type 1 diabetes (T1D)
 navigating perimenopause and menopause — a topic that still lacks sufficient research
 and clinical guidance. The study revealed that 88% of participants reported that
@@ -2958,6 +2969,7 @@ glucose monitoring (CGM) and artificial insulin delivery (AID) systems experienc
 glucose control and overall well-being. Additionally, access to Menopause Hormone
 Therapy (MHT) was linked to improved outcomes. The study calls for better integration of
 diabetes care, gynecology, and mental health services to support midlife women with T1D.</p>
+<h4 id="diabetes-data-rights-charter">Diabetes Data Rights Charter<a class="headerlink" href="#diabetes-data-rights-charter" title="Anchor link to this Header on this Page">&para;</a></h4>
 <p>Ten members of the diabetes
 community, including LnL’s
 Theresa Hastings, gathered to
