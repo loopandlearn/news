@@ -73,7 +73,9 @@ will be recorded.
 
 One of our Loopers enthusiastically
 recommended [browser building](https://loopkit.github.io/loopdocs/browser/bb-overview/){:target="_blank"} in a recent
-FaceBook comment: “I am so happy that I
+FaceBook comment:
+
+> “I am so happy that I
 managed to browser build `Loop` and related
 apps! I’m so mind-free now! Xcode build
 was my first go but every time I had to
@@ -81,7 +83,9 @@ check/ wait for updates (macOS , Xcode),
 dread that disk space wouldn’t suffice, my
 Mac mini would not get the latest updates
 and so on! Now I build `Loop` from an old
-laptop!!” We agree, Nikos!
+laptop!!” 
+
+We agree.
 
 ## Do Not Rely on Answers from AI
 
@@ -144,12 +148,9 @@ If you add manual glucose in Trio and would like to force a `loop`, you can do s
 
 1. Open the history and tap upper right to add manual glucose. 
 2. After adding it, long press
-the green `loop` status ring and BOOM!
-
-But remember, with Trio:
-
-* The prediction engine requires at least 3 glucose readings within the last 20 minutes
-* The prediction engine rejects 3 readings that are exactly the same (so if you are going to cheat, be creative)
+the green `loop` status ring and ask Trio if it has enough data
+    * Depending on the size of the gap, you may need to enter several readings before Trio will make a decision
+    * If your glucose is higher or lower than you expect, take manual action
 
 ## News from `ATTD`
 
