@@ -75,7 +75,7 @@ will be recorded.
 ### A User Recommends Browser Build
 
 One of our Loopers enthusiastically
-recommended [browser building](https://loopkit.github.io/loopdocs/browser/bb-overview/){:target="_blank"} in a recent
+recommended [browser build](https://loopkit.github.io/loopdocs/browser/bb-overview/){:target="_blank"} in a recent
 FaceBook comment:
 
 > “I am so happy that I
@@ -117,13 +117,13 @@ Bluetooth and WiFi use the same
 antenna and there’s going to be a
 lot of noise in that frequency band.
 2. You can solve this issue by putting
-the phone right next to the pod,
+the phone right next to the `pod`,
 then shielding it from the other side
 with something that blocks
 Bluetooth. 
     * You can use bodies
 to sandwich the phone against the
-pod with a person on either side.
+`pod` with a person on either side.
     * You might also be able to shield
 using a sheet of aluminium foil or a faraday bag 
 
@@ -147,13 +147,17 @@ to do to keep on `Looping` in [`LoopDocs`: New Phone Tips](https://loopkit.githu
 
 ### `Trio` Tip
 
-If you add manual glucose in Trio and would like to force a `loop`, you can do so as follows:
+If your *Trio* app isn’t `looping` because you are missing glucose values:
 
-1. Open the history and tap upper right to add manual glucose. 
-2. After adding it, long press
-the `loop` status ring and if Trio has enough information, it will `loop`
-    * Depending on the size of the gap, you may need to enter several readings before Trio will make a decision
-    * If your glucose is higher or lower than you expect, take manual action
+1. Open the History screen in the Trio app
+2. Tap the + on the top right to add a manual glucose value
+3. After adding a glucose reading, press and hold the `loop` indicator (to the right of BG on the main screen)
+
+What helps:
+
+* Add 3 glucose values about 4–5 minutes apart within 20 minutes.
+
+Note: If all 3 values are exactly the same, the algorithm might ignore them. This is because *Trio* looks for realistic changes in glucose, not repeated numbers.
 
 ## News from `ATTD`
 
@@ -162,11 +166,15 @@ community, attended the [Advanced Technologies & Treatments for Diabetes](https:
 conference in Amsterdam as [#dedoc° voices](https://www.dedoc.org/){:target="_blank"} recently. Thanks to Miroslava Calegari and
 Theresa Hastings for sharing these nuggets of information from the conference.
 
+#### TING
+
 A new blood glucose range was born at ATTD: [“TING,” Time in Normoglycemia](https://www.linkedin.com/posts/thomas-danne-81694917_attd2025-activity-7307694868103884800-2MKK){:target="_blank"}. It is
 suggested to use TING instead of TITR (Time in Tight Range) for Continuous Glucose
 Measurements. There is an ongoing discussion about whether TITR (70-140 mg/dl) will
 remain the standard or if we should move to 63 - 140 mg/dl, which got the majority vote,
 so far.
+
+#### Journey Awards
 
 It's always a joy to see people receiving their Journey Awards, beautiful mementos for
 anyone living with diabetes for 10, 25, 50 and 75 years. CWD assumed the honor and duty
@@ -175,6 +183,7 @@ CWD awarded over 1500 of them last year and about a dozen at ATTD 2025. If one o
 big milestones is approaching for you or for a T1D you love, be sure to request your
 [Journey Award](https://childrenwithdiabetes.com/cwd-journey-award/){:target="_blank"}!
 
+#### CLOSE IT (fully `closed-loop` study)
 Data from the [CLOSE IT](https://pmc.ncbi.nlm.nih.gov/articles/PMC10882371/){:target="_blank"} trial, which evaluated an open-source, fully `closed-loop` (FCL)
 insulin delivery system using the oref algorithm, were presented. The trial aimed to assess
 the safety and efficacy of a bolus-free, fully automated system. In the study, the FCL
@@ -195,6 +204,16 @@ A heartfelt thank-you concluded the presentation, honoring David Burren, also kn
 open-source diabetes technologies. His work continues to shape the future of automated
 insulin delivery.
 
+#### Women's Health
+
+Important information was shared about women’s issues, which we’ll expound on in an
+upcoming News From Loop and Learn Special Edition:
+
+Can your menstrual cycle affect your insulin needs? Absolutely — and now, we have the
+data to back it up. Carson Wedding (University of Colorado Anschutz) shared powerful
+new insights into how different phases of the menstrual cycle impact glucose patterns in
+women with T1D — using an innovative method called BlockRQA.
+
 An [insightful poster](https://www.facebook.com/1166328317/posts/10235978041529156/){:target="_blank"} explored the lived experiences of women with type 1 diabetes (T1D)
 navigating perimenopause and menopause — a topic that still lacks sufficient research
 and clinical guidance. The study revealed that 88% of participants reported that
@@ -205,6 +224,8 @@ glucose monitoring (CGM) and artificial insulin delivery (AID) systems experienc
 glucose control and overall well-being. Additionally, access to Menopause Hormone
 Therapy (MHT) was linked to improved outcomes. The study calls for better integration of
 diabetes care, gynecology, and mental health services to support midlife women with T1D.
+
+#### Diabetes Data Rights Charter
 
 Ten members of the diabetes
 community, including LnL’s
