@@ -148,7 +148,7 @@ If you add manual glucose in Trio and would like to force a `loop`, you can do s
 
 1. Open the history and tap upper right to add manual glucose. 
 2. After adding it, long press
-the green `loop` status ring and ask Trio if it has enough data
+the green `loop` status ring and if Trio has enough information, it will `loop`
     * Depending on the size of the gap, you may need to enter several readings before Trio will make a decision
     * If your glucose is higher or lower than you expect, take manual action
 
