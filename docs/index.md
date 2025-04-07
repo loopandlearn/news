@@ -250,8 +250,7 @@ LoopFollow update.
 ## Helpful Links
 
 * Newsletter Subscription
-    * [Current Service Sign-up](https://www.loopandlearn.org/newsletter-signup/){:target="_blank"} 
-    * [Future Service Sign-up: Google Form for Newsletter sign up](https://docs.google.com/forms/d/e/1FAIpQLSeu64I0Ygauk079Q0lMhEcPq-IydPmscm2UCie6uxXfkfdmWw/viewform){:target="_blank"} 
+    * [Google Form for Newsletter sign up](https://docs.google.com/forms/d/e/1FAIpQLSeu64I0Ygauk079Q0lMhEcPq-IydPmscm2UCie6uxXfkfdmWw/viewform){:target="_blank"} 
 * Not all articles in the original Newsletter are reproduced in this text only edition; click on [original Newsletter archives](https://www.loopandlearn.org/loop-and-learn-newsletter/){:target="_blank"} for the full version
     * In particular, articles about recent posts in Facebook are not transcribed to the text-only version
 * [Check for Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"} summarizes details about latest versions for Loop, Trio, Loop Customizations and iOS
