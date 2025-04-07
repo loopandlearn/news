@@ -15,7 +15,7 @@ Published on 7 April 2025.
     * [Bluetooth Signal Loss in a Crowd](#bluetooth-signal-loss-in-a-crowd)
     * [Is Your "Go Bag" Ready](#is-your-go-bag-ready)
     * [A Look at `LoopDocs`](#a-look-at-loopdocs)
-    * [`Trio` Tip](#trio-tip)
+    * [`Trio` is Not `Looping`](#trio-is-not-looping)
 * [News from `ATTD`](#news-from-attd)
 * [What is `dedoc`?](#what-is-dedoc)
 * [`LoopFollow` News](#loopfollow-news)
@@ -145,7 +145,7 @@ exciting, but also a little nerve-wracking.
 Take a moment to read up on what
 to do to keep on `Looping` in [`LoopDocs`: New Phone Tips](https://loopkit.github.io/loopdocs/faqs/new-phone/){:target="_blank"}!
 
-### `Trio` Tip
+### `Trio` is Not `Looping`
 
 If your *Trio* app isn’t `looping` because you are missing glucose values:
 
