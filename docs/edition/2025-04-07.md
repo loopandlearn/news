@@ -218,12 +218,7 @@ An [insightful poster](https://www.facebook.com/1166328317/posts/102359780415291
 navigating perimenopause and menopause — a topic that still lacks sufficient research
 and clinical guidance. The study revealed that 88% of participants reported that
 menopause had an impact on their diabetes management, with many experiencing
-increased insulin resistance, glycemic variability, and emotional distress. However,
-technology played a significant role in improving outcomes; women using continuous
-glucose monitoring (CGM) and artificial insulin delivery (AID) systems experienced better
-glucose control and overall well-being. Additionally, access to Menopause Hormone
-Therapy (MHT) was linked to improved outcomes. The study calls for better integration of
-diabetes care, gynecology, and mental health services to support midlife women with T1D.
+increased insulin resistance, glycemic variability, and emotional distress.
 
 #### Diabetes Data Rights Charter
 
