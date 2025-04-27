@@ -15,7 +15,7 @@ Published on 27 April 2025.
 * [Dexcom G6 Availability](#dexcom-g6-availability)
 * [Interview with Amy Tendrich](#interview-with-amy-tendrich)
 * [Survey: Cell Phone Use in Schools](#survey-cell-phone-use-in-schools)
-* [A New Endocrine App](#a-new-endocrine-app)
+* [App for Exocrine Pancreatic Insufficiency](#app-for-exocrine-pancreatic-insufficiency)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -123,7 +123,7 @@ Host of D-Data and Diabetes Innovation days on his podcast this week.
 
 ## Survey: Cell Phone Use in Schools
 
-**Parents of students with T1D:**
+**Parents of U.S. students with T1D:**
 
 > How is cell phone use for diabetes monitoring
 handled at your child's school?
@@ -134,7 +134,7 @@ experience. With new federal efforts to restrict
 cell phones in schools, it's vital to advocate for
 clear exceptions for diabetes care.
 
-## A New Endocrine App
+## App for Exocrine Pancreatic Insufficiency
 
 Dana Lewis recently
 announced a new version
