@@ -70,7 +70,8 @@ Loop-main in GitHub to avoid unexpected updates.
 
 If you use Browser Build, this is a good time to ensure that you have [turned off automatic
 installation from TestFlight on the phone](https://loopkit.github.io/loopdocs/browser/phone-install/#disable-automatic-install-from-testflight){:target="_blank"} - you should choose a good time to update.
-All new browser builders should use a [GitHub organization](https://loopkit.github.io/loopdocs/browser/secrets/#create-a-free-github-organization){:target="_blank"} to expedite browser building.
+
+All new browser builders are encouraged to use a [GitHub organization](https://loopkit.github.io/loopdocs/browser/secrets/#create-a-free-github-organization){:target="_blank"} to expedite browser building.
 
 A very grateful “THANK YOU” to our Loop developers and testers, who work tirelessly to
 continuously improve Loop for all of us!
