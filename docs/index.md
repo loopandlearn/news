@@ -95,7 +95,7 @@ certificate renewal: `Loop 3.6`, `Trio`,
 Thank you to [George Huntley](https://www.diabetesleadership.org/who-we-are#leadership){:target="_blank"} of the [Diabetes Leadership Council](https://www.diabetesleadership.org/) and the
 [Diabetes Patient Advocacy Coalition](https://www.diabetespac.org/){:target="_blank"} for an excellent and informative
 presentation about insurance issues in the U.S. Here is a [recording of our
-interactive session](https://www.youtube.com/watch?v=DNgdLgN9YdY){:target="_blank"} and George was kind enough to share his slide deck, which
+interactive session](https://www.youtube.com/watch?v=DNgdLgN9YdY){:target="_blank"} and George was kind enough to share [his slide deck](https://drive.google.com/file/d/1WzCFL-eMD6-d0NkBuHTvZhFqkR-UXIMl/view?usp=sharing){:target="_blank"}, which
 contains even more info, as well.
 
 ## A Look at `LoopDocs`
