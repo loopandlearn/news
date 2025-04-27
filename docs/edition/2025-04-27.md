@@ -11,7 +11,7 @@ Published on 27 April 2025.
 * [iOS Version Update](#ios-version-update)
 * [Certificate Renawal](#certificate-renawal)
 * [Speaker Series: The PBM PRoblem - Insurance Roadblocks to Care](#speaker-series-the-pbm-problem---insurance-roadblocks-to-care)
-* [A Loop at `LoopDocs`](#a-loop-at-loopdocs)
+* [A Look at `LoopDocs`](#a-look-at-loopdocs)
 * [Dexcom G6 Availability](#dexcom-g6-availability)
 * [Interview with Amy Tendrich](#interview-with-amy-tendrich)
 * [Survey: Cell Phone Use in Schools](#survey-cell-phone-use-in-schools)
@@ -90,7 +90,7 @@ These apps have automatic
 certificate renewal: `Loop 3.6`, `Trio`,
 `LoopFollow`, and `LoopCaregiver`
 
-## Speaker Series: The PBM PRoblem - Insurance Roadblocks to Care
+## Speaker Series: The PBM Problem - Insurance Roadblocks to Care
 
 Thank you to [George Huntley](https://www.diabetesleadership.org/who-we-are#leadership){:target="_blank"} of the [Diabetes Leadership Council](https://www.diabetesleadership.org/) and the
 [Diabetes Patient Advocacy Coalition](https://www.diabetespac.org/){:target="_blank"} for an excellent and informative
@@ -98,7 +98,7 @@ presentation about insurance issues in the U.S. Here is a [recording of our
 interactive session](https://www.youtube.com/watch?v=DNgdLgN9YdY){:target="_blank"} and George was kind enough to share his slide deck, which
 contains even more info, as well.
 
-## A Loop at `LoopDocs`
+## A Look at `LoopDocs`
 
 Have 5 minutes to kill? Make them count by reading up on what to do to
 [stay safe while looping in LoopDocs!](https://loopkit.github.io/loopdocs/faqs/safety-faqs/){:target="_blank"}
