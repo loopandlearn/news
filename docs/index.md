@@ -51,27 +51,28 @@ For more details, see [LoopDocs](https://loopkit.github.io/loopdocs/version/rele
 
 * Please use the [Update/Rebuild with Browser Build LoopDocs](https://loopkit.github.io/loopdocs/browser/bb-update/#how-to-update-or-rebuild){:target="_blank"} page - there are extra
 instructions for this update
+    * Don't miss: [Special Instructions for 3.6.0](https://loopkit.github.io/loopdocs/browser/bb-update/#special-instructions-for-360){:target="_blank"}
 * There was also a one-time change at GitHub that means you must manually sync your fork (one-time)
 and build to get this update
     * If you don't manually update - you will get the [Check Update and Keep Alive](https://loopkit.github.io/loopdocs/browser/bb-errors/#check-upstream-and-keep-alive-error){:target="_blank"} error
 
-Because Loop-dev just became Loop-main (3.6), and Loop is under steady innovation, the dev
-branch (now 3.7) will continue to be updated.
-
 ### IMPORTANT NOTES:
 
 Some browser builders have encountered build errors when building Loop 3.6. If that happens
-to you, help can be found in our [Facebook group](https://www.facebook.com/groups/LOOPandLEARN){:target="_blank"}. 
-
-All Loopers who are not actively engaged in development or testing should use Loop-main.
-We expect Loop-dev to become active and experimental once again. Browser builders who
-have previously used Loop-dev should [check to ensure](https://loopkit.github.io/loopdocs/browser/build-dev-browser/#change-default-branch){:target="_blank"} that your default branch is set to
-Loop-main in GitHub to avoid unexpected updates.
+to you, help can be found in our [Facebook group](https://www.facebook.com/groups/LOOPandLEARN){:target="_blank"} or [Loop zulipchat: Build Issues: Loop 3.6.0](https://loop.zulipchat.com/#narrow/channel/209438-Build-Issues/topic/Loop.203.2E6.2E0){:target="_blank"}. 
 
 If you use Browser Build, this is a good time to ensure that you have [turned off automatic
 installation from TestFlight on the phone](https://loopkit.github.io/loopdocs/browser/phone-install/#disable-automatic-install-from-testflight){:target="_blank"} - you should choose a good time to update.
 
 All new browser builders are encouraged to use a [GitHub organization](https://loopkit.github.io/loopdocs/browser/secrets/#create-a-free-github-organization){:target="_blank"} to expedite browser building.
+
+All Loopers who are not actively engaged in development or testing should use the `main` branch when building the *Loop* app.
+
+* We expect the `dev` branch to become active and experimental once again
+    * The version number for the `dev` branch shows up as 3.7.0 and is not recommended for general use
+* Browser builders who were previously building the `dev` branch to get updates that are now released, should switch back to `main`
+    * When you choose the Action: Build Loop, the branch offered by default should say `main`
+    * If if does not, and you don't know how to fix this - ask for help at your favorite social media site
 
 A very grateful “THANK YOU” to our Loop developers and testers, who work tirelessly to
 continuously improve Loop for all of us!
