@@ -55,7 +55,7 @@ instructions for this update
 * There was also a one-time change at GitHub that means you must manually sync your fork (one-time)
 and build to get this update
     * If you don't manually update - you will get the [Check Update and Keep Alive](https://loopkit.github.io/loopdocs/browser/bb-errors/#check-upstream-and-keep-alive-error){:target="_blank"} error
-* If you use customizations, there are two that must be [removed from your build_loop.yml file](https://www.loopandlearn.org/loop-3-6/#delete-customizations){:target="_blank"} because the changes from the `dexcom_progress` and `g7_scan` are incorporated into `Loop 3.6.0`
+* If you use customizations, there are two that must be [removed from your build_loop.yml file](https://www.loopandlearn.org/loop-3-6/#delete-customizations){:target="_blank"} because the changes from the `bolus_display` and `g7_scan` are incorporated into `Loop 3.6.0`
 
 ### IMPORTANT NOTES:
 
@@ -119,7 +119,7 @@ you have issues with your supplier, see if you can switch suppliers.
 ## Interview with Amy Tendrich
 
 Justin Eastzer interviewed Amy Tenderich, founder of DiabetesMine and
-Host of D-Data and Diabetes Innovation days on his podcast this week.
+Host of D-Data and Diabetes Innovation Days on his podcast this week.
 [Have a listen!](https://diabetechpodcast.podbean.com/e/how-diabetes-bloggers-changed-the-game/){:target="_blank"}
 
 ## Survey: Cell Phone Use in Schools
