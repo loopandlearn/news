@@ -22,6 +22,8 @@ Published on 27 April 2025.
 
 All zoom sessions use the same [Zoom link](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09){:target="_blank"}.
 
+> WARNING - that zoom link will change soon. Do not use this link after 13 May 2025.
+
 _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) zoom meetings are scheduled on the second Thursday of each month.
 
 #### Zoom Calendar
@@ -33,6 +35,7 @@ _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) z
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` | no | 18:00 UTC | 8 May 2025 |
+| _<span translate="no">Twiist / Sequel</span>_: AID Presentation<br>Kate Farnsworth, Amy Malliet, Adam Cordova | no | 17:00 PDT / 20:00 EDT<br>01:00 UTC | 12 May 2025<br>13 May 2025 |
 
 #### Time Zone Converter
 
