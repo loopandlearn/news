@@ -32,6 +32,8 @@ _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) z
 
 * [https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09){:target="_blank"}
 
+> WARNING - that zoom link will change soon. Do not use this link after 13 May 2025.
+
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` | no | 18:00 UTC | 8 May 2025 |
