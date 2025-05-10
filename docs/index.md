@@ -28,7 +28,7 @@ _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) z
 
 *Zoom* Sessions use this link:
 
-* [https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09){:target="_blank"}
+* [https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09)
 
 > WARNING - that zoom link will change soon. Do not use this link after 13 May 2025.
 
@@ -62,6 +62,7 @@ afterward.
 
 We hope to see you there!
 
+* [https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09](https://us06web.zoom.us/j/89085412738?pwd=eXpTN2M5V3M0TEVJQktmVldBTVRYUT09)
 
 
 ## *Dexcom* G7 App Recall
