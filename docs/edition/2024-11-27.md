@@ -44,7 +44,7 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 **Speaker Series Presentation: Sequel twiist AID System**
 
-Come hear the Sequel team tell us about the [twiist AID](https://www.twiist.com/what-is-twiist) system and have your questions answered. The twiist system is the FDA-approved integration of Loop with a new pump (twiist) and CGM (Libre) combination.
+Come hear the Sequel team tell us about the [twiist AID](https://www.twiist.com/what-is-twiist) system and have your questions answered. The twiist system is the FDA-approved integration of an earlier version of Loop with a new pump (twiist) and CGM (Libre) combination.
 
 We will be hearing from:
 
