@@ -75,7 +75,7 @@ If you're on 2.6.0, stay there for now.
 
 When you feel low glucose (hypoglycemia) coming on, or when your glucose is already low and you need to raise your blood glucose efficiently, do you reach for juice or a snack food option? This [article by Dan Heller](https://danheller.substack.com/p/the-best-way-to-treat-hypoglycemia) is a long read, but a good one.
 
-We encourage you to put in the time! ; ) Here are some important points to whet your appetite:
+We encourage you to put in the time! Here are some important points to whet your appetite:
 
 Some quotes from the article are provided below:
 
