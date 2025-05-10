@@ -2,20 +2,18 @@
 
 _Master Your DIY `Closed-Loop` Insulin Delivery System_
 
-Published on 27 April 2025.
+Published on 10 May 2025.
 
 ## In this edition:
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
-* [`Loop 3.6` is Here](#loop-36-is-here)
-* [iOS Version Update](#ios-version-update)
-* [Certificate Renawal](#certificate-renawal)
-* [Speaker Series: The PBM PRoblem - Insurance Roadblocks to Care](#speaker-series-the-pbm-problem---insurance-roadblocks-to-care)
+* [*Sequel* Presentation](#sequel-presentation)
+* [*Dexcom* G7 App Recall](#dexcom-g7-app-recall)
+* [Dealing with Hypos?](#dealing-with-hypos)
+* [iPhone Recommendation](#iphone-recommendation)
+* [*Trio* Documentation Update](#trio-documentation-update)
 * [A Look at `LoopDocs`](#a-look-at-loopdocs)
-* [Dexcom G6 Availability](#dexcom-g6-availability)
-* [Interview with Amy Tendrich](#interview-with-amy-tendrich)
-* [Survey: Cell Phone Use in Schools](#survey-cell-phone-use-in-schools)
-* [App for Exocrine Pancreatic Insufficiency](#app-for-exocrine-pancreatic-insufficiency)
+* [Nurses Appreciation Week](#nurses-appreciation-week)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions
@@ -36,128 +34,49 @@ _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) z
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` | no | 18:00 UTC | 8 May 2025 |
 | _<span translate="no">Twiist / Sequel</span>_: AID Presentation<br>Kate Farnsworth, Amy Malliet, Adam Cordova | no | 17:00 PDT / 20:00 EDT<br>01:00 UTC | 12 May 2025<br>13 May 2025 |
 
 #### Time Zone Converter
 
 Need help figuring out when an event happens in your time zone? Try the [SavvyTime: UTC Converter](https://savvytime.com/converter/utc){:target="_blank"}.
 
-## `Loop` 3.6 is Here!
+## *Sequel* Presentation
+## *Dexcom* G7 App Recall
+## Dealing with Hypos?
+## iPhone Recommendation
 
-### Highlights
+Device Recommendation
 
-* Adds Automatic Certificate Generation and Renewal
-* Implements updates to minimize Dexcom G7 outages that were recently reported.
-
-For more details, see [LoopDocs](https://loopkit.github.io/loopdocs/version/releases/#loop-v360){:target="_blank"}.
-
-### If you use Browser Build:
-
-* Please use the [Update/Rebuild with Browser Build LoopDocs](https://loopkit.github.io/loopdocs/browser/bb-update/#how-to-update-or-rebuild){:target="_blank"} page - there are extra
-instructions for this update
-    * Don't miss: [Special Instructions for 3.6.0](https://loopkit.github.io/loopdocs/browser/bb-update/#special-instructions-for-360){:target="_blank"}
-* There was also a one-time change at GitHub that means you must manually sync your fork (one-time)
-and build to get this update
-    * If you don't manually update - you will get the [Check Update and Keep Alive](https://loopkit.github.io/loopdocs/browser/bb-errors/#check-upstream-and-keep-alive-error){:target="_blank"} error
-* If you use customizations, there are two that must be [removed from your build_loop.yml file](https://www.loopandlearn.org/loop-3-6/#delete-customizations){:target="_blank"} because the changes from the `bolus_display` and `g7_scan` are incorporated into `Loop 3.6.0`
-
-### IMPORTANT NOTES:
-
-Some browser builders have encountered build errors when building Loop 3.6. If that happens
-to you, help can be found in our [Facebook group](https://www.facebook.com/groups/LOOPandLEARN){:target="_blank"} or [Loop zulipchat](https://loop.zulipchat.com/#narrow/channel/209438-Build-Issues/topic/Loop.203.2E6.2E0){:target="_blank"}. 
-
-If you use Browser Build, this is a good time to ensure that you have [turned off automatic
-installation from TestFlight on the phone](https://loopkit.github.io/loopdocs/browser/phone-install/#disable-automatic-install-from-testflight){:target="_blank"} - you should choose a good time to update.
-
-All new browser builders are encouraged to use a [GitHub organization](https://loopkit.github.io/loopdocs/browser/secrets/#create-a-free-github-organization){:target="_blank"} to expedite browser building.
-
-All Loopers who are not actively engaged in development or testing should use the `main` branch when building the *Loop* app.
-
-* We expect the `dev` branch to become active and experimental once again
-    * The version number for the `dev` branch shows up as 3.7.0 and is not recommended for general use
-* Browser builders:
-    * When you choose the Action: Build Loop, the branch offered by default should say `main`
-    * If it does not, and you don't know how to fix this - ask for help at your favorite social media site
-
-A very grateful “THANK YOU” to our Loop developers and testers, who work tirelessly to
-continuously improve Loop for all of us!
-
-## iOS Version Update
-
-iOS 18.4.1 has been released and
-there are no reports of issues.
-
-* See [Version Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"} for more info
+We want to remind you again that if you are on an iPhone X or older, you
+should be looking to upgrade. Apple's next Worldwide Developers Conference
+(WWDC) is on 9 June and we anticipate the release of iOS 19.0 at that time.
 
 
-## Certificate Renawal
+Additionally. LoopFollow will soon require devices that support iOS 16 or newer.
 
-These apps have automatic
-certificate renewal: `Loop 3.6`, `Trio`,
-`LoopFollow`, and `LoopCaregiver`
+Beautiful Colorful Cosmos Flowers
 
-## Speaker Series: The PBM Problem - Insurance Roadblocks to Care
-
-Thank you to [George Huntley](https://www.diabetesleadership.org/who-we-are#leadership){:target="_blank"} of the [Diabetes Leadership Council](https://www.diabetesleadership.org/) and the
-[Diabetes Patient Advocacy Coalition](https://www.diabetespac.org/){:target="_blank"} for an excellent and informative
-presentation about insurance issues in the U.S. Here is a [recording of our
-interactive session](https://www.youtube.com/watch?v=DNgdLgN9YdY){:target="_blank"} and George was kind enough to share [his slide deck](https://drive.google.com/file/d/1WzCFL-eMD6-d0NkBuHTvZhFqkR-UXIMl/view?usp=sharing){:target="_blank"}, which
-contains even more info, as well.
-
+## *Trio* Documentation Update
 ## A Look at `LoopDocs`
 
-Have 5 minutes to kill? Make them count by reading up on what to do to
-[stay safe while looping in LoopDocs!](https://loopkit.github.io/loopdocs/faqs/safety-faqs/){:target="_blank"}
+New to Looping? We always recommend reading the documentation!
+There’s a lot to read. Here’s a good place to start- the Overview section in
+[LoopDocs](https://loopkit.github.io/loopdocs/intro/overview-intro/)! You can dive into different linked sections at your own pace
+and return to this page and click on the next when ready.
 
-## Dexcom G6 Availability
 
-We have heard that Edgepark has told some loopers that the G6 was
-discontinued and they would have to switch to the G7. Having seen no public
-announcement of this, one of our admin called Dexcom and confirmed the
-G6 is still being manufactured and the supply issues were resolved.
 
-If you hear something concerning about availability of Dexcom, you can call
-the company and check on it yourself at 1-888-738-3646, Option 2. And if
-you have issues with your supplier, see if you can switch suppliers.
+## Nurses Appreciation Week
 
-## Interview with Amy Tendrich
+> May 6-12 is Nurses Appreciation Week
 
-Justin Eastzer interviewed Amy Tenderich, founder of DiabetesMine and
-Host of D-Data and Diabetes Innovation Days on his podcast this week.
-[Have a listen!](https://diabetechpodcast.podbean.com/e/how-diabetes-bloggers-changed-the-game/){:target="_blank"}
+If you’re visiting your endocrinology clinic or know a school nurse
+who supports your child with type 1 diabetes, this is a great time to
+recognize their care and dedication.
 
-## Survey: Cell Phone Use in Schools
-
-**Parents of U.S. students with T1D:**
-
-> How is cell phone use for diabetes monitoring
-handled at your child's school?
-
-FOLLOWT1Ds invites you to take a short,
-anonymous [survey](https://dqa.co1.qualtrics.com/jfe/form/SV_d4gONAaZ70B1WcK?fbclid=IwY2xjawJ6ggZleHRuA2FlbQIxMABicmlkETFwYnRnMDRzV0ZXampMRjZhAR5DjHUYTdH9e-XeJsXbdeEcE6B_4OnL2quX9khEbAy37sgkfLHxBeuXiIOBSA_aem_rlruYLl6nsF_jbiKz28hxA){:target="_blank"} about your child's
-experience. With new federal efforts to restrict
-cell phones in schools, it's vital to advocate for
-clear exceptions for diabetes care.
-
-## App for Exocrine Pancreatic Insufficiency
-
-Dana Lewis recently
-announced a new version
-of her app PERT Pilot for iOS.
-
-Individuals with exocrine
-pancreatic insufficiency
-(EPI) can use the PERT Pilot
-app to log their meals,
-track the enzymes they
-take, and note how each meal affects them. The app also includes the EPI/PEI Symptom Score (EPI/PEI-
-SS), which allows users to monitor symptoms over time by evaluating both
-their frequency and severity, helping to identify trends and changes.
-
-PERT Pilot is available for both [iOS](https://apps.apple.com/us/app/pert-pilot/id6448204562){:target="_blank"} and [Android](https://play.google.com/store/apps/details?id=com.PERTPilot.PERTPilot&pli=1){:target="_blank"}.
-
-Feedback and feature requests can be sent to Dana+PERTPilot@OpenAPS.org
+To all of our nurse
+friends: **thank you for everything you do to keep people safe,
+supported, and well- whether in diabetes care or otherwise!**
 
 ## Helpful Links
 

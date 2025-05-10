@@ -74,6 +74,7 @@ extra_javascript:
     - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
+    - open-in-new-tab
     - search
     - htmlproofer:
         enabled: !ENV [CHECK_BROKEN_LINKS, False]
@@ -94,6 +95,7 @@ use_directory_urls: !ENV [CHECK_BROKEN_LINKS, True]
 nav:
 - Current: 'index.md'
 - Edition by Date:
+    - '2025-05-10': 'edition/2025-05-10.md'
     - '2025-04-27': 'edition/2025-04-27.md'
     - '2025-04-07': 'edition/2025-04-07.md'
     - '2025-03-19': 'edition/2025-03-19.md'
