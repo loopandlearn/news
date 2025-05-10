@@ -7,9 +7,9 @@ Published on 10 May 2025.
 ## In this edition:
 
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
-* [*Sequel* Presentation](#sequel-presentation)
+* [`Sequel` Presentation](#sequel-presentation)
 * [*Dexcom* G7 App Recall](#dexcom-g7-app-recall)
-* [Dealing with Hypos?](#dealing-with-hypos)
+* [Dealing with Low Glucose](#dealing-with-low-glucose)
 * [iPhone Recommendation](#iphone-recommendation)
 * [*Trio* Documentation Update](#trio-documentation-update)
 * [A Look at `LoopDocs`](#a-look-at-loopdocs)
@@ -40,7 +40,7 @@ _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) z
 
 Need help figuring out when an event happens in your time zone? Try the [SavvyTime: UTC Converter](https://savvytime.com/converter/utc){:target="_blank"}.
 
-## *Sequel* Presentation
+## `Sequel` Presentation
 
 **Speaker Series Presentation: Sequel twiist AID System**
 
@@ -60,7 +60,7 @@ but we will share notes
 afterward.
 
 
-Hope to see you there!
+We hope to see you there!
 
 
 
@@ -71,9 +71,9 @@ Hope to see you there!
 If you're on 2.6.0, stay there for now.
 
 
-## Dealing with Hypos?
+## Dealing with Low Glucose?
 
-When you feel a low coming on, or when you are already hypo and need to raise your blood glucose efficiently, do you reach for juice or a carby food option? This [article by Dan Heller](https://danheller.substack.com/p/the-best-way-to-treat-hypoglycemia) is a long read, but a good one. 
+When you feel low glucose (hypoglycemia) coming on, or when your glucose is already low and you need to raise your blood glucose efficiently, do you reach for juice or a snack food option? This [article by Dan Heller](https://danheller.substack.com/p/the-best-way-to-treat-hypoglycemia) is a long read, but a good one.
 
 We encourage you to put in the time! ; ) Here are some important points to whet your appetite:
 
