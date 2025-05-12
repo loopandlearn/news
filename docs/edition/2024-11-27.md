@@ -146,7 +146,7 @@ Trio Docs a read, especially the
 
 Much more information can be found at these announcements in [Trio Discord](https://discord.com/channels/1020905149037813862/1239980484318986341/1371241765113430128) and [Trio Facebook](https://www.facebook.com/groups/diytrio/posts/1840249870042193/).
 
-> If you are not member of Trio Discord, here's the [link to join](https://discord.gg/FnwFEFUwXE).
+> If you are not a member of Trio Discord, here's the [link to join](https://discord.gg/FnwFEFUwXE).
 
 ## A Look at `LoopDocs`
 
