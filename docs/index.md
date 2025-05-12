@@ -110,7 +110,7 @@ Additionally:
 
 The *Trio* documentation has been updated!
 
-This documentation is for the future open testing branch of Trio. If you plan to test prior to the official Trio 1.0 release, please review this documentation in preparation for testing the beta version of Trio when it is publicly available. Here’s a link to the new docs that are still under construction: [https://docs.diy-trio.org](https://docs.diy-trio.org)
+This documentation is for the beta testing branch of Trio. If you plan to test prior to the official Trio 1.0 release, please review this documentation in preparation for testing the beta version of Trio. The new docs are still under construction and can be found at [https://docs.diy-trio.org](https://docs.diy-trio.org).
 
 You can still find the documentation for the current version of Trio (Trio 0.2.5) in the new docs. They are located under the “0.2.x” tab or here: [https://docs.diy-trio.org/0.2.x](https://docs.diy-trio.org/0.2.x)
 
@@ -144,7 +144,7 @@ properly. While you wait, give the new
 Trio Docs a read, especially the
 [startup guide](https://docs.diy-trio.org/configuration/new-user-setup/).
 
-Much more information can be found in these announcements in [Trio Discord](https://discord.com/channels/1020905149037813862/1239980484318986341/1371241765113430128) and at [Trio Facebook](https://www.facebook.com/groups/diytrio/posts/1840249870042193/).
+Much more information can be found at these announcements in [Trio Discord](https://discord.com/channels/1020905149037813862/1239980484318986341/1371241765113430128) and [Trio Facebook](https://www.facebook.com/groups/diytrio/posts/1840249870042193/).
 
 > If you are not member of Trio Discord, here's the [link to join](https://discord.gg/FnwFEFUwXE).
 
