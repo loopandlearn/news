@@ -2,7 +2,7 @@
 
 _Master Your DIY `Closed-Loop` Insulin Delivery System_
 
-Published on 10 May 2025.
+Published on 11 May 2025.
 
 ## In this edition:
 
@@ -11,7 +11,9 @@ Published on 10 May 2025.
 * [*Dexcom* G7 App Recall](#dexcom-g7-app-recall)
 * [Dealing with Low Glucose](#dealing-with-low-glucose)
 * [iPhone Recommendation](#iphone-recommendation)
-* [*Trio* Documentation Update](#trio-documentation-update)
+* [*Trio* Talk](#trio-talk)
+    * [*Trio* Documentation Update](#trio-documentation-update)
+    * ["Soon" is Almost "Now"](#soon-is-almost-now)
 * [A Look at `LoopDocs`](#a-look-at-loopdocs)
 * [Nurses Appreciation Week](#nurses-appreciation-week)
 * [Helpful Links](#helpful-links)
@@ -44,7 +46,9 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 **Speaker Series Presentation: Sequel twiist AID System**
 
-Come hear the Sequel team tell us about the [twiist AID](https://www.twiist.com/what-is-twiist) system and have your questions answered. The twiist system is the FDA-approved integration of an earlier version of Loop with a new pump (twiist) and CGM (Libre) combination.
+Come hear the Sequel team tell us about the [twiist™](https://www.twiist.com/what-is-twiist)
+Automated Insulin Delivery (AID) System powered by
+Tidepool, and have your questions answered. 
 
 We will be hearing from:
 
@@ -100,18 +104,49 @@ Additionally:
 
 > All hardware that supports iOS 16, also supports iOS 17 and iOS 18. It is best to go on and update your phone to the newest iOS.
 
+## *Trio* Talk
 
-## *Trio* Documentation Update
+### *Trio* Documentation Update
 
-As Trio gets closer to open beta testing of an updated version, the developers share this message:
-
-> The documentation has been updated!
+The *Trio* documentation has been updated!
 
 This documentation is for the future open testing branch of Trio. If you plan to test prior to the official Trio 1.0 release, please review this documentation in preparation for testing the beta version of Trio when it is publicly available. Here’s a link to the new docs that are still under construction: [https://docs.diy-trio.org](https://docs.diy-trio.org)
 
 You can still find the documentation for the current version of Trio (Trio 0.2.5) in the new docs. They are located under the “0.2.x” tab or here: [https://docs.diy-trio.org/0.2.x](https://docs.diy-trio.org/0.2.x)
 
-These are still a work in progress, so feel free to look through them as a sneak peek at what’s coming, but understand some things may still change as we complete the final stages of closed beta testing.
+This documentation is a work in progress, so please understand that they are still being built out and that some things will change as we continue through beta testing.
+
+### "Soon" is Almost "Now"
+
+The *Trio* open beta is almost here!
+
+
+Once the beta is public, anyone who
+wants to install and use it can, but here is
+guidance on who we think should:
+
+
+* If you've been using Trio for a while
+now (or another oref-based AID like
+AAPS, OpenAPS, Boost, iAPS, etc), we
+recommend you update to the beta
+once it's available.
+
+* If you don't have any experience with
+Trio or other oref-based AIDs, we
+recommend you hold on a little
+longer. While we don't expect any
+major bugs, it would be much harder
+for someone who isn't familiar with
+how things are supposed to work to
+realize if something doesn't work
+properly. While you wait, give the new
+Trio Docs a read, especially the
+[startup guide](https://docs.diy-trio.org/configuration/new-user-setup/).
+
+Much more information can be found in these announcements in [Trio Discord](https://discord.com/channels/1020905149037813862/1239980484318986341/1371241765113430128) and at [Trio Facebook](https://www.facebook.com/groups/diytrio/posts/1840249870042193/).
+
+> If you are not member of Trio Discord, here's the [link to join](https://discord.gg/FnwFEFUwXE).
 
 ## A Look at `LoopDocs`
 
