@@ -46,6 +46,8 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 **Speaker Series Presentation: Sequel twiist AID System**
 
+> Monday, 12 May 2025 at 5 pm PDT / 8 pm EDT
+
 Come hear the Sequel team tell us about the [twiist™](https://www.twiist.com/what-is-twiist)
 Automated Insulin Delivery (AID) System powered by
 Tidepool, and have your questions answered. 
@@ -140,7 +142,6 @@ for someone who isn't familiar with
 how things are supposed to work to
 realize if something doesn't work
 properly.
-
 
 Please read the docs before building, especially the
 [startup guide](https://docs.diy-trio.org/configuration/new-user-setup/).
