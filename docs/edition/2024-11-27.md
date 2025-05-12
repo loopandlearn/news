@@ -120,6 +120,8 @@ This documentation is a work in progress, so please understand that they are sti
 
 The *Trio* open beta is almost here!
 
+Please read the docs before building, especially the
+[startup guide](https://docs.diy-trio.org/configuration/new-user-setup/).
 
 Once the beta is public, anyone who
 wants to install and use it can, but here is
@@ -140,9 +142,7 @@ major bugs, it would be much harder
 for someone who isn't familiar with
 how things are supposed to work to
 realize if something doesn't work
-properly. While you wait, give the new
-Trio Docs a read, especially the
-[startup guide](https://docs.diy-trio.org/configuration/new-user-setup/).
+properly.
 
 Much more information can be found at these announcements in [Trio Discord](https://discord.com/channels/1020905149037813862/1239980484318986341/1371241765113430128) and [Trio Facebook](https://www.facebook.com/groups/diytrio/posts/1840249870042193/).
 
