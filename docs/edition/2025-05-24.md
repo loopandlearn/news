@@ -276,8 +276,7 @@ glucose control and fewer low blood
 sugar events than standard insulin
 therapy. The most significant
 improvements were seen in individuals
-new to automated insulin delivery and
-those starting with an HbA1c under 7%.
+new to automated insulin delivery.
 
 ### Guidelines for Glucose Control in Pregnancy
 
@@ -315,8 +314,8 @@ As hormone levels shift, many women
 experience increased insulin resistance and
 glucose variability. Diabetes technologies such
 as continuous glucose monitors (CGM), insulin
-pumps, connected pens, and automated insulin
-delivery (AID) systems have revealed critical
+pumps, connected pens, and Automated Insulin
+Delivery (AID) systems have revealed critical
 gaps in education, guidance, and research
 around these life stages.
 
