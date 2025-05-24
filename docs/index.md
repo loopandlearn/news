@@ -270,9 +270,7 @@ pregnancy. It was shown to be safe and
 well-received, with better overnight
 glucose control and fewer low blood
 sugar events than standard insulin
-therapy. The most significant improvements 
-were seen in individuals new to automated insulin delivery and in 
-women who entered pregnancy with lower HbA1c levels, possibly due to greater readiness or existing engagement in their diabetes care.
+therapy. Improvements were greatest in those new to automated insulin delivery and in women entering pregnancy with lower HbA1c, likely reflecting established proactive diabetes management practices.
 
 ### Guidelines for Glucose Control in Pregnancy
 
