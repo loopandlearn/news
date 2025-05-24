@@ -235,7 +235,7 @@ in diabetes research and technology design.
 ## Pregnancy and Diabetes
 
 Here we highlight sessions on technology use by pregnant women with
-diabetes. Current AID technologies may not fully meet the unique needs of
+diabetes. Current Automated Insulin Delivery (AID) technologies may not fully meet the unique needs of
 pregnancy, and their effectiveness relies heavily on timely initiation, clinical
 support, and equitable access. Starting  AID early in pregnancy can make a
 meaningful difference- and it’s effective!
@@ -246,7 +246,7 @@ Dr. Helen Murphy spotlighted ten key studies from over 4,000 diabetes-related
 publications of the past year, focused on pregnancy in type 1, type 2, and gestational
 diabetes. Two major randomized controlled trials evaluated hybrid closed-loop (HCL)
 insulin delivery systems: the AiDAPT trial (CamAPS FX system) & the CRISTAL trial
-(MiniMed 780G) Real-world data reveal that not all HCL systems perform equally in
+(MiniMed 780G). Real-world data reveal that not all HCL systems perform equally in
 pregnancy, emphasizing the importance of both the technology and how it’s used. While
 new tools hold enormous promise for improving outcomes, successful implementation
 depends on clinical expertise and equitable access, not just the devices themselves.
