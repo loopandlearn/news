@@ -124,13 +124,13 @@ highlights the urgent need for sex-aware treatment
 guidelines and precision medicine to address the unique
 risks women face in T2D.
 
-> We really have a need
+> "We really have a need
 for precision medicine
 for treatment and
 treatment guidelines
-that take, into
+that take into
 consideration sex
-differences.
+differences."
 
 
 
@@ -147,14 +147,10 @@ of hypoglycemia due to metabolic differences, and face
 added challenges from caregiving demands and missed
 meals. The benefits of integrated, cross-specialty care,
 education, and the positive influence of peer support
-groups like DiabetesSisters in improving health outcomes
-were emphasized. Bellini urged us to “act today.” We can’t
-wait for primary care—if we see the problem, we need to
-act. We can’t just manage insulin pumps—we need to
-address blood pressure, lipids, weight, and real-life
-challenges, too.
+groups like [DiabetesSisters](https://diabetessisters.org/) in improving health outcomes
+were emphasized. Bellini urged us to “act today.” Primary care can’t wait—when the problem is visible, it’s time to act. Managing insulin pumps isn’t enough; blood pressure, lipids, weight, and real-life challenges all demand attention.
 
-> Ignoring factors like metabolism, hormonal shifts, autoimmune disorders and medication side effects is really not okay.
+> "Ignoring factors like metabolism, hormonal shifts, autoimmune disorders and medication side effects is really not okay."
 
 
 ### Sex Differences in Cardiovascular Risk Factors
@@ -180,13 +176,13 @@ begin too late or are insufficient, particularly in young women.
 Starting primary prevention early with gender-specific strategies
 is crucial to address this serious health disparity.
 
-> Further studies are
+> "Further studies are
 needed to help update
 guidelines — especially
 since women have
 historically been
 underrepresented in
-cardiovascular trials.
+cardiovascular trials."
 
 - - -
 
@@ -274,9 +270,9 @@ pregnancy. It was shown to be safe and
 well-received, with better overnight
 glucose control and fewer low blood
 sugar events than standard insulin
-therapy. The most significant
-improvements were seen in individuals
-new to automated insulin delivery.
+therapy. The most significant improvements 
+were seen in individuals new to automated insulin delivery and in 
+women who entered pregnancy with lower HbA1c levels, possibly due to greater readiness or existing engagement in their diabetes care.
 
 ### Guidelines for Glucose Control in Pregnancy
 
@@ -327,7 +323,7 @@ Women from underserved communities or with lower incomes faced even more challen
 
 To improve outcomes, there is a clear need for integrated, culturally sensitive care
 that bridges endocrinology, gynecology, and mental health. Incorporating
-menopauseinto diabetes care pathways- as has been done with pregnancy-
+menopause into diabetes care pathways- as has been done with pregnancy-
 could improve health, longevity, and quality of life for women with T1D during
 midlife and beyond.
 
