@@ -71,8 +71,11 @@ month, it is up to each looper to make sure that this happens - Apple Developer 
 signed, Apple distribution certificates haven't expired, a change made by GitHub, or any other
 failure. 
 
-Great News: Building with a Mac still works. If you have a Mac and need to rebuild, this is the way to
-go for now.
+Great News: Building with a Mac still works. 
+
+* If you have a Mac and need to rebuild, that is one option
+* You can pay to use a Mac online; this video walks you through one option
+    * [How to Build Trio/Loop with MacInCloud](https://youtu.be/m4mXppJFrJQ)
 
 - - -
 
