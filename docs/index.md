@@ -64,7 +64,7 @@ move to Trio 0.5.x.
 
 The community is working on solutions. Please be patient. 
 
-This issue that we are experiencing affects a lot of people - not just Open Source Automated Insulin Delivery Apps.
+The issue we are experiencing affects a lot of people - not just Open Source Automated Insulin Delivery Apps.
 
 This is an important reminder that although BB should automatically rebuild on the first of every
 month, it is up to each looper to make sure that this happens - Apple Developer agreements are
@@ -84,7 +84,7 @@ The ones we’ve seen are in pods manufactured starting in late January 2025.
 * If you do not have an iPhone 16, you will not notice a difference with these pods
 * If you have an iPhone 16, pay attention to the manufacture date
 
-The information about these new pods is relevant to all Open-Source Automated Insulin Delivery (OS-AID) apps (`Loop`, `Trio`, `iAPS`) that use iPhones. Android uses also report differences, but those are not discussed here.
+The information about these new pods is relevant to all Open Source Automated Insulin Delivery (OS-AID) apps (`Loop`, `Trio`, `iAPS`) that use iPhones. Android users also report differences, but those are not discussed here.
 
 **Before you connect:**
 
@@ -110,7 +110,7 @@ Thank you to the people using these pods who submitted Loop Reports. (We have en
 The reconnect sequence for InPlay pods is what is causing the issue with iPhone 16. The developers are looking at this to see what commands can be issued to make these new pods reconnect promptly.
 
 * `TWI_BOARD` pods and `InPlay BLE` pods with older phones reconnect in less than one sec
-* `InPlay BLE` pods with iPhone 16 have a median reconnect time closer to 40 sec - some shorter, some longer (measured times were up to many minutes)
+* `InPlay BLE` pods with iPhone 16 have a median reconnect time closer to 40 sec - half shorter, half longer (measured times could be many minutes)
 
 This is we've gathered from people using these pods with iPhone 16.
 
@@ -147,9 +147,9 @@ so that YOU can decide when your device gets updated. For iOS, it is particularl
 
 ## Version Updates
 
-iOS 18.5 has been [confirmed](https://www.loopandlearn.org/version-updates/#mac-xcode) to work with Xcode 16.4 by our testers. There have been no reported issue with any of the Open-Source apps on iOS 18.5 phones.
+iOS 18.5 has been [confirmed](https://www.loopandlearn.org/version-updates/#mac-xcode) to work with Xcode 16.4 by our testers. There have been no reported issue with any of the Open Source apps on iOS 18.5 phones.
 
-Please see [Version Updates]((https://www.loopandlearn.org/version-updates) for details and check back often.
+Please see [Version Updates](https://www.loopandlearn.org/version-updates) for details and check back often.
 
 - - -
 
@@ -181,8 +181,7 @@ Learn about [Anubis here](https://www.loopandlearn.org/anubis/).
 
 Whenever we have “breaking news”, it’s posted in the [Featured section](https://www.facebook.com/groups/LOOPandLEARN/announcements) of our
 Facebook group. We keep it updated and urge you to search there first when
-looking for important info on Facebook. It’s also a great idea to glance over there
-whenever you visit Facebook.
+looking for important info on Facebook.
 
 Be sure to subscribe to this newsletter so that breaking news arrives in your inbox too.
 
@@ -211,7 +210,7 @@ segments of the diabetes population!
 #### When on [Facebook](https://www.facebook.com/groups/LOOPandLEARN):
 
 Do you occasionally see a post and think, yeah... something similar happened to
-me; I think I’ll share that here and get help for my issue, too? However it’s much better to elevate what
+me; I think I’ll share that here and get help for my issue, too? It’s much better to elevate what
 happened to you to your own post becuase:
 
 * similar outcomes may have different causes
@@ -223,7 +222,7 @@ answers quicker that way!
 
 #### When on [`Loop Zulipchat`](https://loop.zulipchat.com/):
 
-This is a different forum. Normally you go to a channel and topic that already exists and add a new post in it. You do not need to mark your post resolved. In zulipchat you can view posts over all channels/topics in the order in which they are posted, or limit to a channel or topic and see just those posts in order.
+`Loop Zulipchat` is a different type of forum. Normally you go to a channel and topic that already exists and add a new post in it. You do not need to mark your post resolved. In zulipchat you can view posts over all channels/topics in the order in which they are posted, or limit to a channel or topic and see just those posts in order.
 
 It's a different experience than Facebook and far fewer people post there. You can get help either place.
 
@@ -231,22 +230,23 @@ Although it is recommended that you subscribe to all the channels in Loop zulipc
 
 ## `OS/DIY`-Friendly Healthcare Providers
 
-What does that mean?? Open Source/ Do-It-Yourself- Friendly Healthcare Providers
+What does that mean? Open Source/ Do-It-Yourself- Friendly Healthcare Providers
 (OS/DIY HCPs) are providers who are, at a minimum, willing to write
 prescriptions and provide prior authorizations for insurance. They do NOT need
 to be able or willing to teach you about your OS-AID or to help with settings.
-Occasionally, we hear about providers who dump patients using Loop or Trio-
+Occasionally, we hear about providers who dump patients using OS-AID -
 what a shame! Any HCP who is willing to support OS-AID users- to any degree-
-belongs on our list! Please add yours if they qualify.
+belongs on our list! Please [add yours](https://www.loopandlearn.org/hcp-recommendations/) if they qualify.
 
 - - -
 
 ## Text Size Tricks
 
-Did you know that you can enlarge your text size? You
+Did you know that you can change your text size? You
 can change it for one app and leave the rest of your
-phone settings enlarged by going to iPhone settings -
-> accessibility -> per-app settings -> add app
+phone settings unchanged.
+
+> iPhone settings -> accessibility -> per-app settings -> add app
 
 > then adjust text size (or other options) and they apply just to that app
 
@@ -275,5 +275,5 @@ experience that will help power you through to next year.
     * In particular, articles about recent posts in Facebook are not transcribed to the text-only version
 * [Check for Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"} summarizes details about latest versions for Loop, Trio, Loop Customizations and iOS
 * [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/){:target="_blank"}
-* [_<span translate="no">Loop and Learn</span>_&nbsp;Open-Source Automated Delivery System Links](https://www.loopandlearn.org/resources/#os-aid){:target="_blank"}
+* [_<span translate="no">Loop and Learn</span>_&nbsp;Open Source Automated Delivery System Links](https://www.loopandlearn.org/resources/#os-aid){:target="_blank"}
 
