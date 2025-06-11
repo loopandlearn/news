@@ -159,7 +159,7 @@ so that YOU can decide when your device gets updated. For iOS, it is particularl
 
 ## Version Updates
 
-iOS 18.5 has been [confirmed](https://www.loopandlearn.org/version-updates/#mac-xcode) to work with Xcode 16.4 by our testers. There have been no reported issue with any of the Open Source apps on iOS 18.5 phones.
+iOS 18.5 has been [confirmed](https://www.loopandlearn.org/version-updates/#mac-xcode) to work with Xcode 16.4 by our testers. There have been no reported issues with any of the Open Source apps on iOS 18.5 phones.
 
 Please see [Version Updates](https://www.loopandlearn.org/version-updates) for details and check back often.
 
