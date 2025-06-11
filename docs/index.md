@@ -2,7 +2,7 @@
 
 _Master Your DIY `Closed-Loop` Insulin Delivery System_
 
-Published on 9 June 2025.
+Published on 10 June 2025.
 
 ## In this edition:
 
@@ -57,25 +57,29 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## Urgent Message to All Browser Builders
 
-Browser Build (BB) is temporarily unavailable for anyone who needs to Add Identifiers. This
-includes new BBers and any current BBer who wants to build a new app, as well as those
-who are still running Loop 3.2.x and want to update to Loop 3.6, and those who want to
-move to Trio 0.5.x.
+Browser Build (BB) using a released (`main`) or development (`dev`) branch is temporarily unavailable for anyone who needs to Add Identifiers or update their certificates.
 
-The community is working on solutions. Please be patient. 
+We have a partial solution where we can help people with an app that is very close to expiration or already expired. Please see this section of the [Version Updates page](https://www.loopandlearn.org/version-updates/#interim-fastlane-update).
+
+Please do not panic - we will help you. If you have a week or more until expiration, please wait for a full solution where we update the released or dev code through our normal process.
+
+How do you know if you have a problem?
+
+* Go to your repository, select Actions: Build
+    * If it succeeds you do not have a problem and you gave yourself 90 days
+    * If it fails, please check out the status on the link above
+
+Special cases:
+
+* If you are running Loop 3.2.x and want to update to Loop 3.6, please wait unless time is critical
+* If you are running Trio 0.2.x and want to update to Trio 0.5.x, please wait until the full solution is provided
+
+The community is working on solutions as fast as we can. Please be patient. 
 
 The issue we are experiencing affects a lot of people - not just Open Source Automated Insulin Delivery Apps.
 
 This is an important reminder that although BB should automatically rebuild on the first of every
-month, it is up to each looper to make sure that this happens - Apple Developer agreements are
-signed, Apple distribution certificates haven't expired, a change made by GitHub, or any other
-failure. 
-
-Great News: Building with a Mac still works. 
-
-* If you have a Mac and need to rebuild, that is one option
-* You can pay to use a Mac online; this video walks you through one option
-    * [How to Build Trio/Loop with MacInCloud](https://youtu.be/m4mXppJFrJQ)
+month, it is up to each looper to make sure that this happens. This includes making sure Apple Developer agreements are signed, Apple distribution certificates are renewed, and necessary changes on GitHub or Apple platforms are addressed.
 
 - - -
 
