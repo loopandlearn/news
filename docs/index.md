@@ -17,8 +17,6 @@ Published on 10 June 2025.
 * [Where do I Find?](#where-do-i-find)
 * [More On Sex-Specific Precision Medicine](#more-on-sex-specific-precision-medicine)
 * [Start Your Own Post](#start-your-own-post)
-* [`OS/DIY`-Friendly Healthcare Providers](#osdiy-friendly-healthcare-providers)
-* [Text Size Tricks](#text-size-tricks)
 * [Friends for Life, Orlando 2025](#friends-for-life-orlando-2025)
 * [Helpful Links](#helpful-links)
 
@@ -246,28 +244,6 @@ answers quicker that way!
 It's a different experience than Facebook and far fewer people post there. You can get help either place.
 
 Although it is recommended that you subscribe to all the channels in Loop zulipchat when you join, be sure to at least include these: Build Issues, Documentation, Loop, LoopCaregiver App, Omnipod DASH.
-
-## `OS/DIY`-Friendly Healthcare Providers
-
-What does that mean? Open Source/ Do-It-Yourself- Friendly Healthcare Providers
-(OS/DIY HCPs) are providers who are, at a minimum, willing to write
-prescriptions and provide prior authorizations for insurance. They do NOT need
-to be able or willing to teach you about your OS-AID or to help with settings.
-Occasionally, we hear about providers who dump patients using OS-AID -
-what a shame! Any HCP who is willing to support OS-AID users- to any degree-
-belongs on our list! Please [add yours](https://www.loopandlearn.org/hcp-recommendations/) if they qualify.
-
-- - -
-
-## Text Size Tricks
-
-Did you know that you can change your text size? You
-can change it for one app and leave the rest of your
-phone settings unchanged.
-
-> iPhone settings -> accessibility -> per-app settings -> add app
-
-> then adjust text size (or other options) and they apply just to that app
 
 - - -
 
