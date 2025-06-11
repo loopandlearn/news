@@ -11,6 +11,7 @@ Published on 10 June 2025.
 * [iPhone 16 and DASH Pods: Heads Up!](#iphone-16-and-dash-pods-heads-up)
 * [Software Updates](#software-updates)
 * [Version Updates](#version-updates)
+* [New Apple Developer Agreement](#new-apple-developer-agreement)
 * [A Look at `LoopDocs`](#a-look-at-loopdocs)
 * [`Anubis` News](#anubis-news)
 * [Where do I Find?](#where-do-i-find)
@@ -61,7 +62,7 @@ Browser Build (BB) using a released (`main`) or development (`dev`) branch is te
 
 We have a partial solution where we can help people with an app that is very close to expiration or already expired. Please see this section of the [Version Updates page](https://www.loopandlearn.org/version-updates/#interim-fastlane-update).
 
-Please do not panic - we will help you. If you have a week or more until expiration, please wait for a full solution where we update the released or dev code through our normal process.
+**Please do not panic** - we will help you. If you have a week or more until expiration, please wait for a full solution where we update the released or dev code through our normal process.
 
 How do you know if you have a problem?
 
@@ -74,7 +75,7 @@ Special cases:
 * If you are running Loop 3.2.x and want to update to Loop 3.6, please wait unless time is critical
 * If you are running Trio 0.2.x and want to update to Trio 0.5.x, please wait until the full solution is provided
 
-The community is working on solutions as fast as we can. Please be patient. 
+The community is working on solutions as fast as we can. **Please be patient.**
 
 The issue we are experiencing affects a lot of people - not just Open Source Automated Insulin Delivery Apps.
 
@@ -88,8 +89,8 @@ month, it is up to each looper to make sure that this happens. This includes mak
 Insulet changed the boards they use for DASH pod manufacture. 
 The ones we’ve seen are in pods manufactured starting in late January 2025.
 
-* If you do not have an iPhone 16, you will not notice a difference with these pods
-* If you have an iPhone 16, pay attention to the manufacture date
+* If you **do not have an iPhone 16**, you **will not notice** a difference with these pods
+* If you **have an iPhone 16**, pay attention to the manufacture date because you **will notice a difference**
 
 The information about these new pods is relevant to all Open Source Automated Insulin Delivery (OS-AID) apps (`Loop`, `Trio`, `iAPS`) that use iPhones. Android users also report differences, but those are not discussed here.
 
@@ -137,6 +138,8 @@ This is we've gathered from people using these pods with iPhone 16.
 
 ### What to do?
 
+**Know that the developers are working hard to resolve this issue.**
+
 If you have these pods and use an iPhone 16, find a friend with an older iPhone who has a stash of `TWI BOARD` pods and swap pods with them.
 
 - - -
@@ -157,6 +160,15 @@ so that YOU can decide when your device gets updated. For iOS, it is particularl
 iOS 18.5 has been [confirmed](https://www.loopandlearn.org/version-updates/#mac-xcode) to work with Xcode 16.4 by our testers. There have been no reported issue with any of the Open Source apps on iOS 18.5 phones.
 
 Please see [Version Updates](https://www.loopandlearn.org/version-updates) for details and check back often.
+
+- - -
+
+## New Apple Developer Agreement
+
+It’s time to sign a new Apple Developer
+agreement. Please be sure to sign it by
+24 June 2025 to maintain your ability to build
+and update your apps.
 
 - - -
 
