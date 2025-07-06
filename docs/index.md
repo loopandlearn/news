@@ -16,6 +16,7 @@ Published on 07 July 2025.
 * [Who Should Use Nightscout](#who-should-use-nightscout)
 * [Trio Tips: SMB & UAM](#trio-tips-smb--uam)
 * [LoopFollow v2.8.0 and dev branch](#loopfollow-v280-and-dev-branch)
+    * [Coming Soon](#coming-soon)
 * [OS/DIY-friendly HCP](#osdiy-friendly-hcp)
 * [Text Size Tricks](#text-size-tricks)
 * [Advocacy in Action](#advocacy-in-action)
@@ -197,10 +198,10 @@ But wait - more is coming soon. If you are adventurous and want to help test the
 
 * A complete rewrite of the Alarm User Interface - much easier to navigate and configure
     * User can select which alarms to display from a variety of types
-    * User can create multiple copies of the same kind of alarm configured unique settings and names
+    * User can create multiple copies of the same type of alarm, each configured with unique settings and names
     * Displayed alarms are characterized by type (snoozed, active, inactive)
     * Global snooze alarm easy to configure
-    * Not Looping alarms are updated (no longer shown when the NS data is stale)
+    * Not Looping alarms are updated (no longer shown when it is just the NS data that is stale)
 * If you do not use Remotes, the second button on the main toolbar is restored to take you to Alarms
 * Long notes from Nightscout are now automatically wrapped for LoopFollow display
 * Improved security: Passwords and Token are hidden from view by default
