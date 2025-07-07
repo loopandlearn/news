@@ -272,12 +272,18 @@ Did you know that you can change your text size? You
 can change it for one app and leave the rest of your
 phone settings unchanged. 
 
-Some people need large text on most of their apps, but then their OS AID might not look at good.
+Some people need large text on most of their apps, but then their OS AID might not look good.
 
 
-For example, go to iPhone
-settings -> accessibility -> per-app settings -> add
-app (Trio or Loop) -> modify text size
+You can fix that:
+
+* Go to iPhone settings
+* Choose Accessibility
+* Scroll to the bottom and choose Per-App Settings
+* You can Add App and edit settings for selected apps
+    * For Trio or Loop, you might choose to modify text size
+    * For Dexcom or Clarity, you might choose to select Smart Invert to get a dark-mode like display
+
 - - -
 
 ## Helpful Links
