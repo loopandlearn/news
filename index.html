@@ -3166,22 +3166,25 @@ repeatedly when folks ask for settings help is UAM and meal entries.</p>
 <li>enables a new builder to run Add Identifiers so they can use the Browser Build method</li>
 </ul>
 <p><a href="https://github.com/loopandlearn/LoopFollow/releases/tag/v3.0.0"><code>LoopFollow v3.0.0</code></a>:</p>
+<p>LoopFollow 3.0 is a major update focused on usability and new features.</p>
+<p>This version includes a complete rewrite of the Alarm User Interface, making it much easier to navigate and configure.</p>
+<p>Here's a look at what's included:</p>
 <ul>
-<li>This update includes a complete rewrite of the Alarm User Interface - much easier to navigate and configure<ul>
-<li>User can select which alarms to display from a variety of types</li>
-<li>User can create multiple copies of the same type of alarm, each configured with unique settings and names</li>
-<li>Displayed alarms are characterized by type (snoozed, active, inactive)</li>
-<li>Global snooze alarm easy to configure</li>
-<li>Not Looping alarms are updated (no longer shown when it is just the NS data that is stale)</li>
-</ul>
-</li>
+<li>User can create multiple copies of the same type of alarm, each configured with unique settings and names, displayed alarms are characterized by type (snoozed, active, inactive)</li>
 <li>If you do not use Remotes, the second button on the main toolbar is restored to take you to Alarms</li>
-<li>Word wrap is now applied to Notes from Nightscout; long notes used to be difficult to read in the LoopFollow display</li>
+<li>Word wrap is now applied to Notes from Nightscout; these could be difficult to read in the LoopFollow display</li>
 <li>Improved security: Passwords and Token are hidden from view by default</li>
-<li>SpeakBG is enhanced: more reliable when LoopFollow is in the background</li>
+<li>SpeakBG is enhanced: more reliable when LoopFollow is in the background using the bluetooth background method</li>
 <li>Trio Override is displayed appropriately (not cleared when it should not be)</li>
-<li>The initial setup display is now faster to refresh and does not require a quit/restart of the app when changing the Nightscout URL</li>
+<li>New alarm, Looping App Expire (currently only for Trio)</li>
+<li>Landscape mode support, can be toggled off</li>
+<li>Snoozer screen now has an optional Emoji illustrating the current bg value</li>
+<li>Lots of under the hood refactoring, cleanup and modernization - The Eureka framework is now 100% replaced by Swift UI</li>
 </ul>
+<p>Please note:
+* 📲 The app now requires iOS 16.6 (up from 15.6).
+* 🧑‍💻 For those who built the dev branch specifically for the new alarm features, you might want to consider switching to the main branch now.</p>
+<p>Thanks for being part of our community! We hope you enjoy the update.</p>
 <hr />
 <h2 id="osdiy-friendly-hcp">OS/DIY-friendly HCP<a class="headerlink" href="#osdiy-friendly-hcp" title="Anchor link to this Header on this Page">&para;</a></h2>
 <p>What even is that?? Open Source/ Do-It-Yourself- Friendly Healthcare Providers
