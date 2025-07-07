@@ -79,7 +79,7 @@ The following apps/versions are updated:
     * `main` 0.2.7 and newer
     * `dev` 0.5.1 and newer (also known as public beta)
 * xDrip4iOS
-    * develop branch only, at this time
+    * only the `develop` branch is updated at this time
 
 
 Your default branch for each of these
@@ -137,7 +137,9 @@ will fail
 
 ### Recent LoopDocs Updates: Browser Build 
 
-With all the modifications required recently because of *Apple* and *GitHub* changes, those of you who use Browser Build should check out these updated sections. Make sure your app is actually building automatically. Then don't forget, you manually install from TestFlight onto your phone.
+With all the modifications required recently because of *Apple* and *GitHub* changes, those of you who use Browser Build should check out these updated sections. Make sure your app is actually building automatically. 
+
+> Don't forget. You need to manually install from TestFlight onto your phone. Make a calendar reminder to do this on the 2nd of each month.
 
 Important Updates for Browser Build: New builders and Returning builders:
 
