@@ -190,18 +190,28 @@ If you are a Trio user and wonder what these terms mean, PLEASE spend a little t
 
 [`LoopFollow v3.0.0`](https://github.com/loopandlearn/LoopFollow/releases/tag/v3.0.0):
 
-* This update includes a complete rewrite of the Alarm User Interface - much easier to navigate and configure
-    * User can select which alarms to display from a variety of types
-    * User can create multiple copies of the same type of alarm, each configured with unique settings and names
-    * Displayed alarms are characterized by type (snoozed, active, inactive)
-    * Global snooze alarm easy to configure
-    * Not Looping alarms are updated (no longer shown when it is just the NS data that is stale)
+LoopFollow 3.0 is a major update focused on usability and new features.
+
+This version includes a complete rewrite of the Alarm User Interface, making it much easier to navigate and configure.
+
+Here's a look at what's included:
+
+* User can create multiple copies of the same type of alarm, each configured with unique settings and names, displayed alarms are characterized by type (snoozed, active, inactive)
 * If you do not use Remotes, the second button on the main toolbar is restored to take you to Alarms
-* Word wrap is now applied to Notes from Nightscout; long notes used to be difficult to read in the LoopFollow display
+* Word wrap is now applied to Notes from Nightscout; these could be difficult to read in the LoopFollow display
 * Improved security: Passwords and Token are hidden from view by default
-* SpeakBG is enhanced: more reliable when LoopFollow is in the background
+* SpeakBG is enhanced: more reliable when LoopFollow is in the background using the bluetooth background method
 * Trio Override is displayed appropriately (not cleared when it should not be)
-* The initial setup display is now faster to refresh and does not require a quit/restart of the app when changing the Nightscout URL
+* New alarm, Looping App Expire (currently only for Trio)
+* Landscape mode support, can be toggled off
+* Snoozer screen now has an optional Emoji illustrating the current bg value
+* Lots of under the hood refactoring, cleanup and modernization - The Eureka framework is now 100% replaced by Swift UI
+
+Please note:
+* 📲 The app now requires iOS 16.6 (up from 15.6).
+* 🧑‍💻 For those who built the dev branch specifically for the new alarm features, you might want to consider switching to the main branch now.
+
+Thanks for being part of our community! We hope you enjoy the update.
 
 - - -
 
