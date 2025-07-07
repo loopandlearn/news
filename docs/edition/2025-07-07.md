@@ -19,7 +19,6 @@ Published on 07 July 2025.
     * [Coming Soon](#coming-soon)
 * [OS/DIY-friendly HCP](#osdiy-friendly-hcp)
 * [Text Size Tricks](#text-size-tricks)
-* [Advocacy in Action](#advocacy-in-action)
 * [Helpful Links](#helpful-links)
 
 - - -
@@ -279,32 +278,6 @@ Some people need large text on most of their apps, but then their OS AID might n
 For example, go to iPhone
 settings -> accessibility -> per-app settings -> add
 app (Trio or Loop) -> modify text size
-- - -
-
-## Advocacy in Action
-
-WIP - Section:
-
-Our Slovakian moderator, Miroslava Calegari, has ALL of her fingers on the pulse of
-diabetes. On June 11, a Slovakian national commission decided on CGM coverage for
-people with diabetes. She helped run a letter campaign that reached thousands of
-downloads. (Update)
-
-
-Miroslava also worked on the official petition, which was launched in case the decision
-was negative. Additionally, when a child in Slovakia is diagnosed with type 1 diabetes
-(usually still in the hospital), they get one book. It was created years ago by a father
-together with some HealthCare Providers — a kind of “starter guide” to this new life. It’s free, and
-everyone knows of it. Miroslava is co-authoring a new version of it! She wrote a new
-section on open-source tech, what she has learned through conferences and INNODIA.
-
-She says what makes her happiest is that it will be written in respectful language, which
-is a huge change. The new book is expected to be available on 14 November 2025.
-
-
-Thank you for your continued dedication to the diabetes community as a whole,
-Miroslava!
-
 - - -
 
 ## Helpful Links
