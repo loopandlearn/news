@@ -15,8 +15,7 @@ Published on 07 July 2025.
     * [Recent LoopDocs Updates: Browser Build](#recent-loopdocs-updates-browser-build)
 * [Who Should Use Nightscout](#who-should-use-nightscout)
 * [Trio Tips: SMB & UAM](#trio-tips-smb--uam)
-* [LoopFollow v2.8.0 and dev branch](#loopfollow-v280-and-dev-branch)
-    * [Coming Soon](#coming-soon)
+* [`LoopFollow v3.0.0` is released](#loopfollow-v300-is-released)
 * [OS/DIY-friendly HCP](#osdiy-friendly-hcp)
 * [Text Size Tricks](#text-size-tricks)
 * [Helpful Links](#helpful-links)
@@ -178,34 +177,29 @@ If you are a Trio user and wonder what these terms mean, PLEASE spend a little t
 
 - - -
 
-## LoopFollow v2.8.0 and dev branch
+## `LoopFollow v3.0.0` is released
 
-LoopFollow v2.8.0 is released and we are working towards LoopFollow v3.0.0.
+`LoopFollow v3.0.0` is released. There were 2 releases since the last newsletter was published:
 
-v2.8.0 is built from the `main` branch; updates include:
+[`LoopFollow v2.8.0`](https://github.com/loopandlearn/LoopFollow/releases/tag/v2.8.0):
 
 * uncommon crash causes are fixed
 * enables a new builder to run Add Identifiers so they can use the Browser Build method
 
-See full details for this update [here](https://github.com/loopandlearn/LoopFollow/releases/tag/v2.8.0).
+[`LoopFollow v3.0.0`](https://github.com/loopandlearn/LoopFollow/releases/tag/v3.0.0):
 
-### Coming Soon
-
-But wait - more is coming soon. If you are adventurous and want to help test the next release, build from LoopFollow `dev` branch. This version, which includes some major rewrites, will be released soon as 3.0.0.
-
-> Warning: once you build LoopFollow `dev`, if you then return to 2.8.0 (`main`) all your alarms will be reset to defaults
-
-* A complete rewrite of the Alarm User Interface - much easier to navigate and configure
+* This update includes a complete rewrite of the Alarm User Interface - much easier to navigate and configure
     * User can select which alarms to display from a variety of types
     * User can create multiple copies of the same type of alarm, each configured with unique settings and names
     * Displayed alarms are characterized by type (snoozed, active, inactive)
     * Global snooze alarm easy to configure
     * Not Looping alarms are updated (no longer shown when it is just the NS data that is stale)
 * If you do not use Remotes, the second button on the main toolbar is restored to take you to Alarms
-* Long notes from Nightscout are now automatically wrapped for LoopFollow display
+* Word wrap is now applied to Notes from Nightscout; long notes used to be difficult to read in the LoopFollow display
 * Improved security: Passwords and Token are hidden from view by default
 * SpeakBG is enhanced: more reliable when LoopFollow is in the background
 * Trio Override is displayed appropriately (not cleared when it should not be)
+* The initial setup display is now faster to refresh and does not require a quit/restart of the app when changing the Nightscout URL
 
 
 - - -
