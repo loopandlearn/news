@@ -30,7 +30,14 @@ _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) z
 
 We added a second _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) session per month, scheduled
 on the fourth Saturday of each month to be more convenient for those who are
-unable to attend our already scheduled sessions on Thursday. Same time of day, 2 p.m. ET U.S., but on the weekend. 
+unable to attend our already scheduled sessions on Thursday. Same time of day, 2 p.m. ET U.S., but on the weekend. We will have a Trio expert or two available to answer questions.
+
+### Italian Session
+
+Italian Open Mics are now offered
+monthly on the last Tuesday for iOS and
+Android loopers (with Patrick Sonnerat for
+AAPS).
 
 #### Zoom Calendar
 
@@ -38,12 +45,13 @@ unable to attend our already scheduled sessions on Thursday. Same time of day, 2
 
 * [https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1)
 
-> WARNING - the previous link is no longer used. As of June 2025 - this is the correct link. Please discard any saved link that is no longer valid.
+> _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion use a separate [Google Meet Link](https://meet.google.com/sfb-xfvn-rqj?pli=1).
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` | no | 18:00 UTC | 10 July 2025 |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` | no | 18:00 UTC | 26 July 2025 |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday | no | 18:00 UTC | 10 July 2025 |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday | no | 18:00 UTC | 26 July 2025 |
+| _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion<br>`Open Mic` on last Tuesday<br>[Google Meet Link](https://meet.google.com/sfb-xfvn-rqj?pli=1) | no | 18:00 UTC | 29 July 2025 |
 
 #### Time Zone Converter
 
