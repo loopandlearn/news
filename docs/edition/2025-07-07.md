@@ -179,6 +179,8 @@ If you are a Trio user and wonder what these terms mean, PLEASE spend a little t
 
 ## `LoopFollow v3.0.0` is released
 
+> NOTE: with LoopFollow 3.0, the minimum iOS version is modified to 16.6. It used to be iOS 15.5.
+
 `LoopFollow v3.0.0` is released. There were 2 releases since the last newsletter was published:
 
 [`LoopFollow v2.8.0`](https://github.com/loopandlearn/LoopFollow/releases/tag/v2.8.0):
@@ -200,7 +202,6 @@ If you are a Trio user and wonder what these terms mean, PLEASE spend a little t
 * SpeakBG is enhanced: more reliable when LoopFollow is in the background
 * Trio Override is displayed appropriately (not cleared when it should not be)
 * The initial setup display is now faster to refresh and does not require a quit/restart of the app when changing the Nightscout URL
-
 
 - - -
 
