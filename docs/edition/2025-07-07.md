@@ -69,7 +69,7 @@ new and experienced builders!
 The following apps/versions are updated:
 
 
-* Loop
+* `Loop`
     * both `main` 3.6.2 and `dev` 3.7.2 and newer
 * LoopFollow
     * `main` v 2.8.0 and newer (including `dev` branch)
