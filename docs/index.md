@@ -50,7 +50,7 @@ AAPS).
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday | no | 18:00 UTC | 10 July 2025 |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday | no | 18:00 UTC | 26 July 2025 |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday | no | 21:00 UTC | 26 July 2025 |
 | _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion<br>`Open Mic` on last Tuesday<br>[Google Meet Link](https://meet.google.com/sfb-xfvn-rqj?pli=1) | no | 18:00 UTC | 29 July 2025 |
 
 #### Time Zone Converter
