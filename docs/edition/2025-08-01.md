@@ -61,10 +61,10 @@ issues have been identified. We have used Xcode 16.4 to successfully build
 these apps to an iOS 18.6 phone:
 
 
-* Trio main and dev branches
-* Loop main (3.6.4) and dev branch
-* LoopCaregiver
-* LoopFollow
+* `Trio` `main` and `dev` branches
+* `Loop` `main` (3.6.4) and `dev` branch
+* `LoopCaregiver`
+* `LoopFollow`
 * xDrip4iOS
 
 
@@ -90,7 +90,7 @@ the developer has updated the repository since the previous build
 
 A number of users have reported their builds fail
 during the automatic update process due to a
-*GitHub* resource issues. To improve the rate of successful builds, the devs have
+*GitHub* resource issues. To improve the rate of successful builds, the developers have
 slightly modified the timing of the
 automatic updates. This is true for all the Open-Source AID and support apps.
 
@@ -159,7 +159,7 @@ As many of you already know, the public *TestFlight* builds of xDrip4iOS (xDrip4
 
 * Build xDrip4iOS yourself
 
-> This is the preferred and most stable option — especially if you are already building Loop, Trio, or LoopFollow.
+> This is the preferred and most stable option — especially if you are already building `Loop`, `Trio`, or `LoopFollow`.
 
 > You can use your own *Apple* Developer account:
 
@@ -172,7 +172,7 @@ As many of you already know, the public *TestFlight* builds of xDrip4iOS (xDrip4
 
 * Zukka (App Store release)
 
-> Zukka is based on the xDrip4iOS code and is now aligned with the core devs. Core features will remain free, and any changes will be communicated in advance. 
+> Zukka is based on the xDrip4iOS code and is now aligned with the core developers. Core features will remain free, and any changes will be communicated in advance. 
 
 > * [Zukka app link](https://xdrip4ios.readthedocs.io/en/latest/install/build/#how-to-build-xdrip4ios-using-xcode)
 
@@ -181,7 +181,7 @@ Please keep in mind that both Zukka and private TestFlight options depend on ind
 
 - - -
 
-## A Look at LoopDocs
+## A Look at `LoopDocs`
 
 Do you have trouble understanding `LoopDocs`?  Perhaps you’re reading it
 in the wrong language.  `LoopDocs` is readable in many different
