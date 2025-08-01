@@ -156,30 +156,28 @@ As many of you already know, the public *TestFlight* builds of xDrip4iOS (xDrip4
 > These public *TestFlight* builds were joined via shared links and each supported up to 10,000 users. If you’re using one of them, you’ll need to switch to another option to continue using xDrip4iOS.
 
 
-### What Are the Current Options?
+### What Options Should I Consider?
 
+These two options are probably best:
 
 * Build xDrip4iOS yourself
 
-> This is the preferred and most stable option — especially if you are already building `Loop`, `Trio`, or `LoopFollow`.
+    > This is the preferred and most stable option — especially if you are already building `Loop`, `Trio`, or `LoopFollow`.
 
-> You can use your own *Apple* Developer account:
+    > You can use your own *Apple* Developer account:
 
-> * [link to xDrip4iOS docs](https://xdrip4ios.readthedocs.io/en/latest/install/build/#how-to-build-xdrip4ios-using-xcode)
-
-
-* Private TestFlight builds
-
-> If you’re using a private TestFlight invite (limited to 100 users), your version is unaffected. Slots may be available via trusted community releasers. Check [xDrip4iOS FaceBook group](https://www.facebook.com/groups/853994615056838/) for free slots if needed.
+    > * [link to xDrip4iOS docs](https://xdrip4ios.readthedocs.io/en/latest/install/build/#how-to-build-xdrip4ios-using-xcode)
 
 * Zukka (App Store release)
 
-> Zukka is based on the xDrip4iOS code and is now aligned with the core developers. Core features will remain free, and any changes will be communicated in advance. 
+    > Zukka is based on the xDrip4iOS code and is now aligned with the core developers. Core features will remain free, and any changes will be communicated in advance. This is only for people who do not need to use xDrip4iOS with their OS-AID app.
 
-> * [Zukka app link](https://xdrip4ios.readthedocs.io/en/latest/install/build/#how-to-build-xdrip4ios-using-xcode)
+    > * [Zukka app link](https://xdrip4ios.readthedocs.io/en/latest/install/build/#how-to-build-xdrip4ios-using-xcode)
 
 
-Please keep in mind that both Zukka and private TestFlight options depend on individuals or external platforms, and may change or become unavailable. For long-term continuity and control, building the app yourself is the most future-proof solution. The project continues actively, and we’re grateful to all the developers and contributors who keep it evolving.
+For other options, join the [xDrip4iOS FaceBook group](https://www.facebook.com/groups/853994615056838/).
+
+For long-term continuity and control, building the app yourself is the most future-proof solution. The project continues actively, and we’re grateful to all the developers and contributors who keep it evolving.
 
 - - -
 
