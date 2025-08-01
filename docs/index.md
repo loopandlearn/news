@@ -10,9 +10,9 @@ Published on 01 August 2025.
 * [Please Update to iOS 18.6](#please-update-to-ios-186)
 * [Browser Build](#browser-build): 
     * [Automatic Update & Build](#automatic-update-build)
-    * [*Apple* Age Rating Questionaire](#apple-age-rating-questionaire)
+    * [*Apple* Age Rating Questionnaire](#apple-age-rating-questionnaire)
 * [`Loop` v3.6.4 is released](#loop-v364-is-released)
-* [xDrip4iOS: Community Update](#xdrip4ios-community-update)
+* [xDrip4iOS: Important Notice](#xdrip4ios-important-notice)
 * [A Look at `LoopDocs`](#a-look-at-loopdocs)
 * [`Loop and Learn` at `Friends for Life`](#loop-and-learn-at-friends-for-life)
 * [Pregnancy and `T1D` Research Opportunity](#pregnancy-and-t1d-research-opportunity)
@@ -33,17 +33,19 @@ AAPS).
 
 #### Calendar
 
-Video Conference Sessions use the following links every month. Either the *Zoom* link for the English sessions or the *Google* Meet Link for the Italian sessions.
-
-* [https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1)
-
-* _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion use a separate [Google Meet Link](https://meet.google.com/sfb-xfvn-rqj?pli=1).
-
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday | no | 18:00 UTC | 14 August 2025 |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday | no | 21:00 UTC | 23 August 2025 |
-| _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion<br>`Open Mic` on last Tuesday<br>[Google Meet Link](https://meet.google.com/sfb-xfvn-rqj?pli=1) | no | 18:00 UTC | 30 August 2025 |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 18:00 UTC | 14 August 2025 |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 21:00 UTC | 23 August 2025 |
+| _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion<br>`Open Mic` on last Tuesday<br>[*Google* Meet](https://meet.google.com/sfb-xfvn-rqj?pli=1) | no | 18:00 UTC | 30 August 2025 |
+
+#### Permanent Links
+
+Video Conference Sessions use the following links every month:
+
+* English `Open Mic`: use *Zoom*: [https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1)
+* Italian `Open Mic`: use *Google* Meet: [https://meet.google.com/sfb-xfvn-rqj?pli=1](https://meet.google.com/sfb-xfvn-rqj?pli=1).
+
 
 #### Time Zone Converter
 
@@ -99,7 +101,7 @@ shows the time at
 which each
 automatic build is planned in the future. This time shift will happen on your second build after this modification is made to the app in question. The first build uses the existing build time and the new build time won't be in place unti the fork is updated as part of the build process.
 
-Please: take this opportunity to look at TestFlight:
+**Please** take this opportunity to look at TestFlight:
 
 * If your most recent build expires in 60 days or more, there is no need for manual action
 
@@ -112,10 +114,10 @@ and we'll take a look at your build logs.
 
 * [Manual Enable Build, if it is disabled](https://loopkit.github.io/loopdocs/browser/bb-errors/#manual-enable-for-build-action-may-be-required)
 
-### *Apple* Age Rating Questionaire
+### *Apple* Age Rating Questionnaire
 
 Many of our members have asked how/whether to
-respond to the *Apple* Age Rating Questionaire email. For now, we believe that DIY
+respond to the *Apple* Age Rating Questionnaire email. For now, we believe that DIY
 loopers do not need to take any action. 
 
 We use App
@@ -146,7 +148,7 @@ This release:
 
 - - -
 
-## xDrip4iOS: Community Update
+## xDrip4iOS: Important Notice
 
 As many of you already know, the public *TestFlight* builds of xDrip4iOS (xDrip4iO5 / xDrip4i5_MD) will stop working soon (or have already). *Apple* rejected the latest update (version 5.8.0), and those builds can no longer be updated or extended.
 
@@ -191,7 +193,25 @@ languages.  [Take a look!](https://loopkit.github.io/loopdocs/translate/)
 
 ## `Loop and Learn` at `Friends for Life`
 
-work in progress
+Loopers had a great time
+at our meet-up during
+Friends for Life (FFL)
+Orlando in July 2025! Thanks to
+all who came out to
+socialize and talk looping.
+It’s always fun to meet
+fellow OS-AID users IRL (in real life)!
+
+
+Several of the admin team and family members,
+as well as other community members, also got
+together for some “FFL reunion” time.
+
+
+Rebecca and Reese were dressed in costume for
+this year’s Superheros theme!
+
+More about FFL in our next edition.
 
 - - -
 
@@ -220,8 +240,6 @@ If your local schools still refuse to remotely monitor
 CGMs of their students, provide them with the letter on
 [this page](https://followt1ds.org/doj-mandates) to compel them to FOLLOWT1Ds and FOLLOW
 Federal Laws. If they still refuse, contact [FOLLOWT1Ds!](https://followt1ds.org/)
-
-
 
 - - -
 
