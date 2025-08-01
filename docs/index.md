@@ -162,7 +162,7 @@ These two options are probably best:
 
 * Build xDrip4iOS yourself
 
-    > This is the preferred and most stable option — especially if you are already building `Loop`, `Trio`, or `LoopFollow`.
+    > This is the preferred and most stable option — especially if you are already building an Open-Source Automated Insulin Delivery (OS AID) app like `Loop`, `Trio` or `iAPS`.
 
     > You can use your own *Apple* Developer account:
 
