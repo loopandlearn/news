@@ -2,7 +2,7 @@
 
 _Master Your DIY `Closed-Loop` Insulin Delivery System_
 
-Published on 01 August 2025.
+Published on 02 August 2025.
 
 ## In this edition:
 
@@ -26,7 +26,7 @@ Published on 01 August 2025.
 _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) virtual meetings are scheduled on the second Thursday of each month and the fourth Saturday of each month.
 
 There is also an 
-Italian `Open Mic` on the last Tuesday for iOS and
+Italian `Open Mic` on the last Tuesday of each month for iOS and
 Android loopers (with Patrick Sonnerat for
 AAPS).
 
@@ -37,7 +37,7 @@ AAPS).
 | - | - | - | - |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 18:00 UTC | 14 August 2025 |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 21:00 UTC | 23 August 2025 |
-| _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion<br>`Open Mic` on last Tuesday<br>[*Google* Meet](https://meet.google.com/sfb-xfvn-rqj?pli=1) | no | 18:00 UTC | 30 August 2025 |
+| _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion<br>`Open Mic` on last Tuesday of each month<br>[*Google* Meet](https://meet.google.com/sfb-xfvn-rqj?pli=1) | no | 19:00 UTC | 30 August 2025 |
 
 #### Permanent Links
 
