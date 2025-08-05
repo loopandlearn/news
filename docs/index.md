@@ -172,7 +172,7 @@ These two options are probably best:
 
     > Zukka is based on the xDrip4iOS code and is now aligned with the core developers. Core features will remain free, and any changes will be communicated in advance. This is only for people who do not need to use xDrip4iOS with their OS-AID app.
 
-    > * [Zukka app link](https://xdrip4ios.readthedocs.io/en/latest/install/build/#how-to-build-xdrip4ios-using-xcode)
+    > * [Zukka app link](https://apps.apple.com/us/app/zukka/id6743448282)
 
 
 For other options, join the [xDrip4iOS FaceBook group](https://www.facebook.com/groups/853994615056838/).
