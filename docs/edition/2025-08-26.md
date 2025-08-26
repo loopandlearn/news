@@ -13,6 +13,7 @@ Published on 26 August 2025.
 * [The Gossip Column](#the-gossip-column)
     * [iPhone 17 & DASH Warning](#iphone-17-dash-warning)
     * [Meal AI and `Loop`](#meal-ai-and-loop)
+    * [iPad as Backup Device](#ipad-as-backup-device)
     * [*Dexcom* Alert](#dexcom-alerts)
     * [Bubble Prevention](#bubble-prevention)
 * [Exciting AAPS News](#exciting-aaps-news)
@@ -106,11 +107,11 @@ Additionally, `Loop and Learn` is not the place to get support for this experime
 
 There are also links about this proposed feature on the [`Loop` Features in Development page](https://www.loopandlearn.org/loop-features-in-development/#food-search).
 
-### iPad as Looping Backup Device
+### iPad as Backup Device
 
 If your `Loop` or `Trio` device takes a dive and you have an iPad running iPadOS 17 or higher, you can use your iPad as an interim looping device. Or if you have really big pockets, you could use it permanently.
 
-Remember, always have a backup plan and when using OS-AID, be prepared to rebuild.
+Remember, always have a [backup plan](https://www.loopandlearn.org/sl-phone/#back-up-plan-ipad) and when using OS-AID, be prepared to [rebuild](https://www.loopandlearn.org/backup-plan/#be-prepared).
 
 ### *Dexcom* Alerts
 
