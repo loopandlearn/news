@@ -193,7 +193,7 @@ The [Diabetes Patient Advocacy Coalition (DPAC)](http://Diabetespac.org) is an a
 
 ## Skin Reactions to Diabetes Devices in People of Color
 
-Researchers at Stanford are tackling the issue of reactions to adhesives on CGM and insulin delivery devices. If you are an adult who wears one or both of these devices, please participate in the study. Even if you are not a person of color, you can complete the survey for the study’s comparison purposes. It’s quick and easy to participate.
+Researchers at Stanford are tackling the issue of reactions to adhesives on CGM and insulin delivery devices. If you are an adult who wears one or both of these devices, please participate in the study, follow this [link](https://stanforduniversity.qualtrics.com/jfe/form/SV_dpB591gqLnreOeW). Even if you are not a person of color, you can complete the survey for the study’s comparison purposes. It’s quick and easy to participate.
 
 - - -
 
@@ -223,7 +223,7 @@ Together, the panelists showed that with thoughtful support and flexibility, tec
 
 This month, one of our looping families spent a lot of time climbing and hiking in the Dolomites in Italy. If you think T1D needs to hold you back, think again! 
 
-Where have you taken your family lately? Let us know!
+Where have you taken your family lately? Share a post on [`Loop and Learn` Facebook](https://www.facebook.com/groups/LOOPandLEARN).
 
 - - -
 
