@@ -92,7 +92,7 @@ The devs are doing it again! This fall, a dozen or so of us will gather in Vanco
 
 ### iPhone 17 & DASH Warning
 
-The rumor is the iPhone 17 will be available for preorder on 12 September 2025, after *Apple* makes their announcement on 9 or 10 September. All loopers should be very careful about upgrading your looping phone until you have gotten the “all clear” from our testers. As a reminder, your looping phone is a medical device and should be treated accordingly. Version testing, including hardware updates, are announced on [our website](https://www.loopandlearn.org/version-updates/), on Facebook, here in the newsletter and on Instagram.
+The iPhone 17 will probably be available for preorder on 12 September 2025, after *Apple* makes their announcement on 9 or 10 September. All loopers should be very careful about upgrading your looping phone until you have gotten the “all clear” from our testers. As a reminder, your looping phone is a medical device and should be treated accordingly. Version testing, including hardware updates, are announced on [our website](https://www.loopandlearn.org/version-updates/), on Facebook, here in the newsletter and on Instagram.
 
 **DASH** loopers (this means Loop, Trio, TAI, iAPS, etc) all should wait. The new Atlas (InPlay BLE) DASH pods are being manufactured and they are likely to show up in your pod supply soon. There is **no known** solution to the difficultly these pods exhibit with iPhone 16 hardware. The issues are difficulty pairing the pods initially (just keep hitting retry) and the delayed reconnection after each disconnect. 
 
@@ -100,13 +100,17 @@ The rumor is the iPhone 17 will be available for preorder on 12 September 2025, 
 
 ### Meal AI and `Loop`
 
-Word on the street is that a Food AI feature has come to `Loop`. 
-
 While a new experimental Food AI customization is available, we want to emphasize that it is not in the regular script for building `Loop` and is not in the released version of `Loop`. 
 
 Additionally, `Loop and Learn` is not the place to get support for this experimental feature- at least not yet. [Support can be found on `Loop` Zulipchat](https://loop.zulipchat.com/#narrow/channel/144182-development/topic/New.20Feature.3A.20Food.20Search.202.2E0.20for.20Loop!.20.232329). If and when this feature becomes an official part of the `Loop` ecosystem, you will definitely hear about it here, in our Facebook group, and on our website.
 
 There are also links about this proposed feature on the [`Loop` Features in Development page](https://www.loopandlearn.org/loop-features-in-development/#food-search).
+
+### iPad as Looping Backup Device
+
+If your `Loop` or `Trio` device takes a dive and you have an iPad running iPadOS 17 or higher, you can use your iPad as an interim looping device. Or if you have really big pockets, you could use it permanently.
+
+Remember, always have a backup plan and when using OS-AID, be prepared to rebuild.
 
 ### *Dexcom* Alerts
 
@@ -114,13 +118,13 @@ Check your *Dexcom* alerts section for a settings change. A setting seems to hav
 
 ### Bubble Prevention
 
-Butch Weaver, a pilot and fellow looper on Zulipchat, recently shared his[method of purging](https://loop.zulipchat.com/#narrow/channel/144111-general/topic/Omnipod.20Filling/near/417687714) pods of bubbles and dissolved gas when filling. If you’ve ever had unexplained BG lows a couple of hours into an airline flight, or highs soon after landing, dissolved gas may have been the reason.
+Butch Weaver, a pilot and fellow looper on Zulipchat, recently shared his[method of purging](https://loop.zulipchat.com/#narrow/channel/144111-general/topic/Omnipod.20Filling/near/417687714) pods of bubbles and dissolved air when filling. If you’ve ever had unexplained BG lows a couple of hours into an airline flight, or highs soon after landing, dissolved air may have been the reason.
 
 - - -
 
 ## Exciting AAPS News!
 
-AAPS can now be built with Browser! We were excited when the Browser Build debuted for `Loop`. And Trio. The excitement has spread all the way to the Android platform! 
+AAPS can now be built with Browser! We were excited when the Browser Build debuted for `Loop`. And Trio. The excitement has spread all the way to the Android platform! [AAPS Browser Build](https://androidaps.readthedocs.io/en/latest/SettingUpAaps/BrowserBuild.html)
 
 - - -
 
