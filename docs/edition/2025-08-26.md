@@ -84,7 +84,7 @@ We had another great discussion at Saturday’s `Open Mic` (on 23 August 2025). 
 
 ## Hackathon ‘25 Fundraising
 
-The devs are doing it again! This fall, a dozen or so of us will gather in Vancouver, BC for another meeting of the minds to work on refining the apps we use for diabetes management. We are excited to see what will come out of this year’s “Hack” and invite you to help support it with your generous donations to Nightscout Foundation. Last year, over 100 people from around the world helped raise over $25,000. Here are details about the success of last year’s event. Please thoughtfully consider contributing to the success of OS-AID by contributing to our fundraising efforts.
+The devs are doing it again! This fall, a dozen or so of us will gather in Vancouver, BC for another meeting of the minds to work on refining the apps we use for diabetes management. We are excited to see what will come out of this year’s “Hack” and invite you to help support it with your generous donations to Nightscout Foundation. Last year, over 100 people from around the world helped raise over $25,000. [Here are details](https://loopandlearn.github.io/news/edition/2024-11-14/#hack-24-was-a-great-success) about the success of last year’s event. Please thoughtfully consider contributing to the success of OS-AID by contributing to our fundraising efforts.
 
 
 - - -
