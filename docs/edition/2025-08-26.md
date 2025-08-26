@@ -6,24 +6,21 @@ Published on 26 August 2025.
 
 ## In this edition:
 
-* [Video Conference Sessions](#upcoming-video-conference-sessions)
+* [Upcoming Video Conference Sessions](#upcoming-video-conference-sessions)
 * [iOS Update](#ios-update)
 * [Saturday `Open Mics`](#saturday-open-mics)
-* [Hackathon ‘25 Fundraising](#hackathon-25-fundraising)
-* [The Gossip Column](#the-gossip-column)
-    * [iPhone 17 & DASH Warning](#iphone-17-dash-warning)
-    * [Meal AI and `Loop`](#meal-ai-and-loop)
-    * [iPad as Backup Device](#ipad-as-backup-device)
-    * [*Dexcom* Alert](#dexcom-alerts)
-    * [Bubble Prevention](#bubble-prevention)
 * [Exciting AAPS News](#exciting-aaps-news)
-* [Pro Tips: Where do you wear your Pod?](#pro-tips-where-do-you-wear-your-pod)
-* [`LoopFollow` 3.2](#loopfollow-32)
 * [US Persons - Advocacy Campaign](#us-persons-advocacy-campaign)
+* [Hackathon ‘25 Fundraising](#hackathon-25-fundraising)
+* [*Dexcom* Alert](#dexcom-alerts)
+* [iPad as Backup Device](#ipad-as-backup-device)
+* [iPhone 17 & DASH Warning](#iphone-17-dash-warning)
+* [Meal AI and `Loop`](#meal-ai-and-loop)
+* [Bubble Prevention in Flight](#bubble-prevention-in-flight)
+* [`LoopFollow` 3.2](#loopfollow-32)
+* [Where Do You Wear Your Pod?](#where-do-you-wear-your-pod)
 * [Skin Reactions to Diabetes Devices in People of Color](#skin-reactions-to-diabetes-devices-in-people-of-color)
-* [Journey Awards](#journey-awards)
 * [T1D to 100 at ADCES](#t1d-to-100-at-adces)
-* [T1D Goes Everywhere](#t1d-goes-everywhere)
 * [*Facebook* Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
@@ -78,81 +75,12 @@ Both of these minor updates run the OS-AID apps just fine. But check the state o
 
 We had another great discussion at Saturday’s `Open Mic` (on 23 August 2025). Thank you to all who attended and welcome to our new members and attendees! These Open Mics were added to our schedule at a time that we hope is more appealing to our Australian friends than our Tuesday ones. So join us, Aussies!
 
-
-
-- - -
-
-## Hackathon ‘25 Fundraising
-
-The devs are doing it again! This fall, a dozen or so of us will gather in Vancouver, BC for another meeting of the minds to work on refining the apps we use for diabetes management. We are excited to see what will come out of this year’s “Hack” and invite you to help support it with your generous donations to Nightscout Foundation. Last year, over 100 people from around the world helped raise over $25,000. [Here are details](https://loopandlearn.github.io/news/edition/2024-11-14/#hack-24-was-a-great-success) about the success of last year’s event. Please thoughtfully consider contributing to the success of OS-AID by contributing to our fundraising efforts.
-
-
-- - -
-
-## The Gossip Column
-
-### iPhone 17 & DASH Warning
-
-The iPhone 17 will probably be available for preorder on 12 September 2025, after *Apple* makes their announcement on 9 or 10 September. All loopers should be very careful about upgrading your looping phone until you have gotten the “all clear” from our testers. As a reminder, your looping phone is a medical device and should be treated accordingly. Version testing, including hardware updates, are announced on [our website](https://www.loopandlearn.org/version-updates/), on Facebook, here in the newsletter and on Instagram.
-
-**DASH** loopers (this means Loop, Trio, TAI, iAPS, etc) all should wait. The new Atlas (InPlay BLE) DASH pods are being manufactured and they are likely to show up in your pod supply soon. There is **no known** solution to the difficultly these pods exhibit with iPhone 16 hardware. The issues are difficulty pairing the pods initially (just keep hitting retry) and the delayed reconnection after each disconnect. 
-
-> We have filed a Feedback form with *Apple*, but we have no further information.
-
-### Meal AI and `Loop`
-
-While a new experimental Food AI customization is available, we want to emphasize that it is not in the regular script for building `Loop` and is not in the released version of `Loop`. 
-
-Additionally, `Loop and Learn` is not the place to get support for this experimental feature- at least not yet. [Support can be found on `Loop` Zulipchat](https://loop.zulipchat.com/#narrow/channel/144182-development/topic/New.20Feature.3A.20Food.20Search.202.2E0.20for.20Loop!.20.232329). If and when this feature becomes an official part of the `Loop` ecosystem, you will definitely hear about it here, in our Facebook group, and on our website.
-
-There are also links about this proposed feature on the [`Loop` Features in Development page](https://www.loopandlearn.org/loop-features-in-development/#food-search).
-
-### iPad as Backup Device
-
-If your `Loop` or `Trio` device takes a dive and you have an iPad running iPadOS 17 or higher, you can use your iPad as an interim looping device. Or if you have really big pockets, you could use it permanently.
-
-Remember, always have a [backup plan](https://www.loopandlearn.org/sl-phone/#back-up-plan-ipad) and when using OS-AID, be prepared to [rebuild](https://www.loopandlearn.org/backup-plan/#be-prepared).
-
-### *Dexcom* Alerts
-
-Check your *Dexcom* alerts section for a settings change. A setting seems to have been added during a recent update (version 2.10.0). Now there are “sound”, “vibrate”, and “match phone settings”- which could be either vibrate or sound. The alerts got reset to defaults, which are very loud. Each alert volume needs to be set individually, so be sure to set yours to a volume you prefer and do it when no one else is around to be annoyed.
-
-### Bubble Prevention
-
-Butch Weaver, a pilot and fellow looper on Zulipchat, recently shared his[method of purging](https://loop.zulipchat.com/#narrow/channel/144111-general/topic/Omnipod.20Filling/near/417687714) pods of bubbles and dissolved air when filling. If you’ve ever had unexplained BG lows a couple of hours into an airline flight, or highs soon after landing, dissolved air may have been the reason.
-
 - - -
 
 ## Exciting AAPS News!
 
 AAPS can now be built with Browser! We were excited when the Browser Build debuted for `Loop`. And Trio. The excitement has spread all the way to the Android platform! [AAPS Browser Build](https://androidaps.readthedocs.io/en/latest/SettingUpAaps/BrowserBuild.html)
 
-- - -
-
-## Pro Tips: Where do you wear your Pod?
-
-Age, skin flexibility, and body composition all influence which locations (arm, leg, abdomen, etc.) and orientations (such as having the cannula facing up, down, or sideways)  work best for each individual. As we’ve often shared, placing a piece of medical tape on the skin beneath the cannula area before applying the pod can help stabilize the cannula where it enters your skin: this can reduce leakage and may extend wear time. For added security, you can also use an overpatch -or simply place another piece of medical tape over the pod itself.
-
-Another consideration is activities the wearer may be planning to engage in. For example, a person who is going backpacking may want to avoid abdominal placement so the hip belt will not dislodge the pod or cause discomfort.
-
-- - -
-
-## `LoopFollow` 3.2
-
-This update brings one of the most requested features to `LoopFollow`:
-
-* Remote Control for `Loop` (via Apple Push Notifications)
-    – Send carbs, boluses, and overrides directly to `Loop` from `LoopFollow`
-    – Uses One-Time Passwords for security (with protection against re-use within the app)
-    – [`LoopFollow`Docs](https://loopfollowdocs.org/remote/remote-control-overview/) updated with full details on Remote Control
-
-* Bugfix: The missed readings alert is now working again
-* Other updates:
-    – Browser build updated to Xcode 16.4 (fixes browser build failures)
-
-See the full [changelog](https://github.com/loopandlearn/LoopFollow/releases) for more details.
-
-Big thanks to everyone contributing, especially Daniel Mini Johansson for his work on `Loop` Remote Commands 
 
 - - -
 
@@ -196,17 +124,98 @@ The [Diabetes Patient Advocacy Coalition (DPAC)](http://Diabetespac.org) is an a
 
 - - -
 
-## Skin Reactions to Diabetes Devices in People of Color
+## Hackathon ‘25 Fundraising
 
-Researchers at Stanford are tackling the issue of reactions to adhesives on CGM and insulin delivery devices. If you are an adult who wears one or both of these devices, please participate in the study, follow this [link](https://stanforduniversity.qualtrics.com/jfe/form/SV_dpB591gqLnreOeW). Even if you are not a person of color, you can complete the survey for the study’s comparison purposes. It’s quick and easy to participate.
+The open source developers need our support! On November 14-16,
+2025, about 40 attendees will gather in Vancouver, BC for another
+meeting of the minds to work on refining the apps we use for diabetes
+management. We are excited to see what will come out of this year’s
+“Hack” and invite you to help support it with your generous donations
+to [Nightscout Foundation](https://www.nightscoutfoundation.org/new-products/direct-donation-apa26). These volunteer developers spend so
+much of their "free" time thinking about features that we didn't know
+we needed and focusing on critical improvements that we'll never
+notice. Our support will help them to continue their innovative work in
+developing Loop, Trio, OpenAPS, AAPS, and perhaps a new solution
+that we haven't even dreamed of yet.
+
+Here are [details about the success of last year’s event](https://loopandlearn.github.io/news/edition/2024-11-14/#hack-24-was-a-great-success), for which over
+100 people from around th4 world helped raise over $25,000.
+
+Please pay it forward by making a donation to the [Nightscout Foundation](https://www.nightscoutfoundation.org/new-products/direct-donation-apa26) to support
+this important event.
 
 - - -
 
-## Journey Awards
+## *Dexcom* Alerts
 
-We have reported [previously](https://loopandlearn.github.io/news/edition/2025-04-07/?h=journey+awa#journey-awards) on Children with Diabetes (CWD) awarding Journey Awards for people who have lived with type 1 diabetes for 10, 25, 50, and 75 years. We are excited to share that at Friends for Life (FFL) Orlando in July, CWD introduced its 5-year Journey Award! This award is particularly special as it means that relatively young children can now receive Journey Awards. Our friend Reese received his, and it was truly meaningful.
+Check your *Dexcom* alerts section for a settings change. A setting seems to have been added during a recent update (version 2.10.0). Now there are “sound”, “vibrate”, and “match phone settings”- which could be either vibrate or sound. The alerts got reset to defaults, which are very loud. Each alert volume needs to be set individually, so be sure to set yours to a volume you prefer and do it when no one else is around to be annoyed.
 
-You don’t need to attend an FFL event to receive your Journey Award—though it’s always fun if you do! If you’ll be at an upcoming FFL gathering, you can pick up your award there without advance notice. Not attending? No problem! If a milestone is coming up, just request your Journey Award, and it will be mailed to you.
+- - -
+
+## iPad as Backup Device
+
+If your `Loop` or `Trio` device takes a dive and you have an iPad running iPadOS 17 or higher, you can use your iPad as an interim looping device. Or if you have really big pockets, you could use it permanently.
+
+Remember, always have a [backup plan](https://www.loopandlearn.org/sl-phone/#back-up-plan-ipad) and when using OS-AID, be prepared to [rebuild](https://www.loopandlearn.org/backup-plan/#be-prepared).
+
+- - -
+
+## iPhone 17 & DASH Warning
+
+The iPhone 17 will probably be available for preorder on 12 September 2025, after *Apple* makes their announcement on 9 or 10 September. All loopers should be very careful about upgrading your looping phone until you have gotten the “all clear” from our testers. As a reminder, your looping phone is a medical device and should be treated accordingly. Version testing, including hardware updates, are announced on [our website](https://www.loopandlearn.org/version-updates/), on Facebook, here in the newsletter and on Instagram.
+
+**DASH** loopers (this means Loop, Trio, TAI, iAPS, etc) all should wait. The new Atlas (InPlay BLE) DASH pods are being manufactured and they are likely to show up in your pod supply soon. There is **no known** solution to the difficultly these pods exhibit with iPhone 16 hardware. The issues are difficulty pairing the pods initially (just keep hitting retry) and the delayed reconnection after each disconnect. 
+
+> We have filed a Feedback form with *Apple*, but we have no further information.
+
+- - -
+
+## Meal AI and `Loop`
+
+While a new experimental Food AI customization is available, we want to emphasize that it is not in the regular script for building `Loop` and is not in the released version of `Loop`. 
+
+Additionally, `Loop and Learn` is not the place to get support for this experimental feature- at least not yet. [Support can be found on `Loop` Zulipchat](https://loop.zulipchat.com/#narrow/channel/144182-development/topic/New.20Feature.3A.20Food.20Search.202.2E0.20for.20Loop!.20.232329). If and when this feature becomes an official part of the `Loop` ecosystem, you will definitely hear about it here, in our Facebook group, and on our website.
+
+There are also links about this proposed feature on the [`Loop` Features in Development page](https://www.loopandlearn.org/loop-features-in-development/#food-search).
+
+- - -
+
+## Bubble Prevention in Flight
+
+Butch Weaver, a pilot and fellow looper on Zulipchat, recently shared his[method of purging](https://loop.zulipchat.com/#narrow/channel/144111-general/topic/Omnipod.20Filling/near/417687714) pods of bubbles and dissolved air when filling. If you’ve ever had unexplained BG lows a couple of hours into an airline flight, or highs soon after landing, dissolved air may have been the reason.
+
+- - -
+
+## `LoopFollow` 3.2
+
+This update brings one of the most requested features to `LoopFollow`:
+
+* Remote Control for `Loop` (via Apple Push Notifications)
+    – Send carbs, boluses, and overrides directly to `Loop` from `LoopFollow`
+    – Uses One-Time Passwords for security (with protection against re-use within the app)
+    – [`LoopFollow`Docs](https://loopfollowdocs.org/remote/remote-control-overview/) updated with full details on Remote Control
+
+* Bugfix: The missed readings alert is now working again
+* Other updates:
+    – Browser build updated to Xcode 16.4 (fixes browser build failures)
+
+See the full [changelog](https://github.com/loopandlearn/LoopFollow/releases) for more details.
+
+Big thanks to everyone contributing, especially Daniel Mini Johansson for his work on `Loop` Remote Commands 
+
+- - -
+
+## Where Do You Wear Your Pod?
+
+Age, skin flexibility, and body composition all influence which locations (arm, leg, abdomen, etc.) and orientations (such as having the cannula facing up, down, or sideways)  work best for each individual. As we’ve often shared, placing a piece of medical tape on the skin beneath the cannula area before applying the pod can help stabilize the cannula where it enters your skin: this can reduce leakage and may extend wear time. For added security, you can also use an overpatch -or simply place another piece of medical tape over the pod itself.
+
+Another consideration is activities the wearer may be planning to engage in. For example, a person who is going backpacking may want to avoid abdominal placement so the hip belt will not dislodge the pod or cause discomfort.
+
+- - -
+
+## Skin Reactions to Diabetes Devices in People of Color
+
+Researchers at Stanford are tackling the issue of reactions to adhesives on CGM and insulin delivery devices. If you are an adult who wears one or both of these devices, please participate in the study, follow this [link](https://stanforduniversity.qualtrics.com/jfe/form/SV_dpB591gqLnreOeW). Even if you are not a person of color, you can complete the survey for the study’s comparison purposes. It’s quick and easy to participate.
 
 - - -
 
@@ -221,14 +230,6 @@ Dr. Whitehouse reinforced the importance of tailoring solutions, sharing a case 
 Together, the panelists showed that with thoughtful support and flexibility, technology can reduce risks, improve independence, and significantly enhance quality of life for older adults with diabetes. 
 
 [Close Concerns](https://www.closeconcerns.com/) shared an in-depth description of the presentation.
-
-- - -
-
-## T1D Goes Everywhere!
-
-This month, one of our looping families spent a lot of time climbing and hiking in the Dolomites in Italy. If you think T1D needs to hold you back, think again! 
-
-Where have you taken your family lately? Share a post on [`Loop and Learn` Facebook](https://www.facebook.com/groups/LOOPandLEARN).
 
 - - -
 
