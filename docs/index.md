@@ -42,9 +42,10 @@ AAPS).
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion<br>`Open Mic` on last Tuesday of each month<br>[*Google* Meet](https://meet.google.com/sfb-xfvn-rqj?pli=1) | no | 19:00 UTC | 30 August 2025 |
+| _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion<br>`Open Mic` on last Tuesday of each month<br>[*Google* Meet](https://meet.google.com/sfb-xfvn-rqj?pli=1) | no | 19:00 UTC | 26 August 2025 |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 18:00 UTC | 11 September 2025 |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 21:00 UTC | 27 September 2025 |
+| _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion<br>`Open Mic` on last Tuesday of each month<br>[*Google* Meet](https://meet.google.com/sfb-xfvn-rqj?pli=1) | no | 19:00 UTC | 30 September 2025 |
 
 #### Permanent Links
 
