@@ -6,12 +6,7 @@ Published on 16 September 2025
 
 ## In this edition:
 
-* []()
-* []()
-* []()
-* []()
-* []()
-
+* [to be filled out soon](#upcoming-open-mics)
 
 
 ## Upcoming Open Mics 
