@@ -2,11 +2,24 @@
 
 _Master Your DIY `Closed-Loop` Insulin Delivery System_
 
-Published on 16 September 2025
+Published on 17 September 2025
 
 ## In this edition:
 
-* [to be filled out soon](#upcoming-open-mics)
+* [Upcoming Open Mics](#upcoming-open-mics)
+* [iOS 26: Please Wait](#ios-26-please-wait)
+* [Xcode 26](#xcode-26)
+* [`Loop-main v3.8` is Released](#loop-main-v38-is-released)
+* [Save the Date](#save-the-date)
+* [Hackathon ‘25](#hackathon-25)
+* [Did You Sign?](#did-you-sign)
+* [Request for Translators](#request-for-translators)
+* [Time for a Change](#time-for-a-change)
+* [ICYMI: Medicare is Changing Access to Diabetes Tech in the U.S.](#icymi-medicare-is-changing-access-to-diabetes-tech-in-the-us)
+* [PWT1D (Person with T1D) Athlete Highlight](#pwt1d-person-with-t1d-athlete-highlight)
+* [T1Dto100.com is Here!](#t1dto100com-is-here)
+* [*Facebook* Q&A](#facebook-qa)
+* [Helpful Links](#helpful-links)
 
 
 ## Upcoming Open Mics 
@@ -155,7 +168,6 @@ We are all invited to join DPAC as they bring together experts in the policy and
 - - -
 
 ## PWT1D (Person with T1D) Athlete Highlight 
-
 
 One of our young loopers recently placed 6th in a Special Olympics event! She’s a shining reminder that type 1 doesn’t have to hold you back.
 
