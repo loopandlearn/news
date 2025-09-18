@@ -2,7 +2,7 @@
 
 _Master Your DIY `Closed-Loop` Insulin Delivery System_
 
-Published on 17 September 2025
+Published on 18 September 2025
 
 ## In this edition:
 
@@ -58,9 +58,10 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## iOS 26: Please Wait 
 
-iOS 26 has been newly released and needs to be tested for compatibility with Loop before our experts can recommend upgrading your phone to it. They have already been working hard to do this.
+iOS 26 has been newly released and needs to be tested for compatibility with the Open-Source apps before our experts can recommend upgrading your phone to it. They have already been working hard to do this.
 
-Issues that have been addressed include:
+Issues that have been addressed are listed below. (The app name in parentheses indicates which app had a problem that needed to be addressed):
+
 * the ability to bolus (Loop only)
 * the ability to add non-pump insulin (Loop only)
 * display issues (buttons that should have been blue were changed to grey, making them less visible) (Loop only)
