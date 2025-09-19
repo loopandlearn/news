@@ -105,17 +105,18 @@ See [Release Notes on GitHub](https://github.com/LoopKit/LoopWorkspace/releases/
 
 On October 16, our panelists will share a user’s perspective on [Sequel’s new twiist AID system](https://www.twiist.com/). *twiist* is based upon an earlier iteration of the Loop algorithm, and we're excited to share *twiist* users insights with the community! This session will highlight real experiences from people who have transitioned from the *Loop* app to *twiist*, along with practical tips for anyone considering (or preparing for) that swiitch. We are targeting 16 October for this event, but the time is still TBD. 
 
-Those who join us will have the opportunity to ask questions directly of our panelists. If you can't make it, the session will be recorded so you can watch later. 
+Those who [join us](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) will have the opportunity to ask questions directly of our panelists. If you can't make it, the session will be recorded so you can watch later. 
 
 - - -
 
 ## Hackathon ‘25 
 
 Calling all developers interested in improving open source DIY diabetes tech! It is our pleasure to invite you to join us at [#hackdiabetes25](https://www.facebook.com/hashtag/hackdiabetes25)!
+
 This year, the Nightscout Foundation has partnered with D-Data to offer 2 sessions. First, we will brainstorm and plan in virtual sessions on November 7. Then, we will meet in person in Vancouver, BC on November 15-16 to put that development to work at the hackathon!
 If you are interested in attending either session or both, please fill out this [interest form](https://docs.google.com/forms/d/e/1FAIpQLSemFZwPE7-nfrUc99uE1Eo-Vh1mYRzWvRYqnazBfmrKMVS7MQ/viewform?usp=header&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExOEFLbUppNmtJZGlyUDZydgEeK11myTrj-HzyIzfx9aysZhlRssz9JLevDEOTE_OGaneXn-nal_3-97yFHOM_aem_L9q_Q7Vz3CVMkqMWS_GvKA)
 
-If you aren’t a developer, but you want to support the hackathon, anything you give will help cover hackathon and developer travel expenses. Donate here: [Nightcout Foundation: Direct Donations for Hackathon](https://nightscout.squarespace.com/new-products/direct-donation-apa26).
+If you aren’t a developer, but you want to support the hackathon, anything you give will help cover hackathon and developer travel expenses. Donate here: [Nightcout Foundation: Direct Donations for Hackathon](https://www.nightscoutfoundation.org/new-products/direct-donation-apa26).
 
 - - -
 
@@ -161,13 +162,13 @@ Coming soon: Europe and the U.S. will resume Standard Time on 26 October and 2 N
 
 ## ICYMI: Medicare is Changing Access to Diabetes Tech in the U.S. 
 
-26 September 2025, 10 AM PT ⎈ 12 PM ET
+26 September 2025, 10 AM PT ⎈ 12 PM ET, [link to register](https://us06web.zoom.us/webinar/register/8917575388782/WN_XqzalqVFRHqFUVh4vUYo3Q#/registration)
 
 The U.S. Centers for Medicare and Medicaid Services (CMS) has proposed shifting diabetes technology, such as insulin pumps and CGMs, to a rental model for patients in the U.S.
 
 This would require PWD to return their devices before receiving new ones and reduce access points for pumps and CGMs nationwide.
 
-We are all invited to [join DPAC for a special webinar](https://us06web.zoom.us/webinar/register/8917575388782/WN_XqzalqVFRHqFUVh4vUYo3Q#/registration) as they bring together experts in the policy and medical fields to discuss the potential impacts of this proposal and how we can navigate them.
+We are all invited to [register with DPAC for a special webinar](https://us06web.zoom.us/webinar/register/8917575388782/WN_XqzalqVFRHqFUVh4vUYo3Q#/registration) as they bring together experts in the policy and medical fields to discuss the potential impacts of this proposal and how we can navigate them.
 
 - - -
 
