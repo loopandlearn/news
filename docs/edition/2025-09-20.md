@@ -99,9 +99,13 @@ See [Release Notes on GitHub](https://github.com/LoopKit/LoopWorkspace/releases/
 
 - - -
 
-## Save the Date  
+## Save the Date
 
-We have an inside perspective on [Sequel’s new twiist AID system](https://www.twiist.com/), which employs an earlier iteration of the Loop algorithm, and we’re excited to share it with the community! This session will highlight real experiences from people who have transitioned from Loop to twiist, along with practical tips for anyone considering (or preparing for) that switch. (NEED DATE We’re targeting mid-October. I’d like to do it before the 20th or if not, then November)
+> Thinking about **swiitching** to **twiist**?
+
+On October 16, our panelists will share a user’s perspective on [Sequel’s new twiist AID system](https://www.twiist.com/). *twiist* is based upon an earlier iteration of the Loop algorithm, and we're excited to share *twiist* users insights with the community! This session will highlight real experiences from people who have transitioned from the *Loop* app to *twiist*, along with practical tips for anyone considering (or preparing for) that swiitch. We are targeting 16 October for this event, but the time is still TBD. 
+
+Those who join us will have the opportunity to ask questions directly of our panelists. If you can't make it, the session will be recorded so you can watch later. 
 
 - - -
 
@@ -160,11 +164,10 @@ Coming soon: Europe and the U.S. will resume Standard Time on 26 October and 2 N
 26 September 2025, 10 AM PT ⎈ 12 PM ET
 
 The U.S. Centers for Medicare and Medicaid Services (CMS) has proposed shifting diabetes technology, such as insulin pumps and CGMs, to a rental model for patients in the U.S.
+
 This would require PWD to return their devices before receiving new ones and reduce access points for pumps and CGMs nationwide.
-We are all invited to join DPAC as they bring together experts in the policy and medical fields to discuss the potential impacts of this proposal and how we can navigate them.
 
-[https://us06web.zoom.us/webinar/register/8917575388782/WN_XqzalqVFRHqFUVh4vUYo3Q#/registration](https://us06web.zoom.us/webinar/register/8917575388782/WN_XqzalqVFRHqFUVh4vUYo3Q#/registration)
-
+We are all invited to [join DPAC for a special webinar](https://us06web.zoom.us/webinar/register/8917575388782/WN_XqzalqVFRHqFUVh4vUYo3Q#/registration) as they bring together experts in the policy and medical fields to discuss the potential impacts of this proposal and how we can navigate them.
 
 - - -
 
@@ -195,11 +198,14 @@ Connect to others in the group on [Facebook](http://Facebook.com/groups/T1Dto100
 
 ## *Facebook* Q&A
 
-* [Are settings changes needed when switching from one branch to another?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4159820307607775/)
+* [Are settings changes needed when switching from one dosing strategy to another?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4159820307607775/)
 
 * [How do you figure out the macros when you cook at home?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4152697701653369/)
 
-* [Should carbs be announced in Loop, even if I’m not going to deliver insulin immediately?]()
+* [Should carbs be announced in Loop, even if I’m not going to deliver insulin immediately?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4146967198893086/)
+
+* [Advice on communicating with Dexcom support?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4166747723581700)
+
 
 - - -
 
