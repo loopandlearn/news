@@ -168,7 +168,7 @@ The U.S. Centers for Medicare and Medicaid Services (CMS) has proposed shifting 
 
 This would require PWD to return their devices before receiving new ones and reduce access points for pumps and CGMs nationwide.
 
-We are all invited to [register with DPAC for a special webinar](https://us06web.zoom.us/webinar/register/8917575388782/WN_XqzalqVFRHqFUVh4vUYo3Q#/registration) as they bring together experts in the policy and medical fields to discuss the potential impacts of this proposal and how we can navigate them.
+We’re all invited to join DPAC for a webinar bringing together policy and medical experts to discuss the potential impacts of this proposal and how we can navigate them. Be sure to register using the link above and save the date on your calendar!
 
 - - -
 
