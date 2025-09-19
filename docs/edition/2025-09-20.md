@@ -62,14 +62,14 @@ iOS 26 has been newly released and needs to be tested for compatibility with the
 
 Issues that have been addressed are listed below. (The app name in parentheses indicates which app had a problem that needed to be addressed):
 
-* the ability to bolus (Loop only)
-* the ability to add non-pump insulin (Loop only)
-* display issues (buttons that should have been blue were changed to grey, making them less visible) (Loop only)
-* toolbar allows background to be tapped instead of round icons (Trio)
+* the ability to bolus (the *Loop* app)
+* the ability to add non-pump insulin (the *Loop* app)
+* display issues (buttons that should have been blue were changed to grey, making them less visible) (the *Loop* app)
+* toolbar allows background to be tapped instead of round icons (*Trio*)
 
 The combination of iPhone 17 and iOS 26 may create new unanticipated issues, as well.
 
-Please wait until our experts give you the all-clear to update your looping phone- and remember: it’s a medical device. 
+Please wait until our experts give you the all-clear to update your OS AID phone- and remember: it’s a medical device. 
 
 Typically, *Apple* will have rapid updates and bug fixes. It's worth waiting for iOS 26.1 to be released.
 
