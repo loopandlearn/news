@@ -3152,6 +3152,7 @@ AAPS).</p>
 <ul>
 <li>English <code>Open Mic</code>: use <em>Zoom</em>: <a href="https://loopandlearn.org/zoom">loopandlearn.org/zoom</a></li>
 <li>Italian <code>Open Mic</code>: use <em>Google</em> Meet: <a href="https://meet.google.com/sfb-xfvn-rqj?pli=1">https://meet.google.com/sfb-xfvn-rqj?pli=1</a>.</li>
+<li>Italian <code>Open Mic</code>: switching to <em>Zoom</em> with: <a href="https://loopandlearn.org/zoomit">loopandlearn.org/zoomit</a></li>
 </ul>
 <h4 id="time-zone-converter">Time Zone Converter<a class="headerlink" href="#time-zone-converter" title="Anchor link to this Header on this Page">&para;</a></h4>
 <p>Need help figuring out when an event happens in your time zone? Try the <a href="https://savvytime.com/converter/utc" target="_blank">SavvyTime: UTC Converter</a>.</p>
@@ -3164,7 +3165,7 @@ be sure to keep iOS automatic updates off for both Loop and Trio, so an update w
 <p>Loop 3.8.1 was released on 23 September 2025; see details <a href="https://github.com/LoopKit/LoopWorkspace/releases/tag/v3.8.1">here</a>.</p>
 <ul>
 <li>Fixes the designed behavior of tapping on the bolus line to automatically replace the recommended value with zero</li>
-<li>Add updates to DanaKit</li>
+<li>Adds updates to DanaKit</li>
 <li>Restores going to Dexcom G6 app (for users of G6) when tapping on glucose in main screen</li>
 <li>Additional translations added</li>
 </ul>
@@ -3196,13 +3197,12 @@ be sure to keep iOS automatic updates off for both Loop and Trio, so an update w
 <p>Be sure to use your app to update the clock on your pump at your convenience. Keep your phone on automatic time.</p>
 <hr />
 <h2 id="automatic-build-times">Automatic Build Times<a class="headerlink" href="#automatic-build-times" title="Anchor link to this Header on this Page">&para;</a></h2>
-<p>We are in the process of modifying when <strong>planned</strong> builds happen.</p>
-<p>The <em>LoopFollow</em> and <em>Trio</em> apps are already changed. This change will eventually propagate to other apps in the Open-Source ecosystem.</p>
-<p>New method - there will be one automatic run of the build action each week on Sunday.</p>
+<p>We are in the process of modifying when the <strong>planned</strong> weekly checks and monthly builds are scheduled.</p>
+<p>The <em>LoopFollow</em> and <em>Trio</em> apps are already changed to the new build schedule. This change will eventually propagate to other apps in the Open-Source ecosystem.</p>
+<p>The system will check for updates every Sunday.</p>
 <ul>
-<li>If it is the second Sunday of the month, the app will be built and uploaded to TestFlight</li>
-<li>If updated code is detected, the new version of the app will be built and uploaded to TestFlight</li>
-<li>If no updated code is detected, the build will be skipped (except for the second Sunday of the month)</li>
+<li>If there are no code changes, the build is skipped, except . . .</li>
+<li>On the second Sunday of the month, a build is always attempted</li>
 </ul>
 <hr />
 <h2 id="hackathon-25">Hackathon ‘25<a class="headerlink" href="#hackathon-25" title="Anchor link to this Header on this Page">&para;</a></h2>
