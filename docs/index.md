@@ -16,7 +16,7 @@ Published on 15 October 2025
 
 ## Upcoming Open Mics 
 
-Our next Open Mic is on Saturday, Sept. 27, and we’d love to give a special shoutout to Trio users -and those who are curious about Trio- to join us for this one! Of course, that doesn’t mean anyone else is left out; everyone is always welcome and invited!
+Our next Open Mic is on Saturday, Oct. 25, and we’d love to give a special shoutout to Trio users -and those who are curious about Trio- to join us for this one! Of course, that doesn’t mean anyone else is left out; everyone is always welcome and invited!
 
 _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) virtual meetings are scheduled on the second Thursday of each month and the fourth Saturday of each month.
 
@@ -190,15 +190,16 @@ Check out this [Loop and Learn: Sequel twiist](https://www.loopandlearn.org/sequ
 
 Got a diabetes lesson to share? A story to tell?
 
-Diabulemia Helpline (DBH) is all about breaking the silence at the intersection of diabetes & mental health—and they want YOUR voice at DBHcon26: DBHcon: International Conference on Diabetes and Mental Health(Nov 13–15, 2026) in Nashville, Tennessee!
+[Diabulemia Helpline (DBH)](https://www.diabulimiahelpline.org/) is all about breaking the silence at the intersection of diabetes & mental health—and they want YOUR voice at DBHcon26: DBHcon: International Conference on Diabetes and Mental Health (Nov 13–15, 2026) in Nashville, Tennessee!
 
 They’re looking for speakers who can inspire, educate, and spark change. Whether you’re a diabetes advocate, healthcare professional, researcher, or someone with lived experience, this is your chance to be heard on an international stage.
 
-Speakers receive FREE registration + a 2-night stay at the conference hotel.
+* Speakers receive FREE registration + a 2-night stay at the conference hotel.
 
-Your story could be exactly what someone else needs to hear.
+* Your story could be exactly what someone else needs to hear.
 
-Applications are open now—apply [here](https://forms.gle/1YFeECnR9nrWLkdbA) to help shape the future of diabetes & mental health.
+* Applications are open now
+    * [Apply at this link](https://forms.gle/1YFeECnR9nrWLkdbA) to help shape the future of diabetes & mental health.
 
 Deadline is 30 December 2025.
 
