@@ -31,16 +31,15 @@ AAPS).
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 21:00 UTC | 25 October 2025 |
-| _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion<br>`Open Mic` on last Tuesday of each month<br>[*Google* Meet](https://meet.google.com/sfb-xfvn-rqj?pli=1) | no | 19:00 UTC | 28 October 2025 |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 18:00 UTC | 13 November 2025 |
+| _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion<br>`Open Mic` on last Tuesday of each month<br>[Now Using *Zoom*](https://zoom.us/j/9786554154?pwd=W0XTbZX5g2blj45cUbY45ZD4BZHa4X.1) | no | 19:00 UTC | 28 October 2025 |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1)| no | 18:00 UTC | 13 November 2025 |
 
 #### Permanent Links
 
 Video Conference Sessions use the following links every month. Notice - they now have easy-to-remember redirects shortcuts:
 
-* English `Open Mic`: use *Zoom*: [loopandlearn.org/zoom](https://loopandlearn.org/zoom)
-* Italian `Open Mic`: use *Google* Meet: [https://meet.google.com/sfb-xfvn-rqj?pli=1](https://meet.google.com/sfb-xfvn-rqj?pli=1).
-* Italian `Open Mic`: switching to *Zoom* with: [loopandlearn.org/zoomit](https://loopandlearn.org/zoomit)
+* English `Open Mic`: [loopandlearn.org/zoom](https://loopandlearn.org/zoom)
+* Italian `Open Mic`: [loopandlearn.org/zoomit](https://loopandlearn.org/zoomit)
 
 
 #### Time Zone Converter
@@ -143,7 +142,7 @@ Hackathon Sponsorship Levels:
 | $1250 | Cover half the lodging for 8 developers crammed into an Airbnb (it’s a team-bonding thing! ) |
 | $2500 | Full lodging for 8 developers, plus Dan gets his own bed this time |
 
-To date, our generous donors have funded lodging for all developers attending the event- thank you! Let’s keep going towards our goal!
+To date, our generous donors have given $33,235 and there are many $10 contributions. Thank you! Let’s keep going towards our goal!
 
 Interested in attending? [Fill out this interest form](https://docs.google.com/forms/d/e/1FAIpQLSemFZwPE7-nfrUc99uE1Eo-Vh1mYRzWvRYqnazBfmrKMVS7MQ/viewform?usp=header&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExOEFLbUppNmtJZGlyUDZydgEeK11myTrj-HzyIzfx9aysZhlRssz9JLevDEOTE_OGaneXn-nal_3-97yFHOM_aem_L9q_Q7Vz3CVMkqMWS_GvKA). There is a virtual session (open to all) as well as the in-person session (limited attendance).
 
@@ -151,7 +150,7 @@ Interested in attending? [Fill out this interest form](https://docs.google.com/f
 
 ## Problem Getting Libre Data into Nightscout?
 
-If you aren't getting your readings to Nightscout from Libre, please agree to their new terms of service. Log in to the LibreLinkup app on your phone and agree.
+If you aren't getting your readings in Nightscout from Libre, please log in to the LibreLinkup app and agree to their new terms of service.
 
 > Thanks to Jeff Singer for this tip! 
 
@@ -215,9 +214,7 @@ If you meet up with other Loopers or Trio-ers, please share your pix with us!
 
 ## Halloween Candy Carb Counts
 
-[Here’s a handy chart](https://www.facebook.com/BeyondType1/posts/candy-carb-counts-here-we-looked-them-up-so-you-dont-have-to-happy-halloween-lar/2144170402551621/) posted on Facebook from our friends at Beyond Type 1 to help with dosing for all the yummies. Trick or Treat!
-
-If you don't use Facebook - here's another option: [Breakthrough T1D: Halloween Candy Carbohydrate Counts](https://www.breakthrought1d.org/wp-content/uploads/2020/09/Halloween-candy-carb-counts.pdf)
+[Here’s a handy chart](https://www.breakthrought1d.org/wp-content/uploads/2020/09/Halloween-candy-carb-counts.pdf) from our friends at Breakthrough T1D (previously JDRF) to help with dosing for seasonal yummies. Trick or Treat!
 
 - - -
 
