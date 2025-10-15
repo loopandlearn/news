@@ -40,6 +40,7 @@ Video Conference Sessions use the following links every month. Notice - they now
 
 * English `Open Mic`: use *Zoom*: [loopandlearn.org/zoom](https://loopandlearn.org/zoom)
 * Italian `Open Mic`: use *Google* Meet: [https://meet.google.com/sfb-xfvn-rqj?pli=1](https://meet.google.com/sfb-xfvn-rqj?pli=1).
+* Italian `Open Mic`: switching to *Zoom* with: [loopandlearn.org/zoomit](https://loopandlearn.org/zoomit)
 
 
 #### Time Zone Converter
@@ -60,7 +61,7 @@ be sure to keep iOS automatic updates off for both Loop and Trio, so an update w
 Loop 3.8.1 was released on 23 September 2025; see details [here](https://github.com/LoopKit/LoopWorkspace/releases/tag/v3.8.1).
 
 * Fixes the designed behavior of tapping on the bolus line to automatically replace the recommended value with zero
-* Add updates to DanaKit
+* Adds updates to DanaKit
 * Restores going to Dexcom G6 app (for users of G6) when tapping on glucose in main screen
 * Additional translations added
 
@@ -109,15 +110,14 @@ Be sure to use your app to update the clock on your pump at your convenience. Ke
 
 ## Automatic Build Times 
 
-We are in the process of modifying when **planned** builds happen.
+We are in the process of modifying when the **planned** weekly checks and monthly builds are scheduled.
 
-The *LoopFollow* and *Trio* apps are already changed. This change will eventually propagate to other apps in the Open-Source ecosystem.
+The *LoopFollow* and *Trio* apps are already changed to the new build schedule. This change will eventually propagate to other apps in the Open-Source ecosystem.
 
-New method - there will be one automatic run of the build action each week on Sunday.
+The system will check for updates every Sunday.
 
-* If it is the second Sunday of the month, the app will be built and uploaded to TestFlight
-* If updated code is detected, the new version of the app will be built and uploaded to TestFlight
-* If no updated code is detected, the build will be skipped (except for the second Sunday of the month)
+* If there are no code changes, the build is skipped, except . . .
+* On the second Sunday of the month, a build is always attempted
 
 - - -
 
