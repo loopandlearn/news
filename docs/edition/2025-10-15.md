@@ -8,7 +8,7 @@ Published on 15 October 2025
 
 * [Upcoming Open Mics](#upcoming-open-mics)
 * [iOS 26: Please Wait](#ios-26-please-wait)
-* [Loop-main 3.8](#loop-main-38)
+* [Release 3.8.1 for *Loop*](#release-381-for-loop)
 * [Did You Sign?](#did-you-sign)
 * [Don’t Lose Your Bolus Button](#dont-lose-your-bolus-button)
     * [Current status](#current-status)
@@ -66,9 +66,9 @@ be sure to keep iOS automatic updates off for both Loop and Trio, so an update w
 
 - - -
 
-## Loop-main 3.8
+## Release 3.8.1 for *Loop*
 
-Loop 3.8.1 was released on 23 September 2025; see details [here](https://github.com/LoopKit/LoopWorkspace/releases/tag/v3.8.1).
+Version 3.8.1 for the *Loop* app was released on 23 September 2025; see details [here](https://github.com/LoopKit/LoopWorkspace/releases/tag/v3.8.1).
 
 * Fixes the designed behavior of tapping on the bolus line to automatically replace the recommended value with zero
 * Adds updates to DanaKit
