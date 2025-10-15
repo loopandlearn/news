@@ -112,7 +112,7 @@ Standard Time begins on:
 * 26 October for Europe
 * 2 November for the US
 
-Be sure to use your app to [update the clock on your pump]*https://loopkit.github.io/loopdocs/loop-3/displays-v3/#time-zone) at your convenience. Keep your phone on automatic time.
+Be sure to use your app to [update the clock on your pump](https://loopkit.github.io/loopdocs/loop-3/displays-v3/#time-zone) at your convenience. Keep your phone on automatic time.
 
 - - -
 
@@ -223,7 +223,7 @@ If you meet up with other Loopers or Trio-ers, please share your pix with us!
 
 ## Halloween Candy Carb Counts
 
-Our friends at Breakthrough T1D created this helpful guide to [“Celebrating Halloween with type 1 diabetes”]https://www.breakthrought1d.org/news-and-updates/celebrating-halloween-with-type-1-diabetes/). They have great tips and carb-counting guides. 
+Our friends at Breakthrough T1D created this helpful guide to [“Celebrating Halloween with type 1 diabetes”](https://www.breakthrought1d.org/news-and-updates/celebrating-halloween-with-type-1-diabetes/). They have great tips and carb-counting guides. 
 
 Trick or Treat!
 
