@@ -8,8 +8,19 @@ Published on 15 October 2025
 
 * [Upcoming Open Mics](#upcoming-open-mics)
 * [iOS 26: Please Wait](#ios-26-please-wait)
-
-
+* [Loop-main 3.8](#loop-main-38)
+* [Did You Sign?](#did-you-sign)
+* [Don’t Lose Your Bolus Button](#dont-lose-your-bolus-button)
+    * [Current status](#current-status)
+* [Time for a Change](#time-for-a-change)
+* [Automatic Build Times](#automatic-build-times)
+* [Hackathon ‘25](#hackathon-25)
+* [Problem Getting Libre Data into Nightscout?](#problem-getting-libre-data-into-nightscout)
+* [*LoopFollow* 4.0 and 4.1 Released](#loopfollow-40-and-41-released)
+* [twiist and Loop](#twiist-and-loop)
+* [Call for Speakers for DBHcon](#call-for-speakers-for-dbhcon)
+* [LnL Team Members Meet in Person](#lnl-team-members-meet-in-person)
+* [Halloween Candy Carb Counts](#halloween-candy-carb-counts)
 * [*Facebook* Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
