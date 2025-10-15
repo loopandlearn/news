@@ -167,9 +167,9 @@ If you aren't getting your readings in Nightscout from Libre, please log in to t
 
 ## *LoopFollow* 4.0 and 4.1 Released
 
-The release of *LoopFollow* v4.0 brings a new feature for remote commands (with breaking changes — details below), plus a whole set of other great improvements.
+The [release of *LoopFollow* v4.0](https://github.com/loopandlearn/LoopFollow/releases/tag/v4.0.0) brings a new feature for remote commands (with breaking changes — details below), plus a whole set of other great improvements.
 
-*LoopFollow* v4.1 is a minor update of v4.0 that only affects people who use Browser Build.
+[*LoopFollow* v4.1](https://github.com/loopandlearn/LoopFollow/releases/tag/v4.1.0) is a minor update of v4.0 that only affects people who use Browser Build.
 
 If your *LoopFollow* browser build is failing, see these instructions:
 
