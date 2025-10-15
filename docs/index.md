@@ -61,8 +61,8 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## iOS 26: Please Wait 
 
-Please do **NOT** update your looping phone to iOS 26 yet, and
-be sure to keep iOS automatic updates off for both Loop and Trio, so an update won’t happen when you’re not looking!
+Please do **NOT** update your OS-AID phone to iOS 26 yet, and
+be sure to keep iOS automatic updates off for both *Loop* and *Trio* apps, so an update won’t happen when you’re not looking!
 
 - - -
 
@@ -103,7 +103,7 @@ iOS 26 requires Loop v3.8.1 in order to be able to manually bolus.
 
 A few other issues regarding changing Therapy Settings with iOS 26 are not yet fixed.
 
-> Always check our Version Updates page before updating anything that will impact your looping app!
+> Always check our Version Updates page before updating anything that will impact your OS-AID app!
 
 - - -
 
