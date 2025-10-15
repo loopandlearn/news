@@ -11,7 +11,7 @@ Published on 15 October 2025
 * [Release 3.8.1 for *Loop*](#release-381-for-loop)
 * [Did You Sign?](#did-you-sign)
 * [Don’t Lose Your Bolus Button](#dont-lose-your-bolus-button)
-    * [Current status](#current-status)
+    * [Current iOS 26 Bug Status](#current-ios-26-bug-status)
 * [Time for a Change](#time-for-a-change)
 * [Automatic Build Times](#automatic-build-times)
 * [Hackathon ‘25](#hackathon-25)
@@ -97,7 +97,7 @@ Be sure your Loop app remains fully usable by waiting to update iOS until our te
 
 Check our [Version Updates](https://www.loopandlearn.org/version-updates/) page and [subscribe to this newsletter](https://www.loopandlearn.org/newsletter-signup/) for notifications.
 
-### Current status:
+### Current iOS 26 Bug Status
 
 iOS 26 requires Loop v3.8.1 in order to be able to manually bolus.
 
