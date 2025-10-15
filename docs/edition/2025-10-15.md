@@ -95,15 +95,13 @@ This has been a big issue lately because lots of people aren’t getting the mes
 
 Be sure your Loop app remains fully usable by waiting to update iOS until our team gives the “all clear”.
 
-Check our [Version Updates](https://www.loopandlearn.org/version-updates/) page and [subscribe to this newsletter](https://www.loopandlearn.org/newsletter-signup/) for notifications.
+**Check our [Version Updates](https://www.loopandlearn.org/version-updates/) page and [subscribe to this newsletter](https://www.loopandlearn.org/newsletter-signup/) before updating anything that will impact your OS-AID app!**
 
 ### Current iOS 26 Bug Status
 
 iOS 26 requires Loop v3.8.1 in order to be able to manually bolus.
 
 A few other issues regarding changing Therapy Settings with iOS 26 are not yet fixed.
-
-> Always check our Version Updates page before updating anything that will impact your OS-AID app!
 
 - - -
 
@@ -114,7 +112,7 @@ Standard Time begins on:
 * 26 October for Europe
 * 2 November for the US
 
-Be sure to use your app to update the clock on your pump at your convenience. Keep your phone on automatic time.
+Be sure to use your app to [update the clock on your pump]*https://loopkit.github.io/loopdocs/loop-3/displays-v3/#time-zone) at your convenience. Keep your phone on automatic time.
 
 - - -
 
@@ -225,7 +223,9 @@ If you meet up with other Loopers or Trio-ers, please share your pix with us!
 
 ## Halloween Candy Carb Counts
 
-[Here’s a handy chart](https://www.breakthrought1d.org/wp-content/uploads/2020/09/Halloween-candy-carb-counts.pdf) from our friends at Breakthrough T1D (previously JDRF) to help with dosing for seasonal yummies. Trick or Treat!
+Our friends at Breakthrough T1D created this helpful guide to [“Celebrating Halloween with type 1 diabetes”]https://www.breakthrought1d.org/news-and-updates/celebrating-halloween-with-type-1-diabetes/). They have great tips and carb-counting guides. 
+
+Trick or Treat!
 
 - - -
 
