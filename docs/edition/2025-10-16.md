@@ -13,13 +13,14 @@ Published on 16 October 2025
 * [Did You Sign?](#did-you-sign)
 * [Time for a Change](#time-for-a-change)
 * [Automatic Build Times](#automatic-build-times)
-* [Hackathon ‘25](#hackathon-25)
 * [Problem Getting Libre Data into Nightscout?](#problem-getting-libre-data-into-nightscout)
+* [Hackathon ‘25](#hackathon-25)
 * [*LoopFollow* 4.0 and 4.1 Released](#loopfollow-40-and-41-released)
 * [twiist and Loop](#twiist-and-loop)
 * [Call for Speakers for DBHcon](#call-for-speakers-for-dbhcon)
 * [LnL Team Members Meet in Person](#lnl-team-members-meet-in-person)
-* [Halloween Candy Carb Counts](#halloween-candy-carb-counts)
+* [Halloween Guide](#halloween-guide)
+* [US Parents of Kids with T1D](#us-parents-of-kids-with-t1d)
 * [*Facebook* Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
@@ -125,6 +126,14 @@ The system will check for updates every Sunday.
 
 - - -
 
+## Problem Getting Libre Data into Nightscout?
+
+If you aren't getting your readings in Nightscout from Libre, please log in to the LibreLinkup app and agree to their new terms of service.
+
+> Thanks to Jeff Singer for this tip! 
+
+- - -
+
 ## Hackathon ‘25 
 
 Have you donated to this year's fundrasier for the upcoming hackathon yet?
@@ -150,14 +159,6 @@ Hackathon Sponsorship Levels:
 To date, our generous donors have given $33,235 and there are many $10 contributions. Thank you! Let’s keep going towards our goal!
 
 Interested in attending? [Fill out this interest form](https://docs.google.com/forms/d/e/1FAIpQLSemFZwPE7-nfrUc99uE1Eo-Vh1mYRzWvRYqnazBfmrKMVS7MQ/viewform?usp=header&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExOEFLbUppNmtJZGlyUDZydgEeK11myTrj-HzyIzfx9aysZhlRssz9JLevDEOTE_OGaneXn-nal_3-97yFHOM_aem_L9q_Q7Vz3CVMkqMWS_GvKA). There is a virtual session on 7 November 2025 (open to all) as well as the in-person session (limited attendance).
-
-- - -
-
-## Problem Getting Libre Data into Nightscout?
-
-If you aren't getting your readings in Nightscout from Libre, please log in to the LibreLinkup app and agree to their new terms of service.
-
-> Thanks to Jeff Singer for this tip! 
 
 - - -
 
@@ -217,11 +218,27 @@ If you meet up with other Loopers or Trio-ers, please share your pix with us!
 
 - - -
 
-## Halloween Candy Carb Counts
+## Halloween Guide
 
 Our friends at Breakthrough T1D created this helpful guide to [“Celebrating Halloween with type 1 diabetes”](https://www.breakthrought1d.org/news-and-updates/celebrating-halloween-with-type-1-diabetes/). They have great tips and carb-counting guides. 
 
 Trick or Treat!
+
+- - -
+
+## US Parents of Kids with T1D
+
+Take this anonymous [survey](https://dqa.co1.qualtrics.com/jfe/form/SV_0kZKyZH6JVr7Stg) to shape the future of diabetes management in schools nationwide!
+Your input will create data needed to shape important decisions to update trainings, resources,
+and policies in schools.
+
+Open to parents of children with T1D in PreK-12, public and private schools in the U.S.
+
+Please share the survey on your social media and local T1D pages so all T1D parents can be heard!
+
+This survey is done by FOLLOWT1Ds with dQ&A Research, an Insights partner: “We put decades of
+diabetes-focused research and consulting experience behind our custom research and data
+services.”
 
 - - -
 
