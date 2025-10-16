@@ -8,10 +8,9 @@ Published on 16 October 2025
 
 * [Upcoming Open Mics](#upcoming-open-mics)
 * [iOS 26: Please Wait](#ios-26-please-wait)
+* [Don’t Lose Your Bolus Button](#dont-lose-your-bolus-button)
 * [Release 3.8.1 for *Loop*](#release-381-for-loop)
 * [Did You Sign?](#did-you-sign)
-* [Don’t Lose Your Bolus Button](#dont-lose-your-bolus-button)
-    * [Current iOS 26 Bug Status](#current-ios-26-bug-status)
 * [Time for a Change](#time-for-a-change)
 * [Automatic Build Times](#automatic-build-times)
 * [Hackathon ‘25](#hackathon-25)
@@ -66,11 +65,25 @@ be sure to keep iOS automatic updates off for both *Loop* and *Trio* apps, so an
 
 - - -
 
+## Don’t Lose Your Bolus Button
+
+This has been a big issue lately because lots of people aren’t getting the message:
+
+* iOS 26 requires Loop v3.8.0 to be able to manually bolus
+* Loop v3.8.1 fixes a few more iOS 26 issues
+* A few other issues regarding changing Therapy Settings with iOS 26 are not yet fixed
+
+Be sure your Loop app remains fully usable by waiting to update iOS until our team gives the “all clear”.
+
+**Check our [Version Updates](https://www.loopandlearn.org/version-updates/) page and [subscribe to this newsletter](https://www.loopandlearn.org/newsletter-signup/) before updating anything that will impact your OS-AID app!**
+
+- - -
+
 ## Release 3.8.1 for *Loop*
 
 Version 3.8.1 for the *Loop* app was released on 23 September 2025; see details [here](https://github.com/LoopKit/LoopWorkspace/releases/tag/v3.8.1).
 
-* Fixes the designed behavior of tapping on the bolus line to automatically replace the recommended value with zero
+* Restores the designed behavior of tapping on the bolus line to automatically replace the recommended value with zero
 * Adds updates to DanaKit
 * Restores going to Dexcom G6 app (for users of G6) when tapping on glucose in main screen
 * Additional translations added
@@ -85,23 +98,6 @@ Version 3.8.1 for the *Loop* app was released on 23 September 2025; see details 
 A new [Apple Developer Program License Agreement](https://developer.apple.com/support/terms/) needs to be signed by 23 October. Go there now and sign if you haven’t already!
 
 If you need help, post in our [Facebook group](https://www.facebook.com/groups/LOOPandLEARN), [Loop Zulip Chat](https://loop.zulipchat.com/), or [Trio Discord](https://discord.gg/FnwFEFUwXE).
-
-
-- - -
-
-## Don’t Lose Your Bolus Button
-
-This has been a big issue lately because lots of people aren’t getting the message:
-
-Be sure your Loop app remains fully usable by waiting to update iOS until our team gives the “all clear”.
-
-**Check our [Version Updates](https://www.loopandlearn.org/version-updates/) page and [subscribe to this newsletter](https://www.loopandlearn.org/newsletter-signup/) before updating anything that will impact your OS-AID app!**
-
-### Current iOS 26 Bug Status
-
-iOS 26 requires Loop v3.8.1 in order to be able to manually bolus.
-
-A few other issues regarding changing Therapy Settings with iOS 26 are not yet fixed.
 
 - - -
 
