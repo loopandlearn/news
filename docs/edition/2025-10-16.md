@@ -195,7 +195,7 @@ Check out this [Loop and Learn: Sequel twiist](https://www.loopandlearn.org/sequ
 
 Got a diabetes lesson to share? A story to tell?
 
-[Diabulemia Helpline (DBH)](https://www.diabulimiahelpline.org/) is all about breaking the silence at the intersection of diabetes & mental health—and they want YOUR voice at DBHcon26: DBHcon: International Conference on Diabetes and Mental Health (Nov 13–15, 2026) in Nashville, Tennessee!
+[Diabulimia Helpline (DBH)](https://www.diabulimiahelpline.org/) is all about breaking the silence at the intersection of diabetes & mental health—and they want YOUR voice at DBHcon26: DBHcon: International Conference on Diabetes and Mental Health (Nov 13–15, 2026) in Nashville, Tennessee!
 
 They’re looking for speakers who can inspire, educate, and spark change. Whether you’re a diabetes advocate, healthcare professional, researcher, or someone with lived experience, this is your chance to be heard on an international stage.
 
