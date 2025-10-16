@@ -84,7 +84,7 @@ Version 3.8.1 for the *Loop* app was released on 23 September 2025; see details 
 
 A new [Apple Developer Program License Agreement](https://developer.apple.com/support/terms/) needs to be signed by 23 October. Go there now and sign if you haven’t already!
 
-If you need help, post in our Facebook group or on Zulip Chat.
+If you need help, post in our [Facebook group](https://www.facebook.com/groups/LOOPandLEARN), [Loop Zulip Chat](https://loop.zulipchat.com/), or [Trio Discord](https://discord.gg/FnwFEFUwXE).
 
 
 - - -
