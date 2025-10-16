@@ -131,7 +131,7 @@ The system will check for updates every Sunday.
 
 ## Hackathon ‘25 
 
-To support the hackathon, anything you give will help cover hackathon and developer travel expenses.
+Have you donated to this year's fundrasier for the upcoming hackathon yet?
 
 By donating to The Nightscout Foundation, you’ll be funding travel, food, and lodging for our incredible developers to attend the Hackathon, November 14-16, 2025, in Vancouver, BC. Your support means everything! Here’s how you can make a difference:
 
@@ -153,7 +153,7 @@ Hackathon Sponsorship Levels:
 
 To date, our generous donors have given $33,235 and there are many $10 contributions. Thank you! Let’s keep going towards our goal!
 
-Interested in attending? [Fill out this interest form](https://docs.google.com/forms/d/e/1FAIpQLSemFZwPE7-nfrUc99uE1Eo-Vh1mYRzWvRYqnazBfmrKMVS7MQ/viewform?usp=header&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExOEFLbUppNmtJZGlyUDZydgEeK11myTrj-HzyIzfx9aysZhlRssz9JLevDEOTE_OGaneXn-nal_3-97yFHOM_aem_L9q_Q7Vz3CVMkqMWS_GvKA). There is a virtual session (open to all) as well as the in-person session (limited attendance).
+Interested in attending? [Fill out this interest form](https://docs.google.com/forms/d/e/1FAIpQLSemFZwPE7-nfrUc99uE1Eo-Vh1mYRzWvRYqnazBfmrKMVS7MQ/viewform?usp=header&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExOEFLbUppNmtJZGlyUDZydgEeK11myTrj-HzyIzfx9aysZhlRssz9JLevDEOTE_OGaneXn-nal_3-97yFHOM_aem_L9q_Q7Vz3CVMkqMWS_GvKA). There is a virtual session on 7 November 2025 (open to all) as well as the in-person session (limited attendance).
 
 - - -
 
