@@ -95,7 +95,7 @@ use_directory_urls: !ENV [CHECK_BROKEN_LINKS, True]
 nav:
 - Current: 'index.md'
 - Edition by Date:
-    - '2025-10-15': 'edition/2025-10-15.md'
+    - '2025-10-16': 'edition/2025-10-16.md'
     - '2025-09-19': 'edition/2025-09-19.md'
     - '2025-08-26': 'edition/2025-08-26.md'
     - '2025-08-02': 'edition/2025-08-02.md'
