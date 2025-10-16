@@ -156,7 +156,7 @@ Hackathon Sponsorship Levels:
 | $1250 | Cover half the lodging for 8 developers crammed into an Airbnb (it’s a team-bonding thing! ) |
 | $2500 | Full lodging for 8 developers, plus Dan gets his own bed this time |
 
-To date, our generous donors have given $33,235 and there are many $10 contributions. Thank you! Let’s keep going towards our goal!
+To date, our generous donors have given $33,445 and there are many $10 contributions. Thank you! Let’s keep going towards our goal!
 
 Interested in attending? [Fill out this interest form](https://docs.google.com/forms/d/e/1FAIpQLSemFZwPE7-nfrUc99uE1Eo-Vh1mYRzWvRYqnazBfmrKMVS7MQ/viewform?usp=header&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExOEFLbUppNmtJZGlyUDZydgEeK11myTrj-HzyIzfx9aysZhlRssz9JLevDEOTE_OGaneXn-nal_3-97yFHOM_aem_L9q_Q7Vz3CVMkqMWS_GvKA). There is a virtual session on 7 November 2025 (open to all) as well as the in-person session (limited attendance).
 
