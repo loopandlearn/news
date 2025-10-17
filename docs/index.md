@@ -244,15 +244,15 @@ services.”
 
 ## *Facebook* Q&A
 
-* [Travel advice, please?](https://www.facebook.com/groups/1558147697576040/?multi_permalinks=24934491582848322&hoisted_section_header_type=recently_seen&__cft__[0]=AZX3miz0vBx_2pdIBM_34qXf0lLBsYA6ZePKUTQ2aJ7kSMox_q0yjvL11v2gsRMF8kiwfExMkjDB113Fb2cy6lwQsScJIBCdMdIUyjHtJk9Wjk6PrHazNLwxslt4PqVIlR3geE8WAxOBs-7Vdy1in-Xy&__tn__=%2CO%2CP-R)
-* [When does my pod really run out of insulin?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4184527625137043&hoisted_section_header_type=recently_seen&__cft__[0]=AZW_DcprrF2G4rg2gL2mFi-HsXsJCUBRVwng_HLl4FpTQxSsLWMA5n80fQoEqTBRsSWyon31bIXQIk10L1nJrM-8N1TEiitxQoHkwj8ffgZl69VieYxUNIYg5H6F2GIyx2iiiM2LU30NjUwV5byMp8aU&__tn__=%2CO%2CP-R)
+* [Travel advice, please?](https://www.facebook.com/groups/1558147697576040/?multi_permalinks=24934491582848322&hoisted_section_header_type=recently_seen)
+* [When does my pod really run out of insulin?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4184527625137043&hoisted_section_header_type=recently_seen)
     * See also [How much insulin is left when Pod reservoir say zero or 0 U?](https://loopkit.github.io/loopdocs/faqs/omnipod-faqs/#how-much-insulin-is-left-when-pod-reservoir-say-zero-or-0-u)
 
-* [Where can I find some strategies for dealing with lows?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4186629351593537&hoisted_section_header_type=recently_seen&__cft__[0]=AZWDjaQ5k-iFchKVY1R-3olP0AfRYP7EVjXhkY77xDP06IsW9YApah0GCuq1SXEagWBw6KBqdFcfEGK3PrgK0n8LhSMqdCG1LxWXeaR9rkqDFhHwdQWOeoaJ72gCDFx60BlkNw7MWyDFp5tccaC_eDit&__tn__=%2CO%2CP-R)
-* [Why not allow automatic updates in TestFlight?](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=1963032677763911&hoisted_section_header_type=recently_seen&__cft__[0]=AZXOWTM2K5rlTnDsi76wJp5v201fDGMBWbv1cTwO9yIZM8s87GyQXgCIVFJ0CgaOvQWd1YU4VdUPjQpBPPFrv-86FqScSHZlqv0v9gXLU9_spcGH9v3lWwcWKmPpI92tLuwVxWHqXfFGCESBFQbnQolF&__tn__=%2CO%2CP-R)
-* [How can I get more than 2 days out of a pod?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4194550397468099&hoisted_section_header_type=recently_seen&__cft__[0]=AZUNZz_X8WjPPGV2I-HM_XymgYT7CE6I73MAiAp-4z4YSHoN0Hzc8bJIfH4JDYa9nS3heVLpRiabnysFQCsmBKLh_xGMw2tJTE0u3_vJNgbbIukblAWIY52E_2Lz-14IRSd4X3Uzt5HDPLzkhwBWuFXd&__tn__=%2CO%2CP-R)
-* [Where can I find the differences between Loop main and Loop dev?](https://www.facebook.com/groups/LOOPandLEARN/posts/4196134713976334/?__cft__[0]=AZUyj6BTJMx4XQxNpvq7lmOXgzsdspmF1-4_y8ichGwjH5D6BHcT3ji-FT9Dh4FjKzkcnxk8n5uBUAcZ5kei8XGFKR2wTS0fZxC3WnY5xl0StwCL5Z4SDYj6iKO0sX0A_KfZaqz7Gzwozf6gyOYGfcEq7i9tl584IYJugpisShijqj9NbGh1ZbN0Rltsgr-TmOo&__tn__=%2CO%2CP-R)
-* [Are you having G7 phantom “signal loss”?](https://www.facebook.com/share/p/1Gie4ZtG11/)
+* [Where can I find some strategies for dealing with lows?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4186629351593537&hoisted_section_header_type=recently_seen)
+* [Why not allow automatic updates in TestFlight?](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=1963032677763911&hoisted_section_header_type=recently_seen)
+* [How can I get more than 2 days out of a pod?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4194550397468099&hoisted_section_header_type=recently_seen)
+* [Where can I find the differences between Loop main and Loop dev?](https://www.facebook.com/groups/LOOPandLEARN/posts/4196134713976334/)
+* [Are you having G7 phantom “signal loss”?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4196293203960485/?rdid=BU0BgALsH2bYoCmh#)
 
 - - -
 
