@@ -244,15 +244,15 @@ services.”
 
 ## *Facebook* Q&A
 
-* [Travel advice, please?](https://www.facebook.com/groups/1558147697576040/?multi_permalinks=24934491582848322&hoisted_section_header_type=recently_seen)
+* [Travel advice, please?](https://www.facebook.com/groups/AussieLooping/permalink/24934491582848322/)
 * [When does my pod really run out of insulin?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4184527625137043&hoisted_section_header_type=recently_seen)
     * See also [How much insulin is left when Pod reservoir say zero or 0 U?](https://loopkit.github.io/loopdocs/faqs/omnipod-faqs/#how-much-insulin-is-left-when-pod-reservoir-say-zero-or-0-u)
 
-* [Where can I find some strategies for dealing with lows?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4186629351593537&hoisted_section_header_type=recently_seen)
-* [Why not allow automatic updates in TestFlight?](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=1963032677763911&hoisted_section_header_type=recently_seen)
-* [How can I get more than 2 days out of a pod?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4194550397468099&hoisted_section_header_type=recently_seen)
-* [Where can I find the differences between Loop main and Loop dev?](https://www.facebook.com/groups/LOOPandLEARN/posts/4196134713976334/)
-* [Are you having G7 phantom “signal loss”?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4196293203960485/?rdid=BU0BgALsH2bYoCmh#)
+* [Where can I find some strategies for dealing with lows?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4186629351593537/)
+* [Why not allow automatic updates in TestFlight?](https://www.facebook.com/groups/diytrio/permalink/1963032677763911/)
+* [How can I get more than 2 days out of a pod?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4194550397468099/)
+* [Where can I find the differences between Loop main and Loop dev?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4196134713976334/)
+* [Are you having G7 phantom “signal loss”?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4196293203960485/)
 
 - - -
 
