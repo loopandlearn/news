@@ -116,7 +116,7 @@ Your turn — what’s your 4.0 story?
 * Snooze All from the new Snoozer Bar on a long drive?
 * Use the QR code share to spin up a second Caregiver's phone in seconds?
 
-Drop a mini story:
+[Drop a mini story in the comments](https://www.facebook.com/groups/loopfollowlnl/permalink/1494309058358119/):
 
 * What happened?
 * Which feature did you use?
@@ -128,19 +128,19 @@ Drop a mini story:
 If you are only using Browser Builds, and you have not been bothering to keep your Xcode version up to date, and you need to free up space, then you can remove Xcode from your Mac:
 
 * Uninstall Xcode
-* Run the big cleanup script option in the [Build Script Utilities]()
+* Run the big cleanup script option in the [Build Script Utilities](https://www.loopandlearn.org/build-select/#utilities-disk)
 
 - - -
 
 ## CalRx Insulin
 
-California is contracting for its own affordable insulin… Starting January 1, 2026, California’s CalRx® Insulin Glargine pens are plannied to be available for no more than $55 per five-pack ($11 per pen) in an aim to make insulin more affordable and accessible for everyone who relies on it.
+California is contracting for its [own affordable insulin](https://www.gov.ca.gov/2025/10/16/governor-newsom-announces-affordable-calrx-insulin-11-a-pen-will-soon-be-available-for-purchase/) Starting January 1, 2026, California’s CalRx® Insulin Glargine pens should be available. The planned price is $55 for a five-pack of pens. The aim is to make insulin more affordable and accessible for everyone who relies on it.
 
 - - -
 
 ## Hackathon ‘25 
 
-Our generous donors have given $41,000 so far, including many $10 contributions! Thank you! Let’s keep going towards our goal of $50K!
+Our generous donors have given more than $41,000 so far, including many $10 contributions! Thank you! Let’s keep going towards our goal of $50K!
 
 Your support is helping developers and support staff from these countries to be at the Hack:
 
@@ -155,11 +155,9 @@ Your support is helping developers and support staff from these countries to be 
 * Sweden
 * Czechia
 
-Donate here: https://nightscout.squarespace.com/.../direct-donation-apa26
+Donate here: [Nightcout Foundation: Direct Donations for Hackathon](https://www.nightscoutfoundation.org/new-products/direct-donation-apa26).
 
-The virtual session on 7 November is open to all and will start at 1:00pm PT- and registration closes TODAY (November 5- I’ll remove all of the info except “recordings…” if this doesn’t go out in time). 
-
-Recording(s) from the virtual session will be available afterward.
+The sessions are all filled up. Check out future articles in the newsletter when we discuss what happened in the virtual session (7 November 2025) and the in-person meetings (15-16 November, 2025).
 
 - - -
 
@@ -177,7 +175,7 @@ The advantage of the workaround is that you can enable it, then later enter carb
 
 Using a lower low range after a meal means Loop will start to automatically increase insulin sooner when that post meal glucose rise hits. Loop will not increase delivery above scheduled basal so long as your current glucose is below the low end of the target range.
 
-A longer explanation is posted here, in Zulip Chat.
+A longer explanation is posted [here, in Zulip Chat](https://loop.zulipchat.com/#narrow/channel/148543-Loop/topic//near/545469552).
 
 - - -
 
@@ -229,22 +227,22 @@ If you or someone you know is touched by Type 1 Diabetes, it would mean the worl
 3. Share how AID has helped you or someone you love
 
 You can sign or view the petition here:
-https://www.change.org/.../make-automated-insulin...
+[https://www.change.org/.../make-automated-insulin...](https://www.change.org/p/make-automated-insulin-delivery-affordable-for-all-australians-with-type-1-diabetes?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExQnNYd1p1dUE5ekswNVN4NwEeZHYjXKss55e5HZYPkgAd1ubSLl0rnFsQYeTwWtYjXBdyG8KG3gx-u9h4Cpo_aem_7aLf7GPtOBnGvicf7oLnTQ)
 
 Your voice can make a real difference. Together, we can help create a fairer future for everyone living with Type 1 Diabetes.
 
 Please share this information so more people can see it, sign the petition, and take action. If you know someone or a family coping with Type 1 Diabetes, sharing this could help make sure their voices are heard, too.
 
-Learn more and find resources at smartdiabetesliving.com
+Learn more and find resources at [smartdiabetesliving.com](http://smartdiabetesliving.com).
 
 This article is adapted from a post by Philip Hall, with permission and gratitude.
 Thank YOU, Philip, for your advocacy and self-sacrifice so that others can enjoy more peace of mind!
 
 ### Well-Deserved Recognition
 
-Kudos to our favorite Wookiee -Bionic Wookiee-  the much-deserving recipient of the diabetes.vic Outstanding Contribution- Lived Experience Award.
+Kudos to our favorite Wookiee - [Bionic Wookiee](https://bionicwookiee.com/) -  the much-deserving recipient of the [diabetes.vic](https://www.diabetesvic.org.au/diabetes-victoria-impact-awards/) Outstanding Contribution- Lived Experience Award.
 
-David has lived with type 1 diabetes for 43 years. He’s cofounder of Nascence Biomed and spends a lot of his “extra” time running peer support groups. He is well-known for his work in diabetes tech, but has also worked on clinical study teams at the Baker Heart and Diabetes Institute and is currently serving on the executive committee of the new Australian Diabetes Clinical Trials Network. David has been a part of the online diabetes community for the last decade and started looping with OpenAPS in 2017.
+David has lived with type 1 diabetes for 43 years. He’s cofounder of [Nascence Biomed](https://www.nascencebiomed.com/?fbclid=IwY2xjawN2PfxleHRuA2FlbQIxMABicmlkETFmcE8zM0hWSnVOdFpYVFRMAR7oI3uekr2o2bfMfF5MYxzlDUmWnlmnHhwD0Bj8SBEfmuQZXYfaoFwBBN9FVw_aem_VSqu2M8GlNxNwy0luQ2ytQ) and spends a lot of his “extra” time running peer support groups. He is well-known for his work in diabetes tech, but has also worked on clinical study teams at the Baker Heart and Diabetes Institute and is currently serving on the executive committee of the new Australian Diabetes Clinical Trials Network. David has been a part of the online diabetes community for the last decade and started looping with OpenAPS in 2017.
 
 The Outstanding Contribution – Lived Experience Award honors a person living with diabetes whose exceptional efforts have made a sustained, positive impact on the community. It recognizes how personal experience can spark new ideas, inspire others, and drive real change
 
@@ -252,22 +250,21 @@ The Outstanding Contribution – Lived Experience Award honors a person living w
 
 ## *Facebook* Q&A
 
-Do G7 and pods have to be worn on the same side of the body?
+[Do G7 and pods have to be worn on the same side of the body?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4199454206977718/?rdid=VtYpz5Sezcpb7DiC#)
 
-Is it time to switch from Trio-main to Trio-dev?
+[Is it time to switch from Trio-main to Trio-dev?](https://www.facebook.com/groups/diytrio/permalink/1973652460035266/)
 
-Want some proactive strategies for seniors living with T1D?
+[Want some proactive strategies for seniors living with T1D?](https://www.facebook.com/share/p/1EYGntVMXD/?)
 
-How much do you micromanage?
+[How much do you micromanage?](https://www.facebook.com/share/p/1Gt1sy4GLd/)
 
-What can I tell my significant other, who is concerned about security with Open Source?
-(Note for us: I hope to make a full article about this in the near future.)
+[What can I tell my significant other, who is concerned about security with Open Source?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4204860759770396/)
 
-In Trio, does it matter if insulin is given as a bolus (SMB or manual) or as a temp basal?
+[In Trio, does it matter if insulin is given as a bolus (SMB or manual) or as a temp basal?](https://www.facebook.com/groups/diytrio/permalink/1974895949910917/?rdid=dCwLFUi5HPn4mb0D#)
 
-Do I have to do "maintenance work" with my OS-AID app?
+[Do I have to do "maintenance work" with my OS-AID app?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4205903919666080/?rdid=rytnJ2cUXY111tYh#)
 
-What do I need to do in Loop settings when changing insulin types?
+[What do I need to do in Loop settings when changing insulin types?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4211127879143684/?rdid=JCSC0yGeV3pwf7Ch#)
 
 - - -
 
