@@ -8,16 +8,18 @@ Published on 04 November 2025
 
 * [Upcoming Open Mics](#upcoming-open-mics)
 * [iOS 26: Please Wait](#ios-26-please-wait)
-* [Diabetes Awareness Month]()
-* [What’s Your Favorite New LoopFollow Feature?]()
-* [Do I Need Xcode?]()
-* [CalRx Insulin]()
-* [Hackathon ‘25]()
-* [Premeal in Nightscout?]()
-* [How Narrow Should My Target Range Be?]()
-* [Bubble Reduction]()
-* [LnL Team Members Meet in Person]()
-* [Advocacy in Australia]()
+* [Diabetes Awareness Month](#diabetes-awareness-month)
+* [What’s Your Favorite New LoopFollow Feature?](#whats-your-favorite-new-loopfollow-feature)
+* [Do I Need Xcode?](#do-i-need-xcode)
+* [CalRx Insulin](#calrx-insulin)
+* [Hackathon ‘25](#hackathon-25)
+* [Premeal in Nightscout?](#premeal-in-nightscout)
+* [How Narrow Should My Target Range Be?](#how-narrow-should-my-target-range-be)
+* [Bubble Reduction](#bubble-reduction)
+* [LnL Team Members Meet in Person](#lnl-team-members-meet-in-person)
+* [Advocacy in Australia](#advocacy-in-australia)
+    * [A Call to Action](#a-call-to-action)
+    * [Well-Deserved Recognition](#well-deserved-recognition)
 * [*Facebook* Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
@@ -98,13 +100,13 @@ You can bookmark [https://www.loopandlearn.org/version-updates](https://www.loop
 
 ## Diabetes Awareness Month
 
-It’s that time of year again! Many of us are sharing information about diabetes with the “outside world,” and we also encourage taking a moment to deepen our own awareness. November ‘23 and ‘24 issues of News from Loop and Learn have featured articles and resources for Diabetes Awareness Month. We invite you to explore the archives and revisit those issues for inspiration and insight!
+It’s that time of year again! Many of us are sharing information about diabetes with the “outside world,” and we also encourage taking a moment to deepen our own awareness. November ‘23 and ‘24 issues of News from Loop and Learn have featured articles and resources for Diabetes Awareness Month. We invite you to explore the archives and [revisit those issues](https://www.loopandlearn.org/loop-and-learn-newsletter/) for inspiration and insight!
 
 - - -
 
 ## What’s Your Favorite New LoopFollow Feature?
 
-Now that *LoopFollow* 4.0 has been out for a bit — what’s your favorite feature?
+Now that *LoopFollow* 4.0 has been out for a bit — [what’s your favorite feature?](https://www.facebook.com/groups/loopfollowlnl/permalink/1494309058358119/)
 
 * Jonas, one of our LoopFollow SuperDevelopers, uses volume-button snooze all the time: “In a company meeting, I snooze super fast.”
 
@@ -126,9 +128,7 @@ Drop a mini story:
 If you are only using Browser Builds, and you have not been bothering to keep your Xcode version up to date, and you need to free up space, then you can remove Xcode from your Mac:
 
 * Uninstall Xcode
-* Run the big cleanup script option in the Build Script Utilities
-
-This will get rid of the extra files and free up space.
+* Run the big cleanup script option in the [Build Script Utilities]()
 
 - - -
 
@@ -212,6 +212,8 @@ If you meet up with other Loopers or Trio-ers, please share your pix with us!
 
 ## Advocacy in Australia
 
+### A Call to Action
+
 Recently, Philip Hall, one of our Australian loopers, traveled to Canberra to meet with the Health Minister’s Office and other government politicians to discuss fair access to Automated Insulin Delivery (AID) for Australians living with Type 1 Diabetes.
 
 As you all know, AID is more than technology… It’s a lifeline. For people with Type 1, it means fewer dangerous lows, fewer sleepless nights, and a break from the constant mental calculations that never stop. It gives people back something you can’t measure in numbers – peace of mind.
@@ -238,7 +240,7 @@ Learn more and find resources at smartdiabetesliving.com
 This article is adapted from a post by Philip Hall, with permission and gratitude.
 Thank YOU, Philip, for your advocacy and self-sacrifice so that others can enjoy more peace of mind!
 
-&
+### Well-Deserved Recognition
 
 Kudos to our favorite Wookiee -Bionic Wookiee-  the much-deserving recipient of the diabetes.vic Outstanding Contribution- Lived Experience Award.
 
