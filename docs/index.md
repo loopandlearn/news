@@ -212,9 +212,9 @@ If you meet up with other Loopers or Trio-ers, please share your pix with us!
 
 ### A Call to Action
 
-Recently, Philip Hall, one of our Australian loopers, traveled to Canberra to meet with the Health Minister’s Office and other government politicians to discuss fair access to Automated Insulin Delivery (AID) for Australians living with Type 1 Diabetes.
+Recently, Philip Hall, one of our Australian loopers, traveled to Canberra to meet with the Health Minister’s Office and other government politicians to discuss fair access to Automated Insulin Delivery (`AID`) for Australians living with Type 1 Diabetes.
 
-As you all know, AID is more than technology… It’s a lifeline. For people with Type 1, it means fewer dangerous lows, fewer sleepless nights, and a break from the constant mental calculations that never stop. It gives people back something you can’t measure in numbers – peace of mind.
+As you all know, `AID` is more than technology… It’s a lifeline. For people with Type 1, it means fewer dangerous lows, fewer sleepless nights, and a break from the constant mental calculations that never stop. It gives people back something you can’t measure in numbers – peace of mind.
 
 Philip acknowledges he’s one of the lucky ones. His private health cover gives him access to this system, and it has transformed his life. But many Australians aren’t as fortunate. They live with the same relentless condition yet cannot access the same life-saving tools. That’s simply not fair.
 
