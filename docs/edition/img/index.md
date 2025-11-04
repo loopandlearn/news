@@ -7,6 +7,7 @@ Published on 04 November 2025
 ## In this edition:
 
 * [Upcoming Open Mics](#upcoming-open-mics)
+* [_<span translate="no">Loop v3.8.2</span>_ Release](#loop-v382-release)
 * [iOS 26: Please Wait](#ios-26-please-wait)
 * [Diabetes Awareness Month](#diabetes-awareness-month)
 * [What’s Your Favorite New LoopFollow Feature?](#whats-your-favorite-new-loopfollow-feature)
@@ -47,7 +48,7 @@ AAPS).
 
 #### Permanent Links
 
-Video Conference Sessions use the following links every month. Notice - they now have easy-to-remember redirects shortcuts:
+Video Conference Sessions use the following links every month. Notice - they now have easy-to-remember shortcuts:
 
 * English `Open Mic`: [loopandlearn.org/zoom](https://loopandlearn.org/zoom)
 * Italian `Open Mic`: [loopandlearn.org/zoomit](https://loopandlearn.org/zoomit)
