@@ -10,10 +10,11 @@ Published on 04 November 2025
 * [_<span translate="no">Loop v3.8.2</span>_ Release](#loop-v382-release)
 * [iOS 26: Please Wait](#ios-26-please-wait)
 * [Diabetes Awareness Month](#diabetes-awareness-month)
-* [What’s Your Favorite New LoopFollow Feature?](#whats-your-favorite-new-loopfollow-feature)
 * [Do I Need Xcode?](#do-i-need-xcode)
 * [CalRx Insulin](#calrx-insulin)
 * [Hackathon ‘25](#hackathon-25)
+    * [Real-Time Hack Watch: Insights from Hack '25](#real-time-hack-watch-insights-from-hack-25)
+* [What’s Your Favorite New LoopFollow Feature?](#whats-your-favorite-new-loopfollow-feature)
 * [Premeal in Nightscout?](#premeal-in-nightscout)
 * [How Narrow Should My Target Range Be?](#how-narrow-should-my-target-range-be)
 * [Bubble Reduction](#bubble-reduction)
@@ -105,25 +106,6 @@ It’s that time of year again! Many of us are sharing information about diabete
 
 - - -
 
-## What’s Your Favorite New LoopFollow Feature?
-
-Now that *LoopFollow* 4.0 has been out for a bit — [what’s your favorite feature?](https://www.facebook.com/groups/loopfollowlnl/permalink/1494309058358119/)
-
-* Jonas, one of our LoopFollow SuperDevelopers, uses volume-button snooze all the time: “In a company meeting, I snooze super fast.”
-
-Your turn — what’s your 4.0 story?
-
-* Did push feedback (Trio only) calm the “was it received?” nerves?
-* Snooze All from the new Snoozer Bar on a long drive?
-* Use the QR code share to spin up a second Caregiver's phone in seconds?
-
-[Drop a mini story in the comments](https://www.facebook.com/groups/loopfollowlnl/permalink/1494309058358119/):
-
-* What happened?
-* Which feature did you use?
-
-- - -
-
 ## Do I Need Xcode?
 
 If you are only using Browser Builds, and you have not been bothering to keep your Xcode version up to date, and you need to free up space, then you can remove Xcode from your Mac:
@@ -159,6 +141,35 @@ Your support is helping developers and support staff from these countries to be 
 Donate here: [Nightcout Foundation: Direct Donations for Hackathon](https://www.nightscoutfoundation.org/new-products/direct-donation-apa26).
 
 The sessions are all filled up. Check out future articles in the newsletter when we discuss what happened in the virtual session (7 November 2025) and the in-person meetings (15-16 November, 2025).
+
+### Real-Time Hack Watch: Insights from Hack '25
+
+Hack 2025 is coming up fast! We're planning another 30-
+minute behind-the-scenes opportunity to see the mayhem
+when 35 developers and other volunteers from across the
+globe brainstorm the future of open-source automated
+insulin delivery and support systems: Loop, Trio, AAPS, and
+Nightscout. Time will be announced in our Facebook group
+closer to the event. We hope to see lots of you "there"!
+
+- - -
+
+## What’s Your Favorite New LoopFollow Feature?
+
+Now that *LoopFollow* 4.0 has been out for a bit — [what’s your favorite feature?](https://www.facebook.com/groups/loopfollowlnl/permalink/1494309058358119/)
+
+* Jonas, one of our LoopFollow SuperDevelopers, uses volume-button snooze all the time: “In a company meeting, I snooze super fast.”
+
+Your turn — what’s your 4.0 story?
+
+* Did push feedback (Trio only) calm the “was it received?” nerves?
+* Snooze All from the new Snoozer Bar on a long drive?
+* Use the QR code share to spin up a second Caregiver's phone in seconds?
+
+[Drop a mini story in the comments](https://www.facebook.com/groups/loopfollowlnl/permalink/1494309058358119/):
+
+* What happened?
+* Which feature did you use?
 
 - - -
 
@@ -243,7 +254,7 @@ Thank YOU, Philip, for your advocacy and self-sacrifice so that others can enjoy
 
 Kudos to our favorite Wookiee - [Bionic Wookiee](https://bionicwookiee.com/) -  the much-deserving recipient of the [diabetes.vic](https://www.diabetesvic.org.au/diabetes-victoria-impact-awards/) Outstanding Contribution- Lived Experience Award.
 
-David has lived with type 1 diabetes for 43 years. He’s cofounder of [Nascence Biomed](https://www.nascencebiomed.com/?fbclid=IwY2xjawN2PfxleHRuA2FlbQIxMABicmlkETFmcE8zM0hWSnVOdFpYVFRMAR7oI3uekr2o2bfMfF5MYxzlDUmWnlmnHhwD0Bj8SBEfmuQZXYfaoFwBBN9FVw_aem_VSqu2M8GlNxNwy0luQ2ytQ) and spends a lot of his “extra” time running peer support groups. He is well-known for his work in diabetes tech, but has also worked on clinical study teams at the Baker Heart and Diabetes Institute and is currently serving on the executive committee of the new Australian Diabetes Clinical Trials Network. David has been a part of the online diabetes community for the last decade and started looping with OpenAPS in 2017.
+David Burren has lived with type 1 diabetes for 43 years. He’s cofounder of [Nascence Biomed](https://www.nascencebiomed.com/?fbclid=IwY2xjawN2PfxleHRuA2FlbQIxMABicmlkETFmcE8zM0hWSnVOdFpYVFRMAR7oI3uekr2o2bfMfF5MYxzlDUmWnlmnHhwD0Bj8SBEfmuQZXYfaoFwBBN9FVw_aem_VSqu2M8GlNxNwy0luQ2ytQ) and spends a lot of his “extra” time running peer support groups. He is well-known for his work in diabetes tech, but has also worked on clinical study teams at the Baker Heart and Diabetes Institute and is currently serving on the executive committee of the new Australian Diabetes Clinical Trials Network. David has been a part of the online diabetes community for the last decade and started looping with OpenAPS in 2017.
 
 The Outstanding Contribution – Lived Experience Award honors a person living with diabetes whose exceptional efforts have made a sustained, positive impact on the community. It recognizes how personal experience can spark new ideas, inspire others, and drive real change
 
