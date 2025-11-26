@@ -57,15 +57,15 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 ## Reminder for Loop Browser Builders
 
-You need to manually build your Loop app once a month. (We still don't know why. Only Loop is automatically disabling itself after each manual build.)
+You need to manually build your *Loop* app once a month. (We still don't know why. Only the *Loop* app is automatically disabling itself after each manual build.)
 
 Go to Actions for your GitHub fork (example below is for docs-test username)
 
 * [https://github.com/docs-test/LoopWorkspace/actions](https://github.com/docs-test/LoopWorkspace/actions)
 
-* Build Loop -> Enable Workflow -> Run Workflow
+* `Build Loop` -> Enable Workflow -> Run Workflow
 
-Let's keep those Loop apps working over the holidays!
+Let's keep those *Loop* apps working over the holidays!
 
 - - -
 
@@ -96,7 +96,7 @@ Your data can drive innovation by giving our developers the information they nee
 
 All donated data will be held in an exclusive repository and will only be used for open-source DIY innovations.
 
-BONUS: You get access to all the cool features in the Diabetes Cockpit app for seeing correlations with your Apple Health data and your looping diabetes data!
+BONUS: You get access to all the cool features in the Diabetes Cockpit app for seeing correlations with your Apple Health data and your OS-AID diabetes data!
 
 - - -
 
@@ -135,7 +135,7 @@ The Nightscout Foundation website is being updated, including photos of people (
 ## An Important Update to the Diabetes Literature
 
 
-Congratulations to LnL team member Miroslava Calegari- and thank you for the work you do to help others living with diabetes. Miroslava has co-authored an updated version of *Diabetes: Tips & Tricks*, a book written in Slovak for parents of children with T1D. She brought in very important information about what we all do here- using hybrid closed loop for diabetes management.
+Congratulations to LnL team member Miroslava Calegari- and thank you for the work you do to help others living with diabetes. Miroslava has co-authored an updated version of *Diabetes: Tips & Tricks*, a book written in Slovak for parents of children with T1D. She brought in very important information about what we all do here- using `hybrid closed loop` for diabetes management.
 
 ### Some words from Miroslava
 
