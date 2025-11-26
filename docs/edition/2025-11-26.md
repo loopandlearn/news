@@ -104,25 +104,11 @@ BONUS: You get access to all the cool features in the Diabetes Cockpit app for s
 
 This year’s Hack began with a day of virtual presentations and gatherings, hosted by DiabetesMine’s **Amy Tenderich**. We used Remo for the meeting and several of us from Loop and Learn helped facilitate conversations at “tables” within the platform during the interactive sessions. The speakers  generously agreed  to share their presentations with the greater community. They can be found here, in the [Hack playlist](https://www.youtube.com/playlist?list=PLfnu6D6qjfHvPesExxFo9OrgEKDwUn0Ec) on Loop and Learn’s YouTube channel.
 
-We had not one, but two opportunities to look in at the Hack this year! ! People from around the world got to chat with innovators who gathered in Vancouver, BC the weekend of 14-16 November. We could feel the excitement, especially on Sunday!
-
-The closing presentations offered an inspiring look at the energy, innovation, and collaboration shaping the future of DIY diabetes technology. What follows is a synthesis of the rapid-fire updates shared by participants—a reminder of just how much is happening across our community.
-
-James Wedding opened the reflections by challenging us to reconsider what **#WeAreNotWaiting** means going forward. With algorithms now “good enough,” he urged the community to think bigger: expanding access globally, including to places like Africa where these tools could transform lives.
-
-Several contributors echoed that theme of scale and impact.  **Mathieu** shared progress on a new system built with machine learning at its core. **Rhys** celebrated his one-year diaversary and described his effort to rewrite Nightscout in C# with full type safety. The new version will support a seamless transition for users by maintaining compatibility with the existing API; code has been pushed to a private repo with more to come.
-
-A number of updates focused on improving real-world usability. **Dana Lewis** highlighted a data-analysis project on long-duration exercise, exploring how reduced insulin needs persist until calories are replaced. Her question to the community: how can algorithms better adjust for this, and can UAM triggers be improved? **James Woglom** shared exciting progress reverse-engineering Bluetooth protocols for the Tandem Mobi pump—confirming connection from an Android app and beginning work to port that functionality to iOS. He even successfully paired a Mobi with the Trio system!.
-
-Others spent the weekend pushing foundational work forward. **Deniz** continued porting JavaScript to Swift after productive discussions with Dana and Scott and hopes to finalize the Swift port of oref in 2025. He also noted upcoming work involving Medtrum, Eversense, and possibly menstrual-cycle–based ISF dynamics within Trio. **Scott Liebrand** reminded the group of underused simulation tools within the oref0 repository that can help analyze marginal BG differences using Nightscout data—powerful resources for improving settings and sensitivity adjustments.
-
-A flurry of smaller but meaningful updates followed: an AndroidAPS contributor demoed connecting the app to calendar-based setting changes; **David** explored enabling AndroidAPS functionality on a watch for times when the phone isn’t nearby; and one attendee humorously admitted he felt “tricked” into coming to a looping conversion camp. **Tim** discussed potential ways to bring recent AAPS changes into Boost, while **Daniel** shared how LoopFollow enabled remote carb entries for Rebecca’s AAPS app. **Robert** spoke about a new algorithm he’s developing—heavy on the math—aiming to move away from traditional ISF. **Albert** noted that AndroidAPS is now sending more data to Nightscout, while Rayhan encouraged expanding that effort to support additional data types. Mike described work improving Trio’s compatibility with Medtrum pumps and refining how CAGE functions when using tubed systems.
-
-Some efforts centered on making tools easier and safer for users. Theresa and Saira worked on a project to simplify settings testing—offering an approach far safer than asking ChatGPT. Deniz reflected on the alignment achieved among Trio contributors at last year’s D-Data Exchange and shared hopes of replicating that clarity and momentum as Trio moves toward version 1.0.
-
-The session closed with a heartfelt moment from Theresa, who recalled the apprehension she felt during the iAPS fork—worried that it might fracture the community. Instead, she found shared vision, generosity, and a collective willingness to say “yes.” The collaboration seen this weekend, she said, is proof that this community continues to move forward together.
+We had two opportunities to converse with Hack participants through open mic Zoom sessions! People from around the world got to chat with innovators who gathered in Vancouver, BC the weekend of 14-16 November. We could feel the excitement, especially on Sunday!
 
 We want to say thank you to the many contributors who donated in excess of $42,000 to make this Hack and the innovation that will continue because of it. YOU make a difference!
+
+Look for more details about what happened at Hack '25 in the next edition of News from Loop and Learn! (edited) 
 
 - - -
 
