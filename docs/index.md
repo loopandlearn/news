@@ -71,7 +71,7 @@ Let's keep those Loop apps working over the holidays!
 
 ## Thanksgiving Day Game Plan
 
-Our friends at TCOYD shared a great plan for successfully managing diabetes throughout Thanksgiving celebrations. Protein, exercise, fiber, prebolusing, and more are included. Check it out- and also check out tips on our website and in our Facebook group, including a carbs list for popular Thanksgiving foods!
+Our friends at [TCOYD](https://tcoyd.org/) shared a [great plan](https://tcoyd.org/2025/10/thanksgiving-and-diabetes/) for successfully managing diabetes throughout Thanksgiving celebrations. Protein, exercise, fiber, prebolusing, and more are included. Check it out- and also check out tips on [our website](https://www.loopandlearn.org/thanksgiving/) and in [our Facebook group](https://www.facebook.com/groups/2161109864145506/search/?q=thanksgiving), including a carbs list for popular Thanksgiving foods!
 
 And remember... a plan like this is useful for ANY day!
 
@@ -79,17 +79,20 @@ And remember... a plan like this is useful for ANY day!
 
 ## iOS 26 and Xcode 26
 
-Since the release of 26, we've been testing and researching, and each day brings changes to what works. It's safe for Loop, Trio, LoopFollow and LoopCaregiver users to update to versions as high as iOS 26.1 and Xcode 26.1.1 - subject to the restrictions in this chart. 
+Since the release of 26, we've been testing and researching, and each day brings changes to what works. It's safe for Loop, Trio, LoopFollow and LoopCaregiver users to [update to versions](https://www.loopandlearn.org/version-updates/) as high as iOS 26.1 and Xcode 26.1.1. 
 
 We've researched the most commonly used CGMs and report on the CGM manufacturers' recommendations as well as the iOS versions that have been successfully used, but as always, if you update beyond what your CGM manufacturer recommends, replacements may be denied. Sub-versions such as .x are okay. For simplicity, in the chart, we've used the highest released version such as iOS 26.1 rather than iOS 26. 
-
-> The notes to this chart are important. If you're using a version below what's in this chart, it's time to update.
 
 - - -
 
 ## Sharing Data with Diabetes Cockpit
 
-From the beginning, the open-source community has used real-world data to push diabetes technology forward. The more data we have, the better we can build these systems to meet our needs. Want to help? Download the Diabetes Cockpit app in the Apple App Store, and opt in to Community Support. Your data can drive innovation by giving our developers the information they need to make the algorithms more efficient and effective.
+From the beginning, the open-source community has used real-world data to push diabetes technology forward. The more data we have, the better we can build these systems to meet our needs. Want to help? Download the [Diabetes Cockpit app in the Apple App Store](https://apps.apple.com/us/app/diabetes-cockpit/id1580577116), and opt in to Community Support:
+
+* Tap on the icon at upper right for your app settings
+* Scroll near the bottom and enable `Community Support`
+
+Your data can drive innovation by giving our developers the information they need to make the algorithms more efficient and effective.
 
 All donated data will be held in an exclusive repository and will only be used for open-source DIY innovations.
 
@@ -99,20 +102,21 @@ BONUS: You get access to all the cool features in the Diabetes Cockpit app for s
 
 ## Hackathon 2025 Highlights
 
-This year’s Hack began with a day of virtual presentations and gatherings, hosted by DiabetesMine’s Amy Tenderich. We used Remo for the meeting and several of us from Loop and Learn helped facilitate conversations at “tables” within the platform during the interactive sessions. The speakers  generously agreed  to share their presentations with the greater community. They can be found here, in the Hack playlist on Loop and Learn’s YouTube channel.
+This year’s Hack began with a day of virtual presentations and gatherings, hosted by DiabetesMine’s **Amy Tenderich**. We used Remo for the meeting and several of us from Loop and Learn helped facilitate conversations at “tables” within the platform during the interactive sessions. The speakers  generously agreed  to share their presentations with the greater community. They can be found here, in the [Hack playlist](https://www.youtube.com/playlist?list=PLfnu6D6qjfHvPesExxFo9OrgEKDwUn0Ec) on Loop and Learn’s YouTube channel.
+
 We had not one, but two opportunities to look in at the Hack this year! ! People from around the world got to chat with innovators who gathered in Vancouver, BC the weekend of 14-16 November. We could feel the excitement, especially on Sunday!
 
 The closing presentations offered an inspiring look at the energy, innovation, and collaboration shaping the future of DIY diabetes technology. What follows is a synthesis of the rapid-fire updates shared by participants—a reminder of just how much is happening across our community.
 
-James Wedding opened the reflections by challenging us to reconsider what #WeAreNotWaiting means going forward. With algorithms now “good enough,” he urged the community to think bigger: expanding access globally, including to places like Africa where these tools could transform lives.
+James Wedding opened the reflections by challenging us to reconsider what **#WeAreNotWaiting** means going forward. With algorithms now “good enough,” he urged the community to think bigger: expanding access globally, including to places like Africa where these tools could transform lives.
 
-Several contributors echoed that theme of scale and impact.  Mathieu shared progress on a new system built with machine learning at its core. Rhys celebrated his one-year diaversary and described his effort to rewrite Nightscout in C# with full type safety. The new version will support a seamless transition for users by maintaining compatibility with the existing API; code has been pushed to a private repo with more to come.
+Several contributors echoed that theme of scale and impact.  **Mathieu** shared progress on a new system built with machine learning at its core. **Rhys** celebrated his one-year diaversary and described his effort to rewrite Nightscout in C# with full type safety. The new version will support a seamless transition for users by maintaining compatibility with the existing API; code has been pushed to a private repo with more to come.
 
-A number of updates focused on improving real-world usability. Dana highlighted a data-analysis project on long-duration exercise, exploring how reduced insulin needs persist until calories are replaced. Her question to the community: how can algorithms better adjust for this, and can UAM triggers be improved? James shared exciting progress reverse-engineering Bluetooth protocols for the Tandem Mobi pump—confirming connection from an Android app and beginning work to port that functionality to iOS. He even successfully paired a Mobi with the Trio system!.
+A number of updates focused on improving real-world usability. **Dana Lewis** highlighted a data-analysis project on long-duration exercise, exploring how reduced insulin needs persist until calories are replaced. Her question to the community: how can algorithms better adjust for this, and can UAM triggers be improved? **James Woglom** shared exciting progress reverse-engineering Bluetooth protocols for the Tandem Mobi pump—confirming connection from an Android app and beginning work to port that functionality to iOS. He even successfully paired a Mobi with the Trio system!.
 
-Others spent the weekend pushing foundational work forward. Deniz continued porting JavaScript to Swift after productive discussions with Dana and Scott and hopes to finalize the Swift port of oref in 2025. He also noted upcoming work involving Medtrum, Eversense, and possibly menstrual-cycle–based ISF dynamics within Trio. Scott reminded the group of underused simulation tools within the oref0 repository that can help analyze marginal BG differences using Nightscout data—powerful resources for improving settings and sensitivity adjustments.
+Others spent the weekend pushing foundational work forward. **Deniz** continued porting JavaScript to Swift after productive discussions with Dana and Scott and hopes to finalize the Swift port of oref in 2025. He also noted upcoming work involving Medtrum, Eversense, and possibly menstrual-cycle–based ISF dynamics within Trio. **Scott Liebrand** reminded the group of underused simulation tools within the oref0 repository that can help analyze marginal BG differences using Nightscout data—powerful resources for improving settings and sensitivity adjustments.
 
-A flurry of smaller but meaningful updates followed: an AndroidAPS contributor demoed connecting the app to calendar-based setting changes; David explored enabling AndroidAPS functionality on a watch for times when the phone isn’t nearby; and one attendee humorously admitted he felt “tricked” into coming to a looping conversion camp. Tim discussed potential ways to bring recent AAPS changes into Boost, while Daniel shared how LoopFollow enabled remote carb entries for Rebecca’s AAPS app. Robert spoke about a new algorithm he’s developing—heavy on the math—aiming to move away from traditional ISF. Albert noted that AndroidAPS is now sending more data to Nightscout, while Rayhan encouraged expanding that effort to support additional data types. Mike described work improving Trio’s compatibility with Medtrum pumps and refining how CAGE functions when using tubed systems.
+A flurry of smaller but meaningful updates followed: an AndroidAPS contributor demoed connecting the app to calendar-based setting changes; **David** explored enabling AndroidAPS functionality on a watch for times when the phone isn’t nearby; and one attendee humorously admitted he felt “tricked” into coming to a looping conversion camp. **Tim** discussed potential ways to bring recent AAPS changes into Boost, while **Daniel** shared how LoopFollow enabled remote carb entries for Rebecca’s AAPS app. **Robert** spoke about a new algorithm he’s developing—heavy on the math—aiming to move away from traditional ISF. **Albert** noted that AndroidAPS is now sending more data to Nightscout, while Rayhan encouraged expanding that effort to support additional data types. Mike described work improving Trio’s compatibility with Medtrum pumps and refining how CAGE functions when using tubed systems.
 
 Some efforts centered on making tools easier and safer for users. Theresa and Saira worked on a project to simplify settings testing—offering an approach far safer than asking ChatGPT. Deniz reflected on the alignment achieved among Trio contributors at last year’s D-Data Exchange and shared hopes of replicating that clarity and momentum as Trio moves toward version 1.0.
 
@@ -124,29 +128,32 @@ We want to say thank you to the many contributors who donated in excess of $42,0
 
 ## Call for Photos for Nightscout Foundation Website
 
-The Nightscout Foundation website is being updated, including photos of people (kids and adults) showing how to live the good life with the technology that brings us all here: Nightscout, Loop, Trio, AndroidAPS, and more! Click here to see the update and to share your photos.
+The Nightscout Foundation website is being updated, including photos of people (kids and adults) showing how to live the good life with the technology that brings us all here: Nightscout, Loop, Trio, AndroidAPS, and more! Click [here](https://www.nightscoutfoundation.org/why) to see the update and to share your photos.
 
 - - -
 
 ## An Important Update to the Diabetes Literature
 
 
-Congratulations to LnL team member Miroslava Calegari- and thank you for the work you do to help others living with diabetes. Miroslava has co-authored an updated version of Diabetes: Tips & Tricks, a book written in Slovak for parents of children with T1D. She brought in very important information about what we all do here- using hybrid closed loop for diabetes management. Mir: Please correct anything that needs it!
+Congratulations to LnL team member Miroslava Calegari- and thank you for the work you do to help others living with diabetes. Miroslava has co-authored an updated version of *Diabetes: Tips & Tricks*, a book written in Slovak for parents of children with T1D. She brought in very important information about what we all do here- using hybrid closed loop for diabetes management.
 
 ### Some words from Miroslava
 
-When Diaslabikár appeared in Slovakia for the first time in 2013, it was something new and necessary - a practical guide for parents of children newly diagnosed with type 1 diabetes. Its main author, Peter Herceg, decided to help others understand what had just entered their lives, and the book became a real landmark in pediatric diabetology.
-This year I had the opportunity to contribute to the new Slovak educational publication Diabetes: Tips and Tricks — a continuation of a historical project that began because of (first author) Peter's daughter Zuzana — and for every parent who suddenly found themselves in a situation where they had to learn a new language — the language of diabetes.
+When *Diaslabikár* appeared in Slovakia for the first time in 2013, it was something new and necessary - a practical guide for parents of children newly diagnosed with type 1 diabetes. Its main author, Peter Herceg, decided to help others understand what had just entered their lives, and the book became a real landmark in pediatric diabetology.
+
+This year I had the opportunity to contribute to the new Slovak educational publication *Diabetes: Tips and Tricks* — a continuation of a historical project that began because of (first author) Peter's daughter Zuzana — and for every parent who suddenly found themselves in a situation where they had to learn a new language — the language of diabetes.
 Twelve years and several editions later, I joined this project for the same reason — because of a child. For my daughter, her peers and all parents who are standing today where we once stood: in uncertainty, but also in hope....
-.... therefore every family whose child will be diagnosed with diabetes 1. type from now until the end of 2027, can request a copy of the book free of charge. Every children's diabetological clinic in Slovakia receives one book for the doctor and one for the nurse. The printed publication also includes an e-book, which is also available for download at any time for free at Martinus.sk. In addition to the traditional Slovak version - another big novelty - is also available in English and Hungarian versions. 
+
+.... therefore every family whose child will be diagnosed with diabetes 1. type from now until the end of 2027, can request a copy of the book free of charge. Every children's diabetological clinic in Slovakia receives one book for the doctor and one for the nurse. The printed publication also includes an e-book, which is also available for download at any time for free at [Martinus.sk](https://www.martinus.sk/3684503-diabetes-tips-and-tricks/e-kniha). In addition to the traditional Slovak version - another big novelty - is also available in English and Hungarian versions. 
+
 Read More at 
-https://type1dmaniac.com/2025/11/25/diabetes-tipy-a-triky/
+[https://type1dmaniac.com/2025/11/25/diabetes-tipy-a-triky/](https://type1dmaniac.com/2025/11/25/diabetes-tipy-a-triky/)
 
 - - -
 
 ## T1D to 100 YouTube
 
-We want to call your attention to this new YouTube channel and the video of T1D to 100’s first guest speaker event, T1D and Aging Research with Dr. Medha Munshi. This channel promises to have information pertinent to all people living with T1D! 
+We want to call your attention to this new YouTube channel and the video of T1D to 100’s first guest speaker event, [T1D and Aging Research with Dr. Medha Munshi](https://youtu.be/_aRums4CIbc?si=viMZ9pFgxxssw0GF). This channel promises to have information pertinent to all people living with T1D! 
 
 - - -
 
