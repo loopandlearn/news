@@ -13,8 +13,7 @@ Published on 26 November 2025
 * [Sharing Data with Diabetes Cockpit](#sharing-data-with-diabetes-cockpit)
 * [Hackathon 2025 Highlights](#hackathon-2025-highlights)
 * [Call for Photos for Nightscout Foundation Website](#call-for-photos-for-nightscout-foundation-website)
-* [An Important Update to the Diabetes Literature](#an-important-update-to-the-diabetes-literature)
-    * [Some words from Miroslava](#some-words-from-miroslava)
+* [Bringing Open-Source Innovation to Slovak Diabetes Education — on World Diabetes Day!](#bringing-open-source-innovation-to-slovak-diabetes-education--on-world-diabetes-day)
 * [T1D to 100 YouTube](#t1d-to-100-youtube)
 * [*Facebook* Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
@@ -102,13 +101,13 @@ BONUS: You get access to all the cool features in the Diabetes Cockpit app for s
 
 ## Hackathon 2025 Highlights
 
-This year’s Hack began with a day of virtual presentations and gatherings, hosted by DiabetesMine’s **Amy Tenderich**. We used Remo for the meeting and several of us from Loop and Learn helped facilitate conversations at “tables” within the platform during the interactive sessions. The speakers  generously agreed  to share their presentations with the greater community. They can be found here, in the [Hack playlist](https://www.youtube.com/playlist?list=PLfnu6D6qjfHvPesExxFo9OrgEKDwUn0Ec) on Loop and Learn’s YouTube channel.
+This year’s Hack began with a day of virtual presentations and gatherings, hosted by [DiabetesMine](https://www.healthline.com/diabetesmine) **Amy Tenderich**. We used Remo for the meeting and several of us from Loop and Learn helped facilitate conversations at “tables” within the platform during the interactive sessions. The speakers  generously agreed  to share their presentations with the greater community. They can be found here, in the [Hack playlist](https://www.youtube.com/playlist?list=PLfnu6D6qjfHvPesExxFo9OrgEKDwUn0Ec) on Loop and Learn’s YouTube channel.
 
 We had two opportunities to converse with Hack participants through open mic Zoom sessions! People from around the world got to chat with innovators who gathered in Vancouver, BC the weekend of 14-16 November. We could feel the excitement, especially on Sunday!
 
 We want to say thank you to the many contributors who donated in excess of $42,000 to make this Hack and the innovation that will continue because of it. YOU make a difference!
 
-Look for more details about what happened at Hack '25 in the next edition of News from Loop and Learn! (edited) 
+Look for more details about what happened at Hack '25 in the next edition of News from Loop and Learn!
 
 - - -
 
@@ -118,21 +117,21 @@ The Nightscout Foundation website is being updated, including photos of people (
 
 - - -
 
-## An Important Update to the Diabetes Literature
+## Bringing Open-Source Innovation to Slovak Diabetes Education — on World Diabetes Day!
 
+Congratulations to our Loop and Learn team member Miroslava Calegari, co-author of the new edition of *Diabetes: Tips & Tricks* — a continuation of the 2013 classic *Diašlabikár* by Peter Herceg, written for parents of children newly diagnosed with type 1 diabetes.
 
-Congratulations to LnL team member Miroslava Calegari- and thank you for the work you do to help others living with diabetes. Miroslava has co-authored an updated version of *Diabetes: Tips & Tricks*, a book written in Slovak for parents of children with T1D. She brought in very important information about what we all do here- using `hybrid closed loop` for diabetes management.
+Launched on World Diabetes Day 2025, this edition guides across more than 400 pages, from the basics and classification of diabetes through treatment, nutrition, emotional support, and everyday life — all the way to current research, new therapies, and open-source technology.
 
-### Some words from Miroslava
+Thanks to Miroslava, the latest edition introduces stigma-free open-source AID systems and the Loop & Learn community into the Slovak diabetes education landscape for the first time — bridging science, empathy, and lived experience.
 
-When *Diaslabikár* appeared in Slovakia for the first time in 2013, it was something new and necessary - a practical guide for parents of children newly diagnosed with type 1 diabetes. Its main author, Peter Herceg, decided to help others understand what had just entered their lives, and the book became a real landmark in pediatric diabetology.
+> “The future belongs to those who are not afraid of innovation —
+and to children who, thanks to modern technology, can grow up freely and fully.”
 
-This year I had the opportunity to contribute to the new Slovak educational publication *Diabetes: Tips and Tricks* — a continuation of a historical project that began because of (first author) Peter's daughter Zuzana — and for every parent who suddenly found themselves in a situation where they had to learn a new language — the language of diabetes.
-Twelve years and several editions later, I joined this project for the same reason — because of a child. For my daughter, her peers and all parents who are standing today where we once stood: in uncertainty, but also in hope....
+Families of children newly diagnosed with type 1 diabetes can receive the printed book for free. Each pediatric diabetology clinic in Slovakia also receives one copy for the doctor and one for the nurse.
 
-.... therefore every family whose child will be diagnosed with diabetes 1. type from now until the end of 2027, can request a copy of the book free of charge. Every children's diabetological clinic in Slovakia receives one book for the doctor and one for the nurse. The printed publication also includes an e-book, which is also available for download at any time for free at [Martinus.sk](https://www.martinus.sk/3684503-diabetes-tips-and-tricks/e-kniha). In addition to the traditional Slovak version - another big novelty - is also available in English and Hungarian versions. 
-
-Read More at 
+* Free e-book in Slovak, English & Hungarian: [Martinus.sk](https://www.martinus.sk/3684503-diabetes-tips-and-tricks/e-kniha)
+* Read More at 
 [https://type1dmaniac.com/2025/11/25/diabetes-tipy-a-triky/](https://type1dmaniac.com/2025/11/25/diabetes-tipy-a-triky/)
 
 - - -
@@ -145,7 +144,8 @@ We want to call your attention to this new YouTube channel and the video of T1D 
 
 ## *Facebook* Q&A
 
-To Be Added
+Please be sure to click on and scan the Featured section whenever you visit our Facebook group. “Don’t Miss” information gets added frequently and… we don’t want you to miss it!
+
 
 - - -
 
