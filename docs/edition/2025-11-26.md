@@ -150,7 +150,7 @@ loopers. And thank you for taking the time to express your appreciation!
 
 * Need to publicly thank Carol
 for having the patience with
-me to get Loop working
+me to get Loop working.
 
 * I am so beyond grateful for this
 incredible community, for the cleverness
@@ -173,7 +173,7 @@ out. Such amazing caring
 people in the group.
 
 * Thank you Theresa for
-all*  your help getting
+all your help getting
 me to this point. I
 NEVER thought this was
 possible in all these
@@ -200,7 +200,7 @@ be the same without Alison
 and all the amazing people
 working so hard behind the
 scenes to make our lives
-easier  Never ever do I take
+easier. Never ever do I take
 that for granted. Not all
 super heroes wear capes...
 
