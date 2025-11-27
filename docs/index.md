@@ -101,7 +101,7 @@ BONUS: You get access to all the cool features in the Diabetes Cockpit app for s
 
 ## Hackathon 2025 Highlights
 
-This year’s Hack began with a day of virtual presentations and gatherings, hosted by [DiabetesMine](https://www.healthline.com/diabetesmine) **Amy Tenderich**. We used Remo for the meeting and several of us from Loop and Learn helped facilitate conversations at “tables” within the platform during the interactive sessions. The speakers  generously agreed  to share their presentations with the greater community. They can be found here, in the [Hack playlist](https://www.youtube.com/playlist?list=PLfnu6D6qjfHvPesExxFo9OrgEKDwUn0Ec) on Loop and Learn’s YouTube channel.
+This year’s Hack began with a day of virtual presentations and gatherings, hosted by [DiabetesMine's](https://www.healthline.com/diabetesmine) **Amy Tenderich**. We used Remo for the meeting and several of us from Loop and Learn helped facilitate conversations at “tables” within the platform during the interactive sessions. The speakers  generously agreed  to share their presentations with the greater community. They can be found here, in the [Hack playlist](https://www.youtube.com/playlist?list=PLfnu6D6qjfHvPesExxFo9OrgEKDwUn0Ec) on Loop and Learn’s YouTube channel.
 
 We had two opportunities to converse with Hack participants through open mic Zoom sessions! People from around the world got to chat with innovators who gathered in Vancouver, BC the weekend of 14-16 November. We could feel the excitement, especially on Sunday!
 
