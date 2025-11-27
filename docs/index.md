@@ -15,6 +15,7 @@ Published on 26 November 2025
 * [Call for Photos for Nightscout Foundation Website](#call-for-photos-for-nightscout-foundation-website)
 * [Bringing Open-Source Innovation to Slovak Diabetes Education — on World Diabetes Day!](#bringing-open-source-innovation-to-slovak-diabetes-education--on-world-diabetes-day)
 * [T1D to 100 YouTube](#t1d-to-100-youtube)
+* [Many Thanks](#many-thanks)
 * [*Facebook* Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
@@ -142,9 +143,114 @@ We want to call your attention to this new YouTube channel and the video of T1D 
 
 - - -
 
+## Many Thanks
+
+Here are a few of the many “thanks” directed at our mentors for all the wonderful help they give
+loopers. And thank you for taking the time to express your appreciation!
+
+* Need to publicly thank Carol
+for having the patience with
+me to get Loop working
+
+* I am so beyond grateful for this
+incredible community, for the cleverness
+and selfless hard work that you’ve all
+put, and keep putting, into this platform.
+And - more selfishly - for fate to have
+put enough of you intelligent and
+generous diabetics out there in the
+world for there to be a platform that I
+can benefit from in this way. Thank you
+for your minds, and for all the ways in
+which you’ve helped me build and crisis
+manage over the last year.
+
+* Big thank you to Alison.
+She helped me get my
+Nightscout running. For 2
+years I couldn’t figure it
+out. Such amazing caring
+people in the group.
+
+* Thank you Theresa for
+all*  your help getting
+me to this point. I
+NEVER thought this was
+possible in all these
+decades of struggling.
+
+* OMG amazing! So
+much easier to use in
+the same app without
+having to go to LCG.
+Thanks, everyone! 
+
+* Heartfelt thanks to the
+developers and team who
+made this possible. Loop has
+improved so much in the 3
+years I have been looping.
+Sending gratitude to those
+who have generously shared
+time and expertise to
+continually improve Loop.
+
+* ...Our family life would not
+be the same without Alison
+and all the amazing people
+working so hard behind the
+scenes to make our lives
+easier  Never ever do I take
+that for granted. Not all
+super heroes wear capes...
+
+* The thanks all go to
+Marion and Jonas.
+They had to scramble
+this morning... aren’t
+the developers great?!
+
+* Thank you all for your help and
+suggestions and, above all,
+thank you to ALL the Admin and
+Dev people; Carol, Alison, Teri
+and Dylan for your help this
+weekend. Thank you, from
+myself, and on behalf of the T1D
+part of the Human Race! 
+
+- - -
+
 ## *Facebook* Q&A
 
-Please be sure to click on and scan the Featured section whenever you visit our Facebook group. “Don’t Miss” information gets added frequently and… we don’t want you to miss it!
+Please be sure to click on and scan the [Featured section](https://www.facebook.com/groups/LOOPandLEARN/announcements) whenever you visit our Facebook group. “Don’t Miss” information gets added frequently and… we don’t want you to miss it!
+
+* [How AWESOME
+is Mike's new
+Apple Watch?](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=2002660727134439&hoisted_section_header_type=recently_seen)
+
+* [Is there any
+difference between
+loop and trio what
+the pump is doing
+when the phone
+has not been in
+contact with pump
+for a while?](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=2004863993580779&hoisted_section_header_type=recently_seen)
+
+* [Advice for
+remote
+bolusing?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4243368302586308&hoisted_section_header_type=recently_seen)
+
+* [I am going to be in
+the market for a new
+phone shortly and
+am curious what will
+happen to my loop
+when I move phones.](https://www.facebook.com/groups/LOOPandLEARN/posts/4243188872604251/)
+
+* [...for Nightscout
+troubleshooting?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4221513721438433&hoisted_section_header_type=recently_seen)
 
 
 - - -
