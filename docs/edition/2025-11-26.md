@@ -238,16 +238,16 @@ has not been in
 contact with pump
 for a while?](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=2004863993580779&hoisted_section_header_type=recently_seen)
 
-* [Advice for
-remote
-bolusing?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4243368302586308&hoisted_section_header_type=recently_seen)
-
 * [I am going to be in
 the market for a new
 phone shortly and
 am curious what will
 happen to my loop
 when I move phones.](https://www.facebook.com/groups/LOOPandLEARN/posts/4243188872604251/)
+
+* [Advice for
+remote
+bolusing?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4243368302586308&hoisted_section_header_type=recently_seen)
 
 * [...for Nightscout
 troubleshooting?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4221513721438433&hoisted_section_header_type=recently_seen)
