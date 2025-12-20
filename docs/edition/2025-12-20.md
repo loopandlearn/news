@@ -141,6 +141,23 @@ Read about the ADA’s continuing support for OS-AID in [Diabetes Technology: St
 
 Speaking of supportive healthcare professionals, our [List](https://www.loopandlearn.org/hcp-recommendations/) just hit 400 entries! Thank you to all who have contributed to this valuable resource, and please keep the referrals of your OS-AID-friendly HCPs coming! If you have surgery and the surgeon supports your use of OS-AID during surgery, please add them to the list, too.
 
+- - -
+
+## 15-Day G7 Help
+
+Are you using the new 15-day G7 sensor in OS-AID?
+
+
+* If you use them with an OS-AID app, you might find it tells you the sensor is no longer available at 10.5 days
+* We are working on a more elegant solution of asking the G7 device for its characteristics, but in the meantime, there is a customization you can add if you are fortunate enough to get your hands on a 15-day sensor
+
+
+The link below takes you to the Issue for the G7SensorKit. The main comment at the beginning is all you need. It shows what you see if you don’t make the change and then explains how to customize for either Browser Build or for Mac-Xcode build.
+
+* [CLICK HERE for 15-day Dexcom Customization Instructions!](https://github.com/LoopKit/G7SensorKit/issues/45)
+
+- - -
+
 ## No Manual Time Changes on Phones
 
 To ensure your looper doesn't change their phone's date/time to bypass restrictions or trick a game, you should lock the Date & Time settings.
@@ -159,21 +176,6 @@ Confirm this is working by going to Settings, General, Date & Time.  The `Set Au
 If you want more detailed instructions, head over to LoopDocs: [Force Automatic Time](https://loopkit.github.io/loopdocs/faqs/time-faqs/#force-automatic-time).
 
 If you configured your child's phone using Family Managed Settings, the instructions are more complex. Head over to LoopDocs [Automatic Time for Managed Phones](https://loopkit.github.io/loopdocs/faqs/time-faqs/#automatic-time-for-managed-phones).
-
-- - -
-
-## 15-Day G7 Help
-
-Are you using the new 15-day G7 sensor in OS-AID?
-
-
-* If you use them with an OS-AID app, you might find it tells you the sensor is no longer available at 10.5 days
-* We are working on a more elegant solution of asking the G7 device for its characteristics, but in the meantime, there is a customization you can add if you are fortunate enough to get your hands on a 15-day sensor
-
-
-The link below takes you to the Issue for the G7SensorKit. The main comment at the beginning is all you need. It shows what you see if you don’t make the change and then explains how to customize for either Browser Build or for Mac-Xcode build.
-
-* [CLICK HERE for 15-day Dexcom Customization Instructions!](https://github.com/LoopKit/G7SensorKit/issues/45)
 
 - - -
 
