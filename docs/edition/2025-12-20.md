@@ -15,7 +15,7 @@ Published on 20 December 2025
 * [Call for Photos for Nightscout Foundation Website](#call-for-photos-for-nightscout-foundation-website)
 * [Interoperability for the Win](#interoperability-for-the-win)
 * [OS-AID-Friendly Healthcare Provider (HCP) Resource Hits 400](#os-aid-friendly-healthcare-provider-hcp-resource-hits-400)
-* [Odd Event History / No Manual Time Changes on Phones](#odd-event-history--no-manual-time-changes-on-phones)
+* [No Manual Time Changes on Phones](#no-manual-time-changes-on-phones)
 * [15-Day G7 Help](#15-day-g7-help)
 * [Migration Guides for Trio](#migration-guides-for-trio)
 * [Insulin Reminders](#insulin-reminders)
@@ -145,9 +145,7 @@ Read about the ADA’s continuing support for OS-AID in [Diabetes Technology: St
 
 Speaking of supportive healthcare professionals, our [List](https://www.loopandlearn.org/hcp-recommendations/) just hit 400 entries! Thank you to all who have contributed to this valuable resource, and please keep the referrals of your OS-AID-friendly HCPs coming! If you have surgery and the surgeon supports your use of OS-AID during surgery, please add them to the list, too.
 
-## Odd Event History / No Manual Time Changes on Phones
-
-If you see what looks like errant bolusing on the Event History screen and it doesn’t align with the IOB display or the graphs on the main screen, you might consider whether a manual time change was enacted on the phone and then changed back before you started looking at the phone.
+## No Manual Time Changes on Phones
 
 To ensure your looper doesn't change their phone's date/time to bypass restrictions or trick a game, you should lock the Date & Time settings.
 
