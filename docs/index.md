@@ -9,16 +9,16 @@ Published on 20 December 2025
 * [Upcoming Open Mics](#upcoming-open-mics)
 * [Donating Made Easy](#donating-made-easy)
 * [Time to Agree Again](#time-to-agree-again)
-* [Great Tips on Loop and Learn Instagram and Facebook](#great-tips-on-loop-and-learn-instagram-and-facebook)
 * [Announcement from Nightscout Board](#announcement-from-nightscout-board)
 * [More from Hackathon 2025](#more-from-hackathon-2025)
 * [Call for Photos for Nightscout Foundation Website](#call-for-photos-for-nightscout-foundation-website)
 * [Interoperability for the Win](#interoperability-for-the-win)
+* [ADA Standards of Care 2026](#ada-standards-of-care-2026)
 * [OS-AID-Friendly Healthcare Provider (HCP) Resource Hits 400](#os-aid-friendly-healthcare-provider-hcp-resource-hits-400)
-* [No Manual Time Changes on Phones](#no-manual-time-changes-on-phones)
 * [15-Day G7 Help](#15-day-g7-help)
+* [No Manual Time Changes on Phones](#no-manual-time-changes-on-phones)
+* [Help from Elves this Season](#help-from-elves-this-season)
 * [Migration Guides for Trio](#migration-guides-for-trio)
-* [Insulin Reminders](#insulin-reminders)
 * [Omnipod’s Recycling Program](#omnipods-recycling-program)
 * [*Facebook* Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
@@ -73,10 +73,6 @@ https://www.nightscoutfoundation.org/diabetes-hackathon)
 New [Apple Developer agreement](https://developer.apple.com/account) terms have surfaced -they must be agreed to by March 17, but do yourself a favor and do it now!
 
 - - -
-
-## Great Tips on Loop and Learn Instagram and Facebook
-
-We have lots of great tips and reminders for use during Hanukkah and the rest of the holidays. You can find them- and more to come- by clicking the links to our [IG](https://www.instagram.com/loopandlearn/) and [FB](https://www.facebook.com/groups/loopandlearn) pages.
 
 ## Announcement from Nightscout Board
 
@@ -166,14 +162,12 @@ If you configured your child's phone using Family Managed Settings, the instruct
 
 - - -
 
-
 ## 15-Day G7 Help
 
-Are you using a 15-day G7 sensor in OS-AID?
+Are you using the new 15-day G7 sensor in OS-AID?
 
 
-* These sensors are approved by the FDA but your pharmacy might have trouble getting them
-* If you do use them with an OS-AID app, you might find it tells you the sensor is no longer available at 10.5 days
+* If you use them with an OS-AID app, you might find it tells you the sensor is no longer available at 10.5 days
 * We are working on a more elegant solution of asking the G7 device for its characteristics, but in the meantime, there is a customization you can add if you are fortunate enough to get your hands on a 15-day sensor
 
 
@@ -183,19 +177,16 @@ The link below takes you to the Issue for the G7SensorKit. The main comment at t
 
 - - -
 
+## Help from Elves this Season
+
+We have lots of great tips and reminders for use during Hanukkah and the rest of the holidays. You can find them- and more to come- by clicking the links to our [IG](https://www.instagram.com/loopandlearn/) and [FB](https://www.facebook.com/groups/loopandlearn) pages.
+
+- - -
+
 ## Migration Guides for Trio
 
 
 [Migration guides](https://triodocs.org/configuration/migration/) have been created for users switching from Loop, AAPS, or iAPS to Trio and for users who are updating from Trio 0.2.x. We hope this answers some initial questions you might have!
-
-- - -
-
-## Insulin Reminders
-
-> (Tina will add to this when making Canva version, probably.)
-
-- Insulin is good long after expiry- many months- don’t toss it out unless it’s cloudy!
-- If Insurance isn’t helping you get a good price on insulin, seek out coupons from manufacturers!
 
 - - -
 
@@ -208,7 +199,11 @@ The link below takes you to the Issue for the G7SensorKit. The main comment at t
 
 ## *Facebook* Q&A
 
+[Checkout LoopFollow x2 displayed on an iPad](https://www.facebook.com/groups/1281905676265126/?multi_permalinks=1538211300634561&hoisted_section_header_type=recently_seen)
+
 [Does your surgeon embrace CGM use during surgery?](https://www.facebook.com/groups/LOOPandLEARN/posts/4264657713790700)
+
+[How do I enter non-pump insulin?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4247474315509040&hoisted_section_header_type=recently_seen)
 
 [How do I get Loop to find my sensor?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4264204813835990/)
 
