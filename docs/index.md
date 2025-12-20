@@ -9,7 +9,7 @@ Published on 20 December 2025
 * [Upcoming Open Mics](#upcoming-open-mics)
 * [Donating Made Easy](#donating-made-easy)
 * [Time to Agree Again](#time-to-agree-again)
-* [Announcement from Nightscout Board](#announcement-from-nightscout-board)
+* [Announcement from Nightscout Foundation Board](#announcement-from-nightscout-foundation-board)
 * [More from Hackathon 2025](#more-from-hackathon-2025)
 * [Call for Photos for Nightscout Foundation Website](#call-for-photos-for-nightscout-foundation-website)
 * [Interoperability for the Win](#interoperability-for-the-win)
@@ -74,9 +74,9 @@ New [Apple Developer agreement](https://developer.apple.com/account) terms have 
 
 - - -
 
-## Announcement from Nightscout Board
+## Announcement from Nightscout Foundation Board
 
-We at the Nightscout Foundation are thrilled to add Tim Gunn and Theresa Hastings to the team! Theresa’s focus will be Events & Community Development, and Tim’s focus will be Development - Community & Software. The progress made in the last two years in the community is a solid sign that #WeAreNotWaiting, and the donations to make the past six hackathons a success are the proof. Thank you one and all for your efforts in combating the beast that is T1D, and especially for your efforts in paying it forward in order for the next solutions and innovations to arrive sooner, rather than later. Here’s to 2026
+We at the Nightscout Foundation Board are thrilled to add Tim Gunn and Theresa Hastings to the team! Theresa’s focus will be Events & Community Development, and Tim’s focus will be Development - Community & Software. The progress made in the last two years in the community is a solid sign that #WeAreNotWaiting, and the donations to make the past six hackathons a success are the proof. Thank you one and all for your efforts in combating the beast that is T1D, and especially for your efforts in paying it forward in order for the next solutions and innovations to arrive sooner, rather than later. Here’s to 2026
 
 -Wes Ton, Vice President, Nightscout Foundation
 
