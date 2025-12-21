@@ -78,7 +78,7 @@ New [Apple Developer agreement](https://developer.apple.com/account) terms have 
 
 We at the Nightscout Foundation Board are thrilled to add Tim Gunn and Theresa Hastings to the team! Theresa’s focus will be Events & Community Development, and Tim’s focus will be Development - Community & Software. The progress made in the last two years in the community is a solid sign that #WeAreNotWaiting, and the donations to make the past six hackathons a success are the proof. Thank you one and all for your efforts in combating the beast that is T1D, and especially for your efforts in paying it forward in order for the next solutions and innovations to arrive sooner, rather than later. Here’s to 2026
 
--Weston Nordgren, Vice President, Nightscout Foundation
+-Wes Ton, Vice President, Nightscout Foundation
 
 - - -
 
