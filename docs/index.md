@@ -194,7 +194,17 @@ We have lots of great tips and reminders for use during Hanukkah and the rest of
 
 ## Omnipod’s Recycling Program
 
-…has expanded to the whole U.S.! Please help their conservation efforts by requesting a kit and start saving your used pods to return to Insulet. Details can be found [HERE](https://www.omnipod.com/pod-recycling-pilot). 
+…has expanded to the whole U.S.! Please help their conservation efforts by requesting a kit and start saving your used pods to return to Insulet. Details can be found [HERE](https://www.omnipod.com/pod-recycling-pilot).
+
+But #WeAreNotWaiting!
+
+* Get a resealable plastic bag (or container) that holds 60 pods and start filling it
+* Have you heard of zombie pods?
+    * One happened to me when I dropped my bag of pods
+    * Even though all the pods were properly deactivated, one of them came back to life and started screaming
+    * I punched the sound card out on each pod until the noise stopped (it was pod number 27) - then I did the rest
+    * I now make it a habit to break the sound connection after I change a pod
+    * I reuse the pod syringe once the new pod is in place but any tool will do - even a paperclip as shown at [this link](https://loopkit.github.io/loopdocs/faqs/omnipod-faqs/#what-do-you-do-to-stop-a-screaming-pod)
 
 
 - - -
