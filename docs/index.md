@@ -55,7 +55,7 @@ Video Conference Sessions use the following links every month. Notice - they now
 
 #### Time Zone Converter
 
-Need help figuring out when an event happens in your time zone? Try the [SavvyTime: UTC Converter](https://savvytime.com/converter/utc){:target="_blank"}.
+Need help figuring out when an event happens in your time zone? Try the [SavvyTime: UTC Converter](https://savvytime.com/converter/utc).
 
 - - -
 
@@ -226,11 +226,11 @@ But #WeAreNotWaiting!
 ## Helpful Links
 
 * Newsletter Subscription
-    * [Google Form for Newsletter sign up](https://docs.google.com/forms/d/e/1FAIpQLSeu64I0Ygauk079Q0lMhEcPq-IydPmscm2UCie6uxXfkfdmWw/viewform){:target="_blank"} 
-* Not all articles in the original Newsletter are reproduced in this text only edition; click on [original Newsletter archives](https://www.loopandlearn.org/loop-and-learn-newsletter/){:target="_blank"} for the full version
+    * [Link to Newsletter sign up](https://www.loopandlearn.org/newsletter-signup/)
+* Not all articles in the original Newsletter are reproduced in this text only edition; click on [original Newsletter archives](https://www.loopandlearn.org/loop-and-learn-newsletter/) for the full version
 * [Donate to Nightscout to Support the Next Hackathon](
 https://www.nightscoutfoundation.org/diabetes-hackathon)
-* [Check for Updates](https://www.loopandlearn.org/version-updates/){:target="_blank"} summarizes details about latest versions for Loop, Trio, Loop Customizations and iOS
-* [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/){:target="_blank"}
-* [_<span translate="no">Loop and Learn</span>_&nbsp;Open Source Automated Delivery System Links](https://www.loopandlearn.org/resources/#os-aid){:target="_blank"}
+* [Check for Updates](https://www.loopandlearn.org/version-updates/) summarizes details about latest versions for Loop, Trio, Loop Customizations and iOS
+* [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/)
+* [_<span translate="no">Loop and Learn</span>_&nbsp;Open Source Automated Delivery System Links](https://www.loopandlearn.org/resources/#os-aid)
 
