@@ -10,7 +10,7 @@ Published on 03 January 2026
 * [Loop dev Update](#loop-dev-update)
 * [AAPS 3.4.0.0 has been released](#aaps-3400-has-been-released)
 * [iPhone 17](#iphone-17)
-* [Help for Loopers using GLP-1RA Meds](#help-for-loopers-using-glp-1ra-meds)
+* [Help for `Loopers` using GLP-1RA Meds](#help-for-loopers-using-glp-1ra-meds)
 * [Topics in the `Loop and Learn` Facebook Group](#topics-in-the-loop-and-learn-facebook-group)
 * [BeyondtheNumbers](#beyondthenumbers)
 * [*Facebook* Q&A](#facebook-qa)
@@ -94,9 +94,9 @@ Loop 3.8. Avoid the drama and rebuild first.
 
 - - -
 
-## Help for Loopers using GLP-1RA Meds
+## Help for `Loopers`using GLP-1RA Meds
 
-Here’s a Pro Tip that may help Loopers
+Here’s a Pro Tip that may help `Loopers`
 using GLP-1RA medications!
 
 
@@ -106,9 +106,10 @@ that you can track changes- and easily
 revert if the medication dosage reverts
 back to a previous level.
 
+More tips when adding a GLP-1RA:
 
-Also, when adding a GLP-1RA, adjusting
-your carb absorption rate is necessary. Keep that glucacon handy - low treatments might not absorb as quickly as they did before you added the GLP-1.
+* Adjusting your carb absorption rate is necessary
+* Keep that glucagon handy - low treatments might not absorb as quickly
 
 - - -
 
