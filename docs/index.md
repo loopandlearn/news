@@ -57,16 +57,15 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 Loop dev branch version 3.9.4 is now available
 
 * No major changes to Loop function:
-    * Add Omnipod updates, Purge excessive log file storage, Add CAGE and IAGE to Minimed UI screen, Improve Browser Build, Update to fastlane 2.230.0, Update translations
-    * Details listed in [GitHub](https://github.com/LoopKit/LoopWorkspace/pull/367#top)
-
+* Add Omnipod updates, Purge excessive log file storage, Add CAGE and IAGE to Minimed UI screen, Improve Browser Build, Update to fastlane 2.230.0, Update translations
+* Details listed in [GitHub](https://github.com/LoopKit/LoopWorkspace/pull/367#top)
 * [LoopDocs](https://loopkit.github.io/loopdocs/version/development/#updates-in-dev) is  updated
 
 - - -
 
 ## AAPS 3.4.0.0 has been released
 
-This Android Artificial Pancreas System (AAPS) release brings significant
+This Android Artificial Pancreas System (AAPS) v3.4.0.0 release brings significant
 improvements for some pumps and
 watches
 
@@ -115,7 +114,7 @@ More tips when adding a GLP-1RA:
 
 ## Topics in the `Loop and Learn` Facebook Group
 
-Topics are a great new way to search for info on our FB page!
+Topics are a great new way to search for info on our FB group!
 
 Please add a “topic” to your post when you visit and that will help you and
 others find the topic easily when searching in the future.
@@ -135,14 +134,15 @@ How do I find posts about a particular topic?
 
 - - -
 
-## BeyondtheNumbers
+## #BeyondtheNumbers
 
 We have a great series of looping-related
-Resolutions to share... if we take them to
-heart, we will become better loopers and
-have better outcomes, with less need for
-intervention. Be sure to check back over
-the next week+!
+Resolutions shared on `Loop and Learn` Instagram and Facebook. If we take them to
+heart, we will become more informed
+loopers and experience more
+predictable outcomes, with less need
+for intervention. Be sure to check
+back over the next week!
 
 Look for the hashtag: #BeyondtheNumbers
 
@@ -154,7 +154,17 @@ Resolution #1:
 
 ## *Facebook* Q&A
 
-links to come . . .
+[How can I keep
+devices from getting
+dislodged when my
+`looper` is doing sports?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4281496195440185&hoisted_section_header_type=recently_seen)
+
+[How do you cover
+fat and protein
+(fpu) with `Loop`?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4279680875621717&hoisted_section_header_type=recently_seen)
+
+[What are your `Looping` resolutions?](https://www.facebook.com/groups/LOOPandLEARN/posts/4281293022127169/)
+]
 
 - - -
 
