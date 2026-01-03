@@ -9,7 +9,7 @@ Published on 02 January 2024.
 * [*Zoom* Sessions](#upcoming-zoom-sessions)
 * [Tips for Building or Rebuilding with a Browser](#tips-for-building-or-rebuilding-with-a-browser)
 * [Do You "Think Like a `Loop`?"](#do-you-think-like-a-loop)
-* [Alert for *iAPS* Users](#alert-for-iaps-main-users)
+* [Alert for *iAPS* Users](#alert-for-iaps-users)
 * [Helpful Links](#helpful-links)
 
 ## Upcoming *Zoom* Sessions

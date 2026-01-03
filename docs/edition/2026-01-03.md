@@ -10,7 +10,7 @@ Published on 03 January 2026
 * [Loop dev Update](#loop-dev-update)
 * [AAPS 3.4.0.0 has been released](#aaps-3400-has-been-released)
 * [iPhone 17](#iphone-17)
-* [Help for `Loopers` using GLP-1RA Meds](#help-for-loopers-using-glp-1ra-meds)
+* [Help for `Loopers` using GLP-1RA Meds](#help-for-loopersusing-glp-1ra-meds)
 * [Topics in the `Loop and Learn` Facebook Group](#topics-in-the-loop-and-learn-facebook-group)
 * [BeyondtheNumbers](#beyondthenumbers)
 * [*Facebook* Q&A](#facebook-qa)
