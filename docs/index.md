@@ -9,9 +9,9 @@ Published on 23 January 2026
 * [Upcoming Open Mics](#upcoming-open-mics)
 * [Time to Agree Again](#time-to-agree-again)
 * [*Loop* v3.10.0 Release](#loop-v3100-release)
-	* [*Loop* Browser Build Monthly Status](#loop-browser-build-monthly-status)
 	* [*Loop* Feature Branches](#loop-feature-branches)
-* [*Loop* and *LoopCaregiver* Browser Builders](#loop-and-loopcaregiver-browser-builders)
+* [Browser Build: Confirm Status Monthly](#browser-build-confirm-status-monthly)
+    * [Browser Build: *Loop* and *LoopCaregiver* Apps](#browser-build-loop-and-loopcaregiver-apps)
 * [Apple Recommendations](#apple-recommendations)
 	* [Update Phone iOS](#update-phone-ios)
 	* [Reminder about Updating iOS](#reminder-about-updating-ios)
@@ -80,10 +80,6 @@ Among other updates, this provides support for G7 15-day sensors and provides Li
 
 For more information: check out [LoopDocs: Version, Releases page](https://loopkit.github.io/loopdocs/version/releases/#loop-v3100) and [LoopDocs: Setup, Features, Live Activity section](https://loopkit.github.io/loopdocs/loop-3/features/#live-activity).
 
-### *Loop* Browser Build Monthly Status
-
-We still do not know why most people have their *Loop* automatic build action disabled by GitHub, so if you use Browser Build, please continue to manually build *Loop* once a month. We suggest doing it round the 15th day of each month.
-
 ### *Loop* Feature Branches
 
 In addition to the released version of *Loop* (`main`) and the development version of *Loop* (`dev`), there are also 2 feature branches.  These can be built using the same instructions as for the `dev` branch with either Browser Build or Mac-Xcode build.
@@ -99,24 +95,28 @@ See this [Facebook post](https://www.facebook.com/groups/LOOPandLEARN/permalink/
 
 - - -
 
-## *Loop* and *LoopCaregiver* Browser Builders
+## Browser Build: Confirm Status Monthly
 
-*Loop*: LoopDocs recommends that you manually rebuild on the 15th day of the month (or later).
+> We do not know why most people have their *Loop* automatic build action disabled by GitHub. If you use *Loop* and Browser Build, please continue to manually build th *Loop* app once a month.
 
-* [Manual Action for Automatic Build](https://loopkit.github.io/loopdocs/browser/automatic/#manual-action-for-automatic-build)
+> Even though this is typically just the *Loop* app, we suggest you confirm once a month for every app you expect to build automatically; make sure a new build is available in your *TestFlight*.
 
-*LoopCaregiver*: As a one-time action, you need to manually build before January 28 using the same instructions. This is because the developers allowed more than 60 days to elaspse between updates to the repository.
+Automatic builds are scheduled for the second Sunday of each month. We suggest you add a calendar reminder for the 15th of each month. 
 
-It’s only 5 Clicks: 
+* If you got a successful build email, just make sure the app shows up in *TestFlight*
+* If you did not get a successful build email, then do the manual build (only 5 clicks that can be done on your phone or in any browser)
 
-* These updates can be done from any phone in any location that has internet access and it takes about 5 clicks after you log in to GitHub. 
-* You'll find it easier to use a browser such as Google or Safari, rather than the GitHub app.
+    * [Manual Action for Automatic Build](https://loopkit.github.io/loopdocs/browser/automatic/#manual-action-for-automatic-build)
 
-Why: While the browser build process was intended to be automated, GitHub continues to disable the Build workflow for the *Loop* app. 
+### Browser Build: *Loop* and *LoopCaregiver* Apps
 
-The *LoopCaregiver* issue is because the repository wasn't updated for more than 60 days and GitHub's policy is to manually disable the build workflow after 60 days. 
+As mentioned above, you will probably need to build the *Loop* app manually every month.
 
-We do not plan to allow repositories to get stale, but it can happen. Just check monthly to find out the status for your apps.
+The *LoopCaregiver* app requires a manual build to get the automatic build started again.
+
+* This is because the developers allowed more than 60 days to elapse between updates to the repository
+
+* We do not plan to allow repositories to get stale, but it can happen. Just check monthly to find out the status for your apps.
 
 - - -
 
@@ -162,10 +162,13 @@ The advisory, detailed in a document released by the NSA, underscores the import
 
 ## Trio Talk
 
-Why does Trio forecast a very high glucose when carbs are entered?
+A Trio users asked: "Why does Trio forecast a very high glucose when carbs are entered?"
+
 Our expert says: Trio is not telling you what will happen. It’s telling you what it will respond to.
 
 And, as we know, if glucose is forecasted to be high, Trio will bolus based on user settings to reduce the forecasted glucose.
+
+> Yes - the same answer is true for the *Loop* app and pretty much any AID system.
 
 - - -
 
@@ -184,15 +187,17 @@ Our team has determined that these are pod errors, not connected with OS-AID use
 
 See this [Facebook post](https://www.facebook.com/share/p/14TnXGPBo17/?)
 
-And don't forget about the [feat/pod-keep-alive branch](#loop-feature-branches) if you use the *Loop* app.
+Note - these were pod faults, not related to the iPhone 16 problem with Atlas pods.
+
+* If you use the *Looop* app with an iPhone 16 and you get Atlas pods, consider using the [feat/pod-keep-alive branch](#loop-feature-branches)
 
 - - -
 
 ## OS-AID in the Literature:
 
-Fully closed‑loop systems: can people with type 1 diabetes just do it? Insights from open‑source systems by Rayhan Lal, Katarina Braune, Dana M. Lewis, Lenka Petruzelkova, Martin de Bock, and Sufyan Hussain.
-
 This [review article](https://link.springer.com/article/10.1007/s00125-025-06644-8) was just published in Diabetologia and includes mention of Trio. Please have a read and then take a moment and send it to your endo provider!
+
+> "Fully closed‑loop systems: can people with type 1 diabetes just do it? Insights from open‑source systems" by Rayhan Lal, Katarina Braune, Dana M. Lewis, Lenka Petruzelkova, Martin de Bock, and Sufyan Hussain.
 
 - - -
 
