@@ -172,7 +172,7 @@ And, as we know, if glucose is forecasted to be high, Trio will bolus based on u
 ## Developer Updates- Exciting News!
 
 1. Tandem Mobi is in open beta testing for AAPS
-2. The rewrite of Nightscout (called Nocturne) is making progress. We shared about this project in the [20 Dec 2025 edition of News from Loop and Learn](../edition/2025-12-20/#more-from-hackathon-2025){: target="_blank" }.
+2. The rewrite of Nightscout (called Nocturne) is making progress. We shared about this project in the [20 Dec 2025 edition of News from Loop and Learn](../edition/2025-12-20.md#more-from-hackathon-2025){: target="_blank" }.
 
 - - -
 
