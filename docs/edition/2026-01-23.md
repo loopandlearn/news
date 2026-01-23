@@ -17,7 +17,7 @@ Published on 23 January 2026
 	* [Reminder about Updating iOS](#reminder-about-updating-ios)
 * [Mobile Phone Security: Reboot phone weekly](#mobile-phone-security-reboot-phone-weekly)
 * [Trio Talk](#trio-talk)
-* [Develooer Updates- Exciting News!](#develooer-updates-exciting-news)
+* [Developer Updates- Exciting News!](#developer-updates-exciting-news)
 * [DASH Atlas Pod Issues](#dash-atlas-pod-issues)
 * [OS-AID in the Literature:](#os-aid-in-the-literature)
 * [Call to Action: Urge the U.S. House to Support T1D Research Funding](#call-to-action-urge-the-us-house-to-support-t1d-research-funding)
@@ -143,7 +143,8 @@ We recommend you wait for an all-clear from the Open-Source mentors before accep
 It's fine to upgrade to iOS 26.2; in fact, updating to iOS 26.2 is the only option offered for phones newer than iPhone 11. There are important security updates, so do the update soon.
 
 > Update Loop before taking your phone to iOS 26 from iOS 18
-    * Versions of Loop older than v3.8.2 exhibited a variety of user interface issue with iOS 26
+
+>    * Versions of Loop older than v3.8.2 exhibited a variety of user interface issue with iOS 26
 
 Minor updates, like 26.1 to 26.1.1, you don't need to wait - just accept the update when convenient. When you update your phone's operating system, **always be awake and aware**. As soon as the update completes and your phone reboots, make sure your OS-AID is operating properly.
 
@@ -168,18 +169,18 @@ And, as we know, if glucose is forecasted to be high, Trio will bolus based on u
 
 - - -
 
-## Develooer Updates- Exciting News!
+## Developer Updates- Exciting News!
 
 1. Tandem Mobi is in open beta testing for AAPS
-2. The rewrite of Nightscout (called Nocturne) is making progress. We shared about this project in the 20 Dec. 2025 edition of News from LnL in the “More News from Hackathon 2025” article on pages 3 and 4.
+2. The rewrite of Nightscout (called Nocturne) is making progress. We shared about this project in the [20 Dec 2025 edition of News from Loop and Learn](https://loopandlearn.github.io/news/edition/2025-12-20/#more-from-hackathon-2025) in the “More News from Hackathon 2025” article on pages 3 and 4.
 
 - - -
 
 ## DASH Atlas Pod Issues
 
-German, and now American, loopers are complaining about failed Atlas pods.
+German, and now American, loopers are encountering failed Atlas pods.
 
-Our team has determined that these are pod errors, not connected with OS-AID use, and may be a battery issue. If you will be traveling and are using LOT PD1K10112531, have even more extras than you otherwise would for the trip. And a way to inject insulin if an error happens at an inconvenient time.
+Our team has determined that these are pod errors, not connected with OS-AID use, and may be a battery issue. If you will be traveling and are using LOT PD1K10112531, have even more extras than you otherwise would for the trip, and a way to inject insulin if an error happens at an inconvenient time.
 
 See this [Facebook post](https://www.facebook.com/share/p/14TnXGPBo17/?)
 
@@ -189,7 +190,7 @@ And don't forget about the [feat/pod-keep-alive branch](#loop-feature-branches) 
 
 ## OS-AID in the Literature:
 
-Fully closed‑loop systems: can people with type 1 diabetes just do it? Insights from open‑source systems Rayhan Lal  · Katarina Braune  · Dana M. Lewis  · Lenka Petruzelkova  · Martin de Bock  · Sufyan Hussain
+Fully closed‑loop systems: can people with type 1 diabetes just do it? Insights from open‑source systems by Rayhan Lal, Katarina Braune, Dana M. Lewis, Lenka Petruzelkova, Martin de Bock, and Sufyan Hussain.
 
 This [review article](https://link.springer.com/article/10.1007/s00125-025-06644-8) was just published in Diabetologia and includes mention of Trio. Please have a read and then take a moment and send it to your endo provider!
 
