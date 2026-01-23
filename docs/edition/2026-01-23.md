@@ -9,7 +9,7 @@ Published on 23 January 2026
 * [Upcoming Open Mics](#upcoming-open-mics)
 * [Time to Agree Again](#time-to-agree-again)
 * [*Loop* v3.10.0 Release](#loop-v3100-release)
-	* [*Loop* Feature Branches](#loop-feature-branches)
+	* [Feature Branches for the *Loop* App](#feature-branches-for-the-loop-app)
 * [Browser Build: Confirm Status Monthly](#browser-build-confirm-status-monthly)
     * [Browser Build: *Loop* and *LoopCaregiver* Apps](#browser-build-loop-and-loopcaregiver-apps)
 * [Apple Recommendations](#apple-recommendations)
@@ -80,7 +80,7 @@ Among other updates, this provides support for G7 15-day sensors and provides Li
 
 For more information: check out [LoopDocs: Version, Releases page](https://loopkit.github.io/loopdocs/version/releases/#loop-v3100) and [LoopDocs: Setup, Features, Live Activity section](https://loopkit.github.io/loopdocs/loop-3/features/#live-activity).
 
-### *Loop* Feature Branches
+### Feature Branches for the *Loop* App
 
 In addition to the released version of *Loop* (`main`) and the development version of *Loop* (`dev`), there are also 2 feature branches.  These can be built using the same instructions as for the `dev` branch with either Browser Build or Mac-Xcode build.
 
