@@ -144,9 +144,9 @@ It's fine to upgrade to iOS 26.2; in fact, updating to iOS 26.2 is the only opti
 
 > Update Loop before taking your phone to iOS 26 from iOS 18
 
->    * Versions of Loop older than v3.8.2 exhibited a variety of user interface issue with iOS 26
+>    * Versions of Loop older than v3.8.2 exhibited a variety of user interface issues with iOS 26
 
-Minor updates, like 26.1 to 26.1.1, you don't need to wait - just accept the update when convenient. When you update your phone's operating system, **always be awake and aware**. As soon as the update completes and your phone reboots, make sure your OS-AID is operating properly.
+For minor updates, like 26.1 to 26.1.1, you don't need to wait - just accept the update when convenient. When you update your phone's operating system, **always be awake and aware**. As soon as the update completes and your phone reboots, make sure your OS-AID is operating properly.
 
 - - -
 
