@@ -183,11 +183,11 @@ And, as we know, if glucose is forecasted to be high, Trio will bolus based on u
 
 German, and now American, loopers are encountering failed Atlas pods.
 
-Our team has determined that these are pod errors, not connected with OS-AID use, and may be a battery issue. If you will be traveling and are using LOT PD1K10112531, have even more extras than you otherwise would for the trip, and a way to inject insulin if an error happens at an inconvenient time.
+* See this [Facebook post](https://www.facebook.com/share/p/14TnXGPBo17/?)
 
-See this [Facebook post](https://www.facebook.com/share/p/14TnXGPBo17/?)
+Our team has determined that these are pod errors. The lot in this post might have marginal batteries, which will be more likely to cause a 3rd day issue when used with OS-AID. If you will be traveling and are using LOT PD1K10112531, take even more extras than you otherwise would for the trip, and a way to inject insulin if an error happens at an inconvenient time.
 
-Note - these were pod faults, not related to the iPhone 16 problem with Atlas pods.
+Note - these pod faults are not related to the iPhone 16 problem with Atlas pods.
 
 * If you use the *Loop* app with an iPhone 16 and you get Atlas pods, consider using the [feat/pod-keep-alive branch](#loop-feature-branches)
 
