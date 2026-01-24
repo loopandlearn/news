@@ -20,8 +20,8 @@ Published on 23 January 2026
 * [Developer Updates- Exciting News!](#developer-updates-exciting-news)
 * [DASH Atlas Pod Issues](#dash-atlas-pod-issues)
 * [OS-AID in the Literature:](#os-aid-in-the-literature)
-* [Call to Action: Urge the U.S. House to Support T1D Research Funding](#call-to-action-urge-the-us-house-to-support-t1d-research-funding)
 * [Bluetooth Tracking Devices](#bluetooth-tracking-devices)
+* [Urge the U.S. House to Support T1D Research Funding](#urge-the-us-house-to-support-t1d-research-funding)
 * [*Facebook* Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
@@ -201,7 +201,13 @@ This [review article](https://link.springer.com/article/10.1007/s00125-025-06644
 
 - - -
 
-## Call to Action: Urge the U.S. House to Support T1D Research Funding
+## Bluetooth Tracking Devices
+
+AirTags, Tiles and other Bluetooth tracking devices can really save the day! Do you use them? Here’s an [article in Popular Mechanics](https://www.popularmechanics.com/technology/gadgets/a37245328/best-bluetooth-trackers/) describing their five favorite Bluetooth trackers for 2026. You can also search online for more options and good deals.
+
+- - -
+
+## Urge the U.S. House to Support T1D Research Funding
 
 The Special Diabetes Program (SDP) funds critical research that has improved lives and moves us closer to cures for T1D. Urge your U.S. Representative to support its long-term renewal!
 
@@ -213,12 +219,6 @@ Urge Congress to support the bipartisan, multi-year renewal of the Special Diabe
 
 SDP funding has directly advanced so many life-changing T1D breakthroughs, including automated insulin delivery systems, the first disease-modifying therapy to delay T1D onset, and many more- and with the promise of cell therapies on the horizon, continued research funding is crucial to accelerating our pathway to cures. Take action today to ensure that funding for the SDP remains strong.
 Thank you for making your voice heard and supporting our mission. https://www.breakthrought1d.org/advocacy/
-
-- - -
-
-## Bluetooth Tracking Devices
-
-AirTags, Tiles and other Bluetooth tracking devices can really save the day! Do you use them? Here’s an [article in Popular Mechanics](https://www.popularmechanics.com/technology/gadgets/a37245328/best-bluetooth-trackers/) describing their five favorite Bluetooth trackers for 2026. You can also search online for more options and good deals.
 
 - - -
 
