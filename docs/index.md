@@ -189,7 +189,7 @@ Our team has determined that these are pod errors. The lot in this post might ha
 
 Note - these pod faults are not related to the iPhone 16 problem with Atlas pods.
 
-* If you use the *Loop* app with an iPhone 16 and you get Atlas pods, consider using the [feat/pod-keep-alive branch](#feature-branches-for-the-loop-app)
+* If you use the *Loop* app with an iPhone 16 and you get Atlas pods, consider using the [feat/pod-keep-alive branch](https://loopkit.github.io/loopdocs/version/development/#feature-branch-pod-keep-alive-feature)
 
 - - -
 
