@@ -97,7 +97,7 @@ See this [Facebook post](https://www.facebook.com/groups/LOOPandLEARN/permalink/
 
 ## Browser Build: Confirm Status Monthly
 
-> We do not know why most people have their *Loop* automatic build action disabled by GitHub. If you use *Loop* and Browser Build, please continue to manually build th *Loop* app once a month.
+> We do not know why most people have their *Loop* automatic build action disabled by GitHub. If you use *Loop* and Browser Build, please continue to manually build the *Loop* app once a month.
 
 > Even though this is typically just the *Loop* app, we suggest you confirm once a month for every app you expect to build automatically; make sure a new build is available in your *TestFlight*.
 
@@ -162,7 +162,7 @@ The advisory, detailed in a document released by the NSA, underscores the import
 
 ## Trio Talk
 
-A Trio users asked: "Why does Trio forecast a very high glucose when carbs are entered?"
+A Trio user asked: "Why does Trio forecast a very high glucose when carbs are entered?"
 
 Our expert says: Trio is not telling you what will happen. It’s telling you what it will respond to.
 
@@ -189,7 +189,7 @@ See this [Facebook post](https://www.facebook.com/share/p/14TnXGPBo17/?)
 
 Note - these were pod faults, not related to the iPhone 16 problem with Atlas pods.
 
-* If you use the *Looop* app with an iPhone 16 and you get Atlas pods, consider using the [feat/pod-keep-alive branch](#loop-feature-branches)
+* If you use the *Loop* app with an iPhone 16 and you get Atlas pods, consider using the [feat/pod-keep-alive branch](#loop-feature-branches)
 
 - - -
 
@@ -234,7 +234,7 @@ AirTags, Tiles and other Bluetooth tracking devices can really save the day! Do 
 
 * [Is Trio without dynamic pretty much the same as *Loop* with autobolus strategy?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4293594707563667/)
 
-* [Is anyone out there currently trying to 'mod' the Twiist Pump?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4295577460698725/)
+* [Is anyone out there currently trying to 'mod' the twiist Pump?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4295577460698725/)
 
 - - -
 
