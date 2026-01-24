@@ -152,7 +152,7 @@ For minor updates, like 26.1 to 26.1.1, you don't need to wait - just accept the
 
 ## Mobile Phone Security: Reboot phone weekly
 
-United States [NSA Advisory](https://cybersecuritynews.com/iphone-android-users-to-restart-devices/)
+[United States NSA Advisory](https://cybersecuritynews.com/iphone-android-users-to-restart-devices/)
 
 "The National Security Agency (NSA) has recommended that all iPhone and Android users restart their devices at least once a week. This guidance is part of a broader set of best practices to enhance mobile device security and protect users from potential cyber threats.
 
