@@ -14,7 +14,7 @@ Published on 14 February 2026
 * [LoopFollow v4.5.0 is Here!](#loopfollow-v450-is-here)
 * [Adding Multiple Food Items Into Loop Before Calculating a Bolus](#adding-multiple-food-items-into-loop-before-calculating-a-bolus)
 * [Valentine’s Candy Carb Counts](#valentines-candy-carb-counts)
-* [Thank You ♥️](#thank-you-️)
+* [Thank You ♥️](#thank-you)
 * [Mia’s Mother’s Story](#mias-mothers-story)
 * [Research Study: AAPS x Menstrual Cycles](#research-study-aaps-x-menstrual-cycles)
 * [*Facebook* Q&A](#facebook-qa)
