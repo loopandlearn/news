@@ -98,7 +98,7 @@ This update brings a mix of polish, a new alarm, and other fixes.
 What’s new:
 
 * Updated app icon with a iOS26 look (only visible with iOS 26)
-* New pump battery alarm (in addition to looping phone battery alarms)
+* New pump battery alarm (in addition to phone battery alarms for the OS-AID phone)
 * Improved alarm wording for better consistency
 * New Appearance setting: choose System / Light / Dark with instant change
 
@@ -119,7 +119,7 @@ When you add the first food, tap on the bolus row, and it resets to zero.
 * Save without bolusing. 
 * Add the next food. 
 * Bolus only after the last carb entry.
-* Be aware that Loop may start increasing your insulin if a CGM reading comes in while you are working on the next food amount.
+* Be aware that the *Loop* app may start increasing your insulin if a CGM reading comes in while you are working on the next food amount.
 
 Option 2:
 
@@ -133,8 +133,8 @@ When all done with food entries, you can
 
 * cancel the current bolus and tap on the bolus button to start a new one
 * or wait for the first bolus to finish and then tap on bolus
-* or let Loop keep increasing the insulin automatically
-    * For this case, choose a pre-meal preset or custom preset with a low value for the low end of the correction range to enhance Loop's ability to give you the insulin it predicts you will need
+* or let the *Loop* app keep increasing the insulin automatically
+    * For this case, choose a pre-meal preset or custom preset with a low value for the low end of the correction range to enhance the app's ability to give you the insulin it predicts you will need
 
 - - -
 
