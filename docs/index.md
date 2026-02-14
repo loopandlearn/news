@@ -12,7 +12,7 @@ Published on 14 February 2026
 * [New Dexcom Serial Number Digit](#new-dexcom-serial-number-digit)
 * [Did you know?](#did-you-know)
 * [LoopFollow v4.5.0 is Here!](#loopfollow-v450-is-here)
-* [Adding Multiple Food Items Into Loop Before Calculating a Bolus](#adding-multiple-food-items-into-loop-before-calculating-a-bolus)
+* [Adding Multiple Food Items Before Calculating a Bolus](#adding-multiple-food-items-before-calculating-a-bolus)
 * [Valentine’s Candy Carb Counts](#valentines-candy-carb-counts)
 * [Thank You ♥️](#thank-you)
 * [Mia’s Mother’s Story](#mias-mothers-story)
@@ -46,8 +46,8 @@ AAPS).
 
 Video Conference Sessions use the following links every month. Notice - they now have easy-to-remember shortcuts:
 
-* English `Open Mic`: [loopandlearn.org/zoom](https://loopandlearn.org/zoom)
-* Italian `Open Mic`: [loopandlearn.org/zoomit](https://loopandlearn.org/zoomit)
+* `English Open Mic`: [loopandlearn.org/zoom](https://loopandlearn.org/zoom)
+* `Italian Open Mic`: [loopandlearn.org/zoomit](https://loopandlearn.org/zoomit)
 
 
 #### Time Zone Converter
@@ -61,14 +61,14 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 * We LOVE our Open Mic time spent with loopers! Please mark your calendar and join us when you can! [Calendar](#calendar)
 * Get that new [Apple Developer agreement](https://developer.apple.com/account) checked off your list! Must be done by March 17!
     * Caregivers - Did you know that if your developer agreement is not signed, you cannot use Apple Push Notifications - these are required for remote commands
-* We suggest browser builders [Rebuild Loop](https://loopkit.github.io/loopdocs/browser/automatic/#what-manual-action-is-required) monthly.
+* We suggest *Loop* browser builders [Rebuild](https://loopkit.github.io/loopdocs/browser/automatic/#what-manual-action-is-required) monthly.
 * Are you collecting Omnipods for Insulet’s recycling program? If not, and you live in the US, [here’s how you can get involved](https://www.omnipod.com/pod-recycling).
 
 - - -
 
 ## Update on Omnipod DASH 203 Errors
 
-There are have been many reports of 203 errors recently. These are probably due to a bunch of marginal batteries having a hard time with the extra messages that go along with OS-AID.
+There have been many reports of 203 errors recently. These are probably due to a bunch of marginal batteries having a hard time with the extra messages that go along with OS-AID.
 
 If you end up with a Lot that dies early due to 203 errors and you use Loop, try using a 10-20 mg/dL or 0.5-1.0 mmol/L range for your target. For example, 87-107 mg/dL or 4.8-5.8 mmol/L There is no equivalent method for reducing the number of messages for Trio.
 
@@ -81,7 +81,7 @@ Please report these issues to Insulet and be prepared with your PDM serial numbe
 ## New Dexcom Serial Number Digit
 
 
-Dexcom has started to add “-1” after their transmitter IDs because they were running out of serial numbers.  When inputting the serial number into your app, continue to enter the 6 alphanumeric characters and ignore the “-1”. [Here’s info](https://www.dexcom.com/faq/why-does-my-transmitter-serial-number-have-1-at-the-end-of-it) straight from Dexcom.
+Dexcom has started to add “-1” after their transmitter IDs because they were running out of serial numbers.  When inputting the serial number into your app, continue to enter the six alphanumeric characters and ignore the “-1”. [Here’s info](https://www.dexcom.com/faq/why-does-my-transmitter-serial-number-have-1-at-the-end-of-it) straight from Dexcom.
 
 - - -
 
@@ -108,9 +108,9 @@ Huge thanks to everyone in the community who gave feedback and contributed.
 
 - - -
 
-## Adding Multiple Food Items Into Loop Before Calculating a Bolus
+## Adding Multiple Food Items Before Calculating a Bolus
 
-Here are a couple of ways to add multiple food items into Loop before bolusing.
+Here are a couple of ways to add multiple food items into the *Loop* app before bolusing.
 
 Option 1:
 
@@ -118,7 +118,7 @@ When you add the first food, tap on the bolus row, and it resets to zero.
 
 * Save without bolusing. 
 * Add the next food. 
-* Bolus only for the last carb entry.
+* Bolus only after the last carb entry.
 * Be aware that Loop may start increasing your insulin if a CGM reading comes in while you are working on the next food amount.
 
 Option 2:
@@ -148,14 +148,15 @@ It’s time for [another carb counts helper sheet](https://childrenwithdiabetes.
 
 Over the last few months, we've reached out with very specific requests for help, and the community has stepped up - over and over again!
 
-1. A developer needed airline miles to get from Australia to Barcelona for ATTD (diabetes tech conference). There weren't any mileage-award trips available, but a generous member provided $ funding!
+1. A developer needed airline miles to get from Australia to Barcelona for ATTD (diabetes tech conference). There weren't any mileage-award trips available, but a generous member provided monetary funding!
 
-1. Developers need Mobis for testing. We had asked a few months ago and had some success, but decided to ask again. A generous member stepped up to contribute another device! If anyone else has a Mobi, we are looking for one more. If you don't have one, maybe your friend, relative or healthcare professional has one that they are not using
-1. A developer needed Medtrum patches for testing. I privately approached a member who I thought might be able to help, and he came through in a big way!
+1. Developers need Mobis for testing. We had asked a few months ago and had some success, but decided to ask again. A generous member stepped up to contribute another device!
+1. A developer needed Medtrum patches for testing. We privately approached a member who we thought might be able to help, and he came through in a big way with the patches! Additional Medtrum U-200 brains are still needed.
 1. A developer needed O5 controllers. Again, generous members came through!
 
-The developers use these devices for testing so that they can try to provide the community with more options. Sometimes they're decrypting and breaking things. Other times, they're testing and creating code. ￼
-We sometimes ask a lot, but we have no corporate sponsors, (which is probably a good thing since this community doesn't like being told what to do). Our only resource is individual community members who give what they can, when they can. We see you and appreciate you!
+The developers use these devices for testing so that they can try to provide the community with more options. Sometimes they're decrypting and breaking things. Other times, they're testing and creating code.
+
+We sometimes ask a lot, as we have no corporate sponsors (which is probably a good thing since this community doesn't like being told what to do). Our only resource is individual community members who give what they can, when they can. We see you and appreciate you!
 
 - - -
 
