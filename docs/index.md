@@ -6,11 +6,33 @@ Special Edition on 28 February 2026
 
 ## In this edition:
 
+* [Time Change](#time-change)
 * [Check off that Apple Developer Agreement](#check-off-that-apple-developer-agreement)
 * [Introducing Nocturne](#introducing-nocturne)
 * [Upcoming Open Mics](#upcoming-open-mics)
 * [Helpful Links](#helpful-links)
 
+- - -
+
+# Time Change
+
+Daylight Savings Time begins on 
+
+* Sunday, March 8 in the US
+* March 29 in Europe
+* At 2 a.m., it will suddenly be 3 a.m.
+
+In Australia, Daylight Saving Ends on Sunday, April 5, 2026.
+
+* At 3:00 am (AEDT), turn clocks back to 2:00 am (AEST)
+
+Open-Source Automated Insulin Delivery users:
+
+* Remember to always use your OS-AID app to set the time on your pump
+* For Loop: The schedule for targets, basal rates, CR and ISF stay on pump time
+* For Trio: The schedule for targets, basal rates, CR and ISF changes with phone time as long as the app is in closed loop; but if you switch to manual mode, all the settings remain on pump time
+
+- - -
 
 ## Check off that Apple Developer Agreement
 
