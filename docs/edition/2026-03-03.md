@@ -37,7 +37,7 @@ AAPS).
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1)| no | 19:00 UTC | 12 March 2026 |
-| _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion<br>`Open Mic` on last Tuesday of each month<br>[Now Using *Zoom*](https://zoom.us/j/9786554154?pwd=W0XTbZX5g2blj45cUbY45ZD4BZHa4X.1) | no | 19:00 UTC | 24 March 2026 |
+| _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion<br>`Open Mic` on last Tuesday of each month<br>[Now Using *Zoom*](https://zoom.us/j/9786554154?pwd=W0XTbZX5g2blj45cUbY45ZD4BZHa4X.1) | no | 19:00 UTC | 31 March 2026 |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | yes | 22:00 UTC | 28 March 2026 |
 
 #### Permanent Links
@@ -166,19 +166,7 @@ Loop doesn't always update Profiles to Nightscout.   You can force Loop to uploa
 
 ## PhD or Postdoctoral Researcher Position Announcement
 
-- Digital Twin for Next-Gen Open-Source Diabetes Technology
-
-At the Hasso-Plattner-Institut, they’re developing context-aware, equitable automated insulin delivery (AID) technology — and they’re looking for a Computer Scientist / Data Engineer who wants their work to have a real impact on people living with diabetes.
-
-This researcher will:
-
-* Build digital twin models that adapt to real-world variability (hormones, sleep, stress, activity, illness)
-* Co-develop context-aware AID algorithms that work for diverse, including underrepresented user groups
-* Analyze data from medical devices, wearables & sensors
-* Collaborate with a multidisciplinary team (diabetes care, data science, engineering, project management, and lived T1D experience)
-* Contribute to open-science and work closely with the diabetes community
-
-Location: Potsdam, Germany | Full-time (3 years) with the esteemed Dr. Katarina Braune
+Researchers at the Hasso Plattner Istitut in Potsdam, Germany are looking for a Computer Scientist / Data Engineer who wants to have an impact on people living with diabetes with their Open Source work. We are excited to help find this candidate.
 
 [Learn more and apply here](https://www.linkedin.com/posts/katarinabraune_digitalhealth-aid-diabetesresearch-activity-7431665276246499328--qTL)
 
