@@ -76,8 +76,9 @@ Open-Source Automated Insulin Delivery users:
 
 ## Apple Developer Agreement
 
-The [Apple Develop Agreement](https://developer.apple.com/account) was released on December 17 and must be signed by March 17.
-Caregivers: If your agreement isn’t signed, Apple Push Notifications won’t work—and those are required for remote commands.
+The [Apple Develop Agreement](https://developer.apple.com/account) must be signed by March 17.
+
+**Caregivers:** If your agreement isn’t signed, Apple Push Notifications won’t work—and those are required for remote commands.
 
 - - -
 
@@ -96,7 +97,7 @@ A relatively newly diagnosed PWD and a software engineer, Rhys began automating 
 
 Nocturne aims to offer everything users expect from a modern, self-hosted application, including alerts and notifications, meal tagging, and a suite of polished reports that can be shared with HCPs. Full backward compatibility with Nightscout’s existing API is also in the works, so Loop, Trio, AAPS, xDrip+, and other third-party apps should continue to function as expected.
 
-At the Open Mic, Rhys gave a brief overview of what to expect from Nocturne. He’s working toward a usable open beta and plans to launch a newsletter for those who want updates. Development can also be followed on Discord and GitHub.
+At the Open Mic, Rhys gave a brief overview of what to expect from Nocturne. He’s working toward a usable open beta and plans to launch a newsletter for those who want updates. Development can also be followed on [Discord](https://discord.gg/Y7EJfVxxCa). When you tap on the Discord link. agree to the rules and scroll down to nocturne-chat.
 
 Please note: Nocturne is not yet ready for production use. This is an early look at what’s coming. We hope you can join us today, and if not, the session will be recorded and shared.
 
