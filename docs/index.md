@@ -126,13 +126,13 @@ The Loop dev branch was also updated. Code is identical to main at this time and
 
 We have tested iOS 26.3 for compatibility with Loop-main, Loop-dev, Trio-dev, LoopFollow-main, LoopFollow-dev and LoopCaregiver. As part of the process, we built each app using a Browser Build, and using a Mac-Xcode build (with Xcode 16,4 and 26.2). Update when you're ready, but there are a few cautions:
 
-* Loop users should have the latest release, v3.10.0 or newer, on their phone. Loop 3.8.2 is the bare minimum for use with iOS 26.
+* Loop users should have a recent release, v3.10.0 or v3.12.0, on their phone. Loop 3.8.2 is the bare minimum for use with iOS 26.
 * For Trio, the UI glitch from iOS 26.2 is still present in 26.3. 
     * Users who experience the glitch can either ignore it, force-restart Trio (just try not to restart as a CGM reading is about to come in), or open the keyboard (such as by entering carbs, but no need to actually type anything). 
-    * Trio users should have the most recent Trio dev, 0.6.0.50 or newer on their phone.
+    * Trio users should have a recent version of Trio dev, 0.6.0.50 or newer on their phone.
     * See [Trio Issue 882](https://github.com/nightscout/Trio/issues/882) for more information about the glitch
 
-* For LoopCaregiver, when you build to an iOS 26.3 phone, you may temporarily experience a blank and/or frozen screen for up to 1-2 minutes. Nothing to be concerned about, just be patient.
+* For LoopCaregiver, when you build to an iOS 26.3 phone, you may temporarily experience a blank and/or frozen screen for up to 1-2 minutes. Nothing to be concerned about, just be patient. It only happens the first time you update.
 * Dexcom G6 is only approved through iOS 26.2, so Dexcom may deny replacements. G7 is approved through 26.3, though. This information is current as of 28 February 2026; you can check here for updates: [https://www.dexcom.com/compatibility/g7](https://www.dexcom.com/compatibility/g7)
 
 We keep this page updated: [Version Updates](https://www.loopandlearn.org/version-updates/)
