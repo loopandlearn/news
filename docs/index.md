@@ -166,7 +166,7 @@ Loop doesn't always update Profiles to Nightscout.   You can force Loop to uploa
 
 ## PhD or Postdoctoral Researcher Position Announcement
 
-Researchers at the Hasso Plattner Istitut in Potsdam, Germany are looking for a Computer Scientist / Data Engineer who wants to have an impact on people living with diabetes with their Open Source work. We are excited to help find this candidate.
+Researchers at the Hasso Plattner Institut in Potsdam, Germany are looking for a Computer Scientist / Data Engineer who wants to have an impact on people living with diabetes with their Open Source work. We are excited to help find this candidate.
 
 [Learn more and apply here](https://www.linkedin.com/posts/katarinabraune_digitalhealth-aid-diabetesresearch-activity-7431665276246499328--qTL)
 
