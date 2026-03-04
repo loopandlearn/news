@@ -2,7 +2,7 @@
 
 _Master Your DIY `Closed-Loop` Insulin Delivery System_
 
-Published on 3 March 2026
+Published on 4 March 2026
 
 ## In this edition:
 
@@ -113,10 +113,10 @@ Please note: Nocturne is not yet ready for production use. This is an early look
 * Improved Live Activity Display
 * Supports real-time response for remote commands when using LoopFollow
 
-For those who customize, the remote_window customization that expands the One-Time Password window acceptance to 15-minutes is temporarily unavailable
+For those who customize, the remote_window customization was unavailable for a few days but was updated to be compatible on 4 March 2026.
 
-* The customization is being reworked, but currently Browser Builders cannot include it in build_loop.yml
-* In the meantime, either do not update yet or try LoopFollow instead of LoopCaregiver
+* As part of revising the customization to be compatible with the new real-time responses sent to LoopFollow, we also modified the customization to allow a 10-minute window as opposed to the 15-minute window used previously
+* Some people would like that window to be shorter still - so reach out and let us know
 
 The Loop dev branch was also updated. Code is identical to main at this time and the new version number is 3.13.0.
 
