@@ -113,7 +113,7 @@ Once the build is in *TestFlight*, you still need to install it on your phone.
 
 ### *Loop and Learn* Discord
 
-*Loop and Learn* hosts a Discord community as an alternative to Facebook—both as a backup and for those who prefer Discord. [Join us](https://discord.gg/KQgk3gzuYU) there and help shape it! We’re not scaling back on Facebook, so if that’s where you connect with us, please keep doing so.
+*Loop and Learn* hosts a Discord community as an alternative to Facebook—both as a backup and for those who prefer Discord. Join us at [`https://loopandlearn.org/discord`](https://loopandlearn.org/discord) and help shape it! We’re not scaling back on Facebook, so if that’s where you connect with us, please keep doing so.
 
 
 - - -
