@@ -214,7 +214,7 @@ LoopFollow offers flexible alerts, including a Max IOB alarm, and remote monitor
 * Allows a caregiver to follow the person with diabetes (iOS only)
 * When connected to a Nightscout site, it provides extensive alert options
 * Remote control features also require Nightscout
-* Documentation is available here: [https://loopfollowdocs.org/](https://loopfollowdocs.org/)
+* Documentation is available here: [https://loopfollowdocs.org](https://loopfollowdocs.org/)
 
 **Additional safeguards:**
 
@@ -328,7 +328,7 @@ This session is part of the T1D to 100 research discussion series, helping the c
 
 * [Extreme overrides & how to fix issues](https://www.facebook.com/share/p/1Da95j9TxR/)
 
-* [What is that little circle next to my pump icon on the Loop app?]() Link is missing
+* What is that little circle next to my pump icon on the Loop app? Link is missing
 
 * [Newbie questions](https://www.facebook.com/share/p/1D6tqVb7zN/)
 
