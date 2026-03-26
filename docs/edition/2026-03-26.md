@@ -27,7 +27,7 @@ Published on 26 March 2026
 * [Giving Back](#giving-back)
     * [Donate Your Data](#donate-your-data)
     * [Clinical Study: Exercise & Type 1 Diabetes](#clinical-study-exercise--type-1-diabetes)
-* [T1D to 100 Webinar: New Stem Cell Therapies to Combat Type 1 Diabetes](#t1d-to-100-webinar-new-stem-cell-therapies-to-combat-type-1-diabetes)
+* [T1D to 100 Upcoming Webinars](#t1d-to-100-upcoming-webinars)
 * [Facebook Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
@@ -81,11 +81,12 @@ Daylight Saving Ends on Sunday, April 5, 2026 for our Aussie friends
 
 * At 3:00 am (AEDT), turn clocks back to 2:00 am (AEST)
 
-Open-Source Automated Insulin Delivery users:
+**Open-Source Automated Insulin Delivery users:**
 
-* Remember to always use your OS-AID app to set the time on your pump
-* For Loop: The schedule for targets, basal rates, CR and ISF stay on pump time
-* For Trio: The schedule for targets, basal rates, CR and ISF changes with phone time as long as the app is in closed loop; but if you switch to manual mode, all the settings remain on pump time
+Remember to always use your OS-AID app to set the time on your pump
+
+* For the *Loop* app: The schedule for targets, basal rates, CR and ISF align with the time on your pump
+* For the *Trio* app: The schedule for targets, basal rates, CR and ISF align with the time on your phone as long as the app is in closed loop; but if you switch to manual mode, all the settings align with the time on your pump
 
 - - -
 
@@ -113,7 +114,7 @@ Once the build is in *TestFlight*, you still need to install it on your phone.
 
 ### *Loop and Learn* Discord
 
-*Loop and Learn* hosts a Discord community as an alternative to Facebook—both as a backup and for those who prefer Discord. Join us at [`https://loopandlearn.org/discord`](https://loopandlearn.org/discord) and help shape it! We’re not scaling back on Facebook, so if that’s where you connect with us, please keep doing so.
+*Loop and Learn* has begun hosting a Discord community as an alternative to Facebook—both as a backup and for those who prefer Discord. Join us at [`https://loopandlearn.org/discord`](https://loopandlearn.org/discord) and help shape it! We’re not scaling back on Facebook, so if that’s where you connect with us, please keep doing so.
 
 
 - - -
@@ -152,8 +153,9 @@ Huge thanks to everyone involved!
 ### AAPS 3.4.1.0 Release
 
 
-AAPS 3.4.1.0 was released on 8 March 2026. Check here for release notes. 
-More on this release can be found in this Facebook post.
+AAPS 3.4.1.0 was released on 8 March 2026. Check [here](https://github.com/nightscout/AndroidAPS/releases/tag/3.4.1.0) for release notes. 
+
+More on this release can be found in this [Facebook post](https://www.facebook.com/groups/AndroidAPSUsers/permalink/4420378644850185).
 
 ### iPhone 17e
 
@@ -171,9 +173,9 @@ The [Caruna hacking kit](https://cloud.google.com/blog/topics/threat-intelligenc
 
 - - -
 
-## Tips
+## Pro Tips
 
-### Trio Tips
+### Trio Tip
 
 Here is a useful tip for changing the suggested bolus value in the bolus calculator:
 
@@ -185,7 +187,7 @@ Say goodbye to the old long-press-and-drag-forever routine. Your thumb will than
 This can also be used to edit Carb, Protein, and Fat.
 
 
-### Travel Tips
+### Travel Tip
 
 Place your pod and CGM in accessible locations on your body while traveling. Enough said? 😉
 
@@ -193,7 +195,7 @@ Place your pod and CGM in accessible locations on your body while traveling. Eno
 
 ## Monitor and Limit Insulin Delivery
 
-Some caregivers want more control over how much insulin an OS-AID delivers for safety reasons.
+Some caregivers want more control over how much insulin an OS-AID delivers for safety reasons. Here are some facts and ideas.
 
 **Max IOB for the *Loop* app**
 
@@ -265,23 +267,17 @@ We know you loopers- you love your data, and we’re no exception! Stay tuned fo
 
 From the beginning, the open-source community has used real-world data to push diabetes technology forward. The more data we have, the better we can build these systems to meet our needs. Want to help? [Download the Diabetes Cockpit app](https://apps.apple.com/us/app/diabetes-cockpit/id1580577116) in the Apple App Store, and opt in to Community Support:
 
-Tap on the icon at upper right for your app settings
-
-* Scroll near the bottom and enable Community Support
-* Your data can drive innovation by giving our developers the information they need to make the algorithms more efficient and effective.
-* All donated data will be held in an exclusive repository and will only be used for open-source DIY innovations.
-
 BONUS: You get access to all the cool features in the Diabetes Cockpit app for seeing correlations with your Apple Health data and your OS-AID diabetes data!
 
 ### Clinical Study: Exercise & Type 1 Diabetes
 
 The Jaeb Center for Health Research is launching the EDGE study to tackle the frustration of managing blood sugars during exercise. This is a US-only study.
 
-We know that maintaining a healthy lifestyle often means dealing with highs or surprise lows, so this study aims to replace generic advice with data-backed strategies on insulin adjustments and carbohydrate timing. It also explores if specialized education can help you improve your time-in-range and avoid fluctuations, empowering the T1D community to stay active safely.
+We know that maintaining a healthy lifestyle often means dealing with highs or surprise lows, so this study aims to replace generic advice with data-backed strategies on insulin adjustments and carbohydrate timing. It also explores if specialized education can help you improve your time in range (TIR) and avoid fluctuations, empowering the T1D community to stay active safely.
 
 Purpose: The study will explore how learning more about exercise and glucose management might help adults with T1D improve their glucose control.
 
-Eligibility: Adults diagnosed with T1D for 1+ years; currently active (30 mins, 2x/week); using a pump or *MDI; and using a Dexcom or Medtronic CGM (Note: Abbott Libre users are not eligible).
+Eligibility: Adults diagnosed with T1D for 1+ years; currently active (30 mins, 2x/week); using a pump or multiple daily injections (MDI); and using a Dexcom or Medtronic CGM (Note: Abbott Libre users are not eligible).
 
 Structure: 100% Remote. There are no clinic visits, commutes, or time off work required. You will review educational materials and share data from your devices from home.
 
@@ -295,19 +291,19 @@ Here’s How to Get Involved:
 
 - - - 
 
-## T1D to 100 Webinar: New Stem Cell Therapies to Combat Type 1 Diabetes
+## T1D to 100 Upcoming Webinars
+
+These events will be recorded and shared on[T1D to 100 YouTube](https://www.youtube.com/@T1Dto100).
+
+#### New Paths Toward a Cure for Type 1 Diabetes: A conversation with Dr. Leonardo Ferreira
 
 * 31 March 2026: 5PM PT / 8PM ET
-* [Register for this LIVE Webinar](https://l.facebook.com/l.php?u=https%3A%2F%2Fus02web.zoom.us%2Fmeeting%2Fregister%2FkKMpmoIoQGSSFxKX9okYCQ%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExYVBTQTAxN3RDcFQ1UDMyaHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4-tQig46tSQkRjhWXKlf2sdYvnDZB3pjTY9rNNYUJznvNZE6mPIQqiFC1XIA_aem_j93-z01HRSfVhJ8Ics1yVw&h=AT6vfxjr6Hm27CrIoAcaJhEUSz2E8wKpVppfP7baShdsjsrzEoLuo1NYGphWfd1dsvMH1fvw-hKhE18701fs8QC-lCzuGfzTPYb_5rOfegf1MdMThuUuuQqWk6VOdqI9q-WUQU7tf2-zXwg8VRY)
-* A recording WILL be available to watch after the event.
+* [View Details and Register for this LIVE Webinar](https://us02web.zoom.us/meeting/register/kKMpmoIoQGSSFxKX9okYCQ#/registration)
 
-Researchers worldwide are exploring new ways to treat—and possibly cure—Type 1 diabetes, including approaches that replace insulin-producing beta cells and protect them from immune attack.
+#### Memory Health in Older Adults with Type 1 Diabetes
 
-In this webinar, Leonardo Ferreira will share his team’s work on developing cell-based therapies to restore natural insulin production. The session will focus on big-picture ideas and what they could mean for people with T1D, without getting into complex science.
-
-Participants will also have the opportunity to ask questions and engage directly with Dr. Ferreira about his research and its potential future impact.
-
-This session is part of the T1D to 100 research discussion series, helping the community stay informed about emerging science and potential future therapies.
+* Apr 6, 2026: 5 PM PT / 8 PM ET
+* [View Details and Register for this LIVE Webinar](https://us02web.zoom.us/meeting/register/Z-dYemqfSWu0y_dPRCkq2Q#/registration)
 
 
 - - -
