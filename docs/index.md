@@ -278,8 +278,6 @@ These events will be recorded and shared on[T1D to 100 YouTube](https://www.yout
 
 * [Extreme overrides & how to fix issues](https://www.facebook.com/share/p/1Da95j9TxR/)
 
-* What is that little circle next to my pump icon on the Loop app? Link is missing
-
 * [Newbie questions](https://www.facebook.com/share/p/1D6tqVb7zN/)
 
 * [What is your highest Max Bolus without tunneling?](https://www.facebook.com/share/p/1Gng6t5RQX/?)
