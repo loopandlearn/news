@@ -22,10 +22,7 @@ Published on 26 March 2026
     * [Trio Tips](#trio-tips)
     * [Travel Tips](#travel-tips)
 * [Monitor and Limit Insulin Delivery](#monitor-and-limit-insulin-delivery)
-* [ATTD 2026 Sneak Peek](#attd-2026-sneak-peek)
-    * [Quotes from Attendees](#quotes-from-attendees)
 * [Giving Back](#giving-back)
-    * [Donate Your Data](#donate-your-data)
     * [Clinical Study: Exercise & Type 1 Diabetes](#clinical-study-exercise--type-1-diabetes)
 * [T1D to 100 Upcoming Webinars](#t1d-to-100-upcoming-webinars)
 * [Facebook Q&A](#facebook-qa)
@@ -195,7 +192,7 @@ Place your pod and CGM in accessible locations on your body while traveling. Eno
 
 ## Monitor and Limit Insulin Delivery
 
-Some caregivers want more control over how much insulin an OS-AID delivers for safety reasons. Here are some facts and ideas.
+Some caregivers want more control over how much insulin an OS-AID delivers for safety reasons. Here is some information and ideas.
 
 **Max IOB for the *Loop* app**
 
@@ -224,50 +221,7 @@ Newer iOS versions allow you to require Face ID to open or even view the app. If
 
 - - -
 
-## ATTD 2026 Sneak Peek
-
-Advanced Technologies & Treatments for Diabetes (ATTD) is one of the world’s leading conferences on diabetes tech, bringing together researchers, clinicians, industry, and people living with diabetes.
-
-
-For users of OS-AID, ATTD matters because this is where many of the technologies, algorithms, and ideas behind AID systems (commercial but Open source, too) are discussed, challenged, and shaped.
-
-
-At ATTD 2026, the [dedoc° symposium](https://www.youtube.com/watch?v=Pq-8kKrbbB4) once again reminded us how far the diabetes community has come. What began over 10 years ago as a bold idea—bringing people with lived diabetes experience into scientific conferences—has now become a true paradigm shift.
-
-
-As highlighted by Bastian Hauck, this movement has helped transform diabetes care toward genuine patient-centered collaboration. Today, people living with diabetes are not just participants, but active contributors shaping research, technology, and care.
-
-
-We at *Loop and Learn* are especially proud to have team members who have been supported through the dedoc° voices scholarship program, helping amplify these essential perspectives on global stages.
-
-Key takeaway: The future of diabetes care is built with people living with diabetes, not just for them.
-
-* [Learn more about dedoc° voices](https://dedoc.org/voices/)
-* [Watch the Symposium](https://www.youtube.com/watch?v=Pq-8kKrbbB4)
-
-
-### Quotes from Attendees
-
-* “It’s beautiful to see the progress toward fully closed-loop systems. I’m amazed by how the type 1 community keeps pushing for better tech. It was really inspiring to meet the Nightscout Foundation and dedoc crews, and to see all the patient-led innovation happening around the world, like the ATTD Diabetes Tech Tank. Let’s keep learning from each other.” <br>-J. Co, Philippines
-
-
-* “Meeting the open source community at ATTD made one thing clear—behind every algorithm are people living this every day. The conversations were honest, unpacking both the promise and the limits of AI and commercial systems, especially with carb absorption never being straightforward. What I loved most was how naturally it all flowed—personal laughter mixed with deep dives into AI and open source algorithms, like a normal breakfast chat. It reminded me that real progress happens when lived experience and technology sit at the same table.” <br>-Asra, Saudi Arabia
-
-
-* “ATTD was a powerful reminder that behind every innovation, there are real stories, challenges, and hope. What inspired me most was the shared commitment to make life easier and safer for people living with diabetes.” <br>- Batool, Syria
-
-
-We know you loopers- you love your data, and we’re no exception! Stay tuned for highlights from selected presentations in an upcoming newsletter.
-
-- - -
-
 ## Giving Back
-
-### Donate Your Data
-
-From the beginning, the open-source community has used real-world data to push diabetes technology forward. The more data we have, the better we can build these systems to meet our needs. Want to help? [Download the Diabetes Cockpit app](https://apps.apple.com/us/app/diabetes-cockpit/id1580577116) in the Apple App Store, and opt in to Community Support:
-
-BONUS: You get access to all the cool features in the Diabetes Cockpit app for seeing correlations with your Apple Health data and your OS-AID diabetes data!
 
 ### Clinical Study: Exercise & Type 1 Diabetes
 
