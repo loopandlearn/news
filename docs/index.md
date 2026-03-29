@@ -23,7 +23,7 @@ Published on 27 March 2026
     * [Travel Tips](#travel-tips)
 * [Monitor and Limit Insulin Delivery](#monitor-and-limit-insulin-delivery)
 * [Giving Back](#giving-back)
-    * [Clinical Study: Exercise & Type 1 Diabetes](#clinical-study-exercise--type-1-diabetes)
+    * [Clinical Study: Exercise & Type 1 Diabetes](#clinical-study-exercise-type-1-diabetes)
 * [T1D to 100 Upcoming Webinars](#t1d-to-100-upcoming-webinars)
 * [Facebook Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
