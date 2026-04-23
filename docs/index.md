@@ -14,7 +14,11 @@ Published on 22 April 2026
 * [LoopFollow](#loopfollow)
 * [Dana Pump Warning](#dana-pump-warning)
 * [Request for Data From Trio + Nightscout Users](#request-for-data-from-trio-nightscout-users)
+* [How to Search on Facebook](#how-to-search-on-facebook)
+* [AI Meal Analysis: Are We There Yet?](#ai-meal-analysis-are-we-there-yet)
 * [OS-AID Contributors Meet Up in Sweden](#os-aid-contributors-meet-up-in-sweden)
+* [FOLLOW T1Ds Success](#follow-t1ds-success)
+* [T1D to 100 Recent Presentations](#t1d-to-100-recent-presentations)
 * [Facebook Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
@@ -174,6 +178,12 @@ We at Loop and Learn are among the most hopeful that AI will become a safe, stab
 
 - - -
 
+## OS-AID Contributors Meet Up in Sweden
+
+Daniel, Jonas and Magnus met up recently and discussed OS-AID apps, devices, and more. What a joy to spend time with fellow loopers in person! Please let us know when that happens for you, too!
+
+- - -
+
 ## FOLLOW T1Ds Success
 
 A huge congratulations and thank you to Kerry Murphy and Team [FOLLOWT1Ds](https://followt1ds.org/news) on the enormous success of their tireless effort towards support for T1D kids in schools!
@@ -183,12 +193,6 @@ This effort-turned-nonprofit organization was started by a mom who didn't need t
 
 
 So THANK YOU, Team FOLLOWT1Ds, both for what you've done for the T1D community and for showing us all yet another way our voices can and DO make a difference!
-
-- - -
-
-## OS-AID Contributors Meet Up in Sweden
-
-Daniel, Jonas and Magnus met up recently and discussed OS-AID apps, devices, and more. What a joy to spend time with fellow loopers in person! Please let us know when that happens for you, too!
 
 - - -
 
