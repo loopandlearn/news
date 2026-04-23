@@ -11,10 +11,10 @@ Published on 22 April 2026
     * [Medtrum Nano for Trio Users](#medtrum-nano-for-trio-users)
 * [Update AAPS](#update-aaps)
 * [Build Events](#build-events)
-* [Dana Pump Warning](#dana-pump-warning)
 * [LoopFollow](#loopfollow)
-* [OS-AID Contributors Meet Up in Sweden](#os-aid-contributors-meet-up-in-sweden)
+* [Dana Pump Warning](#dana-pump-warning)
 * [Request for Data From Trio + Nightscout Users](#request-for-data-from-trio-nightscout-users)
+* [OS-AID Contributors Meet Up in Sweden](#os-aid-contributors-meet-up-in-sweden)
 * [Facebook Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
@@ -35,7 +35,7 @@ AAPS).
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | yes | 21:00 UTC | 25 April 2026 |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 21:00 UTC | 25 April 2026 |
 | _<span translate="no">Loop and Learn Italia</span>_: Informal Discussion<br>`Open Mic` on last Tuesday of each month<br>[Now Using *Zoom*](https://zoom.us/j/9786554154?pwd=W0XTbZX5g2blj45cUbY45ZD4BZHa4X.1) | no | 19:00 UTC | 28 April 2026 |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1)| no | 18:00 UTC | 14 May 2026 |
 
@@ -76,8 +76,8 @@ If you've been waiting to try Trio, follow the links for instructions for [brows
 
 Medtrum Nano (200U/300U) is now available in the Trio `main` branch
 
-* The special efeat/dev-medtrum` branch has been deleted
-* If you are running that code, your app is not affected
+* The special `feat/dev-medtrum` branch has been deleted
+    * If you built using that branch, your app will continue to run
 * Trio Medtrum users should switch to Trio `main` branch at their earliest convenience
 
 See instructions above.  
@@ -86,11 +86,11 @@ See instructions above.
 
 ## Update AAPS
 
-This release, along with earlier 3.4.2.x releases, contain fixes for serious bugs affecting all 3.x versions.
+The latest AAPS release, along with earlier 3.4.2.x releases, contains fixes for serious bugs affecting all 3.x versions.
 
 * Updating to  [AAPS 3.4.2.2](https://github.com/nightscout/AndroidAPS/releases/tag/3.4.2.2) is strongly recommended.
 
-* [Facebook Announcement, before 3.4.2.2 was released, explaining importance of updating](https://www.facebook.com/groups/1900195340201874/?multi_permalinks=4443015039253212)
+* [Facebook Announcement](https://www.facebook.com/groups/1900195340201874/?multi_permalinks=4443015039253212), before 3.4.2.2 was released, explaining importance of updating
 
 - - - 
 
@@ -100,8 +100,21 @@ This release, along with earlier 3.4.2.x releases, contain fixes for serious bug
 Want help building your Open-Source Automated Insulin Delivery (OS-AID) system? 
 
 * Join one of our [upcoming events](https://www.facebook.com/groups/2161109864145506/events), for new or established users! More to be scheduled…how exciting that our experts are offering these! 
-* Don’t be shy- whether building Loop, Trio , AAPS, LoopFollow or LoopCaregiver, they are excited to help you!
+* Don’t be shy- whether building Loop, Trio , AAPS, LoopFollow, LoopCaregiver or xDrip4iOS, mentors are excited to help you!
 
+- - -
+
+## LoopFollow
+
+
+[LoopFollow version 5.1](https://github.com/loopandlearn/LoopFollow/releases/tag/v5.1.0) is available. This minor update contains:
+
+* Bug Fixes
+- Future Carbs Alert 
+- Quick Info Access 
+- Improved GRI Chart
+- French Spoken Glucose
+ 
 - - - 
 
 ## Dana Pump Warning
@@ -115,42 +128,67 @@ Keep track of open issues by looking at [https://github.com/bastiaanv/DanaKit/is
 
 - - -
 
-## LoopFollow
-
-
-LoopFollow version 5.1 is available. This minor update contains:
-
-* Bug Fixes
-- Future Carbs Alert 
-- Quick Info Access 
-- Improved GRI Chart
-- French Spoken Glucose
-
-- - -
-
-## OS-AID Contributors Meet Up in Sweden
-
-Daniel, Jonas and Magnus met up recently and discussed OS-AID apps, devices, and more. What a joy to spend time with fellow loopers in person! Please let us know when that happens for you, too!
-
-- - -
-
 ## Request for Data From Trio + Nightscout Users
 
 Based on recent analysis of Dynamic ISF, the Trio team is looking for people willing to share Nightscout data for retrospective algorithm testing. The goal is to validate potential ISF improvements across multiple users.
 
 
 Important points:
+
 - This is a read-only request - no one will modify your therapy
 - Analysis only
 - User must use dynamic ISF with Trio, Logarithmic preferred
 
 
 If you want to participate, please DM these to Dan Moody: @dnzxy on Discord or via FB Messenger:
+
 - Your Nightscout site address
 - A readable token (if your site is private, which it should be)
 
 
 Data will not be shared with anyone outside of the OS-AID developer core and the people working on dynamic ISF. We will not associate any analysis results with any markers that would link the data to you, but of course, by sharing your NS site address it’s not fully anonymized.
+
+- - -
+
+## How to Search on Facebook
+
+Do you struggle finding information on Facebook?
+
+Click the magnifying glass at the top of the screen, type in your keyword(s), and press Enter. 
+
+You’ll often see multiple related posts, and may even discover helpful “extra” information while searching for your answer. If your question is urgent, feel free to post it before searching. If you find the answer before anyone responds, please update your post with the word resolved. Add a comment saying you found the information. If you know how, go on and add a link to your post saying where you found the answer.
+
+Remember, we have a helpful Featured section, right at the top of the page, where you can find lots of pertinent information about topics such as version updates, pod failures, error codes, iPhone issues, and much more. It’s always worth a quick check through that section.
+
+- - - 
+
+## AI Meal Analysis: Are We There Yet?
+
+**Part One in a Series on AI and Diabetes Management**
+
+[A recent article shared by Tim Street](https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice) describes an analysis comparing three prominent AI platforms, including two versions of one platform, to evaluate how accurately they estimated the carbohydrate counts of various meals. It shows how using AI to count carbs has the potential for insulin overdosing (or underdosing), ranging from inconsequential to tragic. 
+
+Some of you may read this and think, “But I’ll be careful.” The reality, though, is that it’s surprisingly easy to second-guess your own judgment when a polished, confident response from AI insists you’re wrong. One of our members also raised an excellent point: apps are not always maintained or updated as consistently as we might assume, which can create situations where outdated or inaccurate information could lead to real harm. 
+
+We at Loop and Learn are among the most hopeful that AI will become a safe, stable tool for meal determination, and the evidence suggests there is still important work ahead to help it reach that potential.
+
+- - -
+
+## FOLLOW T1Ds Success
+
+A huge congratulations and thank you to Kerry Murphy and Team [FOLLOWT1Ds](https://followt1ds.org/news) on the enormous success of their tireless effort towards support for T1D kids in schools!
+
+
+This effort-turned-nonprofit organization was started by a mom who didn't need to take up the cause because she'd already won it for HER kid. Out of the kindness of her heart, she charged ahead when she heard that others were having the same issues she'd worked so hard to remedy for her own family. (You may have read about this in LnL over the past 2.5 years.) Neither she nor her family knew that it would mean devoting almost three years (so far) of her time, and no one knew what a great team would assemble around the cause. But that's what happened, and look what they've accomplished! NOT "just" what they set out to do (have someone at T1Ds' schools follow them, as already laid out by the ADA), but several goals, including teaching about T1D and T2D! HUGE!!!
+
+
+So THANK YOU, Team FOLLOWT1Ds, both for what you've done for the T1D community and for showing us all yet another way our voices can and DO make a difference!
+
+- - -
+
+## OS-AID Contributors Meet Up in Sweden
+
+Daniel, Jonas and Magnus met up recently and discussed OS-AID apps, devices, and more. What a joy to spend time with fellow loopers in person! Please let us know when that happens for you, too!
 
 - - -
 
