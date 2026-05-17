@@ -12,8 +12,8 @@ Published on 17 May 2026
 * [Apple's WWDC](#apples-wwdc)
 * [Recent Increase in Omnipod DASH Faults](#recent-increase-in-omnipod-dash-faults)
 * [Trio Talk: Fat & Protein Handling Refactor](#trio-talk-fat-protein-handling-refactor)
-* [LoopFollow 6.1.0 is Here!](#loopfollow-610-is-here)
-* [LoopFollow Browser Builders: How to Update to LoopFollow 6.0 and beyond](#loopfollow-browser-builders-how-to-update-to-loopfollow-60-and-beyond)
+* [LoopFollow 6.1 is Here!](#loopfollow-61-is-here)
+* [LoopFollow Browser Builders: How to Update to LoopFollow 6 and beyond](#loopfollow-browser-builders-how-to-update-to-loopfollow-6-and-beyond)
 * [How to Ask for Help](#how-to-ask-for-help)
 * [Tape Options for Use Under Pods](#tape-options-for-use-under-pods)
 * [G8 is On the Horizon](#g8-is-on-the-horizon)
@@ -61,7 +61,7 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 **Discussion with Fran Kaufman, Marion Barker and Joanne Milo**
 
 
-Dr. Fran Kaufman, Chief Medical Officer of Senseonics, maker of the Eversense implantable CGM, joined us to discuss the integration of Eversense 365, the newest version that performs for a year, with Loop and Trio. She also shared what’s in the pipeline at Senseonics. Joining her were Marion Barker, our in-house developer and test expert, and Joanne Milo, who has been using Eversense 365 with her Trio app for four months- and loving it!  
+Dr. Fran Kaufman, Chief Medical Officer of Senseonics, maker of the Eversense implantable CGM, joined us to discuss the integration of Eversense 365, the newest version that performs for a year, with Loop and Trio. She also shared what’s in the pipeline at Senseonics. Joining her were Marion Barker, our in-house test expert, and Joanne Milo, who has been using Eversense 365 with her Trio app for four months- and loving it! The OS developer is Bastiaan Verhaar.
 
 * [Click this link for the recorded video](https://www.youtube.com/watch?v=mixVvBFwE2E)
 
@@ -76,7 +76,7 @@ was released on 14 May 2026
 #### Loop Features
 
 * The Pod Keep Alive feature for folks using Omnipod with iPhone 16 (all models) or iPhone 17e is now part of the released code
-* Live Activity Plots on the phone were improved
+* Live Activity Plots on the phone are improved
 * Live Activity on the watch now opens the Loop app on the watch
 * Bugfix: the G6 sensor start used to report a time in the future which messed up SAGE reporting on Nightscout - that is now fixed
 
@@ -110,10 +110,12 @@ Special note for DASH users who use Loop - this is a good reason to share your d
 
 Thank you to all who are already reporting, as this allows us to analyze the number of faults per month and normalize by iOS and Loop Version.
 
-Please put all comments about 203 faults on [this Facebook post](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4412728952316908) for the sake of efficiency.
+If you want to share your pain, put your screenshot of previous pod details as comments at this [this Facebook post](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4412728952316908) or at this [Trio Discord channel](https://discord.com/channels/1020905149037813862/1239983179931324507). We are especially interested in any Atlas pods manufactured in 2026 that do NOT end in a fault.
 
 
-This is included as a highlight: The bottom line is that the iOS version and DASH pump manager version are not the root cause of the rising fault trend. If you get a fault, especially a 203 fault, but really any fault, report it to Insulet.
+> The bottom line is that the iOS version and DASH pump manager version are not the root cause of the rising fault trend. If you get a fault, especially a 203 fault, but really any fault, report it to Insulet.
+
+> Android phones do not seem to have the same issue as iOS phones. There has not been a similar increase in faults with AAPS.
 
 - - -
 
@@ -147,15 +149,17 @@ Many thanks to those who developed and tested this great feature!
 
 - - - 
 
-## LoopFollow 6.1.0 is Here!
+## LoopFollow 6.1 is Here!
 
 This release brings a Live Activity upgrade, corrected stats, a new forecast view for Trio users and smarter unit handling. All the details- and some good Q&A- can be found in the [LoopFollow Facebook group](https://www.facebook.com/groups/1281905676265126/).
 
+[LoopFollowDocs](https://loopfollowdocs.org) was updated.
+
 - - -
 
-## LoopFollow Browser Builders: How to Update to LoopFollow 6.0 and beyond
+## LoopFollow Browser Builders: How to Update to LoopFollow 6 and beyond
 
-Here is a [new video](https://www.facebook.com/reel/986699110735421) that shows existing LoopFollow Browser Builders how to update to LoopFollow 6.0. It’s so easy that it’s only 4 minutes long!
+Here is a [new video](https://www.facebook.com/reel/986699110735421) that shows existing LoopFollow Browser Builders how to update to LoopFollow 6. It’s so easy that it’s only 4 minutes long!
 You'll need to [follow along in the LoopFollowDocs](https://loopfollowdocs.org/build/lf-browser-build/#update-to-loopfollow-v6x) to
 
 * Add Identifiers
@@ -169,14 +173,14 @@ You'll need to [follow along in the LoopFollowDocs](https://loopfollowdocs.org/b
 
 
 The best way to get help is to follow these directions. (Yes- if at all possible, we want you
-to read the information at these links before you post.) This is not to discourage you from asking questions. This is to help us help you!
+to read the information at the links below before you post.) This is not to discourage you from asking questions. This is to help us help you!
 
 * [Browser Build Help](https://loopkit.github.io/loopdocs/browser/bb-errors/#help-with-errors): Give us your GitHub username and a brief
 description of your problem
 * [Mac Build Help](https://loopkit.github.io/loopdocs/build/build-errors/#posting-for-help): Give us a full Xcode screenshot and a brief description of
 your problem
 
-It’s not only helpful for the person needing help, but for the whole community, because it saved  everyone valuable time!
+It’s not only helpful for the person needing help, but for the whole community, because it saves everyone valuable time!
 
 
 - - -
