@@ -73,7 +73,7 @@ Dr. Fran Kaufman, Chief Medical Officer of Senseonics, maker of the Eversense im
 Loop v3.14.0
 was released on 14 May 2026
 
-#### Loop Features
+#### `Loop` Features
 
 * The Pod Keep Alive feature for folks using Omnipod with iPhone 16 (all models) or iPhone 17e is now part of the released code
 * Live Activity Plots on the phone are improved
