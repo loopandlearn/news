@@ -17,7 +17,7 @@ Published on 17 May 2026
 * [How to Ask for Help](#how-to-ask-for-help)
 * [Tape Options for Use Under Pods](#tape-options-for-use-under-pods)
 * [G8 is On the Horizon](#g8-is-on-the-horizon)
-* [A Messsage About One of the Diabetes Community’s Most Powerful Advocates](#a-messsage-about-one-of-the-diabetes-communitys-most-powerful-advocates)
+* [A Message About One of the Diabetes Community’s Most Powerful Advocates](#a-message-about-one-of-the-diabetes-communitys-most-powerful-advocates)
 * [Facebook Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
@@ -127,23 +127,23 @@ The way it works:
 
 * You record fat and protein grams, and according to the settings you choose, they are converted to carb equivalents and then added accordingly, utilizing the delay setting
 * If you are running default meal settings, you'll see the following:
-carb entry at time of recording,
+    * carb entry at time of recording,
     * first carb equivalent entry after __ delay minutes; default is 60,
-    * second carb equivalent entry after 30min after 1st entry, if 1st entry >33g,
-    * third carb equivalent entry after 30min after 2nd entry, if 1st and 2nd entry are each >33g
+    * second carb equivalent entry 30min after 1st entry, if 1st entry >33g,
+    * third carb equivalent entry 30min after 2nd entry, if 1st and 2nd entry are each >33g
 
-The default implementation spaces out carb equivalent entries by 30 minutes
+* The default implementation spaces out carb equivalent entries by 30 minutes
 
-Carb equivalents are capped at 99g per meal entry; if you need more entered, do so using a second meal entry
+* Carb equivalents are capped at 99g per meal entry; if you need more entered, do so using a second meal entry
 
-Minimum carb equivalents size of 10g is required for Trio to utilize the entry(s) for bolusing
+* Minimum carb equivalents size of 10g is required for Trio to utilize the entry(s) for bolusing
 
-Calculated carb equivalents are evenly split, e.g.
+* Calculated carb equivalents are evenly split, e.g.
 
-* 33g becomes a single entry of 33g
-* 60g becomes 30 + 30
-* 90g becomes 30 + 30 + 30
-* 150g becomes 33 + 33 + 33
+    * 33g becomes a single entry of 33g
+    * 60g becomes 30 + 30
+    * 90g becomes 30 + 30 + 30
+    * 150g becomes 33 + 33 + 33
 
 Many thanks to those who developed and tested this great feature!
 
@@ -166,6 +166,8 @@ You'll need to [follow along in the LoopFollowDocs](https://loopfollowdocs.org/b
 * Create the LoopFollow App Group
 * Add the LoopFollow App Group to your Identifiers for LoopFollow and LoopFollow LiveActivity Extension
 * Build LoopFollow
+
+> These are one-time build steps required for Broswer Build of LoopFollow version 6.0 or newer when you update from v5.x
 
 - - -
 
@@ -191,12 +193,14 @@ It’s not only helpful for the person needing help, but for the whole community
 We have previously shared a [great method for stabilizing pod sites](https://loopandlearn.github.io/news/edition/2024-02-21/#pod-site-stability){: target="_blank" } by placing the cannula area of the pod atop a piece of medical tape. We’d like to remind everyone of this great option and share some “do’s and don’ts”:
 
 
-Use a clear film under the pod’s cannula area, such as:
-Opsite Flexifix (NOT the “Gentle” type- it is too thick)
-Tegaderm
-Hypafix Transparent (“Dressing Retention Tape” is used by some successfully; others found it unusable for this because of the fibers)
-Fixomull Transparent
-Cut the piece large enough so that the little wings on the backer are usable. Cutting pieces small enough that they don’t include the wings is just asking for frustration.
+* Use a clear film under the pod’s cannula area, such as:
+
+    * Opsite Flexifix (NOT the “Gentle” type- it is too thick)
+    * Tegaderm
+    * Hypafix Transparent (“Dressing Retention Tape” is used by some successfully; others found it unusable for this because of the fibers)
+    * Fixomull Transparent
+
+* Cut the piece large enough so that the little wings on the backer are usable. Cutting pieces small enough that they don’t include the wings is just asking for frustration.
 
 
 - - -
@@ -211,7 +215,7 @@ With FDA filing scheduled for next year and launch projected for the end of 2027
 
 - - -
 
-## A Messsage About One of the Diabetes Community’s Most Powerful Advocates
+## A Message About One of the Diabetes Community’s Most Powerful Advocates
 
 Bastian Hauck’s leadership has significantly influenced the direction of the diabetes community and strengthened its standing among the professionals and organizations responsible for innovating and delivering diabetes therapies. Founder of #dedoc° Diabetes Online Community, Bastian has brought together “voices” from around the world, built pathways for their participation in professional diabetes spaces, and helped reshape expectations around representation and inclusion in diabetes care and innovation.
 
