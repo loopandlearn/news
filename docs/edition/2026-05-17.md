@@ -225,14 +225,14 @@ Bastian has recently stopped treatment for the terminal cancer he has been battl
 
 ## Facebook Q&A
 
-* [A great discussion about teenage tumult and looping](https://www.facebook.com/share/p/1BnVTwpjgR/)
-* [How have you managed glucose during surgery?](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=2130816347652209)
-* [Can someone tell me about the Medtrum Nano pump?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4404960353093768)
-* [Doc wants to follow me…](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4397854517137685)
-* [How to get pod and CGM synced to new phone?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4391911471065323)
-* [Advice for perimenopausal changes?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4382764695313334)
-* [Help! I can't get Trio/Loop on the watch!](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=2138427743557736)
-* [My new pod sounds funny. What’s up with that?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4361999520723185)
+* [A great discussion about teenage tumult and looping](https://www.facebook.com/groups/LOOPandLEARN/permalink/4354991504757320/)
+* [How have you managed glucose during surgery?](https://www.facebook.com/groups/diytrio/permalink/2130816347652209/)
+* [Can someone tell me about the Medtrum Nano pump?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4404960353093768/)
+* [Doc wants to follow me…](https://www.facebook.com/groups/LOOPandLEARN/permalink/4397854517137685/)
+* [How to get pod and CGM synced to new phone?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4391911471065323/)
+* [Advice for perimenopausal changes?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4382764695313334/)
+* [Help! I can't get Trio/Loop on the watch!](https://www.facebook.com/groups/diytrio/permalink/2138427743557736/)
+* [My new pod sounds funny. What’s up with that?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4361999520723185/)
 
 
 - - -
