@@ -126,7 +126,7 @@ feedback to get Trio to this point!
 ## A Unified Approach to OS-AID Development
 
 As a result of last year’s hack, the idea emerged for a workstream
-focused on collaboration among developers of Open-Source Automated Insulin Delivery Systems (OS-AID) across phone and app boundaries including how each interfaces with Nightscout (NS) and now Nocturne.
+focused on collaboration among developers of Open-Source Automated Insulin Delivery Systems (OS-AID) across phone and app boundaries including how each interfaces with Nightscout and now Nocturne.
 
 In late
 January 2026, that idea became a reality when Loop and Learn began
