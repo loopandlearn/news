@@ -19,7 +19,7 @@ Published on 25 June 2026
 	* [iOS beta Warning](#ios-beta-warning)
 * [iOS Compatibility Warning](#ios-compatibility-warning)
 * [Omnipod 5 Integration](#omnipod-5-integration)
-* [Fasting During Ramadan with AID Systems: Key Takeaways from ATTD 2026](#fasting-during-ramadan-with-aid-systems-key-takeaways-from-attd-2026)
+* [Fasting with AID Systems](#fasting-with-aid-systems)
 	* [A New Era: Technology Supporting Safer Fasting](#a-new-era-technology-supporting-safer-fasting)
 	* [Hydration: The Most Overlooked Risk](#hydration-the-most-overlooked-risk)
 	* [What About Ketones?](#what-about-ketones)
@@ -100,7 +100,7 @@ Trioneers (that’s our fancy name for Trio users) using Omnipod should update t
 
 [LoopFollow 6.2.0 release](https://github.com/loopandlearn/LoopFollow/releases/tag/v6.2.0) brings real-time data updates from Nightscout when LoopFollow is open, convenient remote dosing with Quick-Picks, a yesterday-vs-today comparison line, Dynamic Font Size support for the info table, and a wave of reliability fixes for Live Activities, BG history, the prediction cone, and Nightscout profiles.
 
-* [LoopFollowDocs: New Feature Hightlights](https://loopfollowdocs.org/faqs/lf-history/#new-feature-highlights)
+* [LoopFollowDocs: New Feature Highlights](https://loopfollowdocs.org/faqs/lf-history/#new-feature-highlights)
 
 > Browser builders updating from 0.5.x to 0.6.x need to complete some [one-time build steps](https://loopfollowdocs.org/build/lf-browser-build/#update-to-loopfollow-v6).
 
@@ -186,7 +186,7 @@ After a few seconds, you will start to see captions in your selected language. I
 
 - - -
 
-## Fasting During Ramadan with AID Systems: Key Takeaways from ATTD 2026  
+## Fasting with AID Systems
 
 > Thanks to LnL member and [#dedoc Voice](https://www.dedoc.org/) Batool Adawi for contributing her notes from this session!
 
