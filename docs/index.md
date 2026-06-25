@@ -171,7 +171,7 @@ And what is the next-dev branch, you might ask? It is the testing branch for wha
 
 ## Omnipod 5 Integration
 
-On 11 June, one of the folks who has been working on reverse engineering Omnipod 5’s communication protocol joined our Open Mic and shared info about the project. Have a listen!
+On 11 June, one of the developers who has been working on reverse engineering Omnipod 5’s communication protocol joined our Open Mic and shared info about the project. Have a listen!
 
 * [Loop and Learn YouTube on O5 communication](https://youtu.be/By-j2FO2bwM?is=OLHnoNatljHyx0Id)
 
