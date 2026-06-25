@@ -93,12 +93,12 @@ The customization for the Loop xDrip4iOS client has been updated
 
 ### Trio 0.8.3
 
-Trioneers (that’s our fancy name for Trio users) using Omnipod should update to [Trio 0.8.3](https://github.com/nightscout/Trio/releases/tag/v0.8.3) immediately. This [hotfix](https://www.applause.com/blog/what-is-hotfix-software-patches-explained/) addresses a breaking regression introduced in 0.8.1 and carried forward in 0.8.2 that can cause Trio to temporarily stop looping. 
+Trioneers (that’s our fancy name for Trio users) using Omnipod should update to [Trio 0.8.3](https://github.com/nightscout/Trio/releases/tag/v0.8.3) immediately. This [hotfix](https://www.applause.com/blog/what-is-hotfix-software-patches-explained/) addresses an issue introduced in 0.8.1 and carried forward in 0.8.2 that can cause Trio to temporarily stop looping. 
 
 
 ### LoopFollow 6.2.0
 
-[LoopFollow 6.2.0 release](https://github.com/loopandlearn/LoopFollow/releases/tag/v6.2.0) brings real-time data updates over WebSocket, convenient remote dosing with Quick-Picks, a yesterday-vs-today comparison line, Dynamic Font Size support for the info table, and a wave of reliability fixes for Live Activities, BG history, the prediction cone, and Nightscout profiles.
+[LoopFollow 6.2.0 release](https://github.com/loopandlearn/LoopFollow/releases/tag/v6.2.0) brings real-time data updates from Nightscout when LoopFollow is open, convenient remote dosing with Quick-Picks, a yesterday-vs-today comparison line, Dynamic Font Size support for the info table, and a wave of reliability fixes for Live Activities, BG history, the prediction cone, and Nightscout profiles.
 
 * [LoopFollowDocs: New Feature Hightlights](https://loopfollowdocs.org/faqs/lf-history/#new-feature-highlights)
 
@@ -289,7 +289,7 @@ My 16-year-old son, the reason I’m “here”, was recognized by his swim team
 
 ## Stash Diabetes App
 
-Have you heard about the Stash Diabetes app? It’s a free app that you can use to quickly scan and inventory your supplies and medications- and it has instant recall alerts, too! It’s currently available for iOS only, but an Android version is in development. 
+Have you heard about the [Stash Diabetes app](https://apps.apple.com/us/app/stash-diabetes/id6759133478)? It’s a free app that you can use to quickly scan and inventory your supplies and medications- and it has instant recall alerts, too! It’s currently available for iOS only, but an Android version is in development. 
 
 
 It also has a site and sensor tracker to aid in rotation of sites!
