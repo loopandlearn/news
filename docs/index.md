@@ -19,7 +19,7 @@ Published on 25 June 2026
 	* [iOS beta Warning](#ios-beta-warning)
 * [iOS Compatibility Warning](#ios-compatibility-warning)
 * [Omnipod 5 Integration](#omnipod-5-integration)
-* [Fasting with AID Systems](#fasting-with-aid-systems)
+* [Fasting with Diabetes: Lessons for Ramandan and Beyond](#fasting-with-diabetes-lessons-for-ramandan-and-beyond)
 	* [A New Era: Technology Supporting Safer Fasting](#a-new-era-technology-supporting-safer-fasting)
 	* [Hydration: The Most Overlooked Risk](#hydration-the-most-overlooked-risk)
 	* [What About Ketones?](#what-about-ketones)
@@ -184,7 +184,7 @@ After a few seconds, you will start to see captions in your selected language. I
 
 - - -
 
-## Fasting with AID Systems
+## Fasting with Diabetes: Lessons for Ramandan and Beyond
 
 > Thanks to LnL member and [#dedoc Voice](https://www.dedoc.org/) Batool Adawi for contributing her notes from this session!
 
