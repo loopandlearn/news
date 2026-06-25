@@ -265,7 +265,7 @@ We encourage the sharing of your stories of successes and struggles while living
 ### Tennis Win 
 
 
-Alexander Zverev has lived with type 1 diabetes since he was four years old… and on 7 June, he won Roland Garros (aka French Open)!  What an incredible level of fitness and management that takes!
+Alexander Zverev has lived with type 1 diabetes since he was four years old… and on 7 June, he won [Roland Garros (aka French Open)](https://www.youtube.com/shorts/MAqgYj9WYNA)!  What an incredible level of fitness and management that takes!
 
 
 > We must mention that, just two weeks later, a CGM malfunction falsely indicated that his glucose was high when he was actually low. After taking too much insulin, he had to consume 350 grams of glucose gel during a match to recover. Thankfully, he was okay, though he did not win that match.
@@ -301,7 +301,7 @@ More great news! The dev is joining our open mic on Thursday, 9 July!
 
 * [Advice for starting first Atlas pod?](https://www.facebook.com/groups/LOOPandLEARN/posts/4461887210734415/)
 * [Spa day! What are your tips?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4462945540628582)
-* [Afrezza for Kids! - missing link]()
+* [Afrezza for Kids!](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4454839784772491)
 * [Moving to U200](https://www.facebook.com/groups/LOOPandLEARN/permalink/4448482072074929/?rdid=fFJrqUccDAxzQFMg#)
 * [Does where you wear your pump site or give an injection influence insulin absorption?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4462823223974147)
 
