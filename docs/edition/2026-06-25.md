@@ -163,9 +163,7 @@ If you are running a really old iOS version, take note!
 
 **The minimum version for building the next-dev branch of Loop is iOS 18**. 
 
-A tester discovered that while the app built onto an iOS 17.3 phone, it crashed when trying to take an action like adding a pump.
-
-And what is the next-dev branch, you might ask? It is the testing branch for what will eventually be Loop version 4.0. It has a lot of updates and improvements brought to the Open-Source Loop app from the Open-Source portion of the Tidepool Loop app.
+And what is the next-dev branch, you might ask? It is the testing branch for what will eventually be Loop version 4.0. It has a lot of updates and improvements. Many of these improvements were brought into Loop by volunteers using the Open-Source portion of the Tidepool Loop app.
 
 **Any phone that runs iOS 17 can be updated to iOS 18 or 26. So go ahead and update your phone before trying to test this new version.**
 
