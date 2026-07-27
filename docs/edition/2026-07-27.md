@@ -2,7 +2,7 @@
 
 _Master Your DIY `Closed-Loop` Insulin Delivery System_
 
-Published on 26 July 2026
+Published on 27 July 2026
 
 ## In this edition:
 
