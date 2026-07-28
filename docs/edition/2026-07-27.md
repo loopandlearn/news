@@ -119,9 +119,9 @@ Here’s a peek into some of the presentations at D-Data from June 2026.
 ## Hack Diabetes
 
 And speaking of development, fundraising for this year's Hack has begun. From November 13 to 16, 2026, dozens of developers and project contributors will gather in Vancouver, BC, for an intensive weekend of collaboration to improve the diabetes apps we rely on every day. 
-Every Hack has led to ideas, features, bug fixes, and innovations that benefit the entire community, and we can't wait to see what this year's event will bring. We invite you to help make it possible with a Facebook Donation page for [Nightscout Foundation: HackDiabetes 2026](https://www.facebook.com/share/1CxQXZLSTH/) or the direct [Nightscout Foundation Donation Link](https://www.nightscoutfoundation.org/new-products/p/direct-donation).
+Every Hack has led to ideas, features, bug fixes, and innovations that benefit the entire community, and we can't wait to see what this year's event will bring. We invite you to help make it possible with a direct [Nightscout Foundation Donation](https://www.nightscoutfoundation.org/new-products/p/direct-donation-apa26).
 
-These volunteer developers spend countless hours dreaming up features we didn't know we needed while also tackling the behind-the-scenes improvements that keep our apps running smoothly, even if we never notice them. Your support helps them continue advancing Loop, Trio, AAPS, Nocturne, and perhaps a new solution that we haven't even dreamed of yet. 
+These volunteer developers spend countless hours dreaming up features we didn't know we needed while also tackling the behind-the-scenes improvements that keep our apps running smoothly, even if we never notice them. Your support helps them continue advancing Loop, Trio, AAPS, Nocturne, and perhaps a new solution that we haven't even dreamed of yet.
 
 - - -
 
