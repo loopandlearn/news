@@ -195,6 +195,7 @@ Cory Zapatka, explained his free iOS app's
 current and in-development features.
 
 Here’s the video!
+
 * [Stash Diabetes app](https://youtu.be/Z2Bwd8g1XQQ?si=wompyN-5n8p1-E4o)
 
 - - -
