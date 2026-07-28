@@ -219,7 +219,7 @@ Here’s the video!
     * [Link to Newsletter sign up](https://www.loopandlearn.org/newsletter-signup/)
 * Not all articles in the original Newsletter are reproduced in this text only edition; click on [original Newsletter archives](https://www.loopandlearn.org/loop-and-learn-newsletter/) for the full version
 * [Donate to Nightscout to Support the Next Hackathon](
-https://www.nightscoutfoundation.org/diabetes-hackathon)
+https://www.nightscoutfoundation.org/new-products/p/direct-donation-apa26)
 * [Check for Updates](https://www.loopandlearn.org/version-updates/) summarizes details about latest versions for *Loop*, Trio, *Loop* Customizations and iOS
 * [Find a Health Care Provider who will support your use of&nbsp;<span translate="no">Loop</span>](https://www.loopandlearn.org/hcp-recommendations/)
 * [_<span translate="no">Loop and Learn</span>_&nbsp;Open Source Automated Delivery System Links](https://www.loopandlearn.org/resources/#os-aid)
