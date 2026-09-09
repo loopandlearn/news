@@ -9,7 +9,22 @@ Published on 09 September 2026
 ## In this edition:
 
 * [Upcoming Open Mics](#upcoming-open-mics)
-
+* [Browser Builds Failing?](#browser-builds-failing)
+* [iOS 27](#ios-27)
+* [Libre 3 and 3 Plus Open Beta](#libre-3-and-3-plus-open-beta)
+* [Quote from a Looper mom](#quote-from-a-looper-mom)
+* [Where Should I Ask…](#where-should-i-ask)
+	* [Non-technical community chat](#non-technical-community-chat)
+	* [Developers/technical questions](#developerstechnical-questions)
+* [We’re All Friends Here](#were-all-friends-here)
+* [When Updating iOS](#when-updating-ios)
+* [Don't Worry](#dont-worry)
+* [HackDiabetes Fundraising: Many Ways to Give](#hackdiabetes-fundraising-many-ways-to-give)
+* [Twenty-Five Hours of Fasting with AID Systems](#twenty-five-hours-of-fasting-with-aid-systems)
+* [504 Accommodation Request Form Builder](#504-accommodation-request-form-builder)
+* [Open-Source AID: More Choice, More Responsibility](#open-source-aid-more-choice-more-responsibility)
+* [Unexpected Help with Nightscout Development](#unexpected-help-with-nightscout-development)
+* [Friends for Life Looper Meetups](#friends-for-life-looper-meetups)
 * [Facebook Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
@@ -60,17 +75,17 @@ You can always find the most up-to-date info in the comments on the app and in t
 
 - - -
 
-## Libre 3+ Open Beta
+## Libre 3 and 3 Plus Open Beta
 
 > NOTE: “Beta” means this feature is being tested and is for experienced loopers only 
 
 
-The Libre 3+ sensor is used directly inside the Loop and Trio apps — you won't use the official Libre app at all.
+The Libre 3 and 3 Plus sensor is started directly inside the Loop and Trio apps — you won't use the official Libre app at all. You cannot transition from the official app to the OS-AID at this time.
 
 * Unlike Libre 2 and 1 sensors, you must pair with the OS-AID app
 
 * For Loop, use `next-dev` branch
-	* This is for experienced Libre 3/3+ Loopers who can commit to rebuilding frequently (maybe weekly) and follow along and report issues on [zulipchat](https://loop.zulipchat.com/#narrow/channel/144182-development/topic/Libre.203/with/622599658)
+	* This is for experienced Libre 3/3 and 3 Plus Loopers who can commit to rebuilding frequently (maybe weekly) and follow along and report issues on [zulipchat](https://loop.zulipchat.com/#narrow/channel/144182-development/topic/Libre.203/with/622599658)
 * For Trio, the open beta for Libre 3 / 3 Plus has been added to the dev branch.
 	* Only one reading is forwarded to Trio every 5 minutes at this time, but 1-min readings are still viewable in the Libre driver in real-time. 
 	* Support for forwarding all of the 1-min readings in Trio is still being worked on, so keep an eye out for a PR for that in the future.
@@ -125,13 +140,13 @@ We suggest taking a moment to quit and restart your CGM and looping apps after u
 
 ## Don't Worry
 
-Don’t Worry if you see this notice on GitHub about the GitHub App Installation token format. It does not affect Browser Builds, which use a different kind of token. Just click the “x” to make the message disappear and build normally. (More, Marion?)
+Don’t worry if you see a notice on GitHub about the GitHub App Installation token format changing. This does not affect Browser Builds, which use a different kind of token. Just click the “x” to make the message disappear and build normally.
 
 - - -
 
 ## HackDiabetes Fundraising: Many Ways to Give
 
-Fundraising for this year’s event is well underway and we are extraordinarily grateful for the contributions many have made. We still have a ways to go to reach our goal and encourage all who can to help by purchasing merchandice, donating directly to Nightscout Foundation, getting company matches for your donations, and/or donating airline miles.
+Fundraising for this year’s event is well underway and we are extraordinarily grateful for the contributions many have made. We still have a ways to go to reach our goal and encourage all who can to help by purchasing merchandise, donating directly to Nightscout Foundation, getting company matches for your donations, and/or donating airline miles.
 
 If you’d like to order some fine items of apparel, [click here](https://www.bonfire.com/store/the-nightscout-foundation/). There is also an opportunity at checkout to add a donation in any amount.
 
@@ -148,7 +163,7 @@ The results were encouraging. All participants successfully completed the fast, 
 Participants used a variety of fasting strategies, including exercise targets, sleep modes, and adjustments to glucose targets or basal insulin settings. Interestingly, some participants made few or no changes to their settings and still completed the fast successfully. This suggests that fasting adjustments may need to be individualized rather than following a single standard approach.
 
 
-The study also examined ketones. Mild increases in ketone levels were common after the fast and generally reflected normal fasting physiology. However, participants who received less than about 30% of their usual insulin dose tended to have higher ketone levels, highlighting the importance of maintaining sufficient insulin delivery during prolonged fasting.
+The study also examined ketones. Mild increases in ketone levels were common after the fast and generally reflected normal fasting physiology. However, **participants who received less than about 30% of their usual insulin dose tended to have higher ketone levels**, highlighting the importance of maintaining sufficient insulin delivery during prolonged fasting.
 
 
 The researchers concluded that modern AID systems - including OS-AID- can help support safe prolonged fasting by maintaining glucose control while reducing the risk of hypoglycemia. Their findings suggest that many individuals may be able to fast safely with appropriate preparation, monitoring, and individualized adjustments. 
@@ -163,7 +178,7 @@ FOLLOWT1Ds has created a wonderful new resource to empower parents when requesti
 
 ## Open-Source AID: More Choice, More Responsibility
 
-> -Theresa Hastings on Around the Circle: Living Well with T1D podcast
+> Theresa Hastings on Around the Circle: Living Well with T1D podcast
 
 
 Want to be inspired? Listen to [Theresa’s conversation with Scott Johnson](https://podcasts.apple.com/us/podcast/around-the-circle-living-well-with-t1d/id1845140590), in which they discuss how Theresa went from a “lone T1D” to a community advocate and board member of Nightscout Foundation. She talks about how Open Source uses approved devices to give more options to people living with diabetes and describes the many ways the community provides around-the-clock support. 
@@ -181,7 +196,7 @@ WOW! The future of open source is in good hands. Bravo to this young looper!
 ## Friends for Life Looper Meetups
 
 
-July means [Friends for Life (FFL) Orlando](https://childrenwithdiabetes.com/conferences/friends-for-life-orlando-2026/), and this year’s event did not disappoint! Loopers had a fantastic time at our meet-up. Thanks to everyone who joined us to connect, share stories, and talk all things looping. There’s something pretty special about gathering with fellow OS-AID users and connecting in person and it’s extra special at such a great event!
+July means [Friends for Life (FFL) Orlando](https://childrenwithdiabetes.com/conferences/friends-for-life-orlando-2026/), and the 2026 July event did not disappoint! Loopers had a fantastic time at our meet-up. Thanks to everyone who joined us to connect, share stories, and talk all things looping. There’s something pretty special about gathering with fellow OS-AID users and connecting in person and it’s extra special at such a great event!
 
 - - -
 
