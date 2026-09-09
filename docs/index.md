@@ -41,7 +41,7 @@ The Italian `Open Mic` is paused for now - so no meeting in September.
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1)| no | 18:00 UTC | 10 September 2026 |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 21:00 UTC | 28 September 2026 |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 21:00 UTC | 26 September 2026 |
 
 #### Permanent Links
 
@@ -84,9 +84,9 @@ The Libre 3 and 3 Plus sensor is started directly inside the Loop and Trio apps 
 
 * Unlike Libre 2 and 1 sensors, you must pair with the OS-AID app
 
-* For Loop, use `next-dev` branch
-	* This is for experienced Libre 3/3 and 3 Plus Loopers who can commit to rebuilding frequently (maybe weekly) and follow along and report issues on [zulipchat](https://loop.zulipchat.com/#narrow/channel/144182-development/topic/Libre.203/with/622599658)
-* For Trio, the open beta for Libre 3 / 3 Plus has been added to the dev branch.
+* For the *Loop* app, use `next-dev` branch
+	* This is for experienced Libre 3 and 3 Plus Loopers who can commit to rebuilding frequently (maybe weekly) and follow along and report issues on [zulipchat](https://loop.zulipchat.com/#narrow/channel/144182-development/topic/Libre.203/with/622599658)
+* For the *Trio* app, the open beta for Libre 3 / 3 Plus has been added to the dev branch.
 	* Only one reading is forwarded to Trio every 5 minutes at this time, but 1-min readings are still viewable in the Libre driver in real-time. 
 	* Support for forwarding all of the 1-min readings in Trio is still being worked on, so keep an eye out for a PR for that in the future.
 
@@ -122,7 +122,7 @@ With over 15K members in our Facebook group, that seems like the natural place t
 
 [Loop Zulipchat](https://loop.zulipchat.com/): Well-organized technical discussions happen here. This is an appropriate place for feature requests, as well.
 
-GitHub: This is where the coding happens. If you want to look at, ask questions about, or contribute to the coding of [Loop](https://github.com/LoopKit/LoopWorkspace) or [Trio](https://github.com/nightscout/Trio), this is a place to start along with [LoopDocs](https://loopdocs.org/) and [TrioDocs](https://triodocs.org/).
+GitHub: This is where the coding happens. If you want to look at, ask questions about, or contribute to the coding of Loop or Trio, this is where to go. (And don't forget to read [LoopDocs](https://loopdocs.org/) and [TrioDocs](https://triodocs.org/)).
 
 - - -
 
@@ -146,15 +146,18 @@ Don’t worry if you see a notice on GitHub about the GitHub App Installation to
 
 ## HackDiabetes Fundraising: Many Ways to Give
 
-Fundraising for this year’s event is well underway and we are extraordinarily grateful for the contributions many have made. We still have a ways to go to reach our goal and encourage all who can to help by purchasing merchandise, donating directly to Nightscout Foundation, getting company matches for your donations, and/or donating airline miles.
 
-If you’d like to order some fine items of apparel, [click here](https://www.bonfire.com/store/the-nightscout-foundation/). There is also an opportunity at checkout to add a donation in any amount.
+We know that everyone is busy, but we'd like you to take 5 minutes to [click on the link](https://www.nightscoutfoundation.org/new-products/p/direct-donation-apa26) to donate to the Nightscout Foundation to help fund Hack 2026.
+
+Last year, over 400 donors raised more than $50,000 - covering travel, hotel rooms, conference space and meals for Hack 2025. This year, the goal is to reach over 500 donations. Every contribution, no matter the size, helps us get there.
+
+These hackathons are a major force behind the opne-source diabetes tech and features we rely on every day. When developers collaborate in person, they spark new ideas and breakthroughs that shape the community all year long (and beyond). Community support make this possible.
 
 - - -
 
 ## Twenty-Five Hours of Fasting with AID Systems
 
-A [study presented at ATTD 2026](https://type1dmaniac.com/2026/05/26/25h-fasting-aid-attd2026/) explored whether young people with type 1 diabetes could safely complete a 25-hour fast while using Automated Insulin Delivery (AID) systems. The study included 54 adolescents and young adults using a variety of commercial and open-source AID systems during the Jewish holiday of Yom Kippur, which involves a complete 25-hour fast and is coming up on 20-21 September.
+A [study presented at ATTD 2026](https://type1dmaniac.com/2026/05/26/25h-fasting-aid-attd2026/) by Revital Nimri of Schneider Children’s Medical Center of Israel, explored whether young people with type 1 diabetes could safely complete a 25-hour fast while using Automated Insulin Delivery (AID) systems. The study included 54 adolescents and young adults using a variety of commercial and open-source AID systems during the Jewish holiday of Yom Kippur, which involves a complete 25-hour fast and is coming up on 20-21 September.
 
 
 The results were encouraging. All participants successfully completed the fast, and overall glucose outcomes improved during fasting compared with their usual days. Time in Range increased, time spent below 70 mg/dL decreased, and only a small number of mild hypoglycemic events occurred. Importantly, no severe hypoglycemia or other serious adverse events were reported.
@@ -181,7 +184,7 @@ FOLLOWT1Ds has created a wonderful new resource to empower parents when requesti
 > Theresa Hastings on Around the Circle: Living Well with T1D podcast
 
 
-Want to be inspired? Listen to [Theresa’s conversation with Scott Johnson](https://podcasts.apple.com/us/podcast/around-the-circle-living-well-with-t1d/id1845140590), in which they discuss how Theresa went from a “lone T1D” to a community advocate and board member of Nightscout Foundation. She talks about how Open Source uses approved devices to give more options to people living with diabetes and describes the many ways the community provides around-the-clock support. 
+Want to be inspired? Listen to [Theresa’s conversation with Scott Johnson](https://podcasts.apple.com/us/podcast/around-the-circle-living-well-with-t1d/id1845140590), in which they discuss how Theresa went from a “lone T1D” to a community advocate - and now she's a board member of Nightscout Foundation. She talks about how Open Source uses approved devices to give more options to people living with diabetes and describes the many ways the community provides around-the-clock support. 
 
 - - -
 
@@ -206,10 +209,10 @@ July means [Friends for Life (FFL) Orlando](https://childrenwithdiabetes.com/con
 
 * [Do I need to manually change pump time?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4508411819415287)
 * [Why DIY?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4512608428995626)
-* [Here’s an Excellent "Settings" Post (for Low Needs)](https://www.facebook.com/groups/LOOPandLEARN/permalink/4514101002179702/?rdid=zMWoXQqYta4Net7M#)
-* [What are the Benefits of Looping?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4515136962076106/?rdid=WpK2etNrUMinf8kn#)
-* [Request for Riley/Emalink Devices for Repurposing](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4519083218348147)
-* [Negative Basal IOB in Trio?](https://www.facebook.com/groups/diytrio/permalink/2235116297222213/?rdid=grLXZQXOICIADKR7#)
+* [Here’s an excellent "Settings" Post (for low needs)](https://www.facebook.com/groups/LOOPandLEARN/permalink/4514101002179702/?rdid=zMWoXQqYta4Net7M#)
+* [What are the benefits of looping?](https://www.facebook.com/groups/LOOPandLEARN/permalink/4515136962076106/?rdid=WpK2etNrUMinf8kn#)
+* [Request for Riley/Emalink Devices for repurposing](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4519083218348147)
+* [Negative basal IOB in Trio?](https://www.facebook.com/groups/diytrio/permalink/2235116297222213/?rdid=grLXZQXOICIADKR7#)
 * [Can I turn off SMBs on a schedule? (Yes! Here’s how to use Shortcuts to do it!)](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=2228410471226129)
 
 - - -
