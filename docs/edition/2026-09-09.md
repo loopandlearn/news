@@ -188,7 +188,9 @@ Want to be inspired? Listen to [Theresa’s conversation with Scott Johnson](htt
 ## Unexpected Help with Nightscout Development
 
 One of our teen loopers has been exploring cybersecurity through recent training—and decided to put what he was learning into practice.
+
 After identifying an opportunity to strengthen Nightscout, he shared his ideas with the development community and worked with a developer to turn them into a contribution. His pull request was reviewed and merged into the Nightscout development branch!
+
 WOW! The future of open source is in good hands. Bravo to this young looper!
 
 - - -
