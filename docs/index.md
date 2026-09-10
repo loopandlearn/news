@@ -175,7 +175,7 @@ The researchers concluded that modern AID systems - including OS-AID- can help s
 
 ## 504 Accommodation Request Form Builder
 
-FOLLOWT1Ds has created a wonderful new resource to empower parents when requesting school accommodations. This tool can be found on the [FOLLOWT1Ds website](https://followt1ds.org/504-request-builder) and leads to a printable form that you can take with you when you meet with school administrators.
+FOLLOWT1Ds has created a wonderful new resource to empower parents when requesting school accommodations in the US. This tool can be found on the [FOLLOWT1Ds website](https://followt1ds.org/504-request-builder) and leads to a printable form that you can take with you when you meet with school administrators.
 
 - - -
 
