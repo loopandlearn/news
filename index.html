@@ -407,6 +407,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#set-default-branch-to-main" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Set Default Branch to main
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#releases-for-the-loop-app" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -4315,6 +4326,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#set-default-branch-to-main" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Set Default Branch to main
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#releases-for-the-loop-app" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -4457,6 +4479,7 @@
 <ul>
 <li><a href="#upcoming-open-mics">Upcoming Open Mics</a></li>
 <li><a href="#minimum-iphone-hardware">Minimum iPhone Hardware</a></li>
+<li><a href="#set-default-branch-to-main">Set Default Branch to <code>main</code></a></li>
 <li><a href="#releases-for-the-loop-app">Releases for the <em>Loop</em> App</a></li>
 <li><a href="#releases-for-the-trio-app">Releases for the <em>Trio</em> App</a></li>
 <li><a href="#notes-for-both-loop-and-trio">Dexcom G7 Notes for Both Loop and Trio</a></li>
@@ -4511,6 +4534,13 @@
 <li>iPhone 8, all variants</li>
 </ul>
 <hr />
+<h2 id="set-default-branch-to-main">Set Default Branch to <code>main</code><a class="headerlink" href="#set-default-branch-to-main" title="Anchor link to this Header on this Page">&para;</a></h2>
+<p>With the releases from the <em>Loop</em> and <em>Trio</em> apps, it is important to switch your default branch back to <code>main</code>. </p>
+<ul>
+<li>The <code>main</code> branch has all the release features</li>
+<li>You should not be on a development branch unless you are an expert tester</li>
+</ul>
+<hr />
 <h2 id="releases-for-the-loop-app">Releases for the <em>Loop</em> App<a class="headerlink" href="#releases-for-the-loop-app" title="Anchor link to this Header on this Page">&para;</a></h2>
 <p>There was a release (<a href="https://loopkit.github.io/loopdocs/version/releases/#loop-v3147">v3.14.7</a>) for the <em>Loop</em> app on 15 September 2026 with many updates and improvements followed by another release (<a href="https://loopkit.github.io/loopdocs/version/releases/#loop-v3148">v3.14.8</a>) on 19 September 2026 with more fixes and an additional Omnipod connection improvement.</p>
 <p>Please update directly to v3.14.8.</p>
@@ -4518,16 +4548,17 @@
 possible. We also remind you to update frequently as the developers are working to
 fix any glitches as they are identified.</p>
 <ul>
-<li>Omnipod 5 pod support plus<ul>
-<li>New Bluetooth connection method which reduces 203 Faults for Atlas DASH Pods (v3.14.7)</li>
-<li>Improved connection speed (v3.14.8) and handling for the iPhone 16/17e with Atlas DASH pod combination</li>
-<li>Pod Keep Alive method of When Open is the default and should be sufficient for all iPhone models / Bluetooth Pod types (DASH and Omnipod 5)</li>
+<li><strong>Omnipod Updates</strong>:<ul>
+<li><strong>Omnipod 5</strong> pod is supported</li>
+<li>New Bluetooth connection method which <strong>reduces 203 Faults</strong> for Atlas DASH Pods</li>
+<li><strong>Improved connection speed and handling for the Phone 16/17e with Atlas DASH pod combination</strong></li>
+<li>Pod Keep Alive method of <strong>When Open</strong> is the default and should be sufficient for all iPhone models / Bluetooth Pod types (DASH and Omnipod 5)</li>
 </ul>
 </li>
-<li>Fix for G7 Sensor glucose reading drop-outs (when G7 App is still getting
+<li>Fix for <strong>G7 Sensor glucose reading drop-outs</strong> (when G7 App is still getting
 readings)</li>
-<li>Fix the toolbar for proper iOS 27 display to show all 5 icons in portrait mode</li>
-<li>Automatic Build restored for Browser Builders<ul>
+<li>Fix the <strong>toolbar</strong> for proper iOS 27 display to show all 5 icons in portrait mode</li>
+<li><strong>Automatic Build restored</strong> for Browser Builders<ul>
 <li>Browser Builders with customizations will need to copy those customizations from the old build_loop.yml file (does not run automatically) to the new build_loop_auto.yml file (runs every Sunday)</li>
 </ul>
 </li>
@@ -4537,7 +4568,7 @@ readings)</li>
 <p>There was a major release (<a href="https://github.com/nightscout/Trio/releases/tag/v1.0">v1.0.0</a>) for the <em>Trio</em> app on 15 September 2026 with many updates and improvements followed by another release (<a href="https://github.com/nightscout/Trio/releases/tag/v1.0.1">v1.0.1</a>) on 19 September 2026 with more fixes and an additional Omnipod connection improvement.</p>
 <p>Please update directly to v1.0.1.</p>
 <h3 id="trio-v10x-gummy-clusters">Trio v1.0.x "Gummy Clusters"<a class="headerlink" href="#trio-v10x-gummy-clusters" title="Anchor link to this Header on this Page">&para;</a></h3>
-<p>First is the long-awaited version 1.0, the largest update Trio has had since
+<p>First of the long-awaited version 1.0.x releases, v1.0.0 was the largest update Trio has had since
 moving to beta: 134 merged pull requests, 112 new features and fixes, and
 1,500+ commits since 0.8.4. It was quickly followed by 1.0.1, a small release with
 a few fixes and updates to the Omnipod, Libre, and Dana drivers.</p>
@@ -4546,10 +4577,12 @@ new sensor and pump families are supported, the Home screen was rebuilt,
 Liquid Glass made its way to Trio, alarms finally work the way they were always
 supposed to … and more! The release also introduces a new connection
 method for Omnipod. Dash users on Atlas Pods with iPhone 16 or 17e models
-should see a massive improvement, without needing Pod Keep Alive anymore.</p>
+should see a massive improvement.</p>
+<blockquote>
 <p>Starting with v1.0, Trio releases are named after the candy, sweets and hypo
 treats that got us there – and after the long nights, the meetings, the
-conference halls and all that snack munching, v1.x is Gummy Clusters.</p>
+conference halls and all that snack munching, v1.x is <strong>Gummy Clusters</strong>.</p>
+</blockquote>
 <h3 id="important">IMPORTANT<a class="headerlink" href="#important" title="Anchor link to this Header on this Page">&para;</a></h3>
 <ul>
 <li>Upgrading from 0.8.4 or newer? No onboarding wizard, no settings reset. Your
