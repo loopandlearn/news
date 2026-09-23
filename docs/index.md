@@ -128,7 +128,7 @@ Notifications
 	* check Settings → Features → App Diagnostics if you
 would rather not share any fully anonymous telemetry data, which are now
 on by default.
-* Browser Builders - be sure to [add the "Time Sensitive Notifications" capability](https://triodocs.org/install/build/browser/actions/prepare-app/#enable-time-sensitive-notifications) to your *Trio* Identifier
+* Browser Builders - if you have not already done so, be sure to [add the "Time Sensitive Notifications" capability](https://triodocs.org/install/build/browser/actions/prepare-app/#enable-time-sensitive-notifications) to your *Trio* Identifier
 
 ### What's Changed At A Glance
 
