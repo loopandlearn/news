@@ -12,7 +12,7 @@ Published on 23 September 2026
 * [Minimum iPhone Hardware](#minimum-iphone-hardware)
 * [Releases for the *Loop* App](#releases-for-the-loop-app)
 * [Releases for the *Trio* App](#releases-for-the-trio-app)
-* [Notes for Both Loop and Trio](#notes-for-both-loop-and-trio)
+* [Dexcom G7 Notes for Both Loop and Trio](#notes-for-both-loop-and-trio)
 * [Want to Support Our Work?](#want-to-support-our-work)
 * [Release for the *LoopFollow* App](#release-for-the-loop-app)
 * [Release for the *LoopFollow* App](#release-for-the-loop-app)
@@ -187,7 +187,7 @@ A heartfelt thank you to everyone that has made v1.0.x possible.
 
 - - -
 
-## Notes for Both *Loop* and *Trio*
+## Dexcom G7 Notes for Both *Loop* and *Trio*
 
 The improved connection with G7 is achieved by waiting 15 minutes
 to decide a sensor session really has ended. The app will still
