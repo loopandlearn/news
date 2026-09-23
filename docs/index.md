@@ -10,6 +10,7 @@ Published on 23 September 2026
 
 * [Upcoming Open Mics](#upcoming-open-mics)
 * [Minimum iPhone Hardware](#minimum-iphone-hardware)
+* [Set Default Branch to `main`](#set-default-branch-to-main)
 * [Releases for the *Loop* App](#releases-for-the-loop-app)
 * [Releases for the *Trio* App](#releases-for-the-trio-app)
 * [Dexcom G7 Notes for Both Loop and Trio](#notes-for-both-loop-and-trio)
@@ -58,6 +59,15 @@ These iPhone models are no longer supported by Open-Source apps (*Loop*, *Trio* 
 
 - - -
 
+## Set Default Branch to `main`
+
+With the releases from the *Loop* and *Trio* apps, it is important to switch your default branch back to `main`. 
+
+* The `main` branch has all the release features
+* You should not be on a development branch unless you are an expert tester
+
+- - -
+
 ## Releases for the *Loop* App
 
 There was a release ([v3.14.7](https://loopkit.github.io/loopdocs/version/releases/#loop-v3147)) for the *Loop* app on 15 September 2026 with many updates and improvements followed by another release ([v3.14.8](https://loopkit.github.io/loopdocs/version/releases/#loop-v3148)) on 19 September 2026 with more fixes and an additional Omnipod connection improvement.
@@ -69,14 +79,15 @@ possible. We also remind you to update frequently as the developers are working 
 fix any glitches as they are identified.
 
 
-* Omnipod 5 pod support plus
-	* New Bluetooth connection method which reduces 203 Faults for Atlas DASH Pods (v3.14.7)
-	* Improved connection speed (v3.14.8) and handling for the iPhone 16/17e with Atlas DASH pod combination
-	* Pod Keep Alive method of When Open is the default and should be sufficient for all iPhone models / Bluetooth Pod types (DASH and Omnipod 5)
-* Fix for G7 Sensor glucose reading drop-outs (when G7 App is still getting
+* **Omnipod Updates**:
+	* **Omnipod 5** pod is supported
+	* New Bluetooth connection method which **reduces 203 Faults** for Atlas DASH Pods
+	* **Improved connection speed and handling for the Phone 16/17e with Atlas DASH pod combination**
+	* Pod Keep Alive method of **When Open** is the default and should be sufficient for all iPhone models / Bluetooth Pod types (DASH and Omnipod 5)
+* Fix for **G7 Sensor glucose reading drop-outs** (when G7 App is still getting
 readings)
-* Fix the toolbar for proper iOS 27 display to show all 5 icons in portrait mode
-* Automatic Build restored for Browser Builders
+* Fix the **toolbar** for proper iOS 27 display to show all 5 icons in portrait mode
+* **Automatic Build restored** for Browser Builders
 	* Browser Builders with customizations will need to copy those customizations from the old build_loop.yml file (does not run automatically) to the new build_loop_auto.yml file (runs every Sunday)
 
 _ _ _
@@ -89,7 +100,7 @@ Please update directly to v1.0.1.
 
 ### Trio v1.0.x "Gummy Clusters"
 
-First is the long-awaited version 1.0, the largest update Trio has had since
+First of the long-awaited version 1.0.x releases, v1.0.0 was the largest update Trio has had since
 moving to beta: 134 merged pull requests, 112 new features and fixes, and
 1,500+ commits since 0.8.4. It was quickly followed by 1.0.1, a small release with
 a few fixes and updates to the Omnipod, Libre, and Dana drivers.
@@ -99,12 +110,12 @@ new sensor and pump families are supported, the Home screen was rebuilt,
 Liquid Glass made its way to Trio, alarms finally work the way they were always
 supposed to … and more! The release also introduces a new connection
 method for Omnipod. Dash users on Atlas Pods with iPhone 16 or 17e models
-should see a massive improvement, without needing Pod Keep Alive anymore.
+should see a massive improvement.
 
 
-Starting with v1.0, Trio releases are named after the candy, sweets and hypo
+> Starting with v1.0, Trio releases are named after the candy, sweets and hypo
 treats that got us there – and after the long nights, the meetings, the
-conference halls and all that snack munching, v1.x is Gummy Clusters.
+conference halls and all that snack munching, v1.x is **Gummy Clusters**.
 
 ### IMPORTANT
 
