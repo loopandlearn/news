@@ -87,6 +87,24 @@ There was a major release ([v1.0.0](https://github.com/nightscout/Trio/releases/
 
 Please update directly to v1.0.1.
 
+### Trio v1.0.x "Gummy Clusters"
+
+First is the long-awaited version 1.0, the largest update Trio has had since
+moving to beta: 134 merged pull requests, 112 new features and fixes, and
+1,500+ commits since 0.8.4. It was quickly followed by 1.0.1, a small release with
+a few fixes and updates to the Omnipod, Libre, and Dana drivers.
+
+The engine that decides your insulin was rewritten from the ground up, four
+new sensor and pump families are supported, the Home screen was rebuilt,
+Liquid Glass made its way to Trio, alarms finally work the way they were always
+supposed to … and more! The release also introduces a new connection
+method for Omnipod. Dash users on Atlas Pods with iPhone 16 or 17e models
+should see a massive improvement, without needing Pod Keep Alive anymore.
+
+
+Starting with v1.0, Trio releases are named after the candy, sweets and hypo
+treats that got us there – and after the long nights, the meetings, the
+conference halls and all that snack munching, v1.x is Gummy Clusters.
 
 ### IMPORTANT
 
