@@ -2,21 +2,28 @@
 
 _Master Your DIY `Closed-Loop` Insulin Delivery System_
 
-Published on 23 September 2026
+Published on 15 October 2026
 
 - - -
 
 ## In this edition:
 
 * [Upcoming Open Mics](#upcoming-open-mics)
-* [Minimum iPhone Hardware](#minimum-iphone-hardware)
-* [Set Default Branch to `main`](#set-default-branch-to-main)
-* [Releases for the *Loop* App](#releases-for-the-loop-app)
-* [Releases for the *Trio* App](#releases-for-the-trio-app)
-* [Dexcom G7 Notes for Both Loop and Trio](#notes-for-both-loop-and-trio)
-* [Want to Support Our Work?](#want-to-support-our-work)
-* [Release for the *LoopFollow* App](#release-for-the-loop-app)
-* [Release for the *LoopFollow* App](#release-for-the-loop-app)
+* [Fundraising Update](#fundraising-update)
+* [A Note From the Developers](#a-note-from-the-developers)
+* [Apple Developer](#apple-developer)
+* [Omnipod Issues](#omnipod-issues)
+* [Loop v3.14.9](#loop-v3149)
+* [New Loop Customization: CGM Sensor Notes](#new-loop-customization-cgm-sensor-notes)
+* [Xcode to TestFlight](#xcode-to-testflight)
+* [Trio v1.0.2](#trio-v102)
+* [LoopFollow](#loopfollow)
+* [main or dev](#main-or-dev)
+* [Data Sharing in Our Apps](#data-sharing-in-our-apps)
+* [Protecting Your Phone Is Part of OS-AID Safety](#protecting-your-phone-is-part-of-os-aid-safety)
+* [Dexcom G7 Covers](#dexcom-g7-covers)
+* [A Report on EASD](#a-report-on-easd)
+* [FaceBook Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
 - - -
@@ -25,14 +32,14 @@ Published on 23 September 2026
 
 _<span translate="no">Loop and Learn</span>_: Informal Discussion (`Open Mic`) virtual meetings are scheduled on the second Thursday of each month and the fourth Saturday of each month.
 
-The Italian `Open Mic` is paused for now - so no meeting in September.
+The Italian `Open Mic` is paused for now - so no meeting in October.
 
 #### Calendar
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 21:00 UTC | 26 September 2026 |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1)| no | 18:00 UTC | 8 October 2026 |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 21:00 UTC | 24 October 2026 |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1)| no | 18:00 UTC | 12 November 2026 |
 
 #### Permanent Links
 
@@ -48,288 +55,222 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 - - -
 
-## Minimum iPhone Hardware
+## Fundraising Update
 
-Open-Source apps support iPhone 18 as well an many older models, including SE 2nd and 3rd gen. But a few models have been dropped because they cannot use the minimum iOS of 17.6.
+Together, we’ve raised $61,956 toward our $75,000 goal to fully fund Hackdiabetes 2026!
 
-These iPhone models are no longer supported by Open-Source apps (*Loop*, *Trio* and *LoopFollow*).
+We’re getting closer, but we still need $13,044 to reach our goal. If you haven’t had a chance to contribute yet, please consider making a small donation. Every little bit helps!
 
-* iPhone X, without an extra letter
-* iPhone 8, all variants
+These funds will bring our developers and volunteers together to brainstorm, collaborate, and explore new ideas, devices, and strategies to improve life with diabetes.
 
-- - -
+Thank you for being part of this incredible community and helping make Hackdiabetes 2026 happen.
 
-## Set Default Branch to `main`
+`#Hackdiabetes2026` `#wearenotwaiting` `#payitforward`
 
-With the releases from the *Loop* and *Trio* apps, it is important to switch your default branch back to `main`. 
-
-* The `main` branch has all the release features
-* You should not be on a development branch unless you are an expert tester
+* [Donation Link](https://donate.hackdiabetes.io)
 
 - - -
 
-## Releases for the *Loop* App
+## A Note From the Developers
 
-There was a release ([v3.14.7](https://loopkit.github.io/loopdocs/version/releases/#loop-v3147)) for the *Loop* app on 15 September 2026 with many updates and improvements followed by another release ([v3.14.8](https://loopkit.github.io/loopdocs/version/releases/#loop-v3148)) on 19 September 2026 with more fixes and an additional Omnipod connection improvement.
+Thank you to the community members who have loaned out new CGM and Pump devices to developers! They are actively working on identifying whether it's possible to add more pumps and CGMs to Trio, Loop, and AAPS, thanks in part to your support. #WeAreNotWaiting and #WeAreNotStopping until as many CGMs and pumps as possible can work with open source AID!
 
-Please update directly to v3.14.8.
+- - -
 
-Loop now offers these new features and we encourage you to update as soon as
-possible. We also remind you to update frequently as the developers are working to
-fix any glitches as they are identified.
+## Apple Developer
 
+It’s time to sign a new Apple Developer agreement. Please be sure to sign it by 13 November to maintain your ability to build, update, and use remote commands!  
 
-* **Omnipod Updates**:
-	* **Omnipod 5** pod is supported
-	* New Bluetooth connection method which **reduces 203 Faults** for Atlas DASH Pods
-	* **Improved connection speed and handling for the Phone 16/17e with Atlas DASH pod combination**
-	* Pod Keep Alive method of **When Open** is the default and should be sufficient for all iPhone models / Bluetooth Pod types (DASH and Omnipod 5)
-* Fix for **G7 Sensor glucose reading drop-outs** (when G7 App is still getting
-readings)
-* Fix the **toolbar** for proper iOS 27 display to show all 5 icons in portrait mode
-* **Automatic Build restored** for Browser Builders
-	* Browser Builders with customizations will need to copy those customizations from the old build_loop.yml file (does not run automatically) to the new build_loop_auto.yml file (runs every Sunday)
+- - -
 
-_ _ _
+## Omnipod Issues
 
-## Releases for the *Trio* App
+We've had a flurry of changes to the way we connect to Pods through Bluetooth.
 
-There was a major release ([v1.0.0](https://github.com/nightscout/Trio/releases/tag/v1.0)) for the *Trio* app on 15 September 2026 with many updates and improvements followed by another release ([v1.0.1](https://github.com/nightscout/Trio/releases/tag/v1.0.1)) on 19 September 2026 with more fixes and an additional Omnipod connection improvement.
+* The pros:
+	* Significant improvements in 203 fault frequency (for most)
+	* Improved speed for connection for iPhone 16/17e users of Atlas Pods
+* The cons:
+	* Devs moved pretty fast through a couple of major code changes
+* The status:
+	* As of Loop v3.14.9 and Trio 1.0.2 there are some outstanding Omnipod issues
+	* These have been figured out, and the fixes will be released soon (be patient, please)
+		* If you can't reach the pod to Deactivate - you have to wait 4 minutes for the app to give up and offer you the option to Discard the pod - another exercise in patience
+		* If you are using an iPhone 16/17e with Atlas Pods - the current release unfortunately increases the 203 fault frequency (Loop users can go back to v3.14.7 temporarily or try Loop dev branch until we get these updates released)
+		* If you acknowledge an alert and the pod communication did not work, the pod might keep beeping (work-around is to enable and then disable Silent Pod)
 
-Please update directly to v1.0.1.
-
-### Trio v1.0.x "Gummy Clusters"
-
-First of the long-awaited version 1.0.x releases, v1.0.0 was the largest update Trio has had since
-moving to beta: 134 merged pull requests, 112 new features and fixes, and
-1,500+ commits since 0.8.4. It was quickly followed by 1.0.1, a small release with
-a few fixes and updates to the Omnipod, Libre, and Dana drivers.
-
-The engine that decides your insulin was rewritten from the ground up, four
-new sensor and pump families are supported, the Home screen was rebuilt,
-Liquid Glass made its way to Trio, alarms finally work the way they were always
-supposed to … and more! The release also introduces a new connection
-method for Omnipod. Dash users on Atlas Pods with iPhone 16 or 17e models
-should see a massive improvement.
-
-
-> Starting with v1.0, Trio releases are named after the candy, sweets and hypo
-treats that got us there – and after the long nights, the meetings, the
-conference halls and all that snack munching, v1.x is **Gummy Clusters**.
-
-### IMPORTANT
-
-- Upgrading from 0.8.4 or newer? No onboarding wizard, no settings reset. Your
-configuration, data, pump and CGM connections all carry over.
-- Two things are worth a minute of your time after updating: 
-	* check your
-alarm settings, because alarms were rebuilt entirely, check Settings →
-Notifications 
-	* check Settings → Features → App Diagnostics if you
-would rather not share any fully anonymous telemetry data, which are now
-on by default.
-* Browser Builders - if you have not already done so, be sure to [add the "Time Sensitive Notifications" capability](https://triodocs.org/install/build/browser/actions/prepare-app/#enable-time-sensitive-notifications) to your *Trio* Identifier
-
-### What's Changed At A Glance
-
-* **Trio thinks in your iPhone's "own language" now** – the dosing algorithm
-was rewritten from JavaScript into native Swift; identical decisions, twice
-as fast, easier on your battery
-
-* **Updated translations** across Trio and its device drivers
-
-* **Omnipod 5 pods** – full support, including the guided first-pod setup
-(requires one-time internet connection). This release also supports a new
-bluetooth connection method for Omnipods to limit 203 Faults for Dash
-pods
-
-* **Omnipod connection reliability** – Pod Keep Alive should no longer be
-necessary for using Atlas DASH pods with an iPhone 16 (any variant) or
-iPhone 17e. The setting can just be kept at "When Open"
-
-* **FreeStyle Libre 3 and 3+ (Beta)** – paired directly in Trio, with no
-companion app and no internet connection needed to loop
-
-* **Libre 3 / 3+ alerts stop when you remove the sensor** – expiry alerts no
-longer keep firing after the CGM has been deleted
-
-* **Eversense E3 and 365 support added** – the implanted sensor family, with
-optional upload to Eversense DMS
-
-* **Accu-Chek SmartGuide** – Roche's 14-day sensor, now a first-class Trio
-CGM
-
-* **Dana connection fixes** – a connection callback race and a dose end-
-time bug
-
-* **A rebuilt Home screen** – drag, pinch and scrub through up to 72 hours of
-data in Trio's chart, with one smart panel that surfaces whatever needs
-your attention
-
-* **A Modernized Look** – Liquid Glass has made its way to Trio, making it look
-like a proper iOS 26+ app
-
-* **Alarms you can actually hear** – four separate bugs were silencing them;
-on iOS 26 and later, critical alarms now sound even when iOS has put Trio
-to sleep
-
-* **Dosing Modes** – the Closed Loop switch becomes a four-way choice:
-Closed Loop, Open Loop, Low Glucose Suspend and Basal Testing
-
-* **Quick-Pick Treatments** – Trio learns the amounts you actually use and
-puts them one tap away
-
-* **Forecasts on your wrist and lock screen** – the glucose prediction now
-appears on the Apple Watch app and in the Live Activity
-
-* **Garmin complications** – put glucose, IOB and COB on any Connect IQ
-watch face; also adds dynamic glucose to the Swissalpine watch face.
-
-* **Built for everyone** – massively improved accessibility pass across
-VoiceOver, Dynamic Type and contrast
-
-* **Release notes inside the app** – read what changed without leaving Trio
-
-* **Steadier under the hood** – a large reliability pass on data storage,
-background work and pump event handling
-
-* **Anonymous diagnostics are on by default** – no health data is ever sent,
-and opting out is one tap in Settings
-
-* **Time sensitive notification capability** added to the Trio identifier
-
-* **Editor and navigation fixes** – deleting a time segment in any therapy
-schedule, opening Target Behavior in settings, and a Home screen no
-longer shut down Trio
-
-#### Thank You From the Trio Team
-
-A Note From The Trio Team:
-
-Trio is built and maintained by volunteers, and run by people who use it
-themselves. This release represents a year of work by 20+ contributors, six
-of them contributing for the first time.
-
-
-A heartfelt thank you to everyone that has made v1.0.x possible.
 
 
 - - -
 
-## Dexcom G7 Notes for Both *Loop* and *Trio*
+## Loop v3.14.9
 
-The improved connection with G7 is achieved by waiting 15 minutes
-to decide a sensor session really has ended. The app will still
-automatically scan for the new sensor after the 15 minute delay. If
-you want to speed up the transition when you connect to a new G7:
+> Loop v3.14.9 was released on 05 October 2026.
 
-* Navigate to the OS-AID G7 screen
+This release is recommended for all Loopers (except those who are on next-dev) or those running iPhone 16/17e with Atlas Pods.
 
-* Scroll to the bottom and tap on "Scan for new sensor"
+There are important fixes that you can only get if you rebuild. (These important fixes are ported to next-dev, so if you are testing that branch, be sure to update and rebuild soon.)
 
-* If you don't see that row, it means the app is already scanning
+Please read about this in [LoopDocs](https://loopkit.github.io/loopdocs/version/releases/).
 
-- - -
+For anyone struggling to build, help is available on Facebook. Please provide your GitHub username or URL so that we can take a look at your build logs.
 
-## Want to Support our Work?
+If you've been using Loop-dev, you should first go to your Loopworkspace repository, click on Settings, and change the Default Branch to main by clicking the opposing arrows. Loop-main users can skip this step.
 
-A lot of this work could not have been done without
-community support through [The Nightscout
-Foundation](https://www.nightscoutfoundation.org/). If you would like to support the ongoing
-work of OS-AID developers, please donate to the
-funding of [HackDiabetes 2026](https://www.nightscoutfoundation.org/new-products/p/direct-donation-apa26).
+If you have customizations, review [this short video]() **Link in Prep Sheet does not work** for how to move those customizations to the build_loop_auto.yml file.
 
 - - -
 
-## Release for the *LoopFollow* App
+## New Loop Customization: CGM Sensor Notes
 
-7.0 was a major release with rebuilt charts, onboarding, and custom alarm
-sounds. 7.1 focuses on fixing issues reported after 7.0, improving reliability,
-and adding a few requested features.
+Your Nightscout chart can now show sensor statuses for Dexcom G6/G7.
+The next time there's no CGM data, you can quickly verify if there is a temporary sensor issue for example.
 
+More info: [CGM Sensor Notes](https://www.loopandlearn.org/custom-code/#cgm-sensor-notes)
 
-#### Highlights
+This feature was added to the `next-dev` branch based on this customization. It is extended to more sensors than just Dexcom. The `next-dev` branch is undergoing rapid updates, so best to leave it for experts to test.
 
+- - -
 
-* **Compare days more easily** with optional "This Time" guide lines on previous
-days.
+## Xcode to TestFlight
 
-* New Shortcuts actions to enable/disable **spoken BG readings** for
-automations.
+New lnl-scripts feature for Xcode builders to upload to TestFlight for remote backup or installation to remote family members' phones.  (We need to update documentation for this too.) 
 
-* Choose the **duration** when sending remote overrides to Loop.
+- - -
 
-* **Share Logs** now sends a single ZIP file instead of multiple attachments.
+## Trio v1.0.2
 
- 
+Trio v1.0.2 was released on 7 October 2026.
 
-#### Fixes
+This release includes a large array of improvements and fixes. 
 
-* Fixed several 7.0 **chart regressions**, including graph display toggles,
-prediction style changes, and Yesterday BG updates.
+A few of the new features include:
 
-* Fixed cases where the **main graph** could become unresponsive.
-
-* Improved **chart scrubbing** and **treatment display**.
-
-* Fixed **missing Trio fat/protein entries**.
-
-* **Improved Omnipod reservoir handling** to avoid incorrect "50+U" readings
-and missed low reservoir alerts.
-
-* Remote commands now report **"Command Sent"** instead of implying they
-have already been completed.
+* Improved not-looping alerts: Notifications now escalate gradually, from reminders every 20 minutes to a critical alarm at 120 minutes
+* Updated Libre 3/3+ support: More reliable sensor pairing, with better protection against pairing the wrong nearby sensor
+* Improved pump support: Fixes for Omnipod pairing in households with multiple pod users, Medtrum patch handling, and Dana pump behavior
+* Eversense improvements: Fixes for interrupted readings, transmitter reconnection, background uploads, and alarms
+* Better sensor status information: Accu-Chek SmartGuide and Eversense warm-up and expiration status now appear on the Home screen
+* More accurate Home screen information: Corrected basal-rate displays, including canceled temporary basals and suspended insulin delivery
+* Usability and stability fixes: Fixes for crashes involving Override presets, bolus-entry scrolling, and several display issues
+* Improved sensor data reporting: Calibrations are recorded as manual fingersticks, and an optional setting lets Dexcom G6/G7 sensor errors be reported to Nightscout
+* Updated translations across Trio and its device drivers
 
 
-#### Background reliability
+**Important upgrade note:**
 
-A lot of work went into **improving recovery** when Silent Tune stops
-unexpectedly, including handling audio interruptions, CarPlay disconnects,
-media service resets, and background launches. This improves **reliability but
-does not eliminate all iOS background limitations.
+*  If you're using Libre 3 or Libre 3+, you must pair your existing sensor again after updating. 
+* Until you do, Trio won't receive glucose readings and cannot loop. 
+* You do not need to replace the sensor.
 
+[See the full Release Notes here.](https://github.com/nightscout/Trio/releases/tag/v1.0.2)
 
-Thanks to everyone who reported issues, provided logs, tested fixes, and
-contributed code.
-
-[Full Release Notes](https://github.com/loopandlearn/LoopFollow/releases/tag/v7.1.0)
+[Link to new video w/ Justin Eastzer](https://youtu.be/HChqT4v5n-A?si=8dMk62ulZ5a_suFP)
 
 
 - - -
 
-## Trio Follower for Android
+## LoopFollow
 
-For Android-loving caregivers, here's Trio Follower for Android!
+Do you have an older iPhone not supported by the most recent updates of LoopFollow? 
 
+The feature branch `legacy-ios16` was created for anyone who wants to build v6.2.0 for "legacy" devices.
 
-Trio Follower reads the data Trio uploads to Nightscout and shows it in a layout that
-looks like Trio. You can use it to follow your own loop from an Android phone, or to
-follow someone else as a caregiver. It only shows data and sends alerts; it cannot
-control a pump. Trio Follower was created by “t1dude,” an active Trio developer, and
-is currently undergoing rapid development and testing with nine users.
+Here’s help building a feature branch!
+In less than 4 minutes, [this video](https://loopandlearneditors.slack.com/files/U03H0N9RC05/F0C9MPHKFT3/branch_eversense_2026.6.4.mp4) shows you how easy it is for Browser Builders to build a feature branch. 
 
+The LoopWorkspace Eversense branch is built here, but these same steps can help you build branches of LoopFollow, Trio, or xDrip4iOS.
 
-Main Features:
+To make it easier, two browser tabs are used- one with the [LoopWorkspace](https://github.com/LoopKit/LoopWorkspace/) repository and a second with the developers' repository.
 
-Glucose bubble with trend and change, and a chart with predictions, insulin,
-carbs and overrides
-
-Press and hold on the chart to see the values at any point in time
-
-Tap the bubble or a History reading to see the algorithm's reasoning
-
-An assortment of alarms for glucose levels, no data, rise and fall rates, and more
-
-Two home screen widgets, with your choice of transparency
-
-A notice in the app when a new version is out and the ability to update quickly
+As always, this is explained in detail in [LoopDocs](https://loopkit.github.io/loopdocs/version/development/#how-to-build-feature-branches).
 
 
-Android 12 or newer and a Nightscout site are required to use it. It's free and open
-source (MIT), but it is not a medical device. Please read the disclaimer before you
-use it.
+- - -
 
-[Get it HERE](https://github.com/t1dude/TrioFollower)
+## main or dev
+
+When you build Loop, Trio, LoopFollow, or any of the other open-source apps, you are given a choice of building the “main” or “dev” branch (and, depending on the app, potentially other branches). Historically, the dev branch has been used by app developers and testers to develop and test changes to the code, while the main branch is generally used by the wider community.
+
+In some cases, such as when there are a lot of updates to Loop before any are released to main, the community at large is encouraged to use the dev branch. Then, when those updates are pushed to main, we are told to build and use that branch until advised otherwise. 
+
+Most of the time, only people who are willing to stay informed and rebuild frequently, or at a moment’s notice, should use dev.
+
+If you use one of these apps, please make a point of staying informed about updates and recommendations about which branch to use. Only use the dev branch when advised to do so. Remember, OS-AID is always evolving, and staying informed is important for safety.
+Facebook (Loop and Learn and Trio) is the best place to get support for main versions, and dev information can be found there, too. For dev versions, especially open beta testing, Discord or ZulipChat are the best places to go.
+
+- - -
+
+## Data Sharing in Our Apps
+
+Sharing diagnostic data with developers can help them identify, understand, and fix problems faster. This information may include crash reports, error logs, or details about how the app is behaving. It can help developers spot patterns, reproduce bugs, and determine whether a problem affects one user or many. Within our OS-AID suite of apps, information is shared anonymously and does not include personal or health data.
+
+Sharing diagnostic data is especially valuable when an app is changing frequently and developers may not be able to reproduce every issue on their own- exactly the situation we, as OS-AID users, are in. The information you share can help make the app more reliable for you and the wider community. Please take a moment to ensure you are doing your part by enabling full sharing of usage data.
+
+
+- - -
+
+## Protecting Your Phone Is Part of OS-AID Safety
+
+Our phones are essential to managing and monitoring our open-source automated insulin delivery (OS-AID) systems. They provide access to glucose data, system controls, and other sensitive information. Protecting access to our phones and related accounts is an important part of OS-AID safety.
+
+Here are a few steps you can take to improve your security:
+
+* Lock your phone. Use a strong passcode, ideally six or more digits or an alphanumeric passcode. Enable Face ID or fingerprint recognition if available, and set your phone to lock automatically after a short period of inactivity.
+* Keep your phone updated. Install operating system and security updates promptly.
+	* When you aren't ready to make a major change, like upgrade to iOS 27, there are still updates offered to iOS 26.6
+	* You can accept those security fixes without accepting iOS 27
+* Enable two-factor authentication (2FA). Turn it on for online accounts you use with OS-AID wherever it is available, including GitHub and your Apple Account if you use Apple Developer or TestFlight.
+* Use unique passwords. Don't reuse passwords across accounts. A reputable password manager can help you keep track of them.
+* Protect access to your phone number and email. These may be used to recover your accounts. Secure your email account with a strong, unique password and 2FA, and know how to recover your accounts if your phone is lost.
+* Be cautious with links and requests for codes. Don't follow unexpected login links or share verification codes with anyone. Even if you get a link from a known person, if it has no context, check to be sure they really sent it and haven’t been hacked. Legitimate support personnel should not need you to disclose your authentication codes.
+
+No security measure can eliminate every risk, but these steps can make it harder for someone to gain unauthorized access to your phone, accounts, and the diabetes technology you rely on.
+
+- - -
+
+## Dexcom G7 Covers
+
+
+A 13-year old looper made his own G7 sensor covers to avoid compression lows- and [he shared the code](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4550366498553152) with us! Some of our friends in the [LnL FB group](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4550366498553152) have 3D-printed their own and benefitted, too!
+
+- - -
+
+## A Report on EASD
+
+> by Dan Moody, Lead Trio Developer
+
+
+I came to Milan for leisure, sun, gelato, and a bit of lean-back time – and left having given a TED-style talk and co-run an AI workshop. What a week. Inspirational, insightful, and, I hope,  leaving a positive mark. The best part, as always, was the people: old friends and new, long-time collaborators and faces I'd just met, all circling the same question of how technology and research can make life with diabetes better.
+
+Huge thanks to Prof. Dr. [Julia Mader](https://www.linkedin.com/in/julia-mader-891394a4/) for the invitation to speak at the first-ever [European Association for the Study of Diabetes e.V. (EASD)](https://www.linkedin.com/company/easd/) AI workshop, alongside my dear friend and trusted open-source colleague [Tim Street](https://www.linkedin.com/in/tim-street-120215/). Our session "Artificial Intelligence, Carb Counting & Insulin Dosing – A practical guide for clinicians and researchers" was all about cutting through the hype and getting practical.
+
+And because life likes to do things its own way sometimes, I also had the absolute honor of stepping in for my dear friend Prof. Dr. [Katarina Braune](https://www.linkedin.com/in/katarinabraune/) to deliver a TED-like talk ("Agentic AI and Digital Twins – Autonomous Systems in Diabetes Management") at the 62nd Annual Meeting of EASD. A special thanks to Dr. [Amit Kumar Dey](https://www.linkedin.com/in/dramitkumardey/), whom I had the pleasure of sharing the Arena stage with.
+
+A special word on the [#dedoc° Diabetes Online Community](https://www.linkedin.com/company/dedoc/) symposium, which was as inspirational as ever – and this year carried the beautiful remembrance and spirit of Bastian Hauck, who we lost earlier this year.
+
+Everything I do in this space – Trio, every talk, every argument for putting lived experience at the center – goes to show that patient-led innovation isn't just a nice-to-have. It's an engine and a multiplier. And to paraphrase [chantal mathieu's](https://www.linkedin.com/in/chantal-mathieu-8780b05a/) words: the fact that these conversations happen on stages like EASD is proof of what advocacy driven by lived experience can achieve. #NothingAboutUsWithoutUs #PayItForward.
+
+From the open-source AID community: thank you for having us in the room. These conversations matter, and the fact that they're happening on a stage like this is a sign of how far we've come.
+
+Until the next one. Search for these hashtags: #EASD2026 #dedoc #OpenSource #WeAreNotWaiting 
+
+
+- - -
+
+## FaceBook Q&A
+
+* [What backup phone do you have?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4493977797525356)
+* [Trio DIA vs Custom Peak](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=2241302009936975)
+* [Helping our kids manage insulin and alcohol](https://www.facebook.com/groups/LOOPandLEARN/permalink/4549029682020167/?rdid=3plUC2nFROZnoDYU#)
+* [Cute Loop (making own customizations)](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4549361905320278)
+* [Getting married while {not} looping](https://www.facebook.com/groups/diytrio/permalink/2246532846080558)
+* [Insulin stopped working](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=2253167565417086)
+* [Will this sensor work with Omnipod 5?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4569310446658757)
+* [Did my remote input actually input?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4570736876516114)
+* [Advice for where to start with fine tuning my settings to get to a point where I don't have to announce carbs in Trio?](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=2272989576768218)
+
+- - -
 
 ## Helpful Links
 
