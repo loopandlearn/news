@@ -148,7 +148,7 @@ A few of the new features include:
 
 * Improved not-looping alerts: Notifications now escalate gradually, from reminders every 20 minutes to a critical alarm at 120 minutes
 * Updated Libre 3/3+ support: More reliable sensor pairing, with better protection against pairing the wrong nearby sensor
-* Improved pump support: Fixes for Omnipod pairing in households with multiple pod users, Medtrum patch handling, and Dana pump behavior
+* Improved pump support: Fixes for Omnipod pairing in households with multiple pod users, `Medtrum patch` handling, and Dana pump behavior
 * Eversense improvements: Fixes for interrupted readings, transmitter reconnection, background uploads, and alarms
 * Better sensor status information: Accu-Chek SmartGuide and Eversense warm-up and expiration status now appear on the Home screen
 * More accurate Home screen information: Corrected basal-rate displays, including canceled temporary basals and suspended insulin delivery
