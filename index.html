@@ -451,10 +451,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#new-loop-customization-cgm-sensor-notes" class="md-nav__link">
+  <a href="#new-customization-for-the-loop-app-cgm-sensor-notes" class="md-nav__link">
     <span class="md-ellipsis">
       
-        New Loop Customization: CGM Sensor Notes
+        New Customization for the Loop app: CGM Sensor Notes
       
     </span>
   </a>
@@ -4436,10 +4436,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#new-loop-customization-cgm-sensor-notes" class="md-nav__link">
+  <a href="#new-customization-for-the-loop-app-cgm-sensor-notes" class="md-nav__link">
     <span class="md-ellipsis">
       
-        New Loop Customization: CGM Sensor Notes
+        New Customization for the Loop app: CGM Sensor Notes
       
     </span>
   </a>
@@ -4587,7 +4587,7 @@
 <li><a href="#apple-developer">Apple Developer</a></li>
 <li><a href="#omnipod-issues">Omnipod Issues</a></li>
 <li><a href="#loop-v3149">Loop v3.14.9</a></li>
-<li><a href="#new-loop-customization-cgm-sensor-notes">New Loop Customization: CGM Sensor Notes</a></li>
+<li><a href="#new-customization-for-the-loop-app-cgm-sensor-notes">New Customization for the <em>Loop</em> app: CGM Sensor Notes</a></li>
 <li><a href="#xcode-to-testflight">Xcode to TestFlight</a></li>
 <li><a href="#trio-v102">Trio v1.0.2</a></li>
 <li><a href="#loopfollow">LoopFollow</a></li>
@@ -4628,7 +4628,7 @@
 </tr>
 </tbody>
 </table>
-<h4 id="permanent-links">Permanent Links<a class="headerlink" href="#permanent-links" title="Anchor link to this Header on this Page">&para;</a></h4>
+<h4 id="permanent-link-to-join">Permanent Link to Join<a class="headerlink" href="#permanent-link-to-join" title="Anchor link to this Header on this Page">&para;</a></h4>
 <p>Video Conference Sessions use the following links every month. Notice - they now have easy-to-remember shortcuts:</p>
 <ul>
 <li><code>English Open Mic</code>: <a href="https://loopandlearn.org/zoom">loopandlearn.org/zoom</a></li>
@@ -4642,28 +4642,27 @@
 <p>We’re getting closer, but we still need $13,044 to reach our goal. If you haven’t had a chance to contribute yet, please consider making a small donation. Every little bit helps!</p>
 <p>These funds will bring our developers and volunteers together to brainstorm, collaborate, and explore new ideas, devices, and strategies to improve life with diabetes.</p>
 <p>Thank you for being part of this incredible community and helping make Hackdiabetes 2026 happen.</p>
-<p><code>#Hackdiabetes2026</code> <code>#wearenotwaiting</code> <code>#payitforward</code></p>
 <ul>
-<li><a href="https://donate.hackdiabetes.io">Donation Link</a></li>
+<li><a href="https://donate.hackdiabetes.io">Donate to HackDiabetes 2026 Link</a></li>
 </ul>
 <hr />
 <h2 id="a-note-from-the-developers">A Note From the Developers<a class="headerlink" href="#a-note-from-the-developers" title="Anchor link to this Header on this Page">&para;</a></h2>
 <p>Thank you to the community members who have loaned out new CGM and Pump devices to developers! They are actively working on identifying whether it's possible to add more pumps and CGMs to Trio, Loop, and AAPS, thanks in part to your support. #WeAreNotWaiting and #WeAreNotStopping until as many CGMs and pumps as possible can work with open source AID!</p>
 <hr />
 <h2 id="apple-developer">Apple Developer<a class="headerlink" href="#apple-developer" title="Anchor link to this Header on this Page">&para;</a></h2>
-<p>It’s time to sign a new Apple Developer agreement. Please be sure to sign it by 13 November to maintain your ability to build, update, and use remote commands!  </p>
+<p>It’s time to sign a new Apple Developer agreement. Please be sure to sign it by <strong>13 November</strong> to maintain your ability to build, update, and use remote commands!  </p>
 <hr />
 <h2 id="omnipod-issues">Omnipod Issues<a class="headerlink" href="#omnipod-issues" title="Anchor link to this Header on this Page">&para;</a></h2>
 <p>We've had a flurry of changes to the way we connect to Pods through Bluetooth.</p>
 <ul>
 <li>The pros:<ul>
 <li>Significant improvements in 203 fault frequency (for most)</li>
-<li>Improved speed for connection for iPhone 16/17e users of Atlas Pods</li>
+<li>Improved speed for connection for iPhone 16/17e users of <code>Atlas DASH Pods</code></li>
 </ul>
 </li>
 <li>The cons:<ul>
 <li>Devs moved pretty fast through a couple of major code changes</li>
-<li>We missed fixing something for iPhone 16/17e users of Atlas Pods with the latest release</li>
+<li>We thought we needed to keep iPhone 16/17e users of <code>Atlas DASH Pods</code> connected in the background but it turns out that increases 203 frequency and is not necessary</li>
 </ul>
 </li>
 <li>The status:<ul>
@@ -4671,9 +4670,10 @@
 <li>These have been figured out, and the fixes will be released soon (be patient, please)<ul>
 <li>If you can't reach the pod to Deactivate - you have to wait 4 minutes for the app to give up and offer you the option to Discard the pod - another exercise in patience</li>
 <li>If you acknowledge an alert and the pod communication did not work, the pod might keep beeping (work-around is to enable and then disable Silent Pod)</li>
-<li>If you are using an iPhone 16/17e with Atlas Pods - the current release unfortunately increases the 203 fault frequency back to what it used to be<ul>
+<li>If you are using an iPhone 16/17e with <code>Atlas DASH Pods</code> - the current release (Loop v3.14.9; Trio v1.0.2) unfortunately increases the 203 fault frequency back to what it used to be<ul>
+<li>An older version can be used that returns to the slower Bluetooth connection (requires <code>Pod Keep Alive</code>) but with reduced 203 frequency - until the new version is released, you can't have both reduced 203 and faster connection</li>
 <li>Loop users can go back to v3.14.7 temporarily or try Loop dev branch until we get these updates released</li>
-<li>Trio users can go back to v1.0 temporarily</li>
+<li>Trio users can go back to v1.0 temporarily; it will land in <code>dev</code> before it is released</li>
 </ul>
 </li>
 </ul>
@@ -4688,16 +4688,16 @@
 </blockquote>
 <p>This release is recommended for all Loopers (except those who are on next-dev or those running iPhone 16/17e with Atlas Pods).</p>
 <p>There are important fixes that you can only get if you rebuild. (These important fixes are ported to next-dev, so if you are testing that branch, be sure to update and rebuild soon.)</p>
-<p>Please read about this in <a href="https://loopkit.github.io/loopdocs/version/releases/">LoopDocs</a>.</p>
+<p>Please read about this in <a href="https://loopkit.github.io/loopdocs/version/releases/#loop-v3149">LoopDocs</a>.</p>
 <p>For anyone struggling to build, help is available on Facebook. Please provide your GitHub username or URL so that we can take a look at your build logs.</p>
 <p>If you've been using Loop-dev, you should first go to your Loopworkspace repository, click on Settings, and change the Default Branch to main by clicking the opposing arrows. Loop-main users can skip this step.</p>
 <p>If you have customizations, review <a href="">this short video</a> <strong>Link in Prep Sheet does not work</strong> for how to move those customizations to the build_loop_auto.yml file.</p>
 <hr />
-<h2 id="new-loop-customization-cgm-sensor-notes">New Loop Customization: CGM Sensor Notes<a class="headerlink" href="#new-loop-customization-cgm-sensor-notes" title="Anchor link to this Header on this Page">&para;</a></h2>
-<p>Your Nightscout chart can now show sensor statuses for Dexcom G6/G7.
+<h2 id="new-customization-for-the-loop-app-cgm-sensor-notes">New Customization for the <em>Loop</em> app: CGM Sensor Notes<a class="headerlink" href="#new-customization-for-the-loop-app-cgm-sensor-notes" title="Anchor link to this Header on this Page">&para;</a></h2>
+<p>Your Nightscout chart can now show sensor statuses for Dexcom G6/G7 if you apply this new customization to the <em>Loop</em> app.
 The next time there's no CGM data, you can quickly verify if there is a temporary sensor issue for example.</p>
 <p>More info: <a href="https://www.loopandlearn.org/custom-code/#cgm-sensor-notes">CGM Sensor Notes</a></p>
-<p>This feature was added to the <code>next-dev</code> branch based on this customization. It is extended to more sensors than just Dexcom. The <code>next-dev</code> branch is undergoing rapid updates, so best to leave it for experts to test.</p>
+<p>This feature was added to the <em>Loop</em> <code>next-dev</code> branch based on this customization. It is extended to more sensors than just Dexcom. The <code>next-dev</code> branch is undergoing rapid updates, so best to leave it for experts to test.</p>
 <hr />
 <h2 id="xcode-to-testflight">Xcode to TestFlight<a class="headerlink" href="#xcode-to-testflight" title="Anchor link to this Header on this Page">&para;</a></h2>
 <p>There is a new lnl-scripts feature for Xcode builders to upload to TestFlight for remote backup or installation to remote family members' phones. This TestFlight upload is a feature offered for all the build scripts and for the Customization script.</p>
@@ -4764,7 +4764,7 @@ Facebook (Loop and Learn and Trio) is the best place to get support for main ver
 <p>No security measure can eliminate every risk, but these steps can make it harder for someone to gain unauthorized access to your phone, accounts, and the diabetes technology you rely on.</p>
 <hr />
 <h2 id="dexcom-g7-covers">Dexcom G7 Covers<a class="headerlink" href="#dexcom-g7-covers" title="Anchor link to this Header on this Page">&para;</a></h2>
-<p>A 13-year old looper made his own G7 sensor covers to avoid compression lows- and <a href="https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4550366498553152">he shared the code</a> with us! Some of our friends in the <a href="https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4550366498553152">LnL FB group</a> have 3D-printed their own and benefitted, too!</p>
+<p>A 13-year old looper made his own G7 sensor covers to avoid compression lows- and <a href="https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4550366498553152">he shared the code</a> with us! Some of our friends in the LnL FB group have 3D-printed their own and benefitted, too!</p>
 <hr />
 <h2 id="trio-developer-takes-the-stage-at-easds-first-ai-workshop">Trio Developer Takes the Stage at EASD’s First AI Workshop<a class="headerlink" href="#trio-developer-takes-the-stage-at-easds-first-ai-workshop" title="Anchor link to this Header on this Page">&para;</a></h2>
 <blockquote>
