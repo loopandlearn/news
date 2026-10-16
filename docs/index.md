@@ -22,7 +22,7 @@ Published on 16 October 2026
 * [Data Sharing in Our Apps](#data-sharing-in-our-apps)
 * [Protecting Your Phone Is Part of OS-AID Safety](#protecting-your-phone-is-part-of-os-aid-safety)
 * [Dexcom G7 Covers](#dexcom-g7-covers)
-* [A Report on EASD](#a-report-on-easd)
+* [Trio Developer Takes the Stage at EASD’s First AI Workshop](#trio-developer-takes-the-stage-at-easds-first-ai-workshop)
 * [FaceBook Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
@@ -108,7 +108,7 @@ We've had a flurry of changes to the way we connect to Pods through Bluetooth.
 
 > Loop v3.14.9 was released on 05 October 2026.
 
-This release is recommended for all Loopers (except those who are on next-dev) or those running iPhone 16/17e with Atlas Pods.
+This release is recommended for all Loopers (except those who are on next-dev or those running iPhone 16/17e with Atlas Pods).
 
 There are important fixes that you can only get if you rebuild. (These important fixes are ported to next-dev, so if you are testing that branch, be sure to update and rebuild soon.)
 
@@ -135,7 +135,7 @@ This feature was added to the `next-dev` branch based on this customization. It 
 
 ## Xcode to TestFlight
 
-New lnl-scripts feature for Xcode builders to upload to TestFlight for remote backup or installation to remote family members' phones.  (We need to update documentation for this too.) 
+There is a new lnl-scripts feature for Xcode builders to upload to TestFlight for remote backup or installation to remote family members' phones. This TestFlight upload is a feature offered for all the build scripts and for the Customization script.
 
 - - -
 
@@ -184,7 +184,7 @@ The LoopWorkspace Eversense branch is built here, but these same steps can help 
 
 To make it easier, two browser tabs are used- one with the [LoopWorkspace](https://github.com/LoopKit/LoopWorkspace/) repository and a second with the developers' repository.
 
-As always, this is explained in detail in [LoopDocs](https://loopkit.github.io/loopdocs/version/development/#how-to-build-feature-branches).
+This is explained in detail in [LoopDocs](https://loopkit.github.io/loopdocs/version/development/#how-to-build-feature-branches).
 
 
 - - -
@@ -237,25 +237,23 @@ A 13-year old looper made his own G7 sensor covers to avoid compression lows- an
 
 - - -
 
-## A Report on EASD
+## Trio Developer Takes the Stage at EASD’s First AI Workshop
 
-> by Dan Moody, Lead Trio Developer
+> from a report by Dan Moody, Lead Trio Developer
 
 
-I came to Milan for leisure, sun, gelato, and a bit of lean-back time – and left having given a TED-style talk and co-run an AI workshop. What a week. Inspirational, insightful, and, I hope,  leaving a positive mark. The best part, as always, was the people: old friends and new, long-time collaborators and faces I'd just met, all circling the same question of how technology and research can make life with diabetes better.
+Trio developer Dan Moody was invited to speak at the first-ever [European Association
+for the Study of Diabetes e.V. (EASD)](https://www.linkedin.com/company/easd/) AI workshop, alongside [Tim Street](https://www.linkedin.com/in/tim-street-120215/). Their session,
+titled "Artificial Intelligence, Carb Counting & Insulin Dosing – A Practical Guide for
+Clinicians and Researchers" cut through the ever-present hype around AI.
 
-Huge thanks to Prof. Dr. [Julia Mader](https://www.linkedin.com/in/julia-mader-891394a4/) for the invitation to speak at the first-ever [European Association for the Study of Diabetes e.V. (EASD)](https://www.linkedin.com/company/easd/) AI workshop, alongside my dear friend and trusted open-source colleague [Tim Street](https://www.linkedin.com/in/tim-street-120215/). Our session "Artificial Intelligence, Carb Counting & Insulin Dosing – A practical guide for clinicians and researchers" was all about cutting through the hype and getting practical.
 
-And because life likes to do things its own way sometimes, I also had the absolute honor of stepping in for my dear friend Prof. Dr. [Katarina Braune](https://www.linkedin.com/in/katarinabraune/) to deliver a TED-like talk ("Agentic AI and Digital Twins – Autonomous Systems in Diabetes Management") at the 62nd Annual Meeting of EASD. A special thanks to Dr. [Amit Kumar Dey](https://www.linkedin.com/in/dramitkumardey/), whom I had the pleasure of sharing the Arena stage with.
+Dan also filled in for [Prof. Dr. Katarina Braune](https://www.linkedin.com/in/katarinabraune/) to deliver a TED-like talk, "Agentic AI and
+Digital Twins – Autonomous Systems in Diabetes Management", sharing the arena stage
+with [Dr. Amit Kumar Dey](https://www.linkedin.com/in/dramitkumardey/).
 
-A special word on the [#dedoc° Diabetes Online Community](https://www.linkedin.com/company/dedoc/) symposium, which was as inspirational as ever – and this year carried the beautiful remembrance and spirit of Bastian Hauck, who we lost earlier this year.
 
-Everything I do in this space – Trio, every talk, every argument for putting lived experience at the center – goes to show that patient-led innovation isn't just a nice-to-have. It's an engine and a multiplier. And to paraphrase [chantal mathieu's](https://www.linkedin.com/in/chantal-mathieu-8780b05a/) words: the fact that these conversations happen on stages like EASD is proof of what advocacy driven by lived experience can achieve. #NothingAboutUsWithoutUs #PayItForward.
-
-From the open-source AID community: thank you for having us in the room. These conversations matter, and the fact that they're happening on a stage like this is a sign of how far we've come.
-
-Until the next one. Search for these hashtags: #EASD2026 #dedoc #OpenSource #WeAreNotWaiting 
-
+Please see more about Dan’s experience and reflections on [LinkedIn](). We’re proud of him!
 
 - - -
 
