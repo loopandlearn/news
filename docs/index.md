@@ -14,7 +14,7 @@ Published on 16 October 2026
 * [Apple Developer](#apple-developer)
 * [Omnipod Issues](#omnipod-issues)
 * [Loop v3.14.9](#loop-v3149)
-* [New Loop Customization: CGM Sensor Notes](#new-loop-customization-cgm-sensor-notes)
+* [New Customization for the *Loop* app: CGM Sensor Notes](#new-customization-for-the-loop-app-cgm-sensor-notes)
 * [Xcode to TestFlight](#xcode-to-testflight)
 * [Trio v1.0.2](#trio-v102)
 * [LoopFollow](#loopfollow)
@@ -41,7 +41,7 @@ The Italian `Open Mic` is paused for now - so no meeting in October.
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 21:00 UTC | 24 October 2026 |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1)| no | 18:00 UTC | 12 November 2026 |
 
-#### Permanent Links
+#### Permanent Link to Join
 
 Video Conference Sessions use the following links every month. Notice - they now have easy-to-remember shortcuts:
 
@@ -65,9 +65,7 @@ These funds will bring our developers and volunteers together to brainstorm, col
 
 Thank you for being part of this incredible community and helping make Hackdiabetes 2026 happen.
 
-`#Hackdiabetes2026` `#wearenotwaiting` `#payitforward`
-
-* [Donation Link](https://donate.hackdiabetes.io)
+* [Donate to HackDiabetes 2026 Link](https://donate.hackdiabetes.io)
 
 - - -
 
@@ -79,7 +77,7 @@ Thank you to the community members who have loaned out new CGM and Pump devices 
 
 ## Apple Developer
 
-It’s time to sign a new Apple Developer agreement. Please be sure to sign it by 13 November to maintain your ability to build, update, and use remote commands!  
+It’s time to sign a new Apple Developer agreement. Please be sure to sign it by **13 November** to maintain your ability to build, update, and use remote commands!  
 
 - - -
 
@@ -89,18 +87,19 @@ We've had a flurry of changes to the way we connect to Pods through Bluetooth.
 
 * The pros:
 	* Significant improvements in 203 fault frequency (for most)
-	* Improved speed for connection for iPhone 16/17e users of Atlas Pods
+	* Improved speed for connection for iPhone 16/17e users of `Atlas DASH Pods`
 * The cons:
 	* Devs moved pretty fast through a couple of major code changes
-	* We missed fixing something for iPhone 16/17e users of Atlas Pods with the latest release
+	* We thought we needed to keep iPhone 16/17e users of `Atlas DASH Pods` connected in the background but it turns out that increases 203 frequency and is not necessary
 * The status:
 	* As of Loop v3.14.9 and Trio 1.0.2 there are some outstanding Omnipod issues
 	* These have been figured out, and the fixes will be released soon (be patient, please)
 		* If you can't reach the pod to Deactivate - you have to wait 4 minutes for the app to give up and offer you the option to Discard the pod - another exercise in patience
 		* If you acknowledge an alert and the pod communication did not work, the pod might keep beeping (work-around is to enable and then disable Silent Pod)
-		* If you are using an iPhone 16/17e with Atlas Pods - the current release unfortunately increases the 203 fault frequency back to what it used to be
+		* If you are using an iPhone 16/17e with `Atlas DASH Pods` - the current release (Loop v3.14.9; Trio v1.0.2) unfortunately increases the 203 fault frequency back to what it used to be
+			* An older version can be used that returns to the slower Bluetooth connection (requires `Pod Keep Alive`) but with reduced 203 frequency - until the new version is released, you can't have both reduced 203 and faster connection
 			* Loop users can go back to v3.14.7 temporarily or try Loop dev branch until we get these updates released
-			* Trio users can go back to v1.0 temporarily
+			* Trio users can go back to v1.0 temporarily; it will land in `dev` before it is released
 
 - - -
 
@@ -112,7 +111,7 @@ This release is recommended for all Loopers (except those who are on next-dev or
 
 There are important fixes that you can only get if you rebuild. (These important fixes are ported to next-dev, so if you are testing that branch, be sure to update and rebuild soon.)
 
-Please read about this in [LoopDocs](https://loopkit.github.io/loopdocs/version/releases/).
+Please read about this in [LoopDocs](https://loopkit.github.io/loopdocs/version/releases/#loop-v3149).
 
 For anyone struggling to build, help is available on Facebook. Please provide your GitHub username or URL so that we can take a look at your build logs.
 
@@ -122,14 +121,14 @@ If you have customizations, review [this short video]() **Link in Prep Sheet doe
 
 - - -
 
-## New Loop Customization: CGM Sensor Notes
+## New Customization for the *Loop* app: CGM Sensor Notes
 
-Your Nightscout chart can now show sensor statuses for Dexcom G6/G7.
+Your Nightscout chart can now show sensor statuses for Dexcom G6/G7 if you apply this new customization to the *Loop* app.
 The next time there's no CGM data, you can quickly verify if there is a temporary sensor issue for example.
 
 More info: [CGM Sensor Notes](https://www.loopandlearn.org/custom-code/#cgm-sensor-notes)
 
-This feature was added to the `next-dev` branch based on this customization. It is extended to more sensors than just Dexcom. The `next-dev` branch is undergoing rapid updates, so best to leave it for experts to test.
+This feature was added to the *Loop* `next-dev` branch based on this customization. It is extended to more sensors than just Dexcom. The `next-dev` branch is undergoing rapid updates, so best to leave it for experts to test.
 
 - - -
 
@@ -233,7 +232,7 @@ No security measure can eliminate every risk, but these steps can make it harder
 ## Dexcom G7 Covers
 
 
-A 13-year old looper made his own G7 sensor covers to avoid compression lows- and [he shared the code](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4550366498553152) with us! Some of our friends in the [LnL FB group](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4550366498553152) have 3D-printed their own and benefitted, too!
+A 13-year old looper made his own G7 sensor covers to avoid compression lows- and [he shared the code](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4550366498553152) with us! Some of our friends in the LnL FB group have 3D-printed their own and benefitted, too!
 
 - - -
 
