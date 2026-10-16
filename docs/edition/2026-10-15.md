@@ -92,14 +92,15 @@ We've had a flurry of changes to the way we connect to Pods through Bluetooth.
 	* Improved speed for connection for iPhone 16/17e users of Atlas Pods
 * The cons:
 	* Devs moved pretty fast through a couple of major code changes
+	* We missed fixing something for iPhone 16/17e users of Atlas Pods with the latest release
 * The status:
 	* As of Loop v3.14.9 and Trio 1.0.2 there are some outstanding Omnipod issues
 	* These have been figured out, and the fixes will be released soon (be patient, please)
 		* If you can't reach the pod to Deactivate - you have to wait 4 minutes for the app to give up and offer you the option to Discard the pod - another exercise in patience
-		* If you are using an iPhone 16/17e with Atlas Pods - the current release unfortunately increases the 203 fault frequency (Loop users can go back to v3.14.7 temporarily or try Loop dev branch until we get these updates released)
 		* If you acknowledge an alert and the pod communication did not work, the pod might keep beeping (work-around is to enable and then disable Silent Pod)
-
-
+		* If you are using an iPhone 16/17e with Atlas Pods - the current release unfortunately increases the 203 fault frequency back to what it used to be
+			* Loop users can go back to v3.14.7 temporarily or try Loop dev branch until we get these updates released
+			* Trio users can go back to v1.0 temporarily
 
 - - -
 
