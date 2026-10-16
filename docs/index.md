@@ -136,6 +136,8 @@ This feature was added to the *Loop* `next-dev` branch based on this customizati
 
 There is a new lnl-scripts feature for Xcode builders to upload to TestFlight for remote backup or installation to remote family members' phones. This TestFlight upload is a feature offered for all the build scripts and for the Customization script.
 
+Please read the new information in [LoopDoc: Use Scripts to Upload to TestFlight](https://loopkit.github.io/loopdocs/build/testflight-xcode/#use-scripts-to-upload-to-testflight).
+
 - - -
 
 ## Trio v1.0.2
