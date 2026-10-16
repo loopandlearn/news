@@ -22,7 +22,6 @@ Published on 16 October 2026
 * [Data Sharing in Our Apps](#data-sharing-in-our-apps)
 * [Protecting Your Phone Is Part of OS-AID Safety](#protecting-your-phone-is-part-of-os-aid-safety)
 * [Dexcom G7 Covers](#dexcom-g7-covers)
-* [Trio Developer Takes the Stage at EASD’s First AI Workshop](#trio-developer-takes-the-stage-at-easds-first-ai-workshop)
 * [FaceBook Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
@@ -117,8 +116,6 @@ For anyone struggling to build, help is available on Facebook. Please provide yo
 
 If you've been using Loop-dev, you should first go to your Loopworkspace repository, click on Settings, and change the Default Branch to main by clicking the opposing arrows. Loop-main users can skip this step.
 
-If you have customizations, review [this short video]() **Link in Prep Sheet does not work** for how to move those customizations to the build_loop_auto.yml file.
-
 - - -
 
 ## New Customization for the *Loop* app: CGM Sensor Notes
@@ -179,14 +176,13 @@ Do you have an older iPhone not supported by the most recent updates of LoopFoll
 The feature branch `legacy-ios16` was created for anyone who wants to build v6.2.0 for "legacy" devices.
 
 Here’s help building a feature branch!
-In less than 4 minutes, [this video](https://loopandlearneditors.slack.com/files/U03H0N9RC05/F0C9MPHKFT3/branch_eversense_2026.6.4.mp4) shows you how easy it is for Browser Builders to build a feature branch. 
+In less than 4 minutes, [this video](https://drive.google.com/file/d/1Mxv2uQVOj3191TqgdlfbgTFkUqpHmqdB/view) shows you how easy it is for Browser Builders to build a feature branch. 
 
-The LoopWorkspace Eversense branch is built here, but these same steps can help you build branches of LoopFollow, Trio, or xDrip4iOS.
+* The LoopWorkspace Eversense branch is built in this video, but these same steps can help you build branches of LoopFollow, Trio, or xDrip4iOS.
 
-To make it easier, two browser tabs are used- one with the [LoopWorkspace](https://github.com/LoopKit/LoopWorkspace/) repository and a second with the developers' repository.
+To make it easier to add the new branck to your copy of LoopFollow, use two browser tabs - one with the [LoopFollow](https://github.com/loopandlearn/LoopFollow/) repository and a second with the your copy of this repository.
 
-This is explained in detail in [LoopDocs](https://loopkit.github.io/loopdocs/version/development/#how-to-build-feature-branches).
-
+This is explained in detail in [LoopDocs](https://loopkit.github.io/loopdocs/version/development/#how-to-build-feature-branches). 
 
 - - -
 
@@ -235,26 +231,6 @@ No security measure can eliminate every risk, but these steps can make it harder
 
 
 A 13-year old looper made his own G7 sensor covers to avoid compression lows- and [he shared the code](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4550366498553152) with us! Some of our friends in the LnL FB group have 3D-printed their own and benefitted, too!
-
-- - -
-
-## Trio Developer Takes the Stage at EASD’s First AI Workshop
-
-> from a report by Dan Moody, Lead Trio Developer
-
-
-Trio developer Dan Moody was invited to speak at the first-ever [European Association
-for the Study of Diabetes e.V. (EASD)](https://www.linkedin.com/company/easd/) AI workshop, alongside [Tim Street](https://www.linkedin.com/in/tim-street-120215/). Their session,
-titled "Artificial Intelligence, Carb Counting & Insulin Dosing – A Practical Guide for
-Clinicians and Researchers" cut through the ever-present hype around AI.
-
-
-Dan also filled in for [Prof. Dr. Katarina Braune](https://www.linkedin.com/in/katarinabraune/) to deliver a TED-like talk, "Agentic AI and
-Digital Twins – Autonomous Systems in Diabetes Management", sharing the arena stage
-with [Dr. Amit Kumar Dey](https://www.linkedin.com/in/dramitkumardey/).
-
-
-Please see more about Dan’s experience and reflections on [LinkedIn](). We’re proud of him!
 
 - - -
 
