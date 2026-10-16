@@ -17,7 +17,7 @@ Published on 16 October 2026
 * [New Customization for the *Loop* app: CGM Sensor Notes](#new-customization-for-the-loop-app-cgm-sensor-notes)
 * [Xcode to TestFlight](#xcode-to-testflight)
 * [Trio v1.0.2](#trio-v102)
-* [LoopFollow](#loopfollow)
+* [LoopFollow for Older Devices](#loopfollow-for-older-devices)
 * [main or dev](#main-or-dev)
 * [Data Sharing in Our Apps](#data-sharing-in-our-apps)
 * [Protecting Your Phone Is Part of OS-AID Safety](#protecting-your-phone-is-part-of-os-aid-safety)
@@ -169,9 +169,9 @@ A few of the new features include:
 
 - - -
 
-## LoopFollow
+## LoopFollow for Older Devices
 
-Do you have an older iPhone not supported by the most recent updates of LoopFollow? 
+Do you have an older iPhone or iPad not supported by the most recent updates of LoopFollow? 
 
 The feature branch `legacy-ios16` was created for anyone who wants to build v6.2.0 for "legacy" devices.
 
@@ -180,7 +180,7 @@ In less than 4 minutes, [this video](https://drive.google.com/file/d/1Mxv2uQVOj3
 
 * The LoopWorkspace Eversense branch is built in this video, but these same steps can help you build branches of LoopFollow, Trio, or xDrip4iOS.
 
-To make it easier to add the new branck to your copy of LoopFollow, use two browser tabs - one with the [LoopFollow](https://github.com/loopandlearn/LoopFollow/) repository and a second with the your copy of this repository.
+To make it easier to add the new branch to your copy of LoopFollow, use two browser tabs - one with the [LoopFollow](https://github.com/loopandlearn/LoopFollow/) repository and a second with the your copy of this repository.
 
 This is explained in detail in [LoopDocs](https://loopkit.github.io/loopdocs/version/development/#how-to-build-feature-branches). 
 
