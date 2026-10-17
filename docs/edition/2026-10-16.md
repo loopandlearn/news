@@ -180,7 +180,7 @@ In less than 4 minutes, [this video](https://drive.google.com/file/d/1Mxv2uQVOj3
 
 * The LoopWorkspace Eversense branch is built in this video, but these same steps can help you build branches of LoopFollow, Trio, or xDrip4iOS.
 
-To make it easier to add the new branch to your copy of LoopFollow, use two browser tabs - one with the [LoopFollow](https://github.com/loopandlearn/LoopFollow/) repository and a second with the your copy of this repository.
+To make it easier to add the new branch to your copy of LoopFollow, use two browser tabs - one with the [LoopFollow](https://github.com/loopandlearn/LoopFollow/) repository and a second with your copy of this repository.
 
 This is explained in detail in [LoopDocs](https://loopkit.github.io/loopdocs/version/development/#how-to-build-feature-branches). 
 
