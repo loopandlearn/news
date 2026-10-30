@@ -23,12 +23,12 @@ The Italian `Open Mic` is paused for now - so no meeting in October.
 
 #### Calendar
 
-The time change in the US on 1 November 2026 bumps all the Open-Mic times by 1 hour back with respect to UTC time, so we (in the US) get to keep the same meeting time.
+The time change in the US on 1 November 2026 bumps all the Open-Mic times by 1 hour back with respect to UTC time, so we (in the US) get to keep the same meeting time. We are also moving the Saturday meetings an extra hour earlier.
 
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
 | _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1)| no | 19:00 UTC | 12 November 2026 |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 22:00 UTC | 28 November 2026 |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 21:00 UTC | 28 November 2026 |
 
 #### Permanent Link to Join
 
@@ -246,20 +246,13 @@ Have you tried Afrezza inhalable insulin?
 
 ## Trio Developer Takes the Stage at EASD’s First AI Workshop
 
-Trio developer Deniz “Dan” Cengiz was invited to speak at the first-ever AI workshop for members of the European Association for the Study of Diabetes (EASD), alongside fellow OS-AID contributor Tim Street. Their session, “Artificial Intelligence, Carb Counting & Insulin Dosing: A Practical Guide for Clinicians and Researchers,” focused on practical applications of AI, cutting through the hype to offer useful takeaways for clinicians and researchers.
-Dan also stepped in for Prof. Dr. Katarina Braune to deliver a TED-style talk, “Agentic AI and Digital Twins: Autonomous Systems in Diabetes Management,” sharing the arena stage with Dr. Amit Kumar Dey.
-The EASD workshop brought together around 40 participants for discussions on AI in research and clinical practice, policy and regulation, and digital twins. The program opened with remarks from International Diabetes Federation (IDF) President Peter Schwarz, followed by sessions including an interactive presentation on AI in research and practice by Lukas Schuster. Deniz was joined by Nightscout Foundation’s Theresa Hastings for a meeting with Silvia Bertin, a veterinary medicine PhD student who is studying OS-AID use, including Trio and Nightscout, on cats at the University of Padua in Italy.
-Beyond the workshop, Deniz met with diabetes device manufacturers, networked with clinical organizations, and attended the INNODIA gala, where he connected with Loop and Learn’s Miroslava Calegari. These activities provided valuable opportunities to build relationships and exchange ideas with others across the diabetes community.
+Trio developer [Deniz “Dan” Cengiz](https://www.linkedin.com/in/dnzxy/) was invited to speak at the first-ever AI workshop for members of the [European Association for the Study of Diabetes (EASD)](https://www.linkedin.com/company/easd/), alongside fellow OS-AID contributor [Tim Street](https://www.linkedin.com/in/tim-street-120215/). Their session, “Artificial Intelligence, Carb Counting & Insulin Dosing: A Practical Guide for Clinicians and Researchers,” focused on practical applications of AI, cutting through the hype to offer useful takeaways for clinicians and researchers.
 
-- - -
+Dan also stepped in for [Prof. Dr. Katarina Braune](https://www.linkedin.com/in/katarinabraune/) to deliver a TED-style talk, “Agentic AI and Digital Twins: Autonomous Systems in Diabetes Management,” sharing the arena stage with [Dr. Amit Kumar Dey](https://www.linkedin.com/in/dramitkumardey/).
 
-## Well-Deserved Love for Open Mics
+The EASD workshop brought together around 40 participants for discussions on AI in research and clinical practice, policy and regulation, and digital twins. The program opened with remarks from International Diabetes Federation (IDF) President Peter Schwarz, followed by sessions including an interactive presentation on AI in research and practice by Lukas Schuster. Deniz was joined by Nightscout Foundation’s [Theresa Hastings](https://www.linkedin.com/in/defiantt1d/) for a meeting with [Silvia Bertin](https://www.linkedin.com/in/silvia-bertin-6a4735366), a veterinary medicine PhD student who is studying OS-AID use, including Trio and Nightscout, on cats at the University of Padua in Italy.
 
-
-“I just want to say a big THANK YOU for doing the Open Mic session last Sat eve.
-There were many hidden gems of info, and you were so patient in answering our questions.
-Fellow Trioneers: if you are struggling with settings, as many of us are, I would highly recommend you hop on an Open Mic session. The learned people behind TRIO give of their time to help US….!
-PS: The Sat eve time is great for those of us on CET time or similar - Thanks a mil for thinking of our time clock!!!!!”
+Beyond the workshop, Deniz met with diabetes device manufacturers, networked with clinical organizations, and attended the INNODIA gala, where he connected with Loop and Learn’s [Miroslava Calegari]. These activities provided valuable opportunities to build relationships and exchange ideas with others across the diabetes community.
 
 - - -
 
@@ -267,34 +260,6 @@ PS: The Sat eve time is great for those of us on CET time or similar - Thanks a 
 
 
 Four of Open Source looping’s great contributors met up in California for dinner recently. Marion Barker, Joe Moran, James Woglom (who was visiting on business) and Rayhan Lal had the opportunity to dine and discuss current topics in OS-AID.
-
-Photo captions:
-James loops with Trio and Mobi. Joe with Loop ,next-dev and Eversense 365
-Rayhan and Marion
-Rayhan, Marion, James and Joe
-
-
-
-- - -
-
-## Yusuf’s Story  {Loopers Doing Awesome Things}
-
-
-I am a software developer for the Istanbul Technical University Robotics Search and Rescue Team (ITU RAKE), and I have also been living with Type 1 diabetes for 6 years. Recently, at the prestigious Intelligent Ground Vehicle Competition (IGVC) held in Detroit, Michigan, USA, our team achieved second place in the world among 28 competing teams with our autonomous vehicle, “Ayaz”. As a software developer, my role was to ensure that Ayaz successfully navigated complex obstacles and reached its target using artificial intelligence and autonomous algorithms.
-
-
-Yet, in the background, amidst the immense stress and adrenaline rush of the competition, I also had to manage my own biological algorithm: my blood sugar. Just as our vehicle processed data from its Lidar and camera sensors in fractions of a second to stay on track, I managed to stay on my own track thanks to technology and open-source (DIY) diabetes management tools. This global achievement in the US has become the most concrete proof for me that Type 1 diabetes is never a barrier to reaching high-performance engineering goals and dreams.
-
-- - -
-
-## Articles to add (hopefully):
-
-
-T1Dto100 GO Bag post with linked, editable packing list 
-Travel
-
-
-
 
 - - -
 
