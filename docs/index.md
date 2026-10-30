@@ -15,14 +15,13 @@ Published on 30 October 2026
 * [iOS 27..2](#ios-272)
 * [AAPS Users](#aaps-users)
 * [Apple Developer REMINDER](#apple-developer-reminder)
+* [Nightscout Release](#nightscout-release)
+* [Keeping Nightscout Private](#keeping-nightscout-private)
 * [Dexcom Privacy Policy Concerns](#dexcom-privacy-policy-concerns)
 	* [How to Opt Out of the Mandatory Arbitration Clause](#how-to-opt-out-of-the-mandatory-arbitration-clause)
 	* [More Information](#more-information)
 * [Trio Tips](#trio-tips)
-* [Nightscout Release](#nightscout-release)
-* [Keeping Nightscout Private](#keeping-nightscout-private)
 * [Loop and Learn’s OS-AID-Friendly Healthcare Provider (HCP) Resource](#loop-and-learns-os-aid-friendly-healthcare-provider-hcp-resource)
-* [Using Afrezza with Your OS-AID](#using-afrezza-with-your-os-aid)
 * [Trio Developer at EASD’s First AI Workshop](#trio-developer-at-easds-first-ai-workshop)
 * [A Meeting of the Minds](#a-meeting-of-the-minds)
 * [FaceBook Q&A](#facebook-qa)
@@ -56,11 +55,6 @@ Video Conference Sessions use the following links every month. Notice - they now
 #### Time Zone Converter
 
 Need help figuring out when an event happens in your time zone? Try the [SavvyTime: UTC Converter](https://savvytime.com/converter/utc).
-
-- - -
-
-29 Oct. 2026 News from Loop and Learn					Prep Sheet
-
 
 - - -
 
@@ -99,7 +93,7 @@ There are important fixes for Omnipod users and Eversense users. Please switch t
 
 See [LoopDocs](https://loopkit.github.io/loopdocs/version/releases/#loop-v31411) for more details.
 
-**WARNING** The next change to `dev` branch will be to update it to what we have been testing with n`ext-dev` branch. Please set `main` branch as your default branch unless you want to test what will soon be Loop version 4.
+**WARNING** The next change to `dev` branch will be to update it to what we have been testing with `next-dev` branch. Please set `main` branch as your default branch unless you want to test what will soon be Loop version 4.
 
 The new version (`next-dev` and soon-to-be `dev` branch) contains a lot of differences in the user interface plus some functional changes. Want a sneak-peek?
 
@@ -107,9 +101,12 @@ The new version (`next-dev` and soon-to-be `dev` branch) contains a lot of diffe
 
 - - -
 
-## iOS 27..2
+## iOS 27.2
 
-It's time.  Apple released iOS 27.2 and it's fine to install. Be sure to update while you are awake to make sure all the apps you need restart after the upgraded.
+It's time.  Apple released iOS 27.2 and it's fine to install. 
+
+* If your version of Loop or Trio is out of date - you should update that app first before updating iOS; both have added updates to support iOS 27
+* Be sure to update the apps and the iOS while you are awake to make sure all the apps you need restart after the upgrade
 
 - - -
 
@@ -129,6 +126,42 @@ More great news: Omnipod 5 support is now available in the [`o5` branch of the A
 ## Apple Developer REMINDER
 
 Sign a new Apple Developer agreement by 13 November to maintain your ability to build, update, and use remote commands!  
+
+- - -
+
+## Nightscout Release
+
+The [Cinnamon Muffin Nightscout release, v15.0.9](https://github.com/nightscout/cgm-remote-monitor/releases/tag/15.0.9), came out on 21 October.
+
+The method you use to update to this version depends on how you get your Nightscout.
+
+This release focuses on security, reliability and everyday improvements, including:
+
+* Important security fixes
+* Better treatment syncing with AndroidAPS and more accurate insulin-on-board and carbs-on-board calculations
+* Fixes for several alarms, including mmol/L low thresholds and pump-suspended warnings
+* A new 48-hour chart option and treatment reports you can filter by event type
+* Improved CGM connector reliability and server stability
+
+A big thank you to everyone who contributed code, testing, and bug reports!
+
+**Note:**
+
+* This release is available for users of Nightscout Pro
+* This release is not yet available in Google Cloud Nightscout. See [CGM in the Cloud Facebook group](https://www.facebook.com/groups/cgminthecloud/) for updates. 
+
+- - -
+
+## Keeping Nightscout Private
+
+To turn off unauthorized access:
+
+* set the AUTH_DEFAULT_ROLES variable value to “denied”
+* [Require a token to access the Nightscout site](https://nightscout.github.io/nightscout/admin_tools/)
+
+The great thing about usng a token is you can revoke the token to remove access. Use one token per person or group of people for better security.
+
+Remember: Never give anyone your personal link (including your admin token) to your Nightscout site or share your API_SECRET. Be very careful if you share a token with admin access.
 
 - - -
 
@@ -192,42 +225,6 @@ Press 0 on the numeric keypad,
 * This moves the cursor all the way to the right more quickly than if you were to long-press the cursor and then move it to the right,
 * Press Delete twice to remove 50,
 * Tap 80.
-  
-- - -
-
-## Nightscout Release
-
-The [Cinnamon Muffin Nightscout release, v15.0.9](https://github.com/nightscout/cgm-remote-monitor/releases/tag/15.0.9), came out on 21 October.
-
-The method you use to update to this version depends on how you get your Nightscout.
-
-This release focuses on security, reliability and everyday improvements, including:
-
-* Important security fixes
-* Better treatment syncing with AndroidAPS and more accurate insulin-on-board and carbs-on-board calculations
-* Fixes for several alarms, including mmol/L low thresholds and pump-suspended warnings
-* A new 48-hour chart option and treatment reports you can filter by event type
-* Improved CGM connector reliability and server stability
-
-A big thank you to everyone who contributed code, testing, and bug reports!
-
-**Note:**
-
-* This release is available for users of Nightscout Pro
-* This release is not yet available in Google Cloud Nightscout. See [CGM in the Cloud Facebook group](https://www.facebook.com/groups/cgminthecloud/) for updates. 
-
-- - -
-
-## Keeping Nightscout Private
-
-To turn off unauthorized access:
-
-* set the AUTH_DEFAULT_ROLES variable value to “denied”
-* [Require a token to access the Nightscout site](https://nightscout.github.io/nightscout/admin_tools/)
-
-The great thing about usng a token is you can revoke the token to remove access. Use one token per person or group of people for better security.
-
-Remember: Never give anyone your personal link (including your admin token) to your Nightscout site or share your API_SECRET. Be very careful if you share a token with admin access.
 
 - - -
 
@@ -243,13 +240,7 @@ Thank you to all who have contributed to our great resource- keep the recommenda
 
 - - -
 
-## Using Afrezza with Your OS-AID
-
-Have you tried Afrezza inhalable insulin? 
-
-- - -
-
-## Trio Developer Takes the Stage at EASD’s First AI Workshop
+## Trio Developer at EASD’s First AI Workshop
 
 Trio developer [Deniz “Dan” Cengiz](https://www.linkedin.com/in/dnzxy/) was invited to speak at the first-ever AI workshop for members of the [European Association for the Study of Diabetes (EASD)](https://www.linkedin.com/company/easd/), alongside fellow OS-AID contributor [Tim Street](https://www.linkedin.com/in/tim-street-120215/). Their session, “Artificial Intelligence, Carb Counting & Insulin Dosing: A Practical Guide for Clinicians and Researchers,” focused on practical applications of AI, cutting through the hype to offer useful takeaways for clinicians and researchers.
 
