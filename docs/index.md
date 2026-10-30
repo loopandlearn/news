@@ -2,26 +2,14 @@
 
 _Master Your DIY `Closed-Loop` Insulin Delivery System_
 
-Published on 16 October 2026
+Published on 29 October 2026
 
 - - -
 
 ## In this edition:
 
 * [Upcoming Open Mics](#upcoming-open-mics)
-* [Fundraising Update](#fundraising-update)
-* [A Note From the Developers](#a-note-from-the-developers)
-* [Apple Developer](#apple-developer)
-* [Omnipod Issues](#omnipod-issues)
-* [Loop v3.14.9](#loop-v3149)
-* [New Customization for the *Loop* app: CGM Sensor Notes](#new-customization-for-the-loop-app-cgm-sensor-notes)
-* [Xcode to TestFlight](#xcode-to-testflight)
-* [Trio v1.0.2](#trio-v102)
-* [LoopFollow for Older Devices](#loopfollow-for-older-devices)
-* [main or dev](#main-or-dev)
-* [Data Sharing in Our Apps](#data-sharing-in-our-apps)
-* [Protecting Your Phone Is Part of OS-AID Safety](#protecting-your-phone-is-part-of-os-aid-safety)
-* [Dexcom G7 Covers](#dexcom-g7-covers)
+
 * [FaceBook Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
@@ -35,10 +23,12 @@ The Italian `Open Mic` is paused for now - so no meeting in October.
 
 #### Calendar
 
+The time change in the US on 1 November 2026 bumps all the Open-Mic times by 1 hour back with respect to UTC time, so we (in the US) get to keep the same meeting time.
+
 | Topic | Recorded? | Time | Date |
 | - | - | - | - |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 21:00 UTC | 24 October 2026 |
-| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1)| no | 18:00 UTC | 12 November 2026 |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 2nd Thursday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1)| no | 19:00 UTC | 12 November 2026 |
+| _<span translate="no">Loop and Learn</span>_: Informal Discussion<br>`Open Mic` on 4th Saturday<br>[Zoom](https://zoom.us/j/99366922798?pwd=sTOc5JdKLGgLlmKYxX23dabiRM8Gk2.1) | no | 22:00 UTC | 28 November 2026 |
 
 #### Permanent Link to Join
 
@@ -54,197 +44,266 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 
 - - -
 
-## Fundraising Update
-
-Together, we’ve raised $61,956 toward our $75,000 goal to fully fund Hackdiabetes 2026!
-
-We’re getting closer, but we still need $13,044 to reach our goal. If you haven’t had a chance to contribute yet, please consider making a small donation. Every little bit helps!
-
-These funds will bring our developers and volunteers together to brainstorm, collaborate, and explore new ideas, devices, and strategies to improve life with diabetes.
-
-Thank you for being part of this incredible community and helping make Hackdiabetes 2026 happen.
-
-* [Donate to HackDiabetes 2026 Link](https://donate.hackdiabetes.io)
-
-- - -
-
-## A Note From the Developers
-
-Thank you to the community members who have loaned out new CGM and Pump devices to developers! They are actively working on identifying whether it's possible to add more pumps and CGMs to Trio, Loop, and AAPS, thanks in part to your support. #WeAreNotWaiting and #WeAreNotStopping until as many CGMs and pumps as possible can work with open source AID!
-
-- - -
-
-## Apple Developer
-
-It’s time to sign a new Apple Developer agreement. Please be sure to sign it by **13 November** to maintain your ability to build, update, and use remote commands!  
-
-- - -
-
-## Omnipod Issues
-
-We've had a flurry of changes to the way we connect to Pods through Bluetooth.
-
-* The pros:
-	* Significant improvements in 203 fault frequency (for most)
-	* Improved speed for connection for iPhone 16/17e users of `Atlas DASH Pods`
-* The cons:
-	* Devs moved pretty fast through a couple of major code changes
-	* We thought we needed to keep iPhone 16/17e users of `Atlas DASH Pods` connected in the background but it turns out that increases 203 frequency and is not necessary
-* The status:
-	* As of Loop v3.14.9 and Trio 1.0.2 there are some outstanding Omnipod issues
-	* These have been figured out, and the fixes will be released soon (be patient, please)
-		* If you can't reach the pod to Deactivate - you have to wait 4 minutes for the app to give up and offer you the option to Discard the pod - another exercise in patience
-		* If you acknowledge an alert and the pod communication did not work, the pod might keep beeping (work-around is to enable and then disable Silent Pod)
-		* If you are using an iPhone 16/17e with `Atlas DASH Pods` - the current release (Loop v3.14.9; Trio v1.0.2) unfortunately increases the 203 fault frequency back to what it used to be
-			* An older version can be used that returns to the slower Bluetooth connection (requires `Pod Keep Alive`) but with reduced 203 frequency - until the new version is released, you can't have both reduced 203 and faster connection
-			* Loop users can go back to v3.14.7 temporarily or try Loop dev branch until we get these updates released
-			* Trio users can go back to v1.0 temporarily; it will land in `dev` before it is released
-
-- - -
-
-## Loop v3.14.9
-
-> Loop v3.14.9 was released on 05 October 2026.
-
-This release is recommended for all Loopers (except those who are on next-dev or those running iPhone 16/17e with Atlas Pods).
-
-There are important fixes that you can only get if you rebuild. (These important fixes are ported to next-dev, so if you are testing that branch, be sure to update and rebuild soon.)
-
-Please read about this in [LoopDocs](https://loopkit.github.io/loopdocs/version/releases/#loop-v3149).
-
-For anyone struggling to build, help is available on Facebook. Please provide your GitHub username or URL so that we can take a look at your build logs.
-
-If you've been using Loop-dev, you should first go to your Loopworkspace repository, click on Settings, and change the Default Branch to main by clicking the opposing arrows. Loop-main users can skip this step.
-
-- - -
-
-## New Customization for the *Loop* app: CGM Sensor Notes
-
-Your Nightscout chart can now show sensor statuses for Dexcom G6/G7 if you apply this new customization to the *Loop* app.
-The next time there's no CGM data, you can quickly verify if there is a temporary sensor issue for example.
-
-More info: [CGM Sensor Notes](https://www.loopandlearn.org/custom-code/#cgm-sensor-notes)
-
-This feature was added to the *Loop* `next-dev` branch based on this customization. It is extended to more sensors than just Dexcom. The `next-dev` branch is undergoing rapid updates, so best to leave it for experts to test.
-
-- - -
-
-## Xcode to TestFlight
-
-There is a new lnl-scripts feature for Xcode builders to upload to TestFlight for remote backup or installation to remote family members' phones. This TestFlight upload is a feature offered for all the build scripts and for the Customization script.
-
-Please read the new information in [LoopDoc: Use Scripts to Upload to TestFlight](https://loopkit.github.io/loopdocs/build/testflight-xcode/#use-scripts-to-upload-to-testflight).
-
-- - -
-
-## Trio v1.0.2
-
-Trio v1.0.2 was released on 7 October 2026.
-
-This release includes a large array of improvements and fixes. 
-
-A few of the new features include:
-
-* Improved not-looping alerts: Notifications now escalate gradually, from reminders every 20 minutes to a critical alarm at 120 minutes
-* Updated Libre 3/3+ support: More reliable sensor pairing, with better protection against pairing the wrong nearby sensor
-* Improved pump support: Fixes for Omnipod pairing in households with multiple pod users, `Medtrum patch` handling, and Dana pump behavior
-* Eversense improvements: Fixes for interrupted readings, transmitter reconnection, background uploads, and alarms
-* Better sensor status information: Accu-Chek SmartGuide and Eversense warm-up and expiration status now appear on the Home screen
-* More accurate Home screen information: Corrected basal-rate displays, including canceled temporary basals and suspended insulin delivery
-* Usability and stability fixes: Fixes for crashes involving Override presets, bolus-entry scrolling, and several display issues
-* Improved sensor data reporting: Calibrations are recorded as manual fingersticks, and an optional setting lets Dexcom G6/G7 sensor errors be reported to Nightscout
-* Updated translations across Trio and its device drivers
-
-
-**Important upgrade note:**
-
-*  If you're using Libre 3 or Libre 3+, you must pair your existing sensor again after updating. 
-* Until you do, Trio won't receive glucose readings and cannot loop. 
-* You do not need to replace the sensor.
-
-[See the full Release Notes here.](https://github.com/nightscout/Trio/releases/tag/v1.0.2)
-
-[Link to new video w/ Justin Eastzer](https://youtu.be/HChqT4v5n-A?si=8dMk62ulZ5a_suFP)
+29 Oct. 2026 News from Loop and Learn					Prep Sheet
 
 
 - - -
 
-## LoopFollow for Older Devices
+## It’s Time for a Change
 
-Do you have an older iPhone or iPad not supported by the most recent updates of LoopFollow? 
+Standard Time began last Sunday, 25 October, for Europe and begins this Sunday, 1 November, for the US.
+Be sure to use your app to [update the clock on your pump](https://loopkit.github.io/loopdocs/loop-3/displays-v3/#time-zone) at your convenience. Keep your phone on automatic time.
 
-The feature branch `legacy-ios16` was created for anyone who wants to build v6.2.0 for "legacy" devices.
+Loop Users: your basal, carb ratio and insulin sensitivity schedules match your Pump Time
 
-Here’s help building a feature branch!
-In less than 4 minutes, [this video](https://drive.google.com/file/d/1Mxv2uQVOj3191TqgdlfbgTFkUqpHmqdB/view) shows you how easy it is for Browser Builders to build a feature branch. 
+* You can choose when to update your Pump Time
+* Loop Therapy schedules are aligned with Pump Time, not Phone Time
 
-* The LoopWorkspace Eversense branch is built in this video, but these same steps can help you build branches of LoopFollow, Trio, or xDrip4iOS.
+Trio Users: your basal, carb ratio and insulin sensitivity schedules match your Phone Time
 
-To make it easier to add the new branch to your copy of LoopFollow, use two browser tabs - one with the [LoopFollow](https://github.com/loopandlearn/LoopFollow/) repository and a second with your copy of this repository.
-
-This is explained in detail in [LoopDocs](https://loopkit.github.io/loopdocs/version/development/#how-to-build-feature-branches). 
-
-- - -
-
-## main or dev
-
-When you build Loop, Trio, LoopFollow, or any of the other open-source apps, you are given a choice of building the “main” or “dev” branch (and, depending on the app, potentially other branches). Historically, the dev branch has been used by app developers and testers to develop and test changes to the code, while the main branch is generally used by the wider community.
-
-In some cases, such as when there are a lot of updates to Loop before any are released to main, the community at large is encouraged to use the dev branch. Then, when those updates are pushed to main, we are told to build and use that branch until advised otherwise. 
-
-Most of the time, only people who are willing to stay informed and rebuild frequently, or at a moment’s notice, should use dev.
-
-If you use one of these apps, please make a point of staying informed about updates and recommendations about which branch to use. Only use the dev branch when advised to do so. Remember, OS-AID is always evolving, and staying informed is important for safety.
-Facebook (Loop and Learn and Trio) is the best place to get support for main versions, and dev information can be found there, too. For dev versions, especially open beta testing, Discord or ZulipChat are the best places to go.
-
-- - -
-
-## Data Sharing in Our Apps
-
-Sharing diagnostic data with developers can help them identify, understand, and fix problems faster. This information may include crash reports, error logs, or details about how the app is behaving. It can help developers spot patterns, reproduce bugs, and determine whether a problem affects one user or many. Within our OS-AID suite of apps, information is shared anonymously and does not include personal or health data.
-
-Sharing diagnostic data is especially valuable when an app is changing frequently and developers may not be able to reproduce every issue on their own- exactly the situation we, as OS-AID users, are in. The information you share can help make the app more reliable for you and the wider community. Please take a moment to ensure you are doing your part by enabling full sharing of usage data.
+* You should update your Pump Time right away
+* Trio Therapy schedules are aligned with Phone Time, so you want the pump to match what Trio is using
 
 
 - - -
 
-## Protecting Your Phone Is Part of OS-AID Safety
+## It’s Also Time for Some Treats 
 
-Our phones are essential to managing and monitoring our open-source automated insulin delivery (OS-AID) systems. They provide access to glucose data, system controls, and other sensitive information. Protecting access to our phones and related accounts is an important part of OS-AID safety.
+Thanks to our friends at Children with Diabetes for this great [Halloween candy helper](https://childrenwithdiabetes.com/wp-content/uploads/CWDHalloweenCarbs_2023.pdf)!
 
-Here are a few steps you can take to improve your security:
 
-* Lock your phone. Use a strong passcode, ideally six or more digits or an alphanumeric passcode. Enable Face ID or fingerprint recognition if available, and set your phone to lock automatically after a short period of inactivity.
-* Keep your phone updated. Install operating system and security updates promptly.
-	* When you aren't ready to make a major change, like upgrade to iOS 27, there are still updates offered to iOS 26.6
-	* You can accept those security fixes without accepting iOS 27
-* Enable two-factor authentication (2FA). Turn it on for online accounts you use with OS-AID wherever it is available, including GitHub and your Apple Account if you use Apple Developer or TestFlight.
-* Use unique passwords. Don't reuse passwords across accounts. A reputable password manager can help you keep track of them.
-* Protect access to your phone number and email. These may be used to recover your accounts. Secure your email account with a strong, unique password and 2FA, and know how to recover your accounts if your phone is lost.
-* Be cautious with links and requests for codes. Don't follow unexpected login links or share verification codes with anyone. Even if you get a link from a known person, if it has no context, check to be sure they really sent it and haven’t been hacked. Legitimate support personnel should not need you to disclose your authentication codes.
-
-No security measure can eliminate every risk, but these steps can make it harder for someone to gain unauthorized access to your phone, accounts, and the diabetes technology you rely on.
+Are you new to Halloween with diabetes? Looping helps so much! Don’t forget to prebolus and give leeway for some highs. Take notes on timing and what works, and enjoy! And remember you many need to account for increased activity when bolusing!
 
 - - -
 
-## Dexcom G7 Covers
+## Version Updates
 
 
-A 13-year old looper made his own G7 sensor covers to avoid compression lows- and [he shared the code](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4550366498553152) with us! Some of our friends in the LnL FB group have 3D-printed their own and benefitted, too!
+### Loop v3.14.11
+
+
+Loop v3.14.11 was released on 24 October 2026.
+
+
+There are important fixes for Omnipod users and Eversense users. Please switch to the main branch (if you are not already using that) and update your build.
+
+
+See [LoopDocs](https://loopkit.github.io/loopdocs/version/releases/#loop-v31411) for more details.
+
+
+**WARNING** The next change to `dev` branch will be to update it to what we have been testing with n`ext-dev` branch. Please set `main` branch as your default branch unless you want to test what will soon be Loop version 4.
+
+
+The new version (`next-dev` and soon-to-be `dev` branch) contains a lot of differences in the user interface plus some functional changes. Want a sneak-peek?
+
+* [Loop DIY - What's New](https://github.com/LoopKit/LoopWorkspace/blob/next-dev/docs/loop-diy-whats-new.md)
+
+- - -
+
+### iOS 27..2
+
+It's time.  Apple released iOS 27.2 and it's fine to install. Be sure to update while you are awake to make sure all the apps you need restart after the upgraded.
+
+- - -
+
+### AAPS Users
+
+The Browser Build is now easier than ever!
+
+Now is a great time to test it, whether to prepare for the AAPS 4.0 release or to have a previous version ready for the long term before your current version expires. With your current system working, you can troubleshoot at your own pace without pressure.
+
+Please try it and share feedback to help ensure the documentation is clear for everyone.
+
+**Important:** If updating your existing version, reuse your current key. Updating an existing version isn't part of this test, but keep this in mind for later.
+More great news: Omnipod 5 support is now available in the [`o5` branch of the AndroidAPS](https://github.com/nightscout/AndroidAPS/tree/o5) repo!
+
+- - -
+
+## Apple Developer REMINDER
+
+Sign a new Apple Developer agreement by 13 November to maintain your ability to build, update, and use remote commands!  
+
+- - -
+
+## Dexcom Privacy Policy Concerns
+
+We're sure that by now, US (and some Canadian) Dexcom G7 users have seen the warning in their Dexcom app that they need to accept Dexcom's new terms and conditions or lose access to their CGM. There are lots of interesting (not in a good way) features. Here are a few that you need to know about:
+
+1. Mandatory Arbitration
+2. Class Action Waivers
+3. Invasive data harvesting
+
+
+### How to Opt Out of the Mandatory Arbitration Clause
+
+You do not have to stop using your CGM or delete the app to preserve your rights. Dexcom allows a 30-day window to opt out of the mandatory arbitration clause. But you cannot opt-out of their data privacy provisions. 
+
+* You must accept the terms to clear the screen and regain access to your readings.
+* Within 30 days, email Dexcom's legal department at Dexcomlegal@dexcom.com (or stelolegal@dexcom.com if you are a Stelo user) and include:
+	* Your full legal name
+	* Your complete physical mailing address
+	* An explicit declaration stating that you do not wish to resolve disputes with Dexcom through binding arbitration (and/or class action waivers)
+
+#### The Good News:
+
+Both Loop and Trio are moving toward a direct use of Dexcom. Dexcom Direct will offer these advantages:
+
+* Better reliability
+* Backfill
+* Predictive low alerts that include the effects of insulin
+* Fewer apps to manage. No reporting to Dexcom (some people are concerned about recent Dexcom EULA updates that require acceptance of them tracking more information)
+* Better tracking of sensor serial number for reporting; the serial number of your failed sensor is still available when your new sensor is paired
+
+#### Drawbacks of the Direct G7 App:
+
+* No reporting to Clarity
+* Buggy reporting to Dexcom Follow
+
+
+#### Parents, please take note:
+
+* If your child uses the G7 and manages their own CGM, they may have accepted the terms without realizing the implications. It is worth checking whether they accepted the agreement and when. 
+* If they did so within the past 30 days, you may still have time to submit an opt-out request on their behalf. 
+* Even if the 30-day window has passed, if your child was a minor when they accepted the terms, you should consider sending a written opt-out notice to Dexcom anyway, explaining that the agreement was accepted by a minor.
+
+### More Information
+
+* [This video is a must-watch!](https://www.instagram.com/reel/Defxi99tGSC)
+* [Dexcom Privacy Notice](https://www.dexcom.com/legal/privacy-policy)
+
+- - -
+
+## Trio Tips
+
+Here's a useful tip for adjusting the suggested bolus in the bolus calculator more quickly.
+
+If the suggested bolus is 4.50 but you want to use 4.80 instead, do the following:
+
+Tap the suggested bolus first,
+Press 0 on the numeric keypad,
+
+* This moves the cursor all the way to the right more quickly than if you were to long-press the cursor and then move it to the right,
+* Press Delete twice to remove 50,
+* Tap 80.
+  
+- - -
+
+## Nightscout Release
+
+The [Cinnamon Muffin Nightscout release, v15.0.9](https://github.com/nightscout/cgm-remote-monitor/releases/tag/15.0.9), came out on 21 October.
+
+The method you use to update to this version depends on how you get your Nightscout.
+
+This release focuses on security, reliability and everyday improvements, including:
+
+* Important security fixes
+* Better treatment syncing with AndroidAPS and more accurate insulin-on-board and carbs-on-board calculations
+* Fixes for several alarms, including mmol/L low thresholds and pump-suspended warnings
+* A new 48-hour chart option and treatment reports you can filter by event type
+* Improved CGM connector reliability and server stability
+
+A big thank you to everyone who contributed code, testing, and bug reports!
+
+**Note:**
+
+* This release is available for users of Nightscout Pro
+* This release is not yet available in Google Cloud Nightscout. See [CGM in the Cloud Facebook group](https://www.facebook.com/groups/cgminthecloud/) for updates. 
+
+- - -
+
+## Keeping Nightscout Private
+
+To turn off unauthorized access:
+
+* set the AUTH_DEFAULT_ROLES variable value to “denied”
+* [Require a token to access the Nightscout site](https://nightscout.github.io/nightscout/admin_tools/)
+
+The great thing about usng a token is you can revoke the token to remove access. Use one token per person or group of people for better security.
+
+Remember: Never give anyone your personal link (including your admin token) to your Nightscout site or share your API_SECRET. Be very careful if you share a token with admin access.
+
+- - -
+
+## Loop and Learn’s OS-AID-Friendly Healthcare Provider (HCP) Resource
+
+This resource has been growing for over four years now and contains recommendations for over 400 providers from around the world, and it’s still growing!
+
+Here’s a great comment about one of our listed OS-AID-friendly HCPs: "Head of the USF Diabetes department. Very supportive and thorough doctor. He is not fully knowledgeable about the specifics of Loop, but has endorsed us using it. He also petitioned Florida Diabetes Camp to allow campers to loop (he is their medical director), so my daughters have looped every summer at camp."
+
+Now, THAT is supportive!
+
+Thank you to all who have contributed to our great resource- keep the recommendations coming!
+
+- - -
+
+## Using Afrezza with Your OS-AID
+
+Have you tried Afrezza inhalable insulin? 
+
+
+
+- - -
+
+## Trio Developer Takes the Stage at EASD’s First AI Workshop
+
+Trio developer Deniz “Dan” Cengiz was invited to speak at the first-ever AI workshop for members of the European Association for the Study of Diabetes (EASD), alongside fellow OS-AID contributor Tim Street. Their session, “Artificial Intelligence, Carb Counting & Insulin Dosing: A Practical Guide for Clinicians and Researchers,” focused on practical applications of AI, cutting through the hype to offer useful takeaways for clinicians and researchers.
+Dan also stepped in for Prof. Dr. Katarina Braune to deliver a TED-style talk, “Agentic AI and Digital Twins: Autonomous Systems in Diabetes Management,” sharing the arena stage with Dr. Amit Kumar Dey.
+The EASD workshop brought together around 40 participants for discussions on AI in research and clinical practice, policy and regulation, and digital twins. The program opened with remarks from International Diabetes Federation (IDF) President Peter Schwarz, followed by sessions including an interactive presentation on AI in research and practice by Lukas Schuster. Deniz was joined by Nightscout Foundation’s Theresa Hastings for a meeting with Silvia Bertin, a veterinary medicine PhD student who is studying OS-AID use, including Trio and Nightscout, on cats at the University of Padua in Italy.
+Beyond the workshop, Deniz met with diabetes device manufacturers, networked with clinical organizations, and attended the INNODIA gala, where he connected with Loop and Learn’s Miroslava Calegari. These activities provided valuable opportunities to build relationships and exchange ideas with others across the diabetes community.
+
+- - -
+
+## Well-Deserved Love for Open Mics
+
+
+“I just want to say a big THANK YOU for doing the Open Mic session last Sat eve.
+There were many hidden gems of info, and you were so patient in answering our questions.
+Fellow Trioneers: if you are struggling with settings, as many of us are, I would highly recommend you hop on an Open Mic session. The learned people behind TRIO give of their time to help US….!
+PS: The Sat eve time is great for those of us on CET time or similar - Thanks a mil for thinking of our time clock!!!!!”
+
+- - -
+
+## A Meeting of the Minds
+
+
+Four of Open Source looping’s great contributors met up in California for dinner recently. Marion Barker, Joe Moran, James Woglom (who was visiting on business) and Rayhan Lal had the opportunity to dine and discuss current topics in OS-AID.
+
+Photo captions:
+James loops with Trio and Mobi. Joe with Loop ,next-dev and Eversense 365
+Rayhan and Marion
+Rayhan, Marion, James and Joe
+
+
+
+- - -
+
+## Yusuf’s Story  {Loopers Doing Awesome Things}
+
+
+I am a software developer for the Istanbul Technical University Robotics Search and Rescue Team (ITU RAKE), and I have also been living with Type 1 diabetes for 6 years. Recently, at the prestigious Intelligent Ground Vehicle Competition (IGVC) held in Detroit, Michigan, USA, our team achieved second place in the world among 28 competing teams with our autonomous vehicle, “Ayaz”. As a software developer, my role was to ensure that Ayaz successfully navigated complex obstacles and reached its target using artificial intelligence and autonomous algorithms.
+
+
+Yet, in the background, amidst the immense stress and adrenaline rush of the competition, I also had to manage my own biological algorithm: my blood sugar. Just as our vehicle processed data from its Lidar and camera sensors in fractions of a second to stay on track, I managed to stay on my own track thanks to technology and open-source (DIY) diabetes management tools. This global achievement in the US has become the most concrete proof for me that Type 1 diabetes is never a barrier to reaching high-performance engineering goals and dreams.
+
+- - -
+
+## Articles to add (hopefully):
+
+
+T1Dto100 GO Bag post with linked, editable packing list 
+Travel
+
+
+
 
 - - -
 
 ## FaceBook Q&A
 
-* [What backup phone do you have?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4493977797525356)
-* [Trio DIA vs Custom Peak](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=2241302009936975)
-* [Helping our kids manage insulin and alcohol](https://www.facebook.com/groups/LOOPandLEARN/permalink/4549029682020167/?rdid=3plUC2nFROZnoDYU#)
-* [Cute Loop (making own customizations)](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4549361905320278)
-* [Getting married while {not} looping](https://www.facebook.com/groups/diytrio/permalink/2246532846080558)
-* [Insulin stopped working](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=2253167565417086)
-* [Will this sensor work with Omnipod 5?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4569310446658757)
-* [Did my remote input actually input?](https://www.facebook.com/groups/2161109864145506/?multi_permalinks=4570736876516114)
-* [Advice for where to start with fine tuning my settings to get to a point where I don't have to announce carbs in Trio?](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=2272989576768218)
+* [Experience with Libre 3+ and Trio?](https://www.facebook.com/groups/diytrio/posts/2247059989361177/)
+* [What might the future look like for OS-AID?](https://www.facebook.com/groups/1558147697576040/?multi_permalinks=28994810956816344)
+* [Saturday Open Mic!](https://www.facebook.com/groups/1351938092206709/?multi_permalinks=2286104398790069)
+
 
 - - -
 
