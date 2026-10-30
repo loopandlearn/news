@@ -9,7 +9,22 @@ Published on 29 October 2026
 ## In this edition:
 
 * [Upcoming Open Mics](#upcoming-open-mics)
-
+* [It’s Time for a Change](#its-time-for-a-change)
+* [It’s Also Time for Some Treats](#its-also-time-for-some-treats)
+* [Loop v3.14.11](#loop-v31411)
+* [iOS 27..2](#ios-272)
+* [AAPS Users](#aaps-users)
+* [Apple Developer REMINDER](#apple-developer-reminder)
+* [Dexcom Privacy Policy Concerns](#dexcom-privacy-policy-concerns)
+	* [How to Opt Out of the Mandatory Arbitration Clause](#how-to-opt-out-of-the-mandatory-arbitration-clause)
+	* [More Information](#more-information)
+* [Trio Tips](#trio-tips)
+* [Nightscout Release](#nightscout-release)
+* [Keeping Nightscout Private](#keeping-nightscout-private)
+* [Loop and Learn’s OS-AID-Friendly Healthcare Provider (HCP) Resource](#loop-and-learns-os-aid-friendly-healthcare-provider-hcp-resource)
+* [Using Afrezza with Your OS-AID](#using-afrezza-with-your-os-aid)
+* [Trio Developer at EASD’s First AI Workshop](#trio-developer-at-easds-first-ai-workshop)
+* [A Meeting of the Minds](#a-meeting-of-the-minds)
 * [FaceBook Q&A](#facebook-qa)
 * [Helpful Links](#helpful-links)
 
@@ -76,23 +91,15 @@ Are you new to Halloween with diabetes? Looping helps so much! Don’t forget to
 
 - - -
 
-## Version Updates
-
-
-### Loop v3.14.11
-
+## Loop v3.14.11
 
 Loop v3.14.11 was released on 24 October 2026.
 
-
 There are important fixes for Omnipod users and Eversense users. Please switch to the main branch (if you are not already using that) and update your build.
-
 
 See [LoopDocs](https://loopkit.github.io/loopdocs/version/releases/#loop-v31411) for more details.
 
-
 **WARNING** The next change to `dev` branch will be to update it to what we have been testing with n`ext-dev` branch. Please set `main` branch as your default branch unless you want to test what will soon be Loop version 4.
-
 
 The new version (`next-dev` and soon-to-be `dev` branch) contains a lot of differences in the user interface plus some functional changes. Want a sneak-peek?
 
@@ -100,13 +107,13 @@ The new version (`next-dev` and soon-to-be `dev` branch) contains a lot of diffe
 
 - - -
 
-### iOS 27..2
+## iOS 27..2
 
 It's time.  Apple released iOS 27.2 and it's fine to install. Be sure to update while you are awake to make sure all the apps you need restart after the upgraded.
 
 - - -
 
-### AAPS Users
+## AAPS Users
 
 The Browser Build is now easier than ever!
 
@@ -239,8 +246,6 @@ Thank you to all who have contributed to our great resource- keep the recommenda
 ## Using Afrezza with Your OS-AID
 
 Have you tried Afrezza inhalable insulin? 
-
-
 
 - - -
 
