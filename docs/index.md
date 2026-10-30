@@ -65,13 +65,13 @@ Be sure to use your app to [update the clock on your pump](https://loopkit.githu
 
 Loop Users: your basal, carb ratio and insulin sensitivity schedules match your Pump Time
 
-* You can choose when to update your Pump Time
-* Loop Therapy schedules are aligned with Pump Time, not Phone Time
+* You can choose when to update your `Pump Time`
+* Loop Therapy schedules are aligned with `Pump Time`, not `Phone Time`
 
-Trio Users: your basal, carb ratio and insulin sensitivity schedules match your Phone Time
+Trio Users: your basal, carb ratio and insulin sensitivity schedules match your `Phone Time`
 
-* You should update your Pump Time right away
-* Trio Therapy schedules are aligned with Phone Time, so you want the pump to match what Trio is using
+* You should update your `Pump Time` right away
+* Trio Therapy schedules are aligned with `Phone Time`, so you want the pump to match what Trio is using
 
 
 - - -
