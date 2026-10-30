@@ -63,6 +63,8 @@ Need help figuring out when an event happens in your time zone? Try the [SavvyTi
 Standard Time began last Sunday, 25 October, for Europe and begins this Sunday, 1 November, for the US.
 Be sure to use your app to [update the clock on your pump](https://loopkit.github.io/loopdocs/loop-3/displays-v3/#time-zone) at your convenience. Keep your phone on automatic time.
 
+When your phone updates to the new time, internal schedules in your pump are not update to the new time. You choose when you want this to happen.
+
 Loop Users: your basal, carb ratio and insulin sensitivity schedules match your Pump Time
 
 * You can choose when to update your `Pump Time`
